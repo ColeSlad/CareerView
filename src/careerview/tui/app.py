@@ -33,8 +33,8 @@ def _relative_time(ts: int | None, now: int) -> str:
     return f"{delta // (86400 * 365)}y ago"
 
 
-def _is_recent(first_seen: int | None, now: int, window: int = 48 * 3600) -> bool:
-    return bool(first_seen and (now - first_seen) <= window)
+def _truncate(text: str, length: int = 20) -> str:
+    return text if len(text) <= length else text[: length - 1] + "…"
 
 
 class CareerViewApp(App):
@@ -84,7 +84,7 @@ class CareerViewApp(App):
         self.statuses = status_store.load_all(self.db)
 
         table = self.query_one(DataTable)
-        table.add_columns("Posted", "Status", "New", "Company", "Role", "Location", "Term", "Source")
+        table.add_columns("Posted", "Status", "Company", "Role", "Term", "Location", "Source")
         self.refresh_table()
         table.focus()
 
@@ -132,15 +132,13 @@ class CareerViewApp(App):
             listing = self.listings[uid]
             record = self.statuses.get(uid)
             status_label = (record.status if record else "new").capitalize()
-            new_badge = "NEW" if _is_recent(listing.first_seen, now) else ""
             table.add_row(
                 _relative_time(listing.date_posted, now),
                 status_label,
-                new_badge,
                 listing.company,
                 listing.title,
+                _truncate(", ".join(listing.terms) or "-"),
                 ", ".join(listing.locations) or "?",
-                ", ".join(listing.terms) or "-",
                 listing.source,
                 key=uid,
             )
