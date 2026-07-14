@@ -19,6 +19,9 @@ def _is_us_or_remote(location: str) -> bool:
         return True
     if "united states" in loc or "usa" in loc or loc.strip() == "us":
         return True
+    if re.search(r"\bcounty\s*$", loc):
+        return True  # Adzuna formats US locations as "City, X County" (ending in "county",
+        # unlike e.g. "Madawaska County, NB, Canada" which ends with the country name)
     match = re.search(r",\s*([a-zA-Z]{2})$", location.strip())
     return bool(match and match.group(1).upper() in _US_STATE_ABBR)
 
