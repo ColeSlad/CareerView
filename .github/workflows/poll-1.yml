@@ -11,5 +11,7 @@ concurrency:
 
 jobs:
   poll:
+    permissions:
+      contents: write
     uses: ./.github/workflows/_poll-run.yml
     secrets: inherit
