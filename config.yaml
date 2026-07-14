@@ -1,0 +1,32 @@
+simplify:
+  repo: SimplifyJobs/Summer2026-Internships
+  branch: dev
+
+relevance:
+  # Left empty on purpose: `active` (curated by the source) is the real signal for
+  # "still open" and doesn't go stale every season the way a hardcoded term would.
+  # Set e.g. ["Summer 2027"] here only if you want to narrow to one specific cycle.
+  terms: []
+  categories:
+    - "Software"
+  locations_mode: us_remote   # us_remote | all
+  include_title_keywords:
+    - intern
+    - co-op
+    - coop
+  exclude_title_keywords:
+    - senior
+    - staff
+    - principal
+    - lead
+    - manager
+    - director
+
+adzuna:
+  country: us
+  keywords: "software engineering intern"
+  locations:
+    - "United States"
+
+poll:
+  cadence_minutes: 15
