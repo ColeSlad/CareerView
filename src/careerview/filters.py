@@ -26,7 +26,7 @@ def _is_us_or_remote(location: str) -> bool:
     return bool(match and match.group(1).upper() in _US_STATE_ABBR)
 
 
-def _locations_pass(listing: Listing, mode: str) -> bool:
+def locations_pass(listing: Listing, mode: str) -> bool:
     if mode == "all":
         return True
     if not listing.locations:
@@ -65,4 +65,4 @@ def is_relevant(listing: Listing, relevance: RelevanceConfig) -> bool:
     if not title_matches(listing.title, relevance.include_title_keywords, relevance.exclude_title_keywords):
         return False
 
-    return _locations_pass(listing, relevance.locations_mode)
+    return locations_pass(listing, relevance.locations_mode)

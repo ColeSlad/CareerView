@@ -116,8 +116,10 @@ def main() -> None:
     args = parser.parse_args()
 
     if not getattr(args, "command", None):
-        parser.print_help()
-        sys.exit(1)
+        from careerview.tui.app import run as run_tui
+
+        run_tui()
+        return
 
     sys.exit(args.func(args))
 
