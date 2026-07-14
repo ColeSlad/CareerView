@@ -4,7 +4,7 @@ import argparse
 import os
 import sys
 
-from careerview import store
+from careerview import notify, store
 from careerview.config import Config, load_config
 from careerview.filters import is_relevant
 from careerview.poller import run_poll
@@ -65,6 +65,7 @@ def cmd_poll(args: argparse.Namespace) -> int:
 
     if result.is_first_run:
         print(f"First run: seeding {len(result.all_listings)} listings as already-seen (no email)")
+        relevant_new = []
     else:
         relevant_new = [listing for listing in result.new_listings if is_relevant(listing, config.relevance)]
         print(f"New listings this run: {len(result.new_listings)} (relevant: {len(relevant_new)})")
@@ -72,10 +73,28 @@ def cmd_poll(args: argparse.Namespace) -> int:
 
     if args.dry_run:
         print("\n(dry run — nothing written, no email sent)")
-    else:
-        store.save_listings(result.all_listings)
-        store.save_meta({"last_run": store.now_ts(), "fetched_count": result.fetched_count})
-        print(f"\nWrote {len(result.all_listings)} listings to data/listings.json")
+        return 0
+
+    if args.email and relevant_new:
+        smtp_user = os.environ.get("GMAIL_ADDRESS")
+        smtp_password = os.environ.get("GMAIL_APP_PASSWORD")
+        to_addr = os.environ.get("NOTIFY_TO")
+        if not (smtp_user and smtp_password and to_addr):
+            print(
+                "\nerror: --email requires GMAIL_ADDRESS, GMAIL_APP_PASSWORD, NOTIFY_TO to be set",
+                file=sys.stderr,
+            )
+            return 1
+        notify.send_digest(relevant_new, smtp_user=smtp_user, smtp_password=smtp_password, to_addr=to_addr)
+        print(f"\nSent digest email for {len(relevant_new)} listing(s) to {to_addr}")
+        for listing in relevant_new:
+            result.all_listings[listing.uid].emailed = True
+    elif args.email:
+        print("\n(--email set but nothing relevant to send)")
+
+    store.save_listings(result.all_listings)
+    store.save_meta({"last_run": store.now_ts(), "fetched_count": result.fetched_count})
+    print(f"Wrote {len(result.all_listings)} listings to data/listings.json")
 
     return 0
 
@@ -86,6 +105,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     poll = subparsers.add_parser("poll", help="Fetch sources and show relevant listings")
     poll.add_argument("--dry-run", action="store_true", help="Fetch and print without writing state or emailing")
+    poll.add_argument("--email", action="store_true", help="Email a digest of newly-found relevant listings")
     poll.set_defaults(func=cmd_poll)
 
     return parser
