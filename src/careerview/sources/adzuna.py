@@ -41,6 +41,7 @@ class AdzunaSource(Source):
             "app_key": self.app_key,
             "what": self.keywords,
             "results_per_page": self.results_per_page,
+            "sort_by": "date",
             "content-type": "application/json",
         }
         if self.locations:
