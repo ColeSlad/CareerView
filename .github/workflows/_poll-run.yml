@@ -1,14 +1,7 @@
-name: Poll internship listings
+name: Poll (reusable)
 
 "on":
-  schedule:
-    # Off-peak minutes to dodge GitHub's top-of-hour scheduling delay.
-    - cron: "7,22,37,52 * * * *"
-  workflow_dispatch: {}
-
-concurrency:
-  group: careerview-poll
-  cancel-in-progress: false
+  workflow_call: {}
 
 permissions:
   contents: write
