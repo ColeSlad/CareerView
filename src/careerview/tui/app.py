@@ -84,7 +84,7 @@ class CareerViewApp(App):
         self.statuses = status_store.load_all(self.db)
 
         table = self.query_one(DataTable)
-        table.add_columns("Status", "New", "Company", "Role", "Location", "Term", "Posted", "Source")
+        table.add_columns("Posted", "Status", "New", "Company", "Role", "Location", "Term", "Source")
         self.refresh_table()
         table.focus()
 
@@ -134,13 +134,13 @@ class CareerViewApp(App):
             status_label = (record.status if record else "new").capitalize()
             new_badge = "NEW" if _is_recent(listing.first_seen, now) else ""
             table.add_row(
+                _relative_time(listing.date_posted, now),
                 status_label,
                 new_badge,
                 listing.company,
                 listing.title,
                 ", ".join(listing.locations) or "?",
                 ", ".join(listing.terms) or "-",
-                _relative_time(listing.date_posted, now),
                 listing.source,
                 key=uid,
             )
