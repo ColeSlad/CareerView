@@ -38,7 +38,13 @@ def run_poll(sources: list[Source], listings_path: Path | str = store.DEFAULT_LI
 
     fetched: list[Listing] = []
     for source in sources:
-        fetched.extend(source.fetch())
+        try:
+            source_listings = source.fetch()
+        except Exception as exc:
+            print(f"  warning: {source.name} fetch failed, skipping ({exc})")
+            continue
+        print(f"  {source.name}: {len(source_listings)} listings")
+        fetched.extend(source_listings)
     fetched = dedup(fetched)
 
     now = store.now_ts()

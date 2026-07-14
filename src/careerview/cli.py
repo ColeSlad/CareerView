@@ -1,13 +1,52 @@
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 
 from careerview import store
-from careerview.config import load_config
+from careerview.config import Config, load_config
 from careerview.filters import is_relevant
 from careerview.poller import run_poll
+from careerview.sources.adzuna import AdzunaSource
+from careerview.sources.ashby import AshbySource
+from careerview.sources.base import Source
+from careerview.sources.greenhouse import GreenhouseSource
+from careerview.sources.lever import LeverSource
 from careerview.sources.simplify import SimplifySource
+
+
+def _build_sources(config: Config) -> list[Source]:
+    sources: list[Source] = [SimplifySource(repo=config.simplify_repo, branch=config.simplify_branch)]
+
+    include_kw = config.relevance.include_title_keywords
+    exclude_kw = config.relevance.exclude_title_keywords
+
+    for slug, company_name in config.companies.get("greenhouse", {}).items():
+        sources.append(GreenhouseSource(slug, company_name, include_kw, exclude_kw))
+    for slug, company_name in config.companies.get("lever", {}).items():
+        sources.append(LeverSource(slug, company_name, include_kw, exclude_kw))
+    for slug, company_name in config.companies.get("ashby", {}).items():
+        sources.append(AshbySource(slug, company_name, include_kw, exclude_kw))
+
+    app_id = os.environ.get("ADZUNA_APP_ID")
+    app_key = os.environ.get("ADZUNA_APP_KEY")
+    if app_id and app_key:
+        sources.append(
+            AdzunaSource(
+                app_id=app_id,
+                app_key=app_key,
+                country=config.adzuna_country,
+                keywords=config.adzuna_keywords,
+                locations=config.adzuna_locations,
+                include_keywords=include_kw,
+                exclude_keywords=exclude_kw,
+            )
+        )
+    else:
+        print("(skipping Adzuna: ADZUNA_APP_ID / ADZUNA_APP_KEY not set)")
+
+    return sources
 
 
 def _print_listings(listings, heading: str) -> None:
@@ -19,7 +58,7 @@ def _print_listings(listings, heading: str) -> None:
 
 def cmd_poll(args: argparse.Namespace) -> int:
     config = load_config()
-    sources = [SimplifySource(repo=config.simplify_repo, branch=config.simplify_branch)]
+    sources = _build_sources(config)
 
     result = run_poll(sources)
     print(f"Fetched {result.fetched_count} listings from {len(sources)} source(s) after dedup")

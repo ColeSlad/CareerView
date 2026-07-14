@@ -31,6 +31,23 @@ def _locations_pass(listing: Listing, mode: str) -> bool:
     return any(_is_us_or_remote(loc) for loc in listing.locations)
 
 
+def _contains_word(text: str, keyword: str) -> bool:
+    """Word-boundary match so e.g. 'intern' doesn't false-positive on 'Internal'/
+    'International', and 'coop' doesn't match inside 'Cooperative'."""
+    return re.search(rf"\b{re.escape(keyword)}\b", text) is not None
+
+
+def title_matches(title: str, include_keywords: list[str], exclude_keywords: list[str]) -> bool:
+    """Shared intern-title heuristic, used both for post-fetch relevance and for ATS
+    adapters filtering a company's full job board down to internship-shaped titles."""
+    t = title.lower()
+    if exclude_keywords and any(_contains_word(t, kw) for kw in exclude_keywords):
+        return False
+    if include_keywords and not any(_contains_word(t, kw) for kw in include_keywords):
+        return False
+    return True
+
+
 def is_relevant(listing: Listing, relevance: RelevanceConfig) -> bool:
     if not listing.active:
         return False
@@ -42,10 +59,7 @@ def is_relevant(listing: Listing, relevance: RelevanceConfig) -> bool:
         if not set(listing.terms) & set(relevance.terms):
             return False
 
-    title = listing.title.lower()
-    if relevance.exclude_title_keywords and any(kw in title for kw in relevance.exclude_title_keywords):
-        return False
-    if relevance.include_title_keywords and not any(kw in title for kw in relevance.include_title_keywords):
+    if not title_matches(listing.title, relevance.include_title_keywords, relevance.exclude_title_keywords):
         return False
 
     return _locations_pass(listing, relevance.locations_mode)

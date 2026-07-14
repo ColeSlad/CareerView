@@ -1,9 +1,11 @@
-# ATS watchlist: company slugs as they appear in each provider's public job-board URL.
+# ATS watchlist: company slug (as it appears in the provider's public job-board URL)
+# mapped to a human-readable display name (Lever/Ashby don't return a company name
+# in their job payloads, so we supply it here).
 greenhouse:
-  - stripe
+  stripe: Stripe
 
 lever:
-  - palantir
+  palantir: Palantir
 
 ashby:
-  - openai
+  openai: OpenAI

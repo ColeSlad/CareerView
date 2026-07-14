@@ -12,6 +12,7 @@ relevance:
   locations_mode: us_remote   # us_remote | all
   include_title_keywords:
     - intern
+    - internship
     - co-op
     - coop
   exclude_title_keywords:
