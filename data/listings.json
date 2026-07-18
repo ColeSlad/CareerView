@@ -1,5 +1,775 @@
 [
   {
+    "uid": "pittcsc:ebd5c233-6524-417c-837f-a4402de2c217",
+    "source": "pittcsc",
+    "company": "Flagship Pioneering",
+    "title": "Data Science Intern/Co-op",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8203873002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664113,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:b892cd72-a393-48b4-8104-0d2f30989e9b",
+    "source": "simplify",
+    "company": "BlackRock",
+    "title": "Global Product Intern",
+    "category": "Product",
+    "locations": [
+      "Wilmington, DE"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784073600,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d764117b-558e-4561-8a4d-c8440e0e73d3",
+    "source": "pittcsc",
+    "company": "NBCUniversal",
+    "title": "Data Science & Analytics Internships - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092795436",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664838,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:cdb1294e-74ca-496d-8b2e-58dcbda9d67f",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Hardware Engineer 1 - Multiple Teams",
+    "category": "Hardware",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA",
+      "Carlsbad, CA",
+      "Allentown, PA",
+      "Research Triangle, Durham, NC",
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000113",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664397,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:caa05f8b-433a-4a38-83b6-e68d940462df",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Engineer Data/AI/Intelligent Systems PhD Intern",
+    "category": "Software",
+    "locations": [
+      "Boston, MA",
+      "Knoxville, TN",
+      "Milpitas, CA",
+      "Santa Monica, CA",
+      "Austin, TX",
+      "San Jose, CA",
+      "Fulton, MD",
+      "Dallas, TX",
+      "Hillsboro, OR",
+      "Alpharetta, GA",
+      "NYC",
+      "Acton, MA",
+      "Research Triangle, Durham, NC",
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2001487",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664391,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d2da749a-84bb-4e0f-a8bd-b7dfebc60ba7",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Hardware Engineer 2",
+    "category": "Hardware",
+    "locations": [
+      "Austin, TX",
+      "San Jose, CA",
+      "Research Triangle, Durham, NC"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000134",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664380,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:60c838f3-1547-4627-9f45-f76028962d36",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Product Management Specialist 1 - Intern",
+    "category": "Product",
+    "locations": [
+      "San Jose, CA",
+      "Research Triangle, Durham, NC"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000495",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664402,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4dae6ba7-9a7b-4938-b50e-1fed56ecd99e",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "ASIC Design Verification Engineer",
+    "category": "Hardware",
+    "locations": [
+      "Acton, MA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2001867",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664409,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
+    "category": "Software",
+    "locations": [
+      "Boston, MA",
+      "Knoxville, TN",
+      "Milpitas, CA",
+      "Austin, TX",
+      "San Jose, CA",
+      "Fulton, MD",
+      "Dallas, TX",
+      "Hillsboro, OR",
+      "Alpharetta, GA",
+      "NYC",
+      "Acton, MA",
+      "Portland, OR",
+      "Research Triangle, Durham, NC",
+      "Atlanta, GA",
+      "Richardson, TX"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2001254",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664378,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6d5ca0a8-4fc3-42f0-99bf-8c08c9bde640",
+    "source": "pittcsc",
+    "company": "Lightmatter",
+    "title": "API and Database",
+    "category": "Software",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/4988938008",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763663857,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ad268ad1-eb94-43eb-b46f-fd1fc44b7646",
+    "source": "pittcsc",
+    "company": "NinjaTrader",
+    "title": "Web Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://ninjatrader.com/careers/internships/?gh_jid=4613355006",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763665228,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fdfc7e6e-f0fa-4034-864e-8d94df06e826",
+    "source": "pittcsc",
+    "company": "AbbVie",
+    "title": "Product Development and Technology Intern - Science",
+    "category": "Product",
+    "locations": [
+      "Waukegan, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010081536",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664296,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e0ae2e2d-f58f-4959-aedd-99834d332128",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Engineer Embedded/Network Systems 1 - Intern",
+    "category": "Hardware",
+    "locations": [
+      "Boston, MA",
+      "Knoxville, TN",
+      "Milpitas, CA",
+      "Austin, TX",
+      "San Jose, CA",
+      "Fulton, MD",
+      "Dallas, TX",
+      "Hillsboro, OR",
+      "Alpharetta, GA",
+      "NYC",
+      "Acton, MA",
+      "Research Triangle, Durham, NC",
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000445",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664378,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4d95747d-598b-4ee2-a086-0d54745f3f38",
+    "source": "pittcsc",
+    "company": "Embrace",
+    "title": "Data Science Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://job-boards.greenhouse.io/embrace/jobs/5718369004",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763663777,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:951af77e-9827-46bb-b637-b21adf0f508d",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Developer 1 - Stagiaire - Canada / Software Developer I",
+    "category": "Software",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Calgary, AB, Canada",
+      "Kanata, Ottawa, ON, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000876",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664418,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6e891cb1-1cbd-4d19-a472-949beff3a81b",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Hardware Engineer 1",
+    "category": "Hardware",
+    "locations": [
+      "SF",
+      "San Jose, CA",
+      "Research Triangle, Durham, NC"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000041",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664391,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2fd15891-0544-48e5-b403-66a4fb97a86f",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "ASIC Design Verification Engineer 2",
+    "category": "Hardware",
+    "locations": [
+      "Acton, MA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2001068",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664411,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:eb132c10-e34b-4435-aa69-6e9004dead51",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Splunk Intern - Backend/Fullstack - Software Engineer I",
+    "category": "Software",
+    "locations": [
+      "Research Triangle, Durham, NC"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000124",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664399,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:eeaa479b-d6b5-44ce-a313-1686a0bb3a8d",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Engineer 1 - Intern",
+    "category": "Software",
+    "locations": [
+      "Boston, MA",
+      "Knoxville, TN",
+      "Milpitas, CA",
+      "Austin, TX",
+      "San Jose, CA",
+      "Fulton, MD",
+      "Dallas, TX",
+      "Hillsboro, OR",
+      "Alpharetta, GA",
+      "NYC",
+      "Acton, MA",
+      "Research Triangle, Durham, NC",
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000436",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664382,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:84ceee44-b8c2-4f31-b899-3b0f032cb124",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Splunk Intern - Frontend - Software Engineer 1",
+    "category": "Software",
+    "locations": [
+      "Research Triangle, Durham, NC"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000143",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664382,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6b59b325-c1e9-441c-a4f2-6e91f2193e91",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Splunk Intern - Backend/Fullstack - Software Engineer II",
+    "category": "Software",
+    "locations": [
+      "Research Triangle, Durham, NC"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000140",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664386,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:485fd000-1d0f-4e57-a04a-d65c9f4d8490",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Physical Design Engineer 1 \u2013 Co-op - United States",
+    "category": "Hardware",
+    "locations": [
+      "Acton, MA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2001521",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664406,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ef0156d7-cd4b-41aa-a147-889b36164aa7",
+    "source": "pittcsc",
+    "company": "Toyota Research Institute",
+    "title": "Human-Centered AI Intern - AI & Behavior Change",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.lever.co/tri/c8a9bf91-182e-4945-86d7-bbdf3b328afa/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664751,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:a43eeeea-c97a-4fd4-9706-07df16a9ed0e",
+    "source": "pittcsc",
+    "company": "RTX",
+    "title": "Systems Engineer Intern",
+    "category": "Hardware",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA320-El-Seg-So-Campus-Bldg-E01-2000-East-El-Segundo-Boulevard-Building-E01-El-Segundo-CA-90245-USA/XMLNAME-2026-Systems-Engineer-Intern---Onsite---El-Segundo--CA_01807614",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664732,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:9d0e1a61-7daa-4cb9-a8a3-bee20d6c068a",
+    "source": "pittcsc",
+    "company": "RTX",
+    "title": "Systems Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA323-2000-E-Imperial-Hwy-Bldg-R01-2000-East-Imperial-Highway-Building-R01-El-Segundo-CA-90245-USA/XMLNAME-2026-Systems-Engineering-Intern---Onsite---El-Segundo--CA_01807692",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664697,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ea1cff00-6b1e-4483-8a38-7d15605a9eab",
+    "source": "pittcsc",
+    "company": "RTX",
+    "title": "Intern - Full Stack Developer",
+    "category": "Software",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026-Intern---Full-Stack-Developer--Onsite-_01807637",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664717,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:5fb7985f-37d4-4de7-bbd0-56eb0727c4c6",
+    "source": "pittcsc",
+    "company": "Twitch",
+    "title": "Graduate Data Science Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8221777002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664840,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:86885c02-a3e0-4c1c-96bf-dd31eb89834c",
+    "source": "pittcsc",
+    "company": "RTX",
+    "title": "Intern Software Engineer - CO",
+    "category": "Software",
+    "locations": [
+      "Aurora, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--CO-_01807067",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664751,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:1d996aa6-f7da-4f3b-bd42-bd3ac52e7339",
+    "source": "pittcsc",
+    "company": "Mohawk",
+    "title": "Data Analytics Intern - Summer 2025",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Georgia"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "url": "https://careers.mohawkind.com/job/Data-Analytics-Intern-Summer-2025-Geor/1342061900/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763665152,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6628fd27-01b2-444a-9b7f-8ae0403d4d5d",
+    "source": "pittcsc",
+    "company": "Motorola",
+    "title": "Android Platform Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2026_R56709",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763665128,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d08a018b-8be6-4f49-9b3d-17d2b17396b9",
+    "source": "pittcsc",
+    "company": "The Aerospace Corporation",
+    "title": "Cloud Software Engineer Undergrad Intern",
+    "category": "Software",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Cloud-Software-Engineer-Undergrad-Intern_R013985",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763665144,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:04d3d73a-2fda-4815-8345-0cabc993b0a0",
+    "source": "pittcsc",
+    "company": "The Aerospace Corporation",
+    "title": "Software Tools and Assurance Grad Intern",
+    "category": "Software",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Software-Tools-and-Assurance-Grad-Intern_R013993",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763665144,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:da8914dd-354d-488f-81ba-9645d2b6693c",
+    "source": "pittcsc",
+    "company": "The Aerospace Corporation",
+    "title": "Software Integration Engineer Grad Intern",
+    "category": "Software",
+    "locations": [
+      "Colorado Springs, CO",
+      "Chantilly, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Software-Integration-Engineer-Grad-Intern_R014034",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763665128,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:97d15b74-5ec6-423c-9e92-80115a4dc8ac",
+    "source": "pittcsc",
+    "company": "The Aerospace Corporation",
+    "title": "2026 Software Tools and Assurance Undergrad Intern",
+    "category": "Software",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Software-Tools-and-Assurance-Undergrad-Intern_R013992",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763665150,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2ddf3143-9c52-4538-8b54-f4a960ddce83",
+    "source": "pittcsc",
+    "company": "Signify",
+    "title": "Product Compliance Engineering Intern",
+    "category": "Product",
+    "locations": [
+      "Fayetteville, GA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Compliance-Engineering-Intern_361944",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763664936,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0e5f83a1-4929-44bf-bd17-2fbc6adc0abd",
+    "source": "pittcsc",
+    "company": "The Aerospace Corporation",
+    "title": "Enterprise Performance Modeling and Simulation Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R014012",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763665131,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6b6b9dd5-56c7-4082-a137-ddf0b3014769",
+    "source": "pittcsc",
+    "company": "BNY",
+    "title": "BNY Analyst Program - Product and Innovation",
+    "category": "Product",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72226",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1763663920,
+    "first_seen": 1784402297,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:c3d72f2a-592a-43eb-a234-2fd2565bbe60",
     "source": "pittcsc",
     "company": "KLA",
@@ -492,7 +1262,7 @@
       "Perrysburg, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5806071106?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=24821E547FD7E48A2F15B56F2107C5B7BD1E7BAA",
+    "url": "https://www.adzuna.com/land/ad/5806071106?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=24821E547FD7E48A2F15B56F2107C5B7BD1E7BAA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784355515,
@@ -534,51 +1304,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1762621291,
-    "first_seen": 1784355847,
-    "emailed": false
-  },
-  {
-    "uid": "pittcsc:e8ca0075-9694-4ec8-baf6-f0692a57a814",
-    "source": "pittcsc",
-    "company": "SpaceX",
-    "title": "Engineering Intern/Co-op",
-    "category": "Hardware",
-    "locations": [
-      "Bastrop, TX",
-      "Irvine, CA",
-      "Cape Canaveral, FL",
-      "Brownsville, TX",
-      "Redmond, WA",
-      "McGregor, TX",
-      "West Athens, CA",
-      "Vandenberg Village, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://boards.greenhouse.io/spacex/jobs/8149124002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1761874191,
-    "first_seen": 1784355847,
-    "emailed": false
-  },
-  {
-    "uid": "pittcsc:7cf5d340-56c8-4d51-a443-8a0a78c95775",
-    "source": "pittcsc",
-    "company": "Flagship Pioneering",
-    "title": "Pioneering Intelligence ML Co-Op - Agentic AI Team",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227684002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1762921518,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -53391,6 +54116,32 @@
     "emailed": false
   },
   {
+    "uid": "pittcsc:e8ca0075-9694-4ec8-baf6-f0692a57a814",
+    "source": "pittcsc",
+    "company": "SpaceX",
+    "title": "Engineering Intern/Co-op",
+    "category": "Hardware",
+    "locations": [
+      "Bastrop, TX",
+      "Irvine, CA",
+      "Cape Canaveral, FL",
+      "Brownsville, TX",
+      "Redmond, WA",
+      "McGregor, TX",
+      "West Athens, CA",
+      "Vandenberg Village, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8149124002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1761874191,
+    "first_seen": 1784355847,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:dbbc6514-327c-4692-8e7c-1cad9704cfe0",
     "source": "pittcsc",
     "company": "Tokyo Electron",
@@ -56383,6 +57134,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1761856394,
+    "first_seen": 1784355847,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7cf5d340-56c8-4d51-a443-8a0a78c95775",
+    "source": "pittcsc",
+    "company": "Flagship Pioneering",
+    "title": "Pioneering Intelligence ML Co-Op - Agentic AI Team",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227684002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1762921518,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -72531,7 +73301,7 @@
       "Berrien Springs, Berrien County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947053?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=EF4D2837554AAD34EB20BFAC132CE3F9763D5B1F",
+    "url": "https://www.adzuna.com/land/ad/5803947053?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=EF4D2837554AAD34EB20BFAC132CE3F9763D5B1F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228292,
@@ -72548,7 +73318,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947125?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=7B79B509E4543CA48CD7D3C9B274F757E071038E",
+    "url": "https://www.adzuna.com/land/ad/5803947125?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=7B79B509E4543CA48CD7D3C9B274F757E071038E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228292,
@@ -72565,7 +73335,7 @@
       "New Haven, New Haven County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947049?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=D2DD351E4E7401520FC1F26F35DB0191BC18A4DF",
+    "url": "https://www.adzuna.com/land/ad/5803947049?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=D2DD351E4E7401520FC1F26F35DB0191BC18A4DF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228292,
@@ -72640,7 +73410,7 @@
       "Perrysburg, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5805475441?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=A4AC1827B5FA8E4B56F6DF388738B804635F2EF3",
+    "url": "https://www.adzuna.com/land/ad/5805475441?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=A4AC1827B5FA8E4B56F6DF388738B804635F2EF3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784318327,
@@ -72657,7 +73427,7 @@
       "North Dartmouth, Bristol County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947087?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=1F759441D1EC966E42515A9856583AD3BE9B3FA6",
+    "url": "https://www.adzuna.com/land/ad/5803947087?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=1F759441D1EC966E42515A9856583AD3BE9B3FA6",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228292,
@@ -72674,7 +73444,7 @@
       "Nampa, Canyon County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947093?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=70AF33A411148A4444FD7C53F2A7B6E68737ED4D",
+    "url": "https://www.adzuna.com/land/ad/5803947093?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=70AF33A411148A4444FD7C53F2A7B6E68737ED4D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228292,
@@ -72691,7 +73461,7 @@
       "Waterloo, Black Hawk County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947054?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=A8D9820BFD3EEC7AB4C6439677F057B6B373D232",
+    "url": "https://www.adzuna.com/land/ad/5803947054?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=A8D9820BFD3EEC7AB4C6439677F057B6B373D232",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228292,
@@ -72708,7 +73478,7 @@
       "Largo, Prince George's County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947071?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=869D1845EE4871AC37C4599DC3C3C6DD1ECB6632",
+    "url": "https://www.adzuna.com/land/ad/5803947071?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=869D1845EE4871AC37C4599DC3C3C6DD1ECB6632",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228292,
@@ -73104,7 +73874,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Job-Posting-Title-Field-Engineer-Apprentice_R4043559",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783987200,
     "first_seen": 1784288712,
     "emailed": false
@@ -73266,7 +74036,7 @@
       "Auburn, Androscoggin County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804402530?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=E3049F5E747604A6DB778FC8954EABBF60A94AF4",
+    "url": "https://www.adzuna.com/land/ad/5804402530?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=E3049F5E747604A6DB778FC8954EABBF60A94AF4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249679,
@@ -73283,7 +74053,7 @@
       "Seaford, Sussex County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804402532?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=7957CADBEAE02455E9DDCBB33F3C2079C2DC27CE",
+    "url": "https://www.adzuna.com/land/ad/5804402532?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=7957CADBEAE02455E9DDCBB33F3C2079C2DC27CE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249679,
@@ -73300,7 +74070,7 @@
       "Lincoln, Lancaster County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804393899?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=71304B4564D7A31C8CB7A17E867053F44B060B65",
+    "url": "https://www.adzuna.com/land/ad/5804393899?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=71304B4564D7A31C8CB7A17E867053F44B060B65",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249513,
@@ -73317,7 +74087,7 @@
       "Lake Worth, Palm Beach County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804393911?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=5ADEA9A65154BE881DF5E3A626FB4FCC997D49E9",
+    "url": "https://www.adzuna.com/land/ad/5804393911?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=5ADEA9A65154BE881DF5E3A626FB4FCC997D49E9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249513,
@@ -73334,7 +74104,7 @@
       "Jersey City, Hudson County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804393901?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=CFED997F4F4AA290DA627851C9F04016B4323569",
+    "url": "https://www.adzuna.com/land/ad/5804393901?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=CFED997F4F4AA290DA627851C9F04016B4323569",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249513,
@@ -73351,7 +74121,7 @@
       "Mililani, Honolulu"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804393902?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=1B1BB64F3D0DA35F76A81C682A8D6EC4562AA3FB",
+    "url": "https://www.adzuna.com/land/ad/5804393902?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=1B1BB64F3D0DA35F76A81C682A8D6EC4562AA3FB",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249513,
@@ -73368,7 +74138,7 @@
       "Wilmington, New Castle County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804393892?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=7846E2E10FA701C30304AC13A5B4B85E91BB468D",
+    "url": "https://www.adzuna.com/land/ad/5804393892?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=7846E2E10FA701C30304AC13A5B4B85E91BB468D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249512,
@@ -73385,7 +74155,7 @@
       "Logan, Cache County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804393520?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=81B6F38E7899B9ADD374EEBA9380A5911CDD1FF9",
+    "url": "https://www.adzuna.com/land/ad/5804393520?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=81B6F38E7899B9ADD374EEBA9380A5911CDD1FF9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249509,
@@ -73402,7 +74172,7 @@
       "Santa Fe, Santa Fe County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804393519?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=CC582A73552CAD84A88186ED4C2856C1133C5F5C",
+    "url": "https://www.adzuna.com/land/ad/5804393519?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=CC582A73552CAD84A88186ED4C2856C1133C5F5C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784249509,
@@ -73436,7 +74206,7 @@
       "Huntsville, Madison County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804294839?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=6F1FAB1518F15EF0D3A6E88C7CF53B30B31DA80B",
+    "url": "https://www.adzuna.com/land/ad/5804294839?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=6F1FAB1518F15EF0D3A6E88C7CF53B30B31DA80B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784246077,
@@ -73491,7 +74261,7 @@
       "Wichita, Sedgwick County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5804258317?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=52DB63282EEEBEE140420C38405478806F0AA9BA",
+    "url": "https://www.adzuna.com/land/ad/5804258317?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=52DB63282EEEBEE140420C38405478806F0AA9BA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784242463,
@@ -73835,7 +74605,7 @@
       "Raleigh, Wake County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947446?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=45BFF87F3A804CFC8E89F586AB6B4F2B94CAAE45",
+    "url": "https://www.adzuna.com/land/ad/5803947446?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=45BFF87F3A804CFC8E89F586AB6B4F2B94CAAE45",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228298,
@@ -73852,7 +74622,7 @@
       "Mckinney, Collin County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947432?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=BD9889503E1984D9553F04A55A06FF0BBE3D0076",
+    "url": "https://www.adzuna.com/land/ad/5803947432?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=BD9889503E1984D9553F04A55A06FF0BBE3D0076",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228297,
@@ -73869,7 +74639,7 @@
       "Laramie, Albany County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947442?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=B618EAC34843C49269CBB44FD851F2DDF1F1BA6A",
+    "url": "https://www.adzuna.com/land/ad/5803947442?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=B618EAC34843C49269CBB44FD851F2DDF1F1BA6A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228297,
@@ -73886,7 +74656,7 @@
       "Milford, Sussex County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947407?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=52D3625F10DD16FD7689D82B8B6496C2E1F4F52B",
+    "url": "https://www.adzuna.com/land/ad/5803947407?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=52D3625F10DD16FD7689D82B8B6496C2E1F4F52B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228297,
@@ -73903,7 +74673,7 @@
       "Worcester, Worcester County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947328?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=7C71FBC4E057676A6C18B9AA84C14CE183A849C3",
+    "url": "https://www.adzuna.com/land/ad/5803947328?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=7C71FBC4E057676A6C18B9AA84C14CE183A849C3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228296,
@@ -73920,7 +74690,7 @@
       "Birmingham, Jefferson County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947260?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=8303D00C7C73D3C08584BB1B51B509C8CE69F4D8",
+    "url": "https://www.adzuna.com/land/ad/5803947260?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=8303D00C7C73D3C08584BB1B51B509C8CE69F4D8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228295,
@@ -73937,7 +74707,7 @@
       "South Portland, Cumberland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947262?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=3008B66FCE5BBCBA339EEA1CA9A015E51D65206B",
+    "url": "https://www.adzuna.com/land/ad/5803947262?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=3008B66FCE5BBCBA339EEA1CA9A015E51D65206B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228295,
@@ -73954,7 +74724,7 @@
       "Billings, Yellowstone County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947281?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=F199F5C4FB2684EA9DEEC563922895A47B4B7F7E",
+    "url": "https://www.adzuna.com/land/ad/5803947281?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=F199F5C4FB2684EA9DEEC563922895A47B4B7F7E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228295,
@@ -73971,7 +74741,7 @@
       "Salt Lake City, Salt Lake County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947256?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=FD4ACED0D795CB1FD669B26044C231BDAD412224",
+    "url": "https://www.adzuna.com/land/ad/5803947256?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=FD4ACED0D795CB1FD669B26044C231BDAD412224",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228295,
@@ -73988,7 +74758,7 @@
       "Chattanooga, Hamilton County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947291?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=0B1008AF2469ACFEA5F04C8E87AA7644204D4CA4",
+    "url": "https://www.adzuna.com/land/ad/5803947291?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=0B1008AF2469ACFEA5F04C8E87AA7644204D4CA4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228295,
@@ -74005,7 +74775,7 @@
       "High Point, Guilford County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947246?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=0BD059B3057A4C119AB0768C457E95AA7753F68E",
+    "url": "https://www.adzuna.com/land/ad/5803947246?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=0BD059B3057A4C119AB0768C457E95AA7753F68E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228295,
@@ -74022,7 +74792,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947264?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=5A49DBB8A49B7541BBF8ABE374ACF3F0F6BBED43",
+    "url": "https://www.adzuna.com/land/ad/5803947264?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=5A49DBB8A49B7541BBF8ABE374ACF3F0F6BBED43",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228295,
@@ -74039,7 +74809,7 @@
       "Aurora, Arapahoe County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947296?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=914944A6E2845B2DB4AF9F5CEA59F94E6F0D35B2",
+    "url": "https://www.adzuna.com/land/ad/5803947296?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=914944A6E2845B2DB4AF9F5CEA59F94E6F0D35B2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228295,
@@ -74056,7 +74826,7 @@
       "Durham, Durham County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947235?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=3C4C4175DF98F0F14D6DE893DD09C2C6ADED9B12",
+    "url": "https://www.adzuna.com/land/ad/5803947235?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=3C4C4175DF98F0F14D6DE893DD09C2C6ADED9B12",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228294,
@@ -74073,7 +74843,7 @@
       "Rutland, Rutland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947223?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=C908E7F3222BE6626475008FE6E3C3A0CC19DE76",
+    "url": "https://www.adzuna.com/land/ad/5803947223?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=C908E7F3222BE6626475008FE6E3C3A0CC19DE76",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228294,
@@ -74090,7 +74860,7 @@
       "Sioux Falls, Minnehaha County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947202?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=8A0D5BD526441724CF9964518BDAD839B57D8061",
+    "url": "https://www.adzuna.com/land/ad/5803947202?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=8A0D5BD526441724CF9964518BDAD839B57D8061",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228294,
@@ -74107,7 +74877,7 @@
       "Helena, Lewis and Clark County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947229?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=E99E26C4700072B5F228900868A834B2D0B16FAC",
+    "url": "https://www.adzuna.com/land/ad/5803947229?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=E99E26C4700072B5F228900868A834B2D0B16FAC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228294,
@@ -74124,7 +74894,7 @@
       "Providence, Providence County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947217?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=1E602444ABC8B8E112BF0EAE3B2FB951D1F3D081",
+    "url": "https://www.adzuna.com/land/ad/5803947217?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=1E602444ABC8B8E112BF0EAE3B2FB951D1F3D081",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228294,
@@ -74141,7 +74911,7 @@
       "Bangor, Penobscot County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947169?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=920EE327B31D3C861F1E1C96679B8FFB4C795ED4",
+    "url": "https://www.adzuna.com/land/ad/5803947169?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=920EE327B31D3C861F1E1C96679B8FFB4C795ED4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228293,
@@ -74158,7 +74928,7 @@
       "Harrisburg, Dauphin County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947167?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=68A1D443F762EFB10FDEDC33E636B4DF7665367A",
+    "url": "https://www.adzuna.com/land/ad/5803947167?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=68A1D443F762EFB10FDEDC33E636B4DF7665367A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228293,
@@ -74175,7 +74945,7 @@
       "Norwalk, Fairfield County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947148?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=CAAB7AD32A572E04DA69FEBCE2AF61D704B53921",
+    "url": "https://www.adzuna.com/land/ad/5803947148?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=CAAB7AD32A572E04DA69FEBCE2AF61D704B53921",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228293,
@@ -74192,7 +74962,7 @@
       "Sterling Heights, Macomb County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947146?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=8BBFBCC1ABB6493EA4E6046C238B75198EE67B50",
+    "url": "https://www.adzuna.com/land/ad/5803947146?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=8BBFBCC1ABB6493EA4E6046C238B75198EE67B50",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228293,
@@ -74209,7 +74979,7 @@
       "Gary, Lake County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947158?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=E83F075548689D8133B381E3881F60FCE3A2D7F9",
+    "url": "https://www.adzuna.com/land/ad/5803947158?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=E83F075548689D8133B381E3881F60FCE3A2D7F9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228293,
@@ -74226,7 +74996,7 @@
       "Tacoma, Pierce County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5803947172?se=aNXU79eC8RGEQsunKpBZ-Q&utm_medium=api&utm_source=e936e76a&v=A4350EACE80920F321766DA4AE7B504614690846",
+    "url": "https://www.adzuna.com/land/ad/5803947172?se=LsDIbd2C8RGFMa6bWHzthQ&utm_medium=api&utm_source=e936e76a&v=A4350EACE80920F321766DA4AE7B504614690846",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784228293,
@@ -74700,7 +75470,7 @@
     ],
     "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1784073600,
     "first_seen": 1784156870,
     "emailed": false
@@ -74814,7 +75584,7 @@
     ],
     "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1784073600,
     "first_seen": 1784128205,
     "emailed": false
@@ -75961,193 +76731,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:d764117b-558e-4561-8a4d-c8440e0e73d3",
-    "source": "simplify",
-    "company": "NBCUniversal",
-    "title": "Data Science & Analytics Internships - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092795436",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664838,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:cdb1294e-74ca-496d-8b2e-58dcbda9d67f",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Hardware Engineer 1 - Multiple Teams",
-    "category": "Hardware",
-    "locations": [
-      "Austin, TX",
-      "San Jose, CA",
-      "Carlsbad, CA",
-      "Allentown, PA",
-      "Research Triangle, Durham, NC",
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000113",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664397,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:caa05f8b-433a-4a38-83b6-e68d940462df",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Engineer Data/AI/Intelligent Systems PhD Intern",
-    "category": "Software",
-    "locations": [
-      "Boston, MA",
-      "Knoxville, TN",
-      "Milpitas, CA",
-      "Santa Monica, CA",
-      "Austin, TX",
-      "San Jose, CA",
-      "Fulton, MD",
-      "Dallas, TX",
-      "Hillsboro, OR",
-      "Alpharetta, GA",
-      "NYC",
-      "Acton, MA",
-      "Research Triangle, Durham, NC",
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2001487",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664391,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:d2da749a-84bb-4e0f-a8bd-b7dfebc60ba7",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Hardware Engineer 2",
-    "category": "Hardware",
-    "locations": [
-      "Austin, TX",
-      "San Jose, CA",
-      "Research Triangle, Durham, NC"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000134",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664380,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:60c838f3-1547-4627-9f45-f76028962d36",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Product Management Specialist 1 - Intern",
-    "category": "Product",
-    "locations": [
-      "San Jose, CA",
-      "Research Triangle, Durham, NC"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000495",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664402,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4dae6ba7-9a7b-4938-b50e-1fed56ecd99e",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "ASIC Design Verification Engineer",
-    "category": "Hardware",
-    "locations": [
-      "Acton, MA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2001867",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664409,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0fdfda06-d9eb-48c2-b935-b4da3ff0f844",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
-    "category": "Software",
-    "locations": [
-      "Boston, MA",
-      "Knoxville, TN",
-      "Milpitas, CA",
-      "Austin, TX",
-      "San Jose, CA",
-      "Fulton, MD",
-      "Dallas, TX",
-      "Hillsboro, OR",
-      "Alpharetta, GA",
-      "NYC",
-      "Acton, MA",
-      "Portland, OR",
-      "Research Triangle, Durham, NC",
-      "Atlanta, GA",
-      "Richardson, TX"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2001254",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664378,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6d5ca0a8-4fc3-42f0-99bf-8c08c9bde640",
-    "source": "simplify",
-    "company": "Lightmatter",
-    "title": "API and Database",
-    "category": "Software",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://boards.greenhouse.io/lightmatter/jobs/4988938008",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763663857,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:077d6a87-731c-4926-9d4c-f88a4570f78a",
     "source": "simplify",
     "company": "Waymo",
@@ -76220,25 +76803,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1763665231,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ad268ad1-eb94-43eb-b46f-fd1fc44b7646",
-    "source": "simplify",
-    "company": "NinjaTrader",
-    "title": "Web Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://ninjatrader.com/careers/internships/?gh_jid=4613355006",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763665228,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -76454,137 +77018,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:fdfc7e6e-f0fa-4034-864e-8d94df06e826",
-    "source": "simplify",
-    "company": "AbbVie",
-    "title": "Product Development and Technology Intern - Science",
-    "category": "Product",
-    "locations": [
-      "Waukegan, IL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990010081536",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664296,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:e0ae2e2d-f58f-4959-aedd-99834d332128",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Engineer Embedded/Network Systems 1 - Intern",
-    "category": "Hardware",
-    "locations": [
-      "Boston, MA",
-      "Knoxville, TN",
-      "Milpitas, CA",
-      "Austin, TX",
-      "San Jose, CA",
-      "Fulton, MD",
-      "Dallas, TX",
-      "Hillsboro, OR",
-      "Alpharetta, GA",
-      "NYC",
-      "Acton, MA",
-      "Research Triangle, Durham, NC",
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000445",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664378,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4d95747d-598b-4ee2-a086-0d54745f3f38",
-    "source": "simplify",
-    "company": "Embrace",
-    "title": "Data Science Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://job-boards.greenhouse.io/embrace/jobs/5718369004",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763663777,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:951af77e-9827-46bb-b637-b21adf0f508d",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Developer 1 - Stagiaire - Canada / Software Developer I",
-    "category": "Software",
-    "locations": [
-      "Montreal, QC, Canada",
-      "Calgary, AB, Canada",
-      "Kanata, Ottawa, ON, Canada",
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000876",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664418,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6e891cb1-1cbd-4d19-a472-949beff3a81b",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Hardware Engineer 1",
-    "category": "Hardware",
-    "locations": [
-      "SF",
-      "San Jose, CA",
-      "Research Triangle, Durham, NC"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000041",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664391,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2fd15891-0544-48e5-b403-66a4fb97a86f",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "ASIC Design Verification Engineer 2",
-    "category": "Hardware",
-    "locations": [
-      "Acton, MA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2001068",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664411,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:dc522f0c-d115-428b-93b1-f9a7947ad77a",
     "source": "simplify",
     "company": "Oracle",
@@ -76601,132 +77034,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1763673959,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:eb132c10-e34b-4435-aa69-6e9004dead51",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Splunk Intern - Backend/Fullstack - Software Engineer I",
-    "category": "Software",
-    "locations": [
-      "Research Triangle, Durham, NC"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000124",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664399,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:eeaa479b-d6b5-44ce-a313-1686a0bb3a8d",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Engineer 1 - Intern",
-    "category": "Software",
-    "locations": [
-      "Boston, MA",
-      "Knoxville, TN",
-      "Milpitas, CA",
-      "Austin, TX",
-      "San Jose, CA",
-      "Fulton, MD",
-      "Dallas, TX",
-      "Hillsboro, OR",
-      "Alpharetta, GA",
-      "NYC",
-      "Acton, MA",
-      "Research Triangle, Durham, NC",
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000436",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664382,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:84ceee44-b8c2-4f31-b899-3b0f032cb124",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Splunk Intern - Frontend - Software Engineer 1",
-    "category": "Software",
-    "locations": [
-      "Research Triangle, Durham, NC"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000143",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664382,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6b59b325-c1e9-441c-a4f2-6e91f2193e91",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Splunk Intern - Backend/Fullstack - Software Engineer II",
-    "category": "Software",
-    "locations": [
-      "Research Triangle, Durham, NC"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000140",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664386,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ebd5c233-6524-417c-837f-a4402de2c217",
-    "source": "simplify",
-    "company": "Flagship Pioneering",
-    "title": "Data Science Intern/Co-op",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8203873002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664113,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:485fd000-1d0f-4e57-a04a-d65c9f4d8490",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Physical Design Engineer 1 \u2013 Co-op - United States",
-    "category": "Hardware",
-    "locations": [
-      "Acton, MA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2001521",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664406,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -76826,63 +77133,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:ef0156d7-cd4b-41aa-a147-889b36164aa7",
-    "source": "simplify",
-    "company": "Toyota Research Institute",
-    "title": "Human-Centered AI Intern - AI & Behavior Change",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.lever.co/tri/c8a9bf91-182e-4945-86d7-bbdf3b328afa/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664751,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:a43eeeea-c97a-4fd4-9706-07df16a9ed0e",
-    "source": "simplify",
-    "company": "RTX",
-    "title": "Systems Engineer Intern",
-    "category": "Hardware",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA320-El-Seg-So-Campus-Bldg-E01-2000-East-El-Segundo-Boulevard-Building-E01-El-Segundo-CA-90245-USA/XMLNAME-2026-Systems-Engineer-Intern---Onsite---El-Segundo--CA_01807614",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664732,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9d0e1a61-7daa-4cb9-a8a3-bee20d6c068a",
-    "source": "simplify",
-    "company": "RTX",
-    "title": "Systems Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA323-2000-E-Imperial-Hwy-Bldg-R01-2000-East-Imperial-Highway-Building-R01-El-Segundo-CA-90245-USA/XMLNAME-2026-Systems-Engineering-Intern---Onsite---El-Segundo--CA_01807692",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664697,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:f5213eb7-f0de-404c-9a76-026bfc694b11",
     "source": "simplify",
     "company": "Courier Health",
@@ -76898,25 +77148,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1763667664,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ea1cff00-6b1e-4483-8a38-7d15605a9eab",
-    "source": "simplify",
-    "company": "RTX",
-    "title": "Intern - Full Stack Developer",
-    "category": "Software",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026-Intern---Full-Stack-Developer--Onsite-_01807637",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664717,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -77000,25 +77231,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:5fb7985f-37d4-4de7-bbd0-56eb0727c4c6",
-    "source": "simplify",
-    "company": "Twitch",
-    "title": "Graduate Data Science Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://job-boards.greenhouse.io/twitch/jobs/8221777002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664840,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:bc438285-7f87-4718-8e19-26af672608a4",
     "source": "simplify",
     "company": "Fujitsu",
@@ -77034,25 +77246,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1763665243,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:86885c02-a3e0-4c1c-96bf-dd31eb89834c",
-    "source": "simplify",
-    "company": "RTX",
-    "title": "Intern Software Engineer - CO",
-    "category": "Software",
-    "locations": [
-      "Aurora, CO"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--CO-_01807067",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664751,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -77173,25 +77366,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:1d996aa6-f7da-4f3b-bd42-bd3ac52e7339",
-    "source": "simplify",
-    "company": "Mohawk",
-    "title": "Data Analytics Intern - Summer 2025",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Georgia"
-    ],
-    "terms": [
-      "Summer 2025"
-    ],
-    "url": "https://careers.mohawkind.com/job/Data-Analytics-Intern-Summer-2025-Geor/1342061900/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763665152,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:5ee977e4-4959-41bc-8444-d644c767e184",
     "source": "simplify",
     "company": "David Yurman",
@@ -77207,44 +77381,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1763665446,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6628fd27-01b2-444a-9b7f-8ae0403d4d5d",
-    "source": "simplify",
-    "company": "Motorola",
-    "title": "Android Platform Software Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Plantation, FL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2026_R56709",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763665128,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:d08a018b-8be6-4f49-9b3d-17d2b17396b9",
-    "source": "simplify",
-    "company": "The Aerospace Corporation",
-    "title": "Cloud Software Engineer Undergrad Intern",
-    "category": "Software",
-    "locations": [
-      "Chantilly, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Cloud-Software-Engineer-Undergrad-Intern_R013985",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763665144,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -77268,45 +77404,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:04d3d73a-2fda-4815-8345-0cabc993b0a0",
-    "source": "simplify",
-    "company": "The Aerospace Corporation",
-    "title": "Software Tools and Assurance Grad Intern",
-    "category": "Software",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Software-Tools-and-Assurance-Grad-Intern_R013993",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763665144,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:da8914dd-354d-488f-81ba-9645d2b6693c",
-    "source": "simplify",
-    "company": "The Aerospace Corporation",
-    "title": "Software Integration Engineer Grad Intern",
-    "category": "Software",
-    "locations": [
-      "Colorado Springs, CO",
-      "Chantilly, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Software-Integration-Engineer-Grad-Intern_R014034",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763665128,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:c059a15e-fe54-49a4-b821-85096f2189b0",
     "source": "simplify",
     "company": "Cirrus Logic",
@@ -77322,25 +77419,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1763666780,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:97d15b74-5ec6-423c-9e92-80115a4dc8ac",
-    "source": "simplify",
-    "company": "The Aerospace Corporation",
-    "title": "2026 Software Tools and Assurance Undergrad Intern",
-    "category": "Software",
-    "locations": [
-      "El Segundo, CA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Software-Tools-and-Assurance-Undergrad-Intern_R013992",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763665150,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -77379,46 +77457,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1763666256,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2ddf3143-9c52-4538-8b54-f4a960ddce83",
-    "source": "simplify",
-    "company": "Signify",
-    "title": "Product Compliance Engineering Intern",
-    "category": "Product",
-    "locations": [
-      "Fayetteville, GA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Compliance-Engineering-Intern_361944",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763664936,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0e5f83a1-4929-44bf-bd17-2fbc6adc0abd",
-    "source": "simplify",
-    "company": "The Aerospace Corporation",
-    "title": "Enterprise Performance Modeling and Simulation Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Colorado Springs, CO"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R014012",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763665131,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -133853,25 +133891,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1768577409,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6b6b9dd5-56c7-4082-a137-ddf0b3014769",
-    "source": "simplify",
-    "company": "BNY",
-    "title": "BNY Analyst Program - Product and Innovation",
-    "category": "Product",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/72226",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1763663920,
     "first_seen": 1784003708,
     "emailed": true
   },
