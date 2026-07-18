@@ -14,10 +14,15 @@ from careerview.sources.base import Source
 from careerview.sources.greenhouse import GreenhouseSource
 from careerview.sources.lever import LeverSource
 from careerview.sources.simplify import SimplifySource
+from careerview.sources.vanshb03 import Vanshb03Source
 
 
 def _build_sources(config: Config) -> list[Source]:
-    sources: list[Source] = [SimplifySource(repo=config.simplify_repo, branch=config.simplify_branch)]
+    sources: list[Source] = [
+        SimplifySource(repo=config.simplify_repo, branch=config.simplify_branch, name="simplify"),
+        SimplifySource(repo=config.pittcsc_repo, branch=config.pittcsc_branch, name="pittcsc"),
+        Vanshb03Source(repo=config.vanshb03_repo, branch=config.vanshb03_branch),
+    ]
 
     include_kw = config.relevance.include_title_keywords
     exclude_kw = config.relevance.exclude_title_keywords

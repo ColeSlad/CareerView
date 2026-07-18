@@ -19,6 +19,10 @@ class RelevanceConfig:
 class Config:
     simplify_repo: str
     simplify_branch: str
+    pittcsc_repo: str
+    pittcsc_branch: str
+    vanshb03_repo: str
+    vanshb03_branch: str
     relevance: RelevanceConfig
     adzuna_country: str
     adzuna_keywords: str
@@ -40,6 +44,10 @@ def load_config(
     return Config(
         simplify_repo=raw["simplify"]["repo"],
         simplify_branch=raw["simplify"]["branch"],
+        pittcsc_repo=raw["pittcsc"]["repo"],
+        pittcsc_branch=raw["pittcsc"]["branch"],
+        vanshb03_repo=raw["vanshb03"]["repo"],
+        vanshb03_branch=raw["vanshb03"]["branch"],
         relevance=RelevanceConfig(
             terms=relevance_raw.get("terms", []),
             categories=relevance_raw.get("categories", []),

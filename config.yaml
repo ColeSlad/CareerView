@@ -2,6 +2,14 @@ simplify:
   repo: SimplifyJobs/Summer2026-Internships
   branch: dev
 
+pittcsc:
+  repo: PittCSC/Summer2026-Internships
+  branch: dev
+
+vanshb03:
+  repo: vanshb03/Summer2026-Internships
+  branch: dev
+
 relevance:
   # Left empty on purpose: `active` (curated by the source) is the real signal for
   # "still open" and doesn't go stale every season the way a hardcoded term would.
