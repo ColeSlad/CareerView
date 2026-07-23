@@ -1,5 +1,100 @@
 [
   {
+    "uid": "simplify:9a3e5294-d914-4470-8231-855d92e407d6",
+    "source": "simplify",
+    "company": "Red Bull",
+    "title": "Data Science Intern - Data Science",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Morristown, NJ"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000139168339",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784769002,
+    "first_seen": 1784780687,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:90082f84-46c5-4280-9e8d-6c2e77b75067",
+    "source": "pittcsc",
+    "company": "Wisk",
+    "title": "HRIS Data Analyst Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/HRIS-Data-Analyst-Intern_JR100358",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764042872,
+    "first_seen": 1784780687,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fa847154-1c79-4de4-9098-b0d49bcd6831",
+    "source": "pittcsc",
+    "company": "Fortive",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8106",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764042692,
+    "first_seen": 1784780687,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e7951ee5-93f5-4f94-8f1c-dab5650a252a",
+    "source": "pittcsc",
+    "company": "Toll Brothers",
+    "title": "Web Development Intern",
+    "category": "Software",
+    "locations": [
+      "Ambler, PA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://jobs-tollbrothers.icims.com/jobs/24248/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764042442,
+    "first_seen": 1784780687,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:8879342f-7604-45b1-8165-dcda82a93e0d",
+    "source": "pittcsc",
+    "company": "Ford Motor Company",
+    "title": "Student Worker Program - Associate Electrical Hardware Engineer",
+    "category": "Hardware",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55210",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764042209,
+    "first_seen": 1784780687,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:da74c322-6237-4abc-9b1a-2c9765047a85",
     "source": "pittcsc",
     "company": "General Dynamics Mission Systems",
@@ -1018,7 +1113,7 @@
       "Campbell, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520757?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=C04A5A6D8C08BC9DC96D042949898AFF45E3258A",
+    "url": "https://www.adzuna.com/land/ad/5811520757?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=C04A5A6D8C08BC9DC96D042949898AFF45E3258A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748353,
@@ -1035,7 +1130,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520659?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=4763D3093686E3B22216A0276940DE7D753120A3",
+    "url": "https://www.adzuna.com/land/ad/5811520659?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=4763D3093686E3B22216A0276940DE7D753120A3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1052,7 +1147,7 @@
       "Campbell, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520673?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=907255D2650FB75ECDA19D4326A4198D26745096",
+    "url": "https://www.adzuna.com/land/ad/5811520673?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=907255D2650FB75ECDA19D4326A4198D26745096",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1069,7 +1164,7 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520638?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=769CA417B1A70DEA746A7BF9CFA73FE52AB685C4",
+    "url": "https://www.adzuna.com/land/ad/5811520638?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=769CA417B1A70DEA746A7BF9CFA73FE52AB685C4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1086,7 +1181,7 @@
       "Huntington, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520709?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=38D7D2B4A07A6C6BA39AB95A89CF08D3DF54DC66",
+    "url": "https://www.adzuna.com/land/ad/5811520709?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=38D7D2B4A07A6C6BA39AB95A89CF08D3DF54DC66",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1103,7 +1198,7 @@
       "Pico Heights, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520636?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=CE21E34C3832FDC6F3CD7AB9A3DA42E9D20E0F7A",
+    "url": "https://www.adzuna.com/land/ad/5811520636?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=CE21E34C3832FDC6F3CD7AB9A3DA42E9D20E0F7A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1120,7 +1215,7 @@
       "Santa Cruz, Santa Cruz County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520677?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=94CF7EF1D5355692B53C4CB4080FADFDD92ED39E",
+    "url": "https://www.adzuna.com/land/ad/5811520677?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=94CF7EF1D5355692B53C4CB4080FADFDD92ED39E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1137,7 +1232,7 @@
       "Sunnyvale, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520691?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=750F257934B08523E1D95D1C8CB6A44E1D94AEA8",
+    "url": "https://www.adzuna.com/land/ad/5811520691?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=750F257934B08523E1D95D1C8CB6A44E1D94AEA8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1154,7 +1249,7 @@
       "Portola Valley, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520672?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=28B4D7400D8DBDD8B677DEE627AFE5E30C5EF9E9",
+    "url": "https://www.adzuna.com/land/ad/5811520672?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=28B4D7400D8DBDD8B677DEE627AFE5E30C5EF9E9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1171,7 +1266,7 @@
       "Isla Vista, Santa Barbara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520702?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=92B6C16CC841E865AD6281EC39C486773FCBE6FF",
+    "url": "https://www.adzuna.com/land/ad/5811520702?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=92B6C16CC841E865AD6281EC39C486773FCBE6FF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1188,7 +1283,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520689?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=FD6F6E27DDB8282E5BBED8D2638E3976C2639616",
+    "url": "https://www.adzuna.com/land/ad/5811520689?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=FD6F6E27DDB8282E5BBED8D2638E3976C2639616",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1205,7 +1300,7 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520660?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=ECE694382D0FFEB73ED71001431BB0FC687A3E58",
+    "url": "https://www.adzuna.com/land/ad/5811520660?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=ECE694382D0FFEB73ED71001431BB0FC687A3E58",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1222,7 +1317,7 @@
       "San Bruno, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520688?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=5D32095BB549917E17923FF7789400657A862094",
+    "url": "https://www.adzuna.com/land/ad/5811520688?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=5D32095BB549917E17923FF7789400657A862094",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1239,7 +1334,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520676?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=5266ED2E1CD330BDAF4871B238E691A6A0DA8E60",
+    "url": "https://www.adzuna.com/land/ad/5811520676?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=5266ED2E1CD330BDAF4871B238E691A6A0DA8E60",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1256,7 +1351,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520602?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=BD162AC5037378ABE80C2E2A9F99E461E6D7ED66",
+    "url": "https://www.adzuna.com/land/ad/5811520602?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=BD162AC5037378ABE80C2E2A9F99E461E6D7ED66",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1273,7 +1368,7 @@
       "Huntington, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520608?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=6C35F18EDF6257ACA80E31D66505044298BD77F5",
+    "url": "https://www.adzuna.com/land/ad/5811520608?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=6C35F18EDF6257ACA80E31D66505044298BD77F5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1290,7 +1385,7 @@
       "Santa Cruz, Santa Cruz County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520609?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=A0CE9DBAFD1756A08FD34C3B8A58113A3DB0F594",
+    "url": "https://www.adzuna.com/land/ad/5811520609?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=A0CE9DBAFD1756A08FD34C3B8A58113A3DB0F594",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1307,7 +1402,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520616?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=BDCF41517A93BCE2D569BE62E39FC0A63AD40AEE",
+    "url": "https://www.adzuna.com/land/ad/5811520616?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=BDCF41517A93BCE2D569BE62E39FC0A63AD40AEE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1324,7 +1419,7 @@
       "Pico Heights, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520600?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=15163826B673F69739258505C5BA8A4898686ECD",
+    "url": "https://www.adzuna.com/land/ad/5811520600?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=15163826B673F69739258505C5BA8A4898686ECD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1341,7 +1436,7 @@
       "San Bruno, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520583?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=A0B300971D99FC029B541AF4CEEC7F2F53DFC2B4",
+    "url": "https://www.adzuna.com/land/ad/5811520583?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=A0B300971D99FC029B541AF4CEEC7F2F53DFC2B4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1358,7 +1453,7 @@
       "Sunnyvale, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520588?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=1DEA546198C293293CEDFB92733BB9E9F3C2F25C",
+    "url": "https://www.adzuna.com/land/ad/5811520588?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=1DEA546198C293293CEDFB92733BB9E9F3C2F25C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1375,7 +1470,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520620?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=8C7F46C6EAE9A54B061E83A3EA2CB655773214AC",
+    "url": "https://www.adzuna.com/land/ad/5811520620?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=8C7F46C6EAE9A54B061E83A3EA2CB655773214AC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1449,7 +1544,7 @@
       "Perrysburg, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810651821?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=DDB77AB553B2880E810D15FB05690BB870D512D3",
+    "url": "https://www.adzuna.com/land/ad/5810651821?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=DDB77AB553B2880E810D15FB05690BB870D512D3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784696794,
@@ -1637,7 +1732,7 @@
       "Mountain View, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810842831?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=E2B8F8100F261AD6D7AC8775A437FE90CC0D0CFC",
+    "url": "https://www.adzuna.com/land/ad/5810842831?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=E2B8F8100F261AD6D7AC8775A437FE90CC0D0CFC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784704771,
@@ -1654,7 +1749,7 @@
       "Mountain View, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810787455?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=CB2395E3DB80E9B127ECECEA533E09675C16567B",
+    "url": "https://www.adzuna.com/land/ad/5810787455?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=CB2395E3DB80E9B127ECECEA533E09675C16567B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784702233,
@@ -1784,7 +1879,7 @@
       "Bellevue, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434420?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=BD97616952F52F019E0588B1580AA6A156C0EBFD",
+    "url": "https://www.adzuna.com/land/ad/5810434420?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=BD97616952F52F019E0588B1580AA6A156C0EBFD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1801,7 +1896,7 @@
       "Kirkland, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434419?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=7D4F93903639CC74033E19765E648FC8B5250462",
+    "url": "https://www.adzuna.com/land/ad/5810434419?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=7D4F93903639CC74033E19765E648FC8B5250462",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1818,7 +1913,7 @@
       "Kirkland, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434425?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=4749EFA301CB4935255F1CFB1DACBD0BB427284F",
+    "url": "https://www.adzuna.com/land/ad/5810434425?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=4749EFA301CB4935255F1CFB1DACBD0BB427284F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1835,7 +1930,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434442?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=C18C0FDB4899D78F762B013D49C1105743F326B9",
+    "url": "https://www.adzuna.com/land/ad/5810434442?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=C18C0FDB4899D78F762B013D49C1105743F326B9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1852,7 +1947,7 @@
       "International, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434388?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=E9E10A192F42791DF02772D8A357851B7261EB7C",
+    "url": "https://www.adzuna.com/land/ad/5810434388?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=E9E10A192F42791DF02772D8A357851B7261EB7C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -1869,7 +1964,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434381?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=6E1FDFB20080D47960CE8E93CB00B20C611DB3C9",
+    "url": "https://www.adzuna.com/land/ad/5810434381?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=6E1FDFB20080D47960CE8E93CB00B20C611DB3C9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -1886,7 +1981,7 @@
       "Bellevue, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434410?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=711B53CADFC2B9517D837CC6BDDDA32BBF60BC1D",
+    "url": "https://www.adzuna.com/land/ad/5810434410?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=711B53CADFC2B9517D837CC6BDDDA32BBF60BC1D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -1903,7 +1998,7 @@
       "International, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434398?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=FFB4AB803EA8CF3A6A65677B5FDE61760A28422A",
+    "url": "https://www.adzuna.com/land/ad/5810434398?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=FFB4AB803EA8CF3A6A65677B5FDE61760A28422A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -1920,7 +2015,7 @@
       "Madison, Dane County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432927?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=19D5B6A534C8C35B72DE239D7AB8D17CCE16D259",
+    "url": "https://www.adzuna.com/land/ad/5810432927?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=19D5B6A534C8C35B72DE239D7AB8D17CCE16D259",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683864,
@@ -1937,7 +2032,7 @@
       "Madison, Dane County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432930?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=EF4EF00471EA729AB3D0D7B8C7D9CDB0CEB6574E",
+    "url": "https://www.adzuna.com/land/ad/5810432930?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=EF4EF00471EA729AB3D0D7B8C7D9CDB0CEB6574E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683864,
@@ -1971,7 +2066,7 @@
       "Five Points, Wake County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292327?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=A085E1AF1E64E75B83EAD451137EDB727EA337E6",
+    "url": "https://www.adzuna.com/land/ad/5810292327?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=A085E1AF1E64E75B83EAD451137EDB727EA337E6",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673648,
@@ -2295,7 +2390,7 @@
       "Grand Central, Manhattan"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300789?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=65C36ED18996CE857B127376DA5DDA78EA65F5C2",
+    "url": "https://www.adzuna.com/land/ad/5810300789?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=65C36ED18996CE857B127376DA5DDA78EA65F5C2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673879,
@@ -2312,7 +2407,7 @@
       "Grand Central, Manhattan"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300804?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=C78DD114E92375175DE49AB1D876B82A4162C0D2",
+    "url": "https://www.adzuna.com/land/ad/5810300804?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=C78DD114E92375175DE49AB1D876B82A4162C0D2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673879,
@@ -2329,7 +2424,7 @@
       "Five Points, Wake County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292331?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=0568AB4EC33F1923496ED8F68D5A18A27B66355C",
+    "url": "https://www.adzuna.com/land/ad/5810292331?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=0568AB4EC33F1923496ED8F68D5A18A27B66355C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673648,
@@ -2346,7 +2441,7 @@
       "Durham, Durham County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292329?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=1055F162B2C4B263D96DB7605E10B284D8339EFA",
+    "url": "https://www.adzuna.com/land/ad/5810292329?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=1055F162B2C4B263D96DB7605E10B284D8339EFA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673648,
@@ -2363,7 +2458,7 @@
       "Durham, Durham County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292328?se=2D9fnUmG8RGa14EqyXoy-w&utm_medium=api&utm_source=e936e76a&v=5869657E8877804931A7CF69A5C3FC41FB06EBFC",
+    "url": "https://www.adzuna.com/land/ad/5810292328?se=ONuMb06G8RGl4PV45LV9dw&utm_medium=api&utm_source=e936e76a&v=5869657E8877804931A7CF69A5C3FC41FB06EBFC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673648,
@@ -85406,44 +85501,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:90082f84-46c5-4280-9e8d-6c2e77b75067",
-    "source": "simplify",
-    "company": "Wisk",
-    "title": "HRIS Data Analyst Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/HRIS-Data-Analyst-Intern_JR100358",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764042872,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:fa847154-1c79-4de4-9098-b0d49bcd6831",
-    "source": "simplify",
-    "company": "Fortive",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8106",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764042692,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:f0096eac-6ae5-4547-b031-a07fdfc48505",
     "source": "simplify",
     "company": "Dover",
@@ -129566,25 +129623,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:e7951ee5-93f5-4f94-8f1c-dab5650a252a",
-    "source": "simplify",
-    "company": "Toll Brothers",
-    "title": "Web Development Intern",
-    "category": "Software",
-    "locations": [
-      "Ambler, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://jobs-tollbrothers.icims.com/jobs/24248/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764042442,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:cb5dcac7-30c7-439b-8077-d204eeb8589b",
     "source": "simplify",
     "company": "Kapitus",
@@ -135947,25 +135985,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1764197925,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:8879342f-7604-45b1-8165-dcda82a93e0d",
-    "source": "simplify",
-    "company": "Ford Motor Company",
-    "title": "Student Worker Program - Associate Electrical Hardware Engineer",
-    "category": "Hardware",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/55210",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764042209,
     "first_seen": 1784003708,
     "emailed": true
   },
