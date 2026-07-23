@@ -1,5 +1,368 @@
 [
   {
+    "uid": "simplify:f00fc66c-967f-457b-8706-d3f0c5a5c874",
+    "source": "simplify",
+    "company": "Astranis",
+    "title": "Software Engineer Intern - Enterprise Systems",
+    "category": "Software",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784846279,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:31b95070-c5a6-4523-b7d4-54fbaa062677",
+    "source": "simplify",
+    "company": "Appian",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "McLean, VA"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784846149,
+    "first_seen": 1784850163,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:f4b6208a-2701-4f97-bf10-b54704e67c32",
+    "source": "simplify",
+    "company": "Appian",
+    "title": "Product Manager Intern",
+    "category": "Product",
+    "locations": [
+      "McLean, VA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784846121,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:5715d5fe-76a4-46e6-9cea-0b6ab4f8fc11",
+    "source": "simplify",
+    "company": "Anthelion Capital",
+    "title": "Quant Developer / Quant Research Intern",
+    "category": "Quant",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Winter 2026",
+      "Summer 2027"
+    ],
+    "url": "https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784845475,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:a8f733cf-5339-4f2b-b428-c8dbcb8f7bcd",
+    "source": "pittcsc",
+    "company": "Vulcan Materials",
+    "title": "IT Intern \u2013 Data Analytics",
+    "category": "AI/ML/Data",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://vulcanmat.taleo.net/careersection/2/jobdetail.ftl?job=25000330",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764113064,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:a3fe70e0-e577-41b4-a001-fb673c6bef63",
+    "source": "pittcsc",
+    "company": "Federal Home Loan Bank of Indianapolis",
+    "title": "Analytics Engineer Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Analytics-Engineer-Intern_R552",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764113277,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:17619f1a-f940-401d-914a-d7e7f0ad82f5",
+    "source": "pittcsc",
+    "company": "Bloom Energy",
+    "title": "Equipment Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Equipment-Engineering-Internship_JR-20967",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112982,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:eff022c0-e089-4bc9-ba91-6a3f84a7019b",
+    "source": "pittcsc",
+    "company": "Apex Fintech Solutions",
+    "title": "Strategy & Analytics Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Strategy---Analytics-Intern_JR103903",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112954,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c7cacc14-2601-4345-97ac-5afa0a561c6b",
+    "source": "pittcsc",
+    "company": "Bloom Energy",
+    "title": "Test Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Test-Engineering-Internship_JR-20968",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112981,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c25496e1-2e81-4754-9f01-5a0692210601",
+    "source": "pittcsc",
+    "company": "Johnson Law Group",
+    "title": "Data Analyst",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Houston, TX"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/johnsonlawgroup/jobs/4063471009",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112933,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4a7cf21c-6705-42b9-8be7-855db309981c",
+    "source": "pittcsc",
+    "company": "MKS Instruments",
+    "title": "Graduate Reliability Intern",
+    "category": "Hardware",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/XMLNAME-2026-Summer-Reliability-Graduate-Co-op_R14937",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112845,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4581ce64-a39a-452e-b6d1-804813ab6517",
+    "source": "pittcsc",
+    "company": "Field AI",
+    "title": "Field Application Engineer-Intern",
+    "category": "Software",
+    "locations": [
+      "Tampa, FL"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://jobs.lever.co/field-ai/3d6e02a8-277a-46dd-b8f8-a37f4486cf41/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764113020,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:bdca8dd7-33df-48b3-8cee-f75ea67c26e1",
+    "source": "pittcsc",
+    "company": "Constellation Brands",
+    "title": "Data Science Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Data-Science-Intern_R-38907",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112620,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:72315128-f95a-4d98-8458-ea360e5fa49c",
+    "source": "pittcsc",
+    "company": "Constellation Brands",
+    "title": "Integrated Business Planning Product Intern - Ibp",
+    "category": "Product",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Chicago-Office/Integrated-Business-Planning--IBP--Product-Intern_R-38903",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112621,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fa6673b5-f281-491d-8e84-44ca94f04d5d",
+    "source": "pittcsc",
+    "company": "The Allen Institute for AI",
+    "title": "Research Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley, CA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7417134",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112118,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f6a12bdf-93ad-424d-b2bc-61a6e7dab118",
+    "source": "pittcsc",
+    "company": "The Allen Institute for AI",
+    "title": "Research Intern - Climate Modeling",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7407289",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112111,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:88654d64-d8cd-4a56-b58c-f0a24cce5c62",
+    "source": "pittcsc",
+    "company": "The Allen Institute for AI",
+    "title": "Research Intern - Prior",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7421011",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112123,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e07ce4de-680f-4271-a669-90943ba0d6cb",
+    "source": "pittcsc",
+    "company": "Rambus",
+    "title": "Analog/Digital Design Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Westlake Village, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers-rambus.icims.com/jobs/22462/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764112450,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5812973442",
+    "source": "adzuna",
+    "company": "HP Inc.",
+    "title": "Software Engineering Intern, Device Experiences",
+    "category": "Software",
+    "locations": [
+      "SoMa, San Francisco"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5812973442?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784834712,
+    "first_seen": 1784850163,
+    "emailed": false
+  },
+  {
     "uid": "simplify:4239cf96-37b5-405d-8764-53684b347047",
     "source": "simplify",
     "company": "Royal Bank of Canada",
@@ -296,7 +659,7 @@
       "Perrysburg, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5812073699?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=162FDDAE2994608CAB944C3037C0EBE03780DB4C",
+    "url": "https://www.adzuna.com/land/ad/5812073699?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=162FDDAE2994608CAB944C3037C0EBE03780DB4C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784783000,
@@ -908,7 +1271,7 @@
       "Mountain View, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810787455?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=CB2395E3DB80E9B127ECECEA533E09675C16567B",
+    "url": "https://www.adzuna.com/land/ad/5810787455?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=CB2395E3DB80E9B127ECECEA533E09675C16567B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784702233,
@@ -925,7 +1288,7 @@
       "Mountain View, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810842831?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=E2B8F8100F261AD6D7AC8775A437FE90CC0D0CFC",
+    "url": "https://www.adzuna.com/land/ad/5810842831?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=E2B8F8100F261AD6D7AC8775A437FE90CC0D0CFC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784704771,
@@ -942,7 +1305,7 @@
       "Campbell, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520757?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C04A5A6D8C08BC9DC96D042949898AFF45E3258A",
+    "url": "https://www.adzuna.com/land/ad/5811520757?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C04A5A6D8C08BC9DC96D042949898AFF45E3258A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748353,
@@ -959,7 +1322,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520659?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=4763D3093686E3B22216A0276940DE7D753120A3",
+    "url": "https://www.adzuna.com/land/ad/5811520659?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=4763D3093686E3B22216A0276940DE7D753120A3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -976,7 +1339,7 @@
       "Campbell, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520673?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=907255D2650FB75ECDA19D4326A4198D26745096",
+    "url": "https://www.adzuna.com/land/ad/5811520673?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=907255D2650FB75ECDA19D4326A4198D26745096",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -993,7 +1356,7 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520638?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=769CA417B1A70DEA746A7BF9CFA73FE52AB685C4",
+    "url": "https://www.adzuna.com/land/ad/5811520638?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=769CA417B1A70DEA746A7BF9CFA73FE52AB685C4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1010,7 +1373,7 @@
       "Huntington, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520709?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=38D7D2B4A07A6C6BA39AB95A89CF08D3DF54DC66",
+    "url": "https://www.adzuna.com/land/ad/5811520709?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=38D7D2B4A07A6C6BA39AB95A89CF08D3DF54DC66",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1027,7 +1390,7 @@
       "Pico Heights, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520636?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=CE21E34C3832FDC6F3CD7AB9A3DA42E9D20E0F7A",
+    "url": "https://www.adzuna.com/land/ad/5811520636?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=CE21E34C3832FDC6F3CD7AB9A3DA42E9D20E0F7A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1044,7 +1407,7 @@
       "Santa Cruz, Santa Cruz County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520677?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=94CF7EF1D5355692B53C4CB4080FADFDD92ED39E",
+    "url": "https://www.adzuna.com/land/ad/5811520677?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=94CF7EF1D5355692B53C4CB4080FADFDD92ED39E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1061,7 +1424,7 @@
       "Sunnyvale, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520691?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=750F257934B08523E1D95D1C8CB6A44E1D94AEA8",
+    "url": "https://www.adzuna.com/land/ad/5811520691?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=750F257934B08523E1D95D1C8CB6A44E1D94AEA8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1078,7 +1441,7 @@
       "Portola Valley, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520672?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=28B4D7400D8DBDD8B677DEE627AFE5E30C5EF9E9",
+    "url": "https://www.adzuna.com/land/ad/5811520672?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=28B4D7400D8DBDD8B677DEE627AFE5E30C5EF9E9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1095,7 +1458,7 @@
       "Isla Vista, Santa Barbara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520702?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=92B6C16CC841E865AD6281EC39C486773FCBE6FF",
+    "url": "https://www.adzuna.com/land/ad/5811520702?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=92B6C16CC841E865AD6281EC39C486773FCBE6FF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1112,7 +1475,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520689?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FD6F6E27DDB8282E5BBED8D2638E3976C2639616",
+    "url": "https://www.adzuna.com/land/ad/5811520689?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FD6F6E27DDB8282E5BBED8D2638E3976C2639616",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1129,7 +1492,7 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520660?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=ECE694382D0FFEB73ED71001431BB0FC687A3E58",
+    "url": "https://www.adzuna.com/land/ad/5811520660?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=ECE694382D0FFEB73ED71001431BB0FC687A3E58",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1146,7 +1509,7 @@
       "San Bruno, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520688?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=5D32095BB549917E17923FF7789400657A862094",
+    "url": "https://www.adzuna.com/land/ad/5811520688?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=5D32095BB549917E17923FF7789400657A862094",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1163,7 +1526,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520676?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=5266ED2E1CD330BDAF4871B238E691A6A0DA8E60",
+    "url": "https://www.adzuna.com/land/ad/5811520676?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=5266ED2E1CD330BDAF4871B238E691A6A0DA8E60",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1180,7 +1543,7 @@
       "Portola Valley, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520641?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=0AAAAFE5E68547AAFAAF8B271D79F9BB7E26C61E",
+    "url": "https://www.adzuna.com/land/ad/5811520641?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=0AAAAFE5E68547AAFAAF8B271D79F9BB7E26C61E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1197,7 +1560,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520602?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BD162AC5037378ABE80C2E2A9F99E461E6D7ED66",
+    "url": "https://www.adzuna.com/land/ad/5811520602?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BD162AC5037378ABE80C2E2A9F99E461E6D7ED66",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1214,7 +1577,7 @@
       "Huntington, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520608?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=6C35F18EDF6257ACA80E31D66505044298BD77F5",
+    "url": "https://www.adzuna.com/land/ad/5811520608?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=6C35F18EDF6257ACA80E31D66505044298BD77F5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1231,7 +1594,7 @@
       "Santa Cruz, Santa Cruz County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520609?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=A0CE9DBAFD1756A08FD34C3B8A58113A3DB0F594",
+    "url": "https://www.adzuna.com/land/ad/5811520609?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=A0CE9DBAFD1756A08FD34C3B8A58113A3DB0F594",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1248,7 +1611,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520616?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BDCF41517A93BCE2D569BE62E39FC0A63AD40AEE",
+    "url": "https://www.adzuna.com/land/ad/5811520616?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BDCF41517A93BCE2D569BE62E39FC0A63AD40AEE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1265,7 +1628,7 @@
       "Pico Heights, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520600?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=15163826B673F69739258505C5BA8A4898686ECD",
+    "url": "https://www.adzuna.com/land/ad/5811520600?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=15163826B673F69739258505C5BA8A4898686ECD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1282,7 +1645,7 @@
       "San Bruno, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520583?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=A0B300971D99FC029B541AF4CEEC7F2F53DFC2B4",
+    "url": "https://www.adzuna.com/land/ad/5811520583?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=A0B300971D99FC029B541AF4CEEC7F2F53DFC2B4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1299,7 +1662,7 @@
       "Sunnyvale, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520588?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=1DEA546198C293293CEDFB92733BB9E9F3C2F25C",
+    "url": "https://www.adzuna.com/land/ad/5811520588?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=1DEA546198C293293CEDFB92733BB9E9F3C2F25C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1316,7 +1679,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520620?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=8C7F46C6EAE9A54B061E83A3EA2CB655773214AC",
+    "url": "https://www.adzuna.com/land/ad/5811520620?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=8C7F46C6EAE9A54B061E83A3EA2CB655773214AC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1333,7 +1696,7 @@
       "Isla Vista, Santa Barbara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520589?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=8A34A55D2824F64ECB4DCDF3A91CB7E35F02D9F3",
+    "url": "https://www.adzuna.com/land/ad/5811520589?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=8A34A55D2824F64ECB4DCDF3A91CB7E35F02D9F3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1367,7 +1730,7 @@
       "Bellevue, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434420?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BD97616952F52F019E0588B1580AA6A156C0EBFD",
+    "url": "https://www.adzuna.com/land/ad/5810434420?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BD97616952F52F019E0588B1580AA6A156C0EBFD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1384,7 +1747,7 @@
       "Kirkland, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434419?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=7D4F93903639CC74033E19765E648FC8B5250462",
+    "url": "https://www.adzuna.com/land/ad/5810434419?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=7D4F93903639CC74033E19765E648FC8B5250462",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1401,7 +1764,7 @@
       "Kirkland, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434425?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=4749EFA301CB4935255F1CFB1DACBD0BB427284F",
+    "url": "https://www.adzuna.com/land/ad/5810434425?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=4749EFA301CB4935255F1CFB1DACBD0BB427284F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1418,7 +1781,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434442?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C18C0FDB4899D78F762B013D49C1105743F326B9",
+    "url": "https://www.adzuna.com/land/ad/5810434442?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C18C0FDB4899D78F762B013D49C1105743F326B9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1435,7 +1798,7 @@
       "International, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434388?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=E9E10A192F42791DF02772D8A357851B7261EB7C",
+    "url": "https://www.adzuna.com/land/ad/5810434388?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=E9E10A192F42791DF02772D8A357851B7261EB7C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -1452,7 +1815,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434381?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=6E1FDFB20080D47960CE8E93CB00B20C611DB3C9",
+    "url": "https://www.adzuna.com/land/ad/5810434381?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=6E1FDFB20080D47960CE8E93CB00B20C611DB3C9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -1469,7 +1832,7 @@
       "Bellevue, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434410?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=711B53CADFC2B9517D837CC6BDDDA32BBF60BC1D",
+    "url": "https://www.adzuna.com/land/ad/5810434410?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=711B53CADFC2B9517D837CC6BDDDA32BBF60BC1D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -1486,7 +1849,7 @@
       "International, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434398?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FFB4AB803EA8CF3A6A65677B5FDE61760A28422A",
+    "url": "https://www.adzuna.com/land/ad/5810434398?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FFB4AB803EA8CF3A6A65677B5FDE61760A28422A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -1503,7 +1866,7 @@
       "Madison, Dane County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432927?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=19D5B6A534C8C35B72DE239D7AB8D17CCE16D259",
+    "url": "https://www.adzuna.com/land/ad/5810432927?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=19D5B6A534C8C35B72DE239D7AB8D17CCE16D259",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683864,
@@ -1520,7 +1883,7 @@
       "Madison, Dane County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432930?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=EF4EF00471EA729AB3D0D7B8C7D9CDB0CEB6574E",
+    "url": "https://www.adzuna.com/land/ad/5810432930?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=EF4EF00471EA729AB3D0D7B8C7D9CDB0CEB6574E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683864,
@@ -1537,7 +1900,7 @@
       "Waukesha, Waukesha County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432808?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FAB19BEFD8F8C10006C8F9A9FF5385F0DF8BD5AD",
+    "url": "https://www.adzuna.com/land/ad/5810432808?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FAB19BEFD8F8C10006C8F9A9FF5385F0DF8BD5AD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683861,
@@ -1571,7 +1934,7 @@
       "Grand Central, Manhattan"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300789?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=65C36ED18996CE857B127376DA5DDA78EA65F5C2",
+    "url": "https://www.adzuna.com/land/ad/5810300789?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=65C36ED18996CE857B127376DA5DDA78EA65F5C2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673879,
@@ -1588,29 +1951,12 @@
       "Grand Central, Manhattan"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300804?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C78DD114E92375175DE49AB1D876B82A4162C0D2",
+    "url": "https://www.adzuna.com/land/ad/5810300804?se=fovgMvCG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C78DD114E92375175DE49AB1D876B82A4162C0D2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673879,
     "first_seen": 1784826341,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5810292327",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Five Points, Wake County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292327?se=mqjwuO6G8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=A085E1AF1E64E75B83EAD451137EDB727EA337E6",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784673648,
-    "first_seen": 1784826341,
-    "emailed": true
   },
   {
     "uid": "simplify:9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
@@ -87188,254 +87534,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:a8f733cf-5339-4f2b-b428-c8dbcb8f7bcd",
-    "source": "simplify",
-    "company": "Vulcan Materials",
-    "title": "IT Intern \u2013 Data Analytics",
-    "category": "AI/ML/Data",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://vulcanmat.taleo.net/careersection/2/jobdetail.ftl?job=25000330",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764113064,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:a3fe70e0-e577-41b4-a001-fb673c6bef63",
-    "source": "simplify",
-    "company": "Federal Home Loan Bank of Indianapolis",
-    "title": "Analytics Engineer Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Analytics-Engineer-Intern_R552",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764113277,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:17619f1a-f940-401d-914a-d7e7f0ad82f5",
-    "source": "simplify",
-    "company": "Bloom Energy",
-    "title": "Equipment Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "terms": [
-      "Summer 2025"
-    ],
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Equipment-Engineering-Internship_JR-20967",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112982,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:eff022c0-e089-4bc9-ba91-6a3f84a7019b",
-    "source": "simplify",
-    "company": "Apex Fintech Solutions",
-    "title": "Strategy & Analytics Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Strategy---Analytics-Intern_JR103903",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112954,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:c7cacc14-2601-4345-97ac-5afa0a561c6b",
-    "source": "simplify",
-    "company": "Bloom Energy",
-    "title": "Test Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Fremont, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Test-Engineering-Internship_JR-20968",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112981,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:c25496e1-2e81-4754-9f01-5a0692210601",
-    "source": "simplify",
-    "company": "Johnson Law Group",
-    "title": "Data Analyst",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Houston, TX"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/johnsonlawgroup/jobs/4063471009",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112933,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4a7cf21c-6705-42b9-8be7-855db309981c",
-    "source": "simplify",
-    "company": "MKS Instruments",
-    "title": "Graduate Reliability Intern",
-    "category": "Hardware",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/XMLNAME-2026-Summer-Reliability-Graduate-Co-op_R14937",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112845,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4581ce64-a39a-452e-b6d1-804813ab6517",
-    "source": "simplify",
-    "company": "Field AI",
-    "title": "Field Application Engineer-Intern",
-    "category": "Software",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://jobs.lever.co/field-ai/3d6e02a8-277a-46dd-b8f8-a37f4486cf41/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764113020,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:bdca8dd7-33df-48b3-8cee-f75ea67c26e1",
-    "source": "simplify",
-    "company": "Constellation Brands",
-    "title": "Data Science Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Rochester, NY"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Data-Science-Intern_R-38907",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112620,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:72315128-f95a-4d98-8458-ea360e5fa49c",
-    "source": "simplify",
-    "company": "Constellation Brands",
-    "title": "Integrated Business Planning Product Intern - Ibp",
-    "category": "Product",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Chicago-Office/Integrated-Business-Planning--IBP--Product-Intern_R-38903",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112621,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:fa6673b5-f281-491d-8e84-44ca94f04d5d",
-    "source": "simplify",
-    "company": "The Allen Institute for AI",
-    "title": "Research Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley, CA"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7417134",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112118,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f6a12bdf-93ad-424d-b2bc-61a6e7dab118",
-    "source": "simplify",
-    "company": "The Allen Institute for AI",
-    "title": "Research Intern - Climate Modeling",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7407289",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112111,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:88654d64-d8cd-4a56-b58c-f0a24cce5c62",
-    "source": "simplify",
-    "company": "The Allen Institute for AI",
-    "title": "Research Intern - Prior",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7421011",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112123,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:3b9caaa6-7f40-4f6b-b94c-2b47ed4af777",
     "source": "simplify",
     "company": "Cisco",
@@ -110333,25 +110431,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765939228,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:e07ce4de-680f-4271-a669-90943ba0d6cb",
-    "source": "simplify",
-    "company": "Rambus",
-    "title": "Analog/Digital Design Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Westlake Village, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers-rambus.icims.com/jobs/22462/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764112450,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -325020,7 +325099,7 @@
     ],
     "url": "https://jobs.smartrecruiters.com/SikaAG/744000137117699",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783692303,
     "first_seen": 1784003708,
     "emailed": true
