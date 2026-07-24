@@ -1,5 +1,874 @@
 [
   {
+    "uid": "simplify:53663e4c-42be-4d2a-ba0f-ac7a0d65da22",
+    "source": "simplify",
+    "company": "Quadrillion",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784874073,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813407491",
+    "source": "adzuna",
+    "company": "Rendezvous Robotics",
+    "title": "Software Engineering Intern (Fall 2026)",
+    "category": "Software",
+    "locations": [
+      "Golden, Jefferson County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5813407491?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855905,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386548",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Worcester, Worcester County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386548?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=89215BA2A2B9BE7A9E0F028ECE5D0FF595620A43",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855689,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386424",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Bozeman, Gallatin County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386424?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=F7D9FAB93F8CC53698C0E559B587B17DBFBCDCD0",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855687,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386345",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Waipahu, Honolulu"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386345?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=0699D9F249018EDAE44D517564FF37686738196C",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386355",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Manchester, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386355?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=BCBCC606725BDCB1FD61FAA3975742C141CCEDA4",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386346",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Erie, Erie County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386346?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=4B4E3DFBAD417489475D0FAEC890F80DD5DA14CF",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386386",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Kenosha, Kenosha County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386386?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=36DBC31B57E9F3D50517B01A94F22A541D369715",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386321",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Nashville, Davidson County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386321?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=6FD9C1F107F05C04430BFFC22D2CEBB81CECB3FE",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386324",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Juneau, Alaska"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386324?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=4021A4820510EDAEB6DAA19BC82694198693729E",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386351",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Grand Rapids, Kent County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386351?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=B74291C8A1087A4327F657C9D0955D0CE524B6B5",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386313",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Olympia, Thurston County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386313?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=24487775311DF1BDA69CD439C60C818CACAC97CA",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386390",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Bowling Green, Wood County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386390?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=4259E8CC58481B075D37C5C46B9DADACA8604C16",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386320",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Fresno, Fresno County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386320?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=5E328EA828C4423039077F5950D7C1ED0F289B64",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386343",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Dekalb, DeKalb County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386343?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=586BF75BD03C0873237048D0B350D9631E36CF32",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386333",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Jefferson City, Cole County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386333?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=91D0AAAA26EF765864D03D72CB280875A613F256",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386316",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Salt Lake City, Salt Lake County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386316?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=172CD4A074C9162A271A053DCB9A84F06268F7CE",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386349",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Albuquerque, Bernalillo County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386349?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=DE49721FBB79F386346C03644CCBCAF56FA8FF7D",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386381",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Harrisburg, Dauphin County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386381?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=294AF4F41C11B38C75F45CF784DDB79AD24C78E5",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386296",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Idaho Falls, Bonneville County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386296?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=1B2F4B58B7A3D798939B28C164DBB633AB088F11",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386238",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Anchorage, Alaska"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386238?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=0D6CBF4E48FDC34A51BE5A39F1D95509044D82E4",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386251",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Kearney, Buffalo County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386251?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=98CB13A3FB12536F5D95C312050829C365A339B7",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386214",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Bakersfield, Kern County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386214?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=87CAD85B5C5F3DB6FF7E23C261589D54B49C9793",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386252",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Covington, Kenton County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386252?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=9E2813C1F1C2F733EBF2CFF051BF1365F3CDCEE1",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386264",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Harrisonburg, Harrisonburg City"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386264?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=03A6DC60ADF2A342CBF81366188EDE024E322A4F",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386242",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Smyrna, Kent County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386242?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=0D15B4B3AAC21037A477F7F85F4DA509E4E63F44",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386235",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Elizabeth, Union County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386235?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=986DD00ED74CC6397C5D32C4BACC3DC1114AFF55",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386263",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Pearl City, Honolulu"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386263?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=8D41B18004F3A67710998EC92082117864A655B9",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386237",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Springdale, Washington County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386237?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=8B50424FEDE816A691E220C2B03ED0FD3D4556D7",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386227",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Gulfport, Harrison County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386227?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=E2781D4CDEFD39288911C7754410233DDC12E084",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386269",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Lansing, Ingham County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386269?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=B9899432D6AB9A7E483FEAD30AD04081C66EF2BD",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386256",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Rockville, Montgomery County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386256?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=2551C079E6F16799D6E8C71D34E02F1B79DC394E",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386270",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Waterbury, New Haven County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386270?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=F6B88A812C0F0FC2376074FBBACA7270514BA00D",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386234",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Biloxi, Harrison County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386234?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=9DC8F8FF17BBC384EDE6392C0F0724FB995DE6EB",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386308",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Seattle, King County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386308?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=5E39D5473FC7B6663A694867D64884CC894CC451",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386217",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Independence, Jackson County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386217?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=96AA38634DDFECA75C31E0E3B1B8249923B071F9",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386255",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Chattanooga, Hamilton County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386255?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=88E290F650A36B7E5A6877D1A08CBE0DA5DF5F1C",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386272",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Mililani, Honolulu"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386272?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=42E6A695791C903857DEB786943C23711F9FE008",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386286",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Boca Raton, Palm Beach County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386286?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=7572D29AE1E01F728C2F00A2B5EEF099D3E78233",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386261",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Lawrenceville, Gwinnett County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386261?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=8306DC94E723CEC2BF1632674498931297E54A59",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386276",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Edison, Middlesex County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386276?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=E662CE0241437DFEA789A1042554B023AEC71741",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386157",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Thornton, Adams County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386157?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=C97EAD6B2DA77DF6AD0D0A53FA2DBCC7A89D706E",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386202",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Concord, Merrimack County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386202?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=BA48FFD590CEBFEB18F9286D64B7D450D7A3EBCA",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386152",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Aurora, Kane County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386152?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=9785E64CA80B372131219887EDEB326849973FBE",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386125",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Tampa, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386125?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=03F03A5C8A3EF88E227F07188863BFA103BB281A",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386123",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Ann Arbor, Washtenaw County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386123?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=35EE492D3580842C8F6B1D24A50F129B2D24402D",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386147",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Richmond, Richmond County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386147?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=3CB79384DCC4A0CE2FCE227B8A7FF29C38F25868",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386180",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Newark, Essex County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386180?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=F6D78FD0A1C2CC9ACEA888A16822DD938935B235",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386138",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Norman, Cleveland County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386138?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=6F50304CB43F00BC3A60801E2DC9C565B203B428",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386210",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Albany, Albany County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386210?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=06E2E2459FE8A7BB070183D5F6816896E5C2B3A1",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386170",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Las Vegas, Clark County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386170?se=-LIK3CqH8RG2MJareB9vkg&utm_medium=api&utm_source=e936e76a&v=6617EA4030B9AEB9F9AAA7C20BBA26AE482AA4F9",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
     "uid": "pittcsc:70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
     "source": "pittcsc",
     "company": "TikTok",
@@ -1049,23 +1918,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5812973442",
-    "source": "adzuna",
-    "company": "HP Inc.",
-    "title": "Software Engineering Intern, Device Experiences",
-    "category": "Software",
-    "locations": [
-      "SoMa, San Francisco"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5812973442?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784834712,
-    "first_seen": 1784850163,
-    "emailed": false
-  },
-  {
     "uid": "simplify:4239cf96-37b5-405d-8764-53684b347047",
     "source": "simplify",
     "company": "Royal Bank of Canada",
@@ -1351,23 +2203,6 @@
     "date_posted": 1784764800,
     "first_seen": 1784846012,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5812073699",
-    "source": "adzuna",
-    "company": "HTC Global Services Inc",
-    "title": "Intern - Software Engineer (Manufacturing Systems)",
-    "category": "Software",
-    "locations": [
-      "Perrysburg, Wood County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5812073699?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=162FDDAE2994608CAB944C3037C0EBE03780DB4C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784783000,
-    "first_seen": 1784828502,
-    "emailed": true
   },
   {
     "uid": "lever:palantir:315f695d-04d1-4a9a-848e-cb2bec7a997e",
@@ -1946,703 +2781,6 @@
     "date_posted": 1774033655,
     "first_seen": 1784826341,
     "emailed": true
-  },
-  {
-    "uid": "adzuna:5811986499",
-    "source": "adzuna",
-    "company": "Schweitzer Engineering Laboratories",
-    "title": "Software Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Idaho City, Boise County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5811986499?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784775957,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810787455",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Mountain View, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810787455?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=CB2395E3DB80E9B127ECECEA533E09675C16567B",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784702233,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810842831",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Mountain View, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810842831?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=E2B8F8100F261AD6D7AC8775A437FE90CC0D0CFC",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784704771,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520757",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Campbell, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520757?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=C04A5A6D8C08BC9DC96D042949898AFF45E3258A",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748353,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520659",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "South San Francisco, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520659?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=4763D3093686E3B22216A0276940DE7D753120A3",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520673",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Campbell, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520673?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=907255D2650FB75ECDA19D4326A4198D26745096",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520638",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "San Diego, San Diego County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520638?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=769CA417B1A70DEA746A7BF9CFA73FE52AB685C4",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520709",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Huntington, Orange County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520709?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=38D7D2B4A07A6C6BA39AB95A89CF08D3DF54DC66",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520636",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Pico Heights, Los Angeles County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520636?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=CE21E34C3832FDC6F3CD7AB9A3DA42E9D20E0F7A",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520677",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Santa Cruz, Santa Cruz County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520677?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=94CF7EF1D5355692B53C4CB4080FADFDD92ED39E",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520691",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Sunnyvale, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520691?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=750F257934B08523E1D95D1C8CB6A44E1D94AEA8",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520672",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Portola Valley, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520672?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=28B4D7400D8DBDD8B677DEE627AFE5E30C5EF9E9",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520702",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Isla Vista, Santa Barbara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520702?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=92B6C16CC841E865AD6281EC39C486773FCBE6FF",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520689",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Palo Alto, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520689?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=FD6F6E27DDB8282E5BBED8D2638E3976C2639616",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520660",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "San Diego, San Diego County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520660?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=ECE694382D0FFEB73ED71001431BB0FC687A3E58",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520688",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "San Bruno, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520688?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=5D32095BB549917E17923FF7789400657A862094",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520676",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "SoMa, San Francisco"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520676?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=5266ED2E1CD330BDAF4871B238E691A6A0DA8E60",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5811520641",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Portola Valley, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520641?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=0AAAAFE5E68547AAFAAF8B271D79F9BB7E26C61E",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520602",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Palo Alto, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520602?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=BD162AC5037378ABE80C2E2A9F99E461E6D7ED66",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520608",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Huntington, Orange County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520608?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=6C35F18EDF6257ACA80E31D66505044298BD77F5",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520609",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Santa Cruz, Santa Cruz County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520609?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=A0CE9DBAFD1756A08FD34C3B8A58113A3DB0F594",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520616",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "SoMa, San Francisco"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520616?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=BDCF41517A93BCE2D569BE62E39FC0A63AD40AEE",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5811520600",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Pico Heights, Los Angeles County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520600?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=15163826B673F69739258505C5BA8A4898686ECD",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520583",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "San Bruno, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520583?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=A0B300971D99FC029B541AF4CEEC7F2F53DFC2B4",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520588",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Sunnyvale, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520588?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=1DEA546198C293293CEDFB92733BB9E9F3C2F25C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520620",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "South San Francisco, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520620?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=8C7F46C6EAE9A54B061E83A3EA2CB655773214AC",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520589",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Isla Vista, Santa Barbara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520589?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=8A34A55D2824F64ECB4DCDF3A91CB7E35F02D9F3",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748351,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810689193",
-    "source": "adzuna",
-    "company": "NXP Semiconductors",
-    "title": "AI / Software Engineering Intern - Fall 2026",
-    "category": "Software",
-    "locations": [
-      "Austin, Travis County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5810689193?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784699119,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434420",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Bellevue, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434420?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=BD97616952F52F019E0588B1580AA6A156C0EBFD",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683897,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434419",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Kirkland, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434419?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=7D4F93903639CC74033E19765E648FC8B5250462",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683897,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434425",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Kirkland, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434425?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=4749EFA301CB4935255F1CFB1DACBD0BB427284F",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683897,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434442",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Redmond, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434442?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=C18C0FDB4899D78F762B013D49C1105743F326B9",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683897,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434388",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "International, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434388?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=E9E10A192F42791DF02772D8A357851B7261EB7C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683896,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434381",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Redmond, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434381?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=6E1FDFB20080D47960CE8E93CB00B20C611DB3C9",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683896,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434410",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Bellevue, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434410?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=711B53CADFC2B9517D837CC6BDDDA32BBF60BC1D",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683896,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434398",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "International, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434398?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=FFB4AB803EA8CF3A6A65677B5FDE61760A28422A",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683896,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810432927",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Madison, Dane County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432927?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=19D5B6A534C8C35B72DE239D7AB8D17CCE16D259",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683864,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810432930",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Madison, Dane County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432930?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=EF4EF00471EA729AB3D0D7B8C7D9CDB0CEB6574E",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683864,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810432808",
-    "source": "adzuna",
-    "company": "GE HealthCare",
-    "title": "Edison Engineering Development Program Intern - Software",
-    "category": "Software",
-    "locations": [
-      "Waukesha, Waukesha County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432808?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=FAB19BEFD8F8C10006C8F9A9FF5385F0DF8BD5AD",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683861,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810335169",
-    "source": "adzuna",
-    "company": "Apple",
-    "title": "Software Engineer Intern(Core OS)-Shanghai",
-    "category": "Software",
-    "locations": [
-      "US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5810335169?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784677349,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810300789",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Grand Central, Manhattan"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300789?se=nERryBuH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=e936e76a&v=65C36ED18996CE857B127376DA5DDA78EA65F5C2",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784673879,
-    "first_seen": 1784826341,
-    "emailed": false
   },
   {
     "uid": "simplify:9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
@@ -86332,7 +86470,7 @@
     ],
     "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Cost-and-Data-Analyst-Student---Fall_R-158933",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784160000,
     "first_seen": 1784246896,
     "emailed": false
@@ -228575,7 +228713,7 @@
     ],
     "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Controls-Application-Engineering-Intern_R5035278-3",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1773671049,
     "first_seen": 1784003708,
     "emailed": true
