@@ -1,5 +1,487 @@
 [
   {
+    "uid": "simplify:7053c6dc-96b3-4e18-8322-262fd14f8fe4",
+    "source": "simplify",
+    "company": "Zoox",
+    "title": "Student Worker TPM",
+    "category": "Product",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.lever.co/zoox/23cd472d-deac-45f1-8f84-466811ed0223/apply",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784855476,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6828ff57-9a8d-4562-8536-9780eb6970a7",
+    "source": "pittcsc",
+    "company": "Landscape Forms",
+    "title": "Product Engineering CAD Intern - Starting in January",
+    "category": "Software",
+    "locations": [
+      "Kalamazoo, MI"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/landscapeforms/jobs/7489671003",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764120700,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:9cdb0c27-0676-4ab8-9018-1ba02684ee68",
+    "source": "pittcsc",
+    "company": "Microchip Technology",
+    "title": "Intern-Engineering - Test",
+    "category": "Hardware",
+    "locations": [
+      "Chandler, AZ"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Test-_R2066-25",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764119818,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7899b794-8c31-4940-a90a-6233c699f5f9",
+    "source": "pittcsc",
+    "company": "Northrop Grumman",
+    "title": "2027 Intern Test & Evaluation",
+    "category": "Hardware",
+    "locations": [
+      "Melbourne, FL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Test---Evaluation_R10215535",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764119672,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4b26fdbe-e869-4ee9-94ca-5c8e4b3b3b52",
+    "source": "pittcsc",
+    "company": "Thermo Fisher Scientific",
+    "title": "Data Science Intern - AI/ML Research for Ion Chromatography",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sunnyvale-California-USA/Data-Science-Intern--AI-ML-Research-for-Ion-Chromatography-_R-01328159",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764119155,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b1c8d8b0-9477-4f17-8b62-1b7de77a0906",
+    "source": "pittcsc",
+    "company": "Huntington Bancshares",
+    "title": "Data Science Co-op",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Science---Co-Op_R0067592",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764122144,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0c494f66-1d71-4451-a4fe-1a973be8af10",
+    "source": "pittcsc",
+    "company": "Affirm",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7528020003",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764122099,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:8b8f84c8-f4b9-47a2-b067-456d21d5b757",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "PhD Software Engineer - Threat Detection",
+    "category": "Software",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://university-uber.icims.com/jobs/151453/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123958,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:3ec0379a-b694-427e-af93-7e50a5f1529e",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "Data Science Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://university-uber.icims.com/jobs/151500/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123964,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2f3fef49-17d9-4f62-83fb-169f97b1ca42",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "PhD Applied Scientist Intern - Core Services Science Staff - United States",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://university-uber.icims.com/jobs/151463/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123966,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:8b7e8591-e91b-4938-9be3-4332c3994b9a",
+    "source": "pittcsc",
+    "company": "Wisk",
+    "title": "Autonomy Simulation Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "url": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/Autonomy-Simulation-Software-Engineering-Intern_JR100375",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123630,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:bb53fd16-d39b-4663-b7ed-a4a04eb95959",
+    "source": "pittcsc",
+    "company": "Seagate Technology ",
+    "title": "Intern Advanced Data Storage Micromagnetic Modeler",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://seagatecareers.com/job/Bloomington-Intern-Advanced-Data-Storage-Micromagnetic-Modeler-MN/1345598700/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123492,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:28c9ab4c-4bd4-4fd6-bf45-f456a0c246da",
+    "source": "pittcsc",
+    "company": "Seagate Technology ",
+    "title": "Firmware/Software Intern",
+    "category": "Hardware",
+    "locations": [
+      "Shakopee, MN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://seagatecareers.com/job/Shakopee-FirmwareSoftware-Internship-Summer-2026-MN/1345559200/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123490,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2167182e-6e6a-470d-aee3-8551a3af967d",
+    "source": "pittcsc",
+    "company": "Seagate Technology ",
+    "title": "Intern Ferroelectric Data Storage Modeling",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://seagatecareers.com/job/Bloomington-Intern-Ferroelectric-Data-Storage-Modeling-MN/1345597100/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123494,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:5e15d3cc-d77a-4b8c-81eb-c812e2251af6",
+    "source": "pittcsc",
+    "company": "Leidos",
+    "title": "Transportation Modeler Intern 3",
+    "category": "AI/ML/Data",
+    "locations": [
+      "McLean, VA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Summer 2026"
+    ],
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Modeler-Intern-III_R-00170998",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764126160,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c88fab34-9ef4-4230-b01e-e2bcf5bfc701",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "PhD Applied Scientist Intern - Trusted Identity",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://university-uber.icims.com/jobs/151272/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123967,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:18ef7e29-3019-4c54-8ad3-69097f89dc59",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "PhD Applied Scientist Intern - Road Safety",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://university-uber.icims.com/jobs/151265/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123968,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d65992d9-db2f-43c1-8bd0-489b3b646692",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "2026 PhD Applied Scientist Intern - Trusted Identity - United States",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.uber.com/global/en/careers/list/151272/",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764124313,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:a45700d8-5b2b-4262-9171-ecd191f00b7f",
+    "source": "pittcsc",
+    "company": "GM financial",
+    "title": "Intern Oracle Application Developer",
+    "category": "Software",
+    "locations": [
+      "Irving, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1343",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764124058,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7a2ae695-21b0-4365-8760-02fbb7ebe5a6",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "PhD Applied Scientist Intern - Core Services Science Staff",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.uber.com/global/en/careers/list/151463/",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764124312,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:32abd191-c4c5-41a4-8fb9-d8518681851b",
+    "source": "pittcsc",
+    "company": "General Dynamics Mission Systems",
+    "title": "Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Scottsdale, AZ"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/68793/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764123952,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ba6fe976-8e68-443d-ad75-018e90d4d237",
+    "source": "pittcsc",
+    "company": "Ciena",
+    "title": "Software Engineering Intern or Placement",
+    "category": "Hardware",
+    "locations": [
+      "Edinburgh, UK"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern_R028780",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764124304,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:9c911133-719d-4ec1-8050-20cc84ebca96",
+    "source": "pittcsc",
+    "company": "Daimler Truck",
+    "title": "Engineering Quality \u2013 And Compliance Intern - Safety",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Portland, OR"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Engineering-Quality--Safety--and-Compliance-Intern_DT-16143",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764124176,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:92700275-65f7-466c-b34f-c5adda63b219",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "PhD Software Engineer Intern - Threat Detection",
+    "category": "Software",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.uber.com/global/en/careers/list/151453/",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764124378,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:8d212191-0046-4565-b5b3-0ba39de31d55",
+    "source": "pittcsc",
+    "company": "NVIDIA",
+    "title": "Product Management Intern",
+    "category": "Product",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Intern--Enterprise-Products---Summer-2026_JR2006857",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764126644,
+    "first_seen": 1784865005,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:b2880550-18ca-4bda-b36b-92d3eadf267d",
     "source": "pittcsc",
     "company": "Altera Corporation",
@@ -557,7 +1039,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5812973442?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
+    "url": "https://www.adzuna.com/land/ad/5812973442?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784834712,
@@ -861,7 +1343,7 @@
       "Perrysburg, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5812073699?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=162FDDAE2994608CAB944C3037C0EBE03780DB4C",
+    "url": "https://www.adzuna.com/land/ad/5812073699?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=162FDDAE2994608CAB944C3037C0EBE03780DB4C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784783000,
@@ -1473,7 +1955,7 @@
       "Mountain View, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810787455?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=CB2395E3DB80E9B127ECECEA533E09675C16567B",
+    "url": "https://www.adzuna.com/land/ad/5810787455?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=CB2395E3DB80E9B127ECECEA533E09675C16567B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784702233,
@@ -1490,7 +1972,7 @@
       "Mountain View, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810842831?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=E2B8F8100F261AD6D7AC8775A437FE90CC0D0CFC",
+    "url": "https://www.adzuna.com/land/ad/5810842831?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=E2B8F8100F261AD6D7AC8775A437FE90CC0D0CFC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784704771,
@@ -1507,7 +1989,7 @@
       "Campbell, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520757?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C04A5A6D8C08BC9DC96D042949898AFF45E3258A",
+    "url": "https://www.adzuna.com/land/ad/5811520757?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=C04A5A6D8C08BC9DC96D042949898AFF45E3258A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748353,
@@ -1524,7 +2006,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520659?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=4763D3093686E3B22216A0276940DE7D753120A3",
+    "url": "https://www.adzuna.com/land/ad/5811520659?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=4763D3093686E3B22216A0276940DE7D753120A3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1541,7 +2023,7 @@
       "Campbell, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520673?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=907255D2650FB75ECDA19D4326A4198D26745096",
+    "url": "https://www.adzuna.com/land/ad/5811520673?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=907255D2650FB75ECDA19D4326A4198D26745096",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1558,7 +2040,7 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520638?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=769CA417B1A70DEA746A7BF9CFA73FE52AB685C4",
+    "url": "https://www.adzuna.com/land/ad/5811520638?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=769CA417B1A70DEA746A7BF9CFA73FE52AB685C4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1575,7 +2057,7 @@
       "Huntington, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520709?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=38D7D2B4A07A6C6BA39AB95A89CF08D3DF54DC66",
+    "url": "https://www.adzuna.com/land/ad/5811520709?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=38D7D2B4A07A6C6BA39AB95A89CF08D3DF54DC66",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1592,7 +2074,7 @@
       "Pico Heights, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520636?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=CE21E34C3832FDC6F3CD7AB9A3DA42E9D20E0F7A",
+    "url": "https://www.adzuna.com/land/ad/5811520636?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=CE21E34C3832FDC6F3CD7AB9A3DA42E9D20E0F7A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1609,7 +2091,7 @@
       "Santa Cruz, Santa Cruz County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520677?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=94CF7EF1D5355692B53C4CB4080FADFDD92ED39E",
+    "url": "https://www.adzuna.com/land/ad/5811520677?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=94CF7EF1D5355692B53C4CB4080FADFDD92ED39E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1626,7 +2108,7 @@
       "Sunnyvale, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520691?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=750F257934B08523E1D95D1C8CB6A44E1D94AEA8",
+    "url": "https://www.adzuna.com/land/ad/5811520691?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=750F257934B08523E1D95D1C8CB6A44E1D94AEA8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1643,7 +2125,7 @@
       "Portola Valley, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520672?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=28B4D7400D8DBDD8B677DEE627AFE5E30C5EF9E9",
+    "url": "https://www.adzuna.com/land/ad/5811520672?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=28B4D7400D8DBDD8B677DEE627AFE5E30C5EF9E9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1660,7 +2142,7 @@
       "Isla Vista, Santa Barbara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520702?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=92B6C16CC841E865AD6281EC39C486773FCBE6FF",
+    "url": "https://www.adzuna.com/land/ad/5811520702?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=92B6C16CC841E865AD6281EC39C486773FCBE6FF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1677,7 +2159,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520689?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FD6F6E27DDB8282E5BBED8D2638E3976C2639616",
+    "url": "https://www.adzuna.com/land/ad/5811520689?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=FD6F6E27DDB8282E5BBED8D2638E3976C2639616",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1694,7 +2176,7 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520660?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=ECE694382D0FFEB73ED71001431BB0FC687A3E58",
+    "url": "https://www.adzuna.com/land/ad/5811520660?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=ECE694382D0FFEB73ED71001431BB0FC687A3E58",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1711,7 +2193,7 @@
       "San Bruno, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520688?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=5D32095BB549917E17923FF7789400657A862094",
+    "url": "https://www.adzuna.com/land/ad/5811520688?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=5D32095BB549917E17923FF7789400657A862094",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1728,7 +2210,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520676?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=5266ED2E1CD330BDAF4871B238E691A6A0DA8E60",
+    "url": "https://www.adzuna.com/land/ad/5811520676?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=5266ED2E1CD330BDAF4871B238E691A6A0DA8E60",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1745,7 +2227,7 @@
       "Portola Valley, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520641?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=0AAAAFE5E68547AAFAAF8B271D79F9BB7E26C61E",
+    "url": "https://www.adzuna.com/land/ad/5811520641?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=0AAAAFE5E68547AAFAAF8B271D79F9BB7E26C61E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748352,
@@ -1762,7 +2244,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520602?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BD162AC5037378ABE80C2E2A9F99E461E6D7ED66",
+    "url": "https://www.adzuna.com/land/ad/5811520602?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=BD162AC5037378ABE80C2E2A9F99E461E6D7ED66",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1779,7 +2261,7 @@
       "Huntington, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520608?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=6C35F18EDF6257ACA80E31D66505044298BD77F5",
+    "url": "https://www.adzuna.com/land/ad/5811520608?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=6C35F18EDF6257ACA80E31D66505044298BD77F5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1796,7 +2278,7 @@
       "Santa Cruz, Santa Cruz County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520609?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=A0CE9DBAFD1756A08FD34C3B8A58113A3DB0F594",
+    "url": "https://www.adzuna.com/land/ad/5811520609?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=A0CE9DBAFD1756A08FD34C3B8A58113A3DB0F594",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1813,7 +2295,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520616?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BDCF41517A93BCE2D569BE62E39FC0A63AD40AEE",
+    "url": "https://www.adzuna.com/land/ad/5811520616?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=BDCF41517A93BCE2D569BE62E39FC0A63AD40AEE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1830,7 +2312,7 @@
       "Pico Heights, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520600?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=15163826B673F69739258505C5BA8A4898686ECD",
+    "url": "https://www.adzuna.com/land/ad/5811520600?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=15163826B673F69739258505C5BA8A4898686ECD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1847,7 +2329,7 @@
       "San Bruno, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520583?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=A0B300971D99FC029B541AF4CEEC7F2F53DFC2B4",
+    "url": "https://www.adzuna.com/land/ad/5811520583?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=A0B300971D99FC029B541AF4CEEC7F2F53DFC2B4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1864,7 +2346,7 @@
       "Sunnyvale, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520588?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=1DEA546198C293293CEDFB92733BB9E9F3C2F25C",
+    "url": "https://www.adzuna.com/land/ad/5811520588?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=1DEA546198C293293CEDFB92733BB9E9F3C2F25C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1881,7 +2363,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520620?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=8C7F46C6EAE9A54B061E83A3EA2CB655773214AC",
+    "url": "https://www.adzuna.com/land/ad/5811520620?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=8C7F46C6EAE9A54B061E83A3EA2CB655773214AC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1898,7 +2380,7 @@
       "Isla Vista, Santa Barbara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520589?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=8A34A55D2824F64ECB4DCDF3A91CB7E35F02D9F3",
+    "url": "https://www.adzuna.com/land/ad/5811520589?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=8A34A55D2824F64ECB4DCDF3A91CB7E35F02D9F3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784748351,
@@ -1932,7 +2414,7 @@
       "Bellevue, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434420?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=BD97616952F52F019E0588B1580AA6A156C0EBFD",
+    "url": "https://www.adzuna.com/land/ad/5810434420?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=BD97616952F52F019E0588B1580AA6A156C0EBFD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1949,7 +2431,7 @@
       "Kirkland, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434419?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=7D4F93903639CC74033E19765E648FC8B5250462",
+    "url": "https://www.adzuna.com/land/ad/5810434419?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=7D4F93903639CC74033E19765E648FC8B5250462",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1966,7 +2448,7 @@
       "Kirkland, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434425?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=4749EFA301CB4935255F1CFB1DACBD0BB427284F",
+    "url": "https://www.adzuna.com/land/ad/5810434425?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=4749EFA301CB4935255F1CFB1DACBD0BB427284F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -1983,7 +2465,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434442?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C18C0FDB4899D78F762B013D49C1105743F326B9",
+    "url": "https://www.adzuna.com/land/ad/5810434442?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=C18C0FDB4899D78F762B013D49C1105743F326B9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683897,
@@ -2000,7 +2482,7 @@
       "International, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434388?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=E9E10A192F42791DF02772D8A357851B7261EB7C",
+    "url": "https://www.adzuna.com/land/ad/5810434388?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=E9E10A192F42791DF02772D8A357851B7261EB7C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -2017,7 +2499,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434381?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=6E1FDFB20080D47960CE8E93CB00B20C611DB3C9",
+    "url": "https://www.adzuna.com/land/ad/5810434381?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=6E1FDFB20080D47960CE8E93CB00B20C611DB3C9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -2034,7 +2516,7 @@
       "Bellevue, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434410?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=711B53CADFC2B9517D837CC6BDDDA32BBF60BC1D",
+    "url": "https://www.adzuna.com/land/ad/5810434410?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=711B53CADFC2B9517D837CC6BDDDA32BBF60BC1D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -2051,7 +2533,7 @@
       "International, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434398?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FFB4AB803EA8CF3A6A65677B5FDE61760A28422A",
+    "url": "https://www.adzuna.com/land/ad/5810434398?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=FFB4AB803EA8CF3A6A65677B5FDE61760A28422A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683896,
@@ -2068,7 +2550,7 @@
       "Madison, Dane County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432927?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=19D5B6A534C8C35B72DE239D7AB8D17CCE16D259",
+    "url": "https://www.adzuna.com/land/ad/5810432927?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=19D5B6A534C8C35B72DE239D7AB8D17CCE16D259",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683864,
@@ -2085,7 +2567,7 @@
       "Madison, Dane County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432930?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=EF4EF00471EA729AB3D0D7B8C7D9CDB0CEB6574E",
+    "url": "https://www.adzuna.com/land/ad/5810432930?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=EF4EF00471EA729AB3D0D7B8C7D9CDB0CEB6574E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683864,
@@ -2102,7 +2584,7 @@
       "Waukesha, Waukesha County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432808?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=FAB19BEFD8F8C10006C8F9A9FF5385F0DF8BD5AD",
+    "url": "https://www.adzuna.com/land/ad/5810432808?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=FAB19BEFD8F8C10006C8F9A9FF5385F0DF8BD5AD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784683861,
@@ -2136,7 +2618,7 @@
       "Grand Central, Manhattan"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300789?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=65C36ED18996CE857B127376DA5DDA78EA65F5C2",
+    "url": "https://www.adzuna.com/land/ad/5810300789?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=65C36ED18996CE857B127376DA5DDA78EA65F5C2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673879,
@@ -2153,7 +2635,7 @@
       "Grand Central, Manhattan"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300804?se=VIIosvyG8RG4J83nekfXWA&utm_medium=api&utm_source=e936e76a&v=C78DD114E92375175DE49AB1D876B82A4162C0D2",
+    "url": "https://www.adzuna.com/land/ad/5810300804?se=DgoIwRKH8RGlu8FcJJTwKw&utm_medium=api&utm_source=e936e76a&v=C78DD114E92375175DE49AB1D876B82A4162C0D2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784673879,
@@ -9560,25 +10042,6 @@
     "emailed": false
   },
   {
-    "uid": "pittcsc:e5045382-ee6d-4bcb-a35a-9d5d2d395276",
-    "source": "pittcsc",
-    "company": "Advantmed",
-    "title": "AI Automation Intern",
-    "category": "Data Science, AI & Machine Learning",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.workable.com/advantmed/j/45F5E3C394/",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1763741534,
-    "first_seen": 1784479083,
-    "emailed": false
-  },
-  {
     "uid": "pittcsc:dfe8eaa9-3989-4402-9c73-c86d06daaca1",
     "source": "pittcsc",
     "company": "Root Access",
@@ -9632,6 +10095,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1763741473,
+    "first_seen": 1784479083,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e5045382-ee6d-4bcb-a35a-9d5d2d395276",
+    "source": "pittcsc",
+    "company": "Advantmed",
+    "title": "AI Automation Intern",
+    "category": "Data Science, AI & Machine Learning",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.workable.com/advantmed/j/45F5E3C394/",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1763741534,
     "first_seen": 1784479083,
     "emailed": false
   },
@@ -17387,6 +17869,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1761814262,
+    "first_seen": 1784355847,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:80664168-0ca5-4b03-abeb-0a416ad0426e",
+    "source": "pittcsc",
+    "company": "Group 1001",
+    "title": "Quantitative Analysis Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Stamford, CT"
+    ],
+    "terms": [
+      "Fall 2025"
+    ],
+    "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R25_0672",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1760695975,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -30584,25 +31085,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1760696090,
-    "first_seen": 1784355847,
-    "emailed": false
-  },
-  {
-    "uid": "pittcsc:80664168-0ca5-4b03-abeb-0a416ad0426e",
-    "source": "pittcsc",
-    "company": "Group 1001",
-    "title": "Quantitative Analysis Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Stamford, CT"
-    ],
-    "terms": [
-      "Fall 2025"
-    ],
-    "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Stamford-Connecticut/Quantitative-Analysis-Intern_R25_0672",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1760695975,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -87715,469 +88197,6 @@
     "date_posted": 1774573747,
     "first_seen": 1784026751,
     "emailed": false
-  },
-  {
-    "uid": "simplify:6828ff57-9a8d-4562-8536-9780eb6970a7",
-    "source": "simplify",
-    "company": "Landscape Forms",
-    "title": "Product Engineering CAD Intern - Starting in January",
-    "category": "Software",
-    "locations": [
-      "Kalamazoo, MI"
-    ],
-    "terms": [
-      "Winter 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/landscapeforms/jobs/7489671003",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764120700,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9cdb0c27-0676-4ab8-9018-1ba02684ee68",
-    "source": "simplify",
-    "company": "Microchip Technology",
-    "title": "Intern-Engineering - Test",
-    "category": "Hardware",
-    "locations": [
-      "Chandler, AZ"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Test-_R2066-25",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764119818,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7899b794-8c31-4940-a90a-6233c699f5f9",
-    "source": "simplify",
-    "company": "Northrop Grumman",
-    "title": "2027 Intern Test & Evaluation",
-    "category": "Hardware",
-    "locations": [
-      "Melbourne, FL"
-    ],
-    "terms": [
-      "Summer 2027"
-    ],
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Test---Evaluation_R10215535",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764119672,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4b26fdbe-e869-4ee9-94ca-5c8e4b3b3b52",
-    "source": "simplify",
-    "company": "Thermo Fisher Scientific",
-    "title": "Data Science Intern - AI/ML Research for Ion Chromatography",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Sunnyvale-California-USA/Data-Science-Intern--AI-ML-Research-for-Ion-Chromatography-_R-01328159",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764119155,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b1c8d8b0-9477-4f17-8b62-1b7de77a0906",
-    "source": "simplify",
-    "company": "Huntington Bancshares",
-    "title": "Data Science Co-op",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Data-Science---Co-Op_R0067592",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764122144,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0c494f66-1d71-4451-a4fe-1a973be8af10",
-    "source": "simplify",
-    "company": "Affirm",
-    "title": "Software Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7528020003",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764122099,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:8b8f84c8-f4b9-47a2-b067-456d21d5b757",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "PhD Software Engineer - Threat Detection",
-    "category": "Software",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://university-uber.icims.com/jobs/151453/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123958,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:3ec0379a-b694-427e-af93-7e50a5f1529e",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "Data Science Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "SF",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://university-uber.icims.com/jobs/151500/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123964,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2f3fef49-17d9-4f62-83fb-169f97b1ca42",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "PhD Applied Scientist Intern - Core Services Science Staff - United States",
-    "category": "AI/ML/Data",
-    "locations": [
-      "SF",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://university-uber.icims.com/jobs/151463/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123966,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:8b7e8591-e91b-4938-9be3-4332c3994b9a",
-    "source": "simplify",
-    "company": "Wisk",
-    "title": "Autonomy Simulation Software Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2025"
-    ],
-    "url": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/Autonomy-Simulation-Software-Engineering-Intern_JR100375",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123630,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:bb53fd16-d39b-4663-b7ed-a4a04eb95959",
-    "source": "simplify",
-    "company": "Seagate Technology ",
-    "title": "Intern Advanced Data Storage Micromagnetic Modeler",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Bloomington, MN"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://seagatecareers.com/job/Bloomington-Intern-Advanced-Data-Storage-Micromagnetic-Modeler-MN/1345598700/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123492,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:28c9ab4c-4bd4-4fd6-bf45-f456a0c246da",
-    "source": "simplify",
-    "company": "Seagate Technology ",
-    "title": "Firmware/Software Intern",
-    "category": "Hardware",
-    "locations": [
-      "Shakopee, MN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://seagatecareers.com/job/Shakopee-FirmwareSoftware-Internship-Summer-2026-MN/1345559200/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123490,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2167182e-6e6a-470d-aee3-8551a3af967d",
-    "source": "simplify",
-    "company": "Seagate Technology ",
-    "title": "Intern Ferroelectric Data Storage Modeling",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Bloomington, MN"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://seagatecareers.com/job/Bloomington-Intern-Ferroelectric-Data-Storage-Modeling-MN/1345597100/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123494,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:5e15d3cc-d77a-4b8c-81eb-c812e2251af6",
-    "source": "simplify",
-    "company": "Leidos",
-    "title": "Transportation Modeler Intern 3",
-    "category": "AI/ML/Data",
-    "locations": [
-      "McLean, VA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Summer 2026"
-    ],
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Modeler-Intern-III_R-00170998",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764126160,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:c88fab34-9ef4-4230-b01e-e2bcf5bfc701",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "PhD Applied Scientist Intern - Trusted Identity",
-    "category": "AI/ML/Data",
-    "locations": [
-      "SF",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://university-uber.icims.com/jobs/151272/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123967,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:18ef7e29-3019-4c54-8ad3-69097f89dc59",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "PhD Applied Scientist Intern - Road Safety",
-    "category": "AI/ML/Data",
-    "locations": [
-      "SF",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://university-uber.icims.com/jobs/151265/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123968,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:d65992d9-db2f-43c1-8bd0-489b3b646692",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "2026 PhD Applied Scientist Intern - Trusted Identity - United States",
-    "category": "AI/ML/Data",
-    "locations": [
-      "SF",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.uber.com/global/en/careers/list/151272/",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764124313,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:a45700d8-5b2b-4262-9171-ecd191f00b7f",
-    "source": "simplify",
-    "company": "GM financial",
-    "title": "Intern Oracle Application Developer",
-    "category": "Software",
-    "locations": [
-      "Irving, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1343",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764124058,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7a2ae695-21b0-4365-8760-02fbb7ebe5a6",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "PhD Applied Scientist Intern - Core Services Science Staff",
-    "category": "AI/ML/Data",
-    "locations": [
-      "SF",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.uber.com/global/en/careers/list/151463/",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764124312,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:32abd191-c4c5-41a4-8fb9-d8518681851b",
-    "source": "simplify",
-    "company": "General Dynamics Mission Systems",
-    "title": "Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://careers-gdms.icims.com/jobs/68793/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764123952,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ba6fe976-8e68-443d-ad75-018e90d4d237",
-    "source": "simplify",
-    "company": "Ciena",
-    "title": "Software Engineering Intern or Placement",
-    "category": "Hardware",
-    "locations": [
-      "Edinburgh, UK"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/Software-Engineering-Intern_R028780",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764124304,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9c911133-719d-4ec1-8050-20cc84ebca96",
-    "source": "simplify",
-    "company": "Daimler Truck",
-    "title": "Engineering Quality \u2013 And Compliance Intern - Safety",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Portland, OR"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Engineering-Quality--Safety--and-Compliance-Intern_DT-16143",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764124176,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:92700275-65f7-466c-b34f-c5adda63b219",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "PhD Software Engineer Intern - Threat Detection",
-    "category": "Software",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.uber.com/global/en/careers/list/151453/",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764124378,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:8d212191-0046-4565-b5b3-0ba39de31d55",
-    "source": "simplify",
-    "company": "NVIDIA",
-    "title": "Product Management Intern",
-    "category": "Product",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Intern--Enterprise-Products---Summer-2026_JR2006857",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764126644,
-    "first_seen": 1784003708,
-    "emailed": true
   },
   {
     "uid": "simplify:ede54e84-6c38-4b23-82f9-e4a5835ac2c6",
@@ -314627,7 +314646,7 @@
     ],
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010550",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781676236,
     "first_seen": 1784003708,
     "emailed": true
@@ -325137,7 +325156,7 @@
     ],
     "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783641600,
     "first_seen": 1784003708,
     "emailed": true
