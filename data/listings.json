@@ -1,5 +1,997 @@
 [
   {
+    "uid": "vanshb03:f43b4694-cfbc-460d-bd8b-c7a99214ad95",
+    "source": "vanshb03",
+    "company": "Radix Trading",
+    "title": "Quantitative Technologist Intern, C++",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881161,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:9d6696b7-37a8-4591-bd0c-3188d7029a5c",
+    "source": "vanshb03",
+    "company": "Deepgram",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Remote",
+      "US"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784881730,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:a8b122cc-6088-4dbe-b7cf-2d34262b0b49",
+    "source": "vanshb03",
+    "company": "Netic",
+    "title": "Full-Stack Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784880689,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:4088bfd2-a590-47cc-b01f-84cfb13e767a",
+    "source": "vanshb03",
+    "company": "Netic",
+    "title": "Forward Deployed Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c?embed=true",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784880696,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:da4804e5-799e-4dad-9c6f-b29d6ab45cc2",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Quantitative Trader Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8617344002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881800,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:061fb553-36e2-4a40-996e-8145094c1880",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Quantitative Researcher Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881807,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:3a877898-03db-4d40-b260-c1b03dc487df",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Machine Learning Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784881811,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:9614e1a9-8e62-4e79-b979-0125c1fbaec7",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Machine Learning Researcher Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881814,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:1f0c7094-1b59-4cda-95f2-40e11db9cd23",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Cybersecurity Analyst Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8632723002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881817,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:14ab1d25-162a-40a7-baa4-28552e08a7c0",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Data Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8631973002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881820,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:9dd07412-10f3-4b0d-8608-ea0f9c5d4a3e",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Fundamental Research Analyst Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8347286002/",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784881824,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:c6e7a7e2-7ba2-4e42-b50c-2b0b80496640",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Hardware Engineer (FPGA/ASIC) Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784881826,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:aa8011b9-bdde-4fba-8065-71030aac9442",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Linux Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8626260002/",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784881840,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:ecbe71bf-241c-4edb-8608-d6c6b48a1c6f",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Network Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8620793002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881845,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:0e507b5e-48e5-4181-beb7-529d5afb3369",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Sales and Trading Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8347385002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881848,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:6f9d532c-ee7e-43a4-ac91-02f468430a5d",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Tools and Compilers Research and Development Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881852,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:0484ebb0-7ca8-4df1-80e7-235738d4c3dc",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Trading Desk Operations Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8621450002/",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784881857,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:6d04639a-152a-4d9a-972f-dd2c58a39d7c",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Windows Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8628843002/",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784881863,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:c05efabc-e56c-42df-acdf-6792be1be56d",
+    "source": "vanshb03",
+    "company": "Jane Street",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/position/8419303002/",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784881873,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:a7abcc46-052a-42b3-a1b9-4ebc6d07ecb3",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Washington, D.C."
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "date_posted": 1784882282,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:85f363dd-83b7-428d-b645-5200549e94a3",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "date_posted": 1784882287,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:85d96166-20d7-4928-a81a-b815ea0309dd",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Infrastructure Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784882290,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:35cbe6f4-e5e3-45fe-92fb-ead7d21826f5",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882294,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:be9c167e-b272-46e1-a169-a88b742aa291",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882297,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:a26a4ffb-a34f-4da4-8435-569d3c9e73c1",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Forward Deployed Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Washington, D.C."
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784882302,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:970fe63f-0d51-44fc-b25a-857a051ac41a",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882305,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:0c8e1e21-7cfa-4338-a358-b04bd39fa799",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Washington, D.C."
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882312,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:62ec68a4-2c66-4687-b3ba-018b1caa6437",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882314,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:def1cdde-d5df-4c40-93e0-d17693c324cc",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Denver, CO"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882318,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:012269d3-ac77-42ec-b155-6d02f53f8a49",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Defense Tech",
+    "category": "Software",
+    "locations": [
+      "Washington, D.C."
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784882322,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:c57978d9-d708-4381-8e51-fb2ed61cd5c1",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Defense Tech",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784882334,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:627e89a9-d3c2-49e9-8c6e-5757d9dc5fb9",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Defense Tech",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784882336,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:eb2485e8-7d0d-4a6a-9bb0-a65a4468fbbd",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Infrastructure",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882341,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:7df0afda-c7d5-4b89-ae2e-d90be7286f68",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882344,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:75f28f5a-4ac9-4bab-894f-4175ba430e77",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Production Infrastructure",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882350,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:332f85f8-6ca8-47db-9377-039379a6d58d",
+    "source": "vanshb03",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer Intern, Production Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784882356,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:c9aa53e1-e51f-4760-a17c-d995e1d58203",
+    "source": "vanshb03",
+    "company": "Walleye Capital",
+    "title": "Risk Technology Analyst Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784883351,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:d9b93194-4c9a-4c3e-a69d-da411676f0fd",
+    "source": "vanshb03",
+    "company": "Walleye Capital",
+    "title": "Technology Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784883360,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:46a9b33c-0918-4965-b8d6-e861a5c6a372",
+    "source": "vanshb03",
+    "company": "Walleye Capital",
+    "title": "Investment Data Science Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784883374,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:2f65bb66-a69c-4a85-8d11-e8d64d862bc2",
+    "source": "vanshb03",
+    "company": "Akuna Capital",
+    "title": "Quantitative Development & Strategy Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "date_posted": 1784884047,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:1388d27b-abcf-4c16-8467-f5f2b7b8b950",
+    "source": "vanshb03",
+    "company": "Akuna Capital",
+    "title": "Quantitative Research Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://akunacapital.com/careers/job/8036614/?gh_jid=8036614",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "date_posted": 1784884053,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:3d65b136-900e-4661-973c-5b85171bc069",
+    "source": "vanshb03",
+    "company": "TransMarket Group",
+    "title": "DevOps/SRE Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784884098,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:520c760c-986a-4f06-9aba-4d2b3a17537c",
+    "source": "vanshb03",
+    "company": "IMC",
+    "title": "Quantitative Research Intern (PHD)",
+    "category": "Software",
+    "locations": [
+      "Chicago"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.imc.com/us/careers/jobs/4907400101",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784884977,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:ae5d4514-76f7-486a-ad52-56fe3ef69bda",
+    "source": "vanshb03",
+    "company": "IMC",
+    "title": "Quantitative Research Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.imc.com/us/careers/jobs/4907399101",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784884984,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:f54eae4a-2d0d-4122-99d8-ed17feddf8c8",
+    "source": "vanshb03",
+    "company": "IMC",
+    "title": "Hardware Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.imc.com/us/careers/jobs/4823945101",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1784885006,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386164",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Yonkers, Westchester County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386164?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=E672A7B3EFDAD436C9FF8CFD7DFFBE7FD75AF5FA",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386208",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Kenner, Jefferson Parish"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386208?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=45DE2016BE6921FA8C0957DA7DC52F86C4569217",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386185",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Hampton City, Virginia"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386185?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=40D08D2FDBF1A1C033AADA40A42237D19B357E7F",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784885957,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386205",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Waterloo, Black Hawk County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386205?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=508BF5832411CBCA38F426DAD98DEEA4CEF6C931",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386122",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Great Falls, Cascade County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386122?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=2D907E18AF076ED6B5515B0962A2D9EF8DAC582F",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386156",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Houston, Harris County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386156?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=A8B08842E004DFFE1F7280C9A43713B6564E03BC",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386199",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Springfield, Greene County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386199?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=D95C0C7333E55A146D2789034FE843193F4D4590",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386186",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "El Paso, El Paso County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386186?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=A946DADAADF945DEEE96F5C99B296712DFF62C8D",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784885957,
+    "emailed": true
+  },
+  {
     "uid": "vanshb03:3bf282cf-0952-44ca-85dc-2415cb802265",
     "source": "vanshb03",
     "company": "Google",
@@ -475,7 +1467,7 @@
       "Worcester, Worcester County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386548?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=89215BA2A2B9BE7A9E0F028ECE5D0FF595620A43",
+    "url": "https://www.adzuna.com/land/ad/5813386548?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=89215BA2A2B9BE7A9E0F028ECE5D0FF595620A43",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855689,
@@ -492,114 +1484,12 @@
       "Bozeman, Gallatin County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386424?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=F7D9FAB93F8CC53698C0E559B587B17DBFBCDCD0",
+    "url": "https://www.adzuna.com/land/ad/5813386424?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=F7D9FAB93F8CC53698C0E559B587B17DBFBCDCD0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855687,
     "first_seen": 1784875358,
     "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386355",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Manchester, Hillsborough County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386355?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=BCBCC606725BDCB1FD61FAA3975742C141CCEDA4",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855686,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386346",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Erie, Erie County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386346?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=4B4E3DFBAD417489475D0FAEC890F80DD5DA14CF",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855686,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386386",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Kenosha, Kenosha County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386386?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=36DBC31B57E9F3D50517B01A94F22A541D369715",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855686,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386321",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Nashville, Davidson County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386321?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=6FD9C1F107F05C04430BFFC22D2CEBB81CECB3FE",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855686,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386324",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Juneau, Alaska"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386324?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=4021A4820510EDAEB6DAA19BC82694198693729E",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855686,
-    "first_seen": 1784875358,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5813386345",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Waipahu, Honolulu"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386345?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=0699D9F249018EDAE44D517564FF37686738196C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855686,
-    "first_seen": 1784875358,
-    "emailed": false
   },
   {
     "uid": "adzuna:5813386351",
@@ -611,7 +1501,7 @@
       "Grand Rapids, Kent County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386351?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=B74291C8A1087A4327F657C9D0955D0CE524B6B5",
+    "url": "https://www.adzuna.com/land/ad/5813386351?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=B74291C8A1087A4327F657C9D0955D0CE524B6B5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -628,7 +1518,7 @@
       "Olympia, Thurston County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386313?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=24487775311DF1BDA69CD439C60C818CACAC97CA",
+    "url": "https://www.adzuna.com/land/ad/5813386313?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=24487775311DF1BDA69CD439C60C818CACAC97CA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -645,7 +1535,7 @@
       "Bowling Green, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386390?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=4259E8CC58481B075D37C5C46B9DADACA8604C16",
+    "url": "https://www.adzuna.com/land/ad/5813386390?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=4259E8CC58481B075D37C5C46B9DADACA8604C16",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -662,7 +1552,7 @@
       "Fresno, Fresno County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386320?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=5E328EA828C4423039077F5950D7C1ED0F289B64",
+    "url": "https://www.adzuna.com/land/ad/5813386320?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=5E328EA828C4423039077F5950D7C1ED0F289B64",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -679,7 +1569,7 @@
       "Dekalb, DeKalb County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386343?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=586BF75BD03C0873237048D0B350D9631E36CF32",
+    "url": "https://www.adzuna.com/land/ad/5813386343?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=586BF75BD03C0873237048D0B350D9631E36CF32",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -696,7 +1586,7 @@
       "Jefferson City, Cole County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386333?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=91D0AAAA26EF765864D03D72CB280875A613F256",
+    "url": "https://www.adzuna.com/land/ad/5813386333?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=91D0AAAA26EF765864D03D72CB280875A613F256",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -713,7 +1603,7 @@
       "Salt Lake City, Salt Lake County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386316?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=172CD4A074C9162A271A053DCB9A84F06268F7CE",
+    "url": "https://www.adzuna.com/land/ad/5813386316?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=172CD4A074C9162A271A053DCB9A84F06268F7CE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -730,7 +1620,7 @@
       "Albuquerque, Bernalillo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386349?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=DE49721FBB79F386346C03644CCBCAF56FA8FF7D",
+    "url": "https://www.adzuna.com/land/ad/5813386349?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=DE49721FBB79F386346C03644CCBCAF56FA8FF7D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -747,7 +1637,7 @@
       "Harrisburg, Dauphin County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386381?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=294AF4F41C11B38C75F45CF784DDB79AD24C78E5",
+    "url": "https://www.adzuna.com/land/ad/5813386381?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=294AF4F41C11B38C75F45CF784DDB79AD24C78E5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855686,
@@ -755,174 +1645,106 @@
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386296",
+    "uid": "adzuna:5813386355",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Idaho Falls, Bonneville County"
+      "Manchester, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386296?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=1B2F4B58B7A3D798939B28C164DBB633AB088F11",
+    "url": "https://www.adzuna.com/land/ad/5813386355?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=BCBCC606725BDCB1FD61FAA3975742C141CCEDA4",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855685,
+    "date_posted": 1784855686,
     "first_seen": 1784875358,
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386238",
+    "uid": "adzuna:5813386346",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Anchorage, Alaska"
+      "Erie, Erie County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386238?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=0D6CBF4E48FDC34A51BE5A39F1D95509044D82E4",
+    "url": "https://www.adzuna.com/land/ad/5813386346?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=4B4E3DFBAD417489475D0FAEC890F80DD5DA14CF",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855685,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386386",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Kenosha, Kenosha County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386386?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=36DBC31B57E9F3D50517B01A94F22A541D369715",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386321",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Nashville, Davidson County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386321?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=6FD9C1F107F05C04430BFFC22D2CEBB81CECB3FE",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386324",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Juneau, Alaska"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386324?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=4021A4820510EDAEB6DAA19BC82694198693729E",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855686,
     "first_seen": 1784875358,
     "emailed": false
   },
   {
-    "uid": "adzuna:5813386251",
+    "uid": "adzuna:5813386345",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Kearney, Buffalo County"
+      "Waipahu, Honolulu"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386251?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=98CB13A3FB12536F5D95C312050829C365A339B7",
+    "url": "https://www.adzuna.com/land/ad/5813386345?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=0699D9F249018EDAE44D517564FF37686738196C",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855685,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386214",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Bakersfield, Kern County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386214?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=87CAD85B5C5F3DB6FF7E23C261589D54B49C9793",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855685,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386252",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Covington, Kenton County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386252?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=9E2813C1F1C2F733EBF2CFF051BF1365F3CDCEE1",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855685,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386264",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Harrisonburg, Harrisonburg City"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386264?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=03A6DC60ADF2A342CBF81366188EDE024E322A4F",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855685,
+    "date_posted": 1784855686,
     "first_seen": 1784875358,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5813386242",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Smyrna, Kent County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386242?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=0D15B4B3AAC21037A477F7F85F4DA509E4E63F44",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855685,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386235",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Elizabeth, Union County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386235?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=986DD00ED74CC6397C5D32C4BACC3DC1114AFF55",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855685,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386263",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Pearl City, Honolulu"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386263?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=8D41B18004F3A67710998EC92082117864A655B9",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855685,
-    "first_seen": 1784875358,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5813386237",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Springdale, Washington County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386237?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=8B50424FEDE816A691E220C2B03ED0FD3D4556D7",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855685,
-    "first_seen": 1784875358,
-    "emailed": true
   },
   {
     "uid": "adzuna:5813386227",
@@ -934,7 +1756,7 @@
       "Gulfport, Harrison County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386227?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=E2781D4CDEFD39288911C7754410233DDC12E084",
+    "url": "https://www.adzuna.com/land/ad/5813386227?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=E2781D4CDEFD39288911C7754410233DDC12E084",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -951,7 +1773,7 @@
       "Lansing, Ingham County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386269?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=B9899432D6AB9A7E483FEAD30AD04081C66EF2BD",
+    "url": "https://www.adzuna.com/land/ad/5813386269?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=B9899432D6AB9A7E483FEAD30AD04081C66EF2BD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -968,7 +1790,7 @@
       "Rockville, Montgomery County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386256?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=2551C079E6F16799D6E8C71D34E02F1B79DC394E",
+    "url": "https://www.adzuna.com/land/ad/5813386256?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=2551C079E6F16799D6E8C71D34E02F1B79DC394E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -985,7 +1807,7 @@
       "Waterbury, New Haven County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386270?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=F6B88A812C0F0FC2376074FBBACA7270514BA00D",
+    "url": "https://www.adzuna.com/land/ad/5813386270?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=F6B88A812C0F0FC2376074FBBACA7270514BA00D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1002,7 +1824,7 @@
       "Biloxi, Harrison County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386234?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=9DC8F8FF17BBC384EDE6392C0F0724FB995DE6EB",
+    "url": "https://www.adzuna.com/land/ad/5813386234?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=9DC8F8FF17BBC384EDE6392C0F0724FB995DE6EB",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1019,7 +1841,7 @@
       "Seattle, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386308?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=5E39D5473FC7B6663A694867D64884CC894CC451",
+    "url": "https://www.adzuna.com/land/ad/5813386308?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=5E39D5473FC7B6663A694867D64884CC894CC451",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1036,7 +1858,7 @@
       "Independence, Jackson County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386217?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=96AA38634DDFECA75C31E0E3B1B8249923B071F9",
+    "url": "https://www.adzuna.com/land/ad/5813386217?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=96AA38634DDFECA75C31E0E3B1B8249923B071F9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1053,7 +1875,7 @@
       "Chattanooga, Hamilton County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386255?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=88E290F650A36B7E5A6877D1A08CBE0DA5DF5F1C",
+    "url": "https://www.adzuna.com/land/ad/5813386255?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=88E290F650A36B7E5A6877D1A08CBE0DA5DF5F1C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1070,7 +1892,7 @@
       "Mililani, Honolulu"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386272?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=42E6A695791C903857DEB786943C23711F9FE008",
+    "url": "https://www.adzuna.com/land/ad/5813386272?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=42E6A695791C903857DEB786943C23711F9FE008",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1087,7 +1909,7 @@
       "Boca Raton, Palm Beach County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386286?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=7572D29AE1E01F728C2F00A2B5EEF099D3E78233",
+    "url": "https://www.adzuna.com/land/ad/5813386286?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=7572D29AE1E01F728C2F00A2B5EEF099D3E78233",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1104,7 +1926,7 @@
       "Lawrenceville, Gwinnett County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386261?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=8306DC94E723CEC2BF1632674498931297E54A59",
+    "url": "https://www.adzuna.com/land/ad/5813386261?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=8306DC94E723CEC2BF1632674498931297E54A59",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1121,7 +1943,7 @@
       "Edison, Middlesex County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386276?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=E662CE0241437DFEA789A1042554B023AEC71741",
+    "url": "https://www.adzuna.com/land/ad/5813386276?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=E662CE0241437DFEA789A1042554B023AEC71741",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855685,
@@ -1129,155 +1951,172 @@
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386157",
+    "uid": "adzuna:5813386296",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Thornton, Adams County"
+      "Idaho Falls, Bonneville County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386157?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=C97EAD6B2DA77DF6AD0D0A53FA2DBCC7A89D706E",
+    "url": "https://www.adzuna.com/land/ad/5813386296?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=1B2F4B58B7A3D798939B28C164DBB633AB088F11",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855684,
+    "date_posted": 1784855685,
     "first_seen": 1784875358,
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386202",
+    "uid": "adzuna:5813386238",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Concord, Merrimack County"
+      "Anchorage, Alaska"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386202?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=BA48FFD590CEBFEB18F9286D64B7D450D7A3EBCA",
+    "url": "https://www.adzuna.com/land/ad/5813386238?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=0D6CBF4E48FDC34A51BE5A39F1D95509044D82E4",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855684,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386251",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Kearney, Buffalo County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386251?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=98CB13A3FB12536F5D95C312050829C365A339B7",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
     "first_seen": 1784875358,
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386152",
+    "uid": "adzuna:5813386214",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Aurora, Kane County"
+      "Bakersfield, Kern County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386152?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=9785E64CA80B372131219887EDEB326849973FBE",
+    "url": "https://www.adzuna.com/land/ad/5813386214?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=87CAD85B5C5F3DB6FF7E23C261589D54B49C9793",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855684,
+    "date_posted": 1784855685,
     "first_seen": 1784875358,
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386125",
+    "uid": "adzuna:5813386252",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Tampa, Hillsborough County"
+      "Covington, Kenton County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386125?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=03F03A5C8A3EF88E227F07188863BFA103BB281A",
+    "url": "https://www.adzuna.com/land/ad/5813386252?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=9E2813C1F1C2F733EBF2CFF051BF1365F3CDCEE1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855684,
+    "date_posted": 1784855685,
     "first_seen": 1784875358,
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386123",
+    "uid": "adzuna:5813386264",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Ann Arbor, Washtenaw County"
+      "Harrisonburg, Harrisonburg City"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386123?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=35EE492D3580842C8F6B1D24A50F129B2D24402D",
+    "url": "https://www.adzuna.com/land/ad/5813386264?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=03A6DC60ADF2A342CBF81366188EDE024E322A4F",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855684,
+    "date_posted": 1784855685,
+    "first_seen": 1784875358,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5813386242",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Smyrna, Kent County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386242?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=0D15B4B3AAC21037A477F7F85F4DA509E4E63F44",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855685,
     "first_seen": 1784875358,
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386147",
+    "uid": "adzuna:5813386235",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Richmond, Richmond County"
+      "Elizabeth, Union County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386147?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=3CB79384DCC4A0CE2FCE227B8A7FF29C38F25868",
+    "url": "https://www.adzuna.com/land/ad/5813386235?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=986DD00ED74CC6397C5D32C4BACC3DC1114AFF55",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855684,
+    "date_posted": 1784855685,
     "first_seen": 1784875358,
     "emailed": true
   },
   {
-    "uid": "adzuna:5813386180",
+    "uid": "adzuna:5813386263",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Newark, Essex County"
+      "Pearl City, Honolulu"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386180?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=F6D78FD0A1C2CC9ACEA888A16822DD938935B235",
+    "url": "https://www.adzuna.com/land/ad/5813386263?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=8D41B18004F3A67710998EC92082117864A655B9",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855684,
+    "date_posted": 1784855685,
     "first_seen": 1784875358,
-    "emailed": true
+    "emailed": false
   },
   {
-    "uid": "adzuna:5813386138",
+    "uid": "adzuna:5813386237",
     "source": "adzuna",
     "company": "Siemens",
     "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
     "category": "Software",
     "locations": [
-      "Norman, Cleveland County"
+      "Springdale, Washington County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386138?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=6F50304CB43F00BC3A60801E2DC9C565B203B428",
+    "url": "https://www.adzuna.com/land/ad/5813386237?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=8B50424FEDE816A691E220C2B03ED0FD3D4556D7",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784855684,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5813386210",
-    "source": "adzuna",
-    "company": "Siemens",
-    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
-    "category": "Software",
-    "locations": [
-      "Albany, Albany County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386210?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=06E2E2459FE8A7BB070183D5F6816896E5C2B3A1",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855684,
+    "date_posted": 1784855685,
     "first_seen": 1784875358,
     "emailed": true
   },
@@ -1291,7 +2130,24 @@
       "Las Vegas, Clark County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5813386170?se=ciBhmDWH8RGrM47ULMm8-A&utm_medium=api&utm_source=e936e76a&v=6617EA4030B9AEB9F9AAA7C20BBA26AE482AA4F9",
+    "url": "https://www.adzuna.com/land/ad/5813386170?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=6617EA4030B9AEB9F9AAA7C20BBA26AE482AA4F9",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1784855684,
+    "first_seen": 1784875358,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5813386157",
+    "source": "adzuna",
+    "company": "Siemens",
+    "title": "Strategic Student Program: AI Software Engineer Intern (Fall 2026; EBS)",
+    "category": "Software",
+    "locations": [
+      "Thornton, Adams County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5813386157?se=wI43iUOH8RGyieqxKrFBSw&utm_medium=api&utm_source=e936e76a&v=C97EAD6B2DA77DF6AD0D0A53FA2DBCC7A89D706E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784855684,
@@ -3533,7 +4389,7 @@
     ],
     "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Postdoctoral-Research-Associate---Crop-Systems-Modeling-and-Data-Analytics_R19506",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784160000,
     "first_seen": 1784799734,
     "emailed": false
@@ -3552,7 +4408,7 @@
     ],
     "url": "https://ats.rippling.com/colheli/jobs/a4feeeb1-e7b2-41b5-8f33-b1a012e28b18",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596661,
     "first_seen": 1784799734,
     "emailed": false
@@ -7566,7 +8422,7 @@
     ],
     "url": "https://ats.rippling.com/denari/jobs/8aca4674-f7de-4afa-b031-41c77c533282",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596339,
     "first_seen": 1784605085,
     "emailed": true
@@ -7700,7 +8556,7 @@
     ],
     "url": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596607,
     "first_seen": 1784605085,
     "emailed": false
@@ -7757,7 +8613,7 @@
     ],
     "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596702,
     "first_seen": 1784605085,
     "emailed": false
@@ -9059,7 +9915,7 @@
     ],
     "url": "https://jobs.eu.lever.co/cirrus/f85c944c-d437-4685-9f04-c7b79ae65ecb/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784585308,
     "first_seen": 1784590045,
     "emailed": false
@@ -17590,7 +18446,7 @@
     ],
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1777480877,
     "first_seen": 1784355847,
     "emailed": true
@@ -84799,7 +85655,7 @@
     ],
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1777084402,
     "first_seen": 1784355847,
     "emailed": true
@@ -85033,7 +85889,7 @@
     ],
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778311144,
     "first_seen": 1784355847,
     "emailed": true
@@ -85346,7 +86202,7 @@
     ],
     "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Machine-Learning-Intern--Fall-2026--Internship----4-months_R260014372",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778576437,
     "first_seen": 1784355847,
     "emailed": true
@@ -85595,7 +86451,7 @@
     ],
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1779204629,
     "first_seen": 1784355847,
     "emailed": true
@@ -85690,7 +86546,7 @@
     ],
     "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1779486020,
     "first_seen": 1784355847,
     "emailed": true
@@ -85709,7 +86565,7 @@
     ],
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1779486105,
     "first_seen": 1784355847,
     "emailed": true
@@ -85863,7 +86719,7 @@
     ],
     "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Product-Development-Internship-Program---Summer-2027_R246020-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783425735,
     "first_seen": 1784355847,
     "emailed": true
@@ -86023,7 +86879,7 @@
     ],
     "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783638043,
     "first_seen": 1784355847,
     "emailed": false
@@ -86119,7 +86975,7 @@
     ],
     "url": "https://datasite.wd1.myworkdayjobs.com/en-GB/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255",
     "sponsorship": "Offers Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1783642651,
     "first_seen": 1784355847,
     "emailed": true
@@ -86138,7 +86994,7 @@
     ],
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1783642660,
     "first_seen": 1784355847,
     "emailed": true
@@ -87641,7 +88497,7 @@
     ],
     "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784073600,
     "first_seen": 1784128205,
     "emailed": false
@@ -88508,7 +89364,7 @@
     ],
     "url": "https://stevens.wd5.myworkdayjobs.com/External/job/Hoboken-NJ---Main-Campus/Summer-2026-Research-Assistant_RQ30337",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783987200,
     "first_seen": 1784068481,
     "emailed": false
@@ -312865,7 +313721,7 @@
     ],
     "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Intern---Engineering_R00235413",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781273413,
     "first_seen": 1784003708,
     "emailed": true
@@ -324359,7 +325215,7 @@
     ],
     "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783462574,
     "first_seen": 1784003708,
     "emailed": true
@@ -325251,7 +326107,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783472744,
     "first_seen": 1784003708,
     "emailed": true
@@ -325768,7 +326624,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783641600,
     "first_seen": 1784003708,
     "emailed": true
@@ -327095,7 +327951,7 @@
     ],
     "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/Energy-Data-Analysis----Year-Round--Graduate-Internship_R14400",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783900800,
     "first_seen": 1784003708,
     "emailed": true
@@ -327228,7 +328084,7 @@
     ],
     "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783900800,
     "first_seen": 1784003708,
     "emailed": true
