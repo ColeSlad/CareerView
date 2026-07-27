@@ -1,5 +1,46 @@
 [
   {
+    "uid": "simplify:ada5c220-536e-454a-8ba0-1f7629d949e6",
+    "source": "simplify",
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
+    "category": "Software",
+    "locations": [
+      "Honolulu, HI"
+    ],
+    "terms": [
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027",
+      "Fall 2027"
+    ],
+    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765581501,
+    "first_seen": 1785172567,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:33da215d-313a-45b7-8ad3-bde21b250ffe",
+    "source": "pittcsc",
+    "company": "Palantir",
+    "title": "Software Engineer Internship - Production Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1761900806,
+    "first_seen": 1785172567,
+    "emailed": false
+  },
+  {
     "uid": "simplify:7831a3f0-fe97-450c-8eb6-9ad12ce8c694",
     "source": "simplify",
     "company": "Blackberry",
@@ -211,23 +252,6 @@
     "emailed": true
   },
   {
-    "uid": "adzuna:5810292328",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Durham, Durham County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292328?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=5869657E8877804931A7CF69A5C3FC41FB06EBFC",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784673648,
-    "first_seen": 1785155688,
-    "emailed": true
-  },
-  {
     "uid": "vanshb03:94c066cb-7a39-42ea-b93a-278ec82a0fba",
     "source": "vanshb03",
     "company": "Toshiba Commerce Solutions",
@@ -321,23 +345,6 @@
     "date_posted": 1785147502,
     "first_seen": 1785152714,
     "emailed": true
-  },
-  {
-    "uid": "adzuna:5813650907",
-    "source": "adzuna",
-    "company": "HP",
-    "title": "Software Engineering Intern, Device Experiences",
-    "category": "Software",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5813650907?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784871713,
-    "first_seen": 1785152714,
-    "emailed": false
   },
   {
     "uid": "vanshb03:b0944d26-53d0-412d-a5f5-146e82e3e29d",
@@ -664,227 +671,6 @@
     "date_posted": 1764373789,
     "first_seen": 1785114872,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5810434442",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Redmond, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434442?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=C18C0FDB4899D78F762B013D49C1105743F326B9",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683897,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434388",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "International, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434388?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=E9E10A192F42791DF02772D8A357851B7261EB7C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683896,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434381",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Redmond, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434381?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=6E1FDFB20080D47960CE8E93CB00B20C611DB3C9",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683896,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434410",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Bellevue, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434410?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=711B53CADFC2B9517D837CC6BDDDA32BBF60BC1D",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683896,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810434398",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "International, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434398?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=FFB4AB803EA8CF3A6A65677B5FDE61760A28422A",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683896,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810432927",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Madison, Dane County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432927?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=19D5B6A534C8C35B72DE239D7AB8D17CCE16D259",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683864,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810432930",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Madison, Dane County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810432930?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=EF4EF00471EA729AB3D0D7B8C7D9CDB0CEB6574E",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683864,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810335169",
-    "source": "adzuna",
-    "company": "Apple",
-    "title": "Software Engineer Intern(Core OS)-Shanghai",
-    "category": "Software",
-    "locations": [
-      "US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5810335169?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784677349,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810300789",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Grand Central, Manhattan"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300789?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=65C36ED18996CE857B127376DA5DDA78EA65F5C2",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784673879,
-    "first_seen": 1785110932,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5810300804",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Grand Central, Manhattan"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810300804?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=C78DD114E92375175DE49AB1D876B82A4162C0D2",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784673879,
-    "first_seen": 1785110932,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5810292327",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Five Points, Wake County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292327?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=A085E1AF1E64E75B83EAD451137EDB727EA337E6",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784673648,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810292331",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Five Points, Wake County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292331?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=0568AB4EC33F1923496ED8F68D5A18A27B66355C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784673648,
-    "first_seen": 1785110932,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810292329",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Durham, Durham County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810292329?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=1055F162B2C4B263D96DB7605E10B284D8339EFA",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784673648,
-    "first_seen": 1785110932,
-    "emailed": true
   },
   {
     "uid": "pittcsc:b545458a-51b1-4ea4-a2e1-dd740a02773d",
@@ -1214,23 +1000,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5810434425",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Kirkland, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434425?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=4749EFA301CB4935255F1CFB1DACBD0BB427284F",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683897,
-    "first_seen": 1785101447,
-    "emailed": true
-  },
-  {
     "uid": "pittcsc:0e177308-015a-4345-b570-c6acbd348739",
     "source": "pittcsc",
     "company": "CoStar Group",
@@ -1343,40 +1112,6 @@
     "date_posted": 1784678400,
     "first_seen": 1785060516,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5810434419",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Kirkland, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434419?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=7D4F93903639CC74033E19765E648FC8B5250462",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683897,
-    "first_seen": 1785060516,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5816302197",
-    "source": "adzuna",
-    "company": "TriMas Corporation",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Bloomfield, Oakland County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5816302197?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785038306,
-    "first_seen": 1785058069,
-    "emailed": true
   },
   {
     "uid": "pittcsc:61d563ea-f9a1-4bd3-bc18-2bf60734d99e",
@@ -1884,40 +1619,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5816142628",
-    "source": "adzuna",
-    "company": "PDT Partners",
-    "title": "Summer 2027 Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "New York City, New York"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5816142628?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785023579,
-    "first_seen": 1785038557,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5810434420",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Bellevue, King County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810434420?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=BD97616952F52F019E0588B1580AA6A156C0EBFD",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784683897,
-    "first_seen": 1785038557,
-    "emailed": true
-  },
-  {
     "uid": "pittcsc:22d08295-47cf-4b31-9064-5548c060a73f",
     "source": "pittcsc",
     "company": "Ambarella",
@@ -2326,244 +2027,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5813334004",
-    "source": "adzuna",
-    "company": "Rendezvous Robotics",
-    "title": "Software Engineering Intern (Spring 2027)",
-    "category": "Software",
-    "locations": [
-      "Golden, Jefferson County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5813334004?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784854557,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5812973442",
-    "source": "adzuna",
-    "company": "HP Inc.",
-    "title": "Software Engineering Intern, Device Experiences",
-    "category": "Software",
-    "locations": [
-      "SoMa, San Francisco"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5812973442?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784834712,
-    "first_seen": 1785022533,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5811986499",
-    "source": "adzuna",
-    "company": "Schweitzer Engineering Laboratories",
-    "title": "Software Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Idaho City, Boise County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5811986499?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784775957,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810787455",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Mountain View, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810787455?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=CB2395E3DB80E9B127ECECEA533E09675C16567B",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784702233,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5810842831",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Mountain View, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5810842831?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=E2B8F8100F261AD6D7AC8775A437FE90CC0D0CFC",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784704771,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520757",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Campbell, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520757?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=C04A5A6D8C08BC9DC96D042949898AFF45E3258A",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748353,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520709",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Huntington, Orange County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520709?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=38D7D2B4A07A6C6BA39AB95A89CF08D3DF54DC66",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520677",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Santa Cruz, Santa Cruz County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520677?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=94CF7EF1D5355692B53C4CB4080FADFDD92ED39E",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520691",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Sunnyvale, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520691?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=750F257934B08523E1D95D1C8CB6A44E1D94AEA8",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520672",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Portola Valley, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520672?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=28B4D7400D8DBDD8B677DEE627AFE5E30C5EF9E9",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520702",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Isla Vista, Santa Barbara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520702?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=92B6C16CC841E865AD6281EC39C486773FCBE6FF",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520689",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Palo Alto, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520689?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=FD6F6E27DDB8282E5BBED8D2638E3976C2639616",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520688",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "San Bruno, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520688?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=5D32095BB549917E17923FF7789400657A862094",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1785022533,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5811520676",
-    "source": "adzuna",
-    "company": "Google",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "category": "Software",
-    "locations": [
-      "SoMa, San Francisco"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5811520676?se=fofFW9SJ8RGONKM1ulltTQ&utm_medium=api&utm_source=e936e76a&v=5266ED2E1CD330BDAF4871B238E691A6A0DA8E60",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784748352,
-    "first_seen": 1785022533,
-    "emailed": false
-  },
-  {
     "uid": "pittcsc:8db96167-1218-4668-a3b3-f05bd712c27d",
     "source": "pittcsc",
     "company": "Robert Bosch Venture Capital",
@@ -2740,23 +2203,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5815205855",
-    "source": "adzuna",
-    "company": "Appian",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Mc Lean, Fairfax County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5815205855?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784958589,
-    "first_seen": 1784973459,
-    "emailed": true
-  },
-  {
     "uid": "simplify:008e0d90-7269-48e2-83ff-7df9f23e5d28",
     "source": "simplify",
     "company": "The Federal Reserve System",
@@ -2774,74 +2220,6 @@
     "date_posted": 1781707050,
     "first_seen": 1784970903,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5815080460",
-    "source": "adzuna",
-    "company": "Astranis",
-    "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
-    "category": "Software",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5815080460?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784952158,
-    "first_seen": 1784970903,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5815038857",
-    "source": "adzuna",
-    "company": "Tenstorrent University",
-    "title": "Software Engineering Intern, Power Modeling & AI Tools",
-    "category": "Software",
-    "locations": [
-      "Santa Clara, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5815038857?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784950034,
-    "first_seen": 1784970903,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5815038123",
-    "source": "adzuna",
-    "company": "CTC Campus",
-    "title": "Software Engineering Internship - Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Chicago, Cook County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5815038123?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784950010,
-    "first_seen": 1784970903,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5814916755",
-    "source": "adzuna",
-    "company": "CTC Campus",
-    "title": "Quant Trading Internship - Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Chicago, Cook County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5814916755?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784940142,
-    "first_seen": 1784961176,
-    "emailed": true
   },
   {
     "uid": "pittcsc:603d9e4a-8d3d-412c-b7b7-c5bdd22b00dd",
@@ -3578,23 +2956,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5814853180",
-    "source": "adzuna",
-    "company": "Wing Assistant",
-    "title": "AI & Tech Internship Program (Software, Product, Ops, GTM)",
-    "category": "Software",
-    "locations": [
-      "West Point, King William County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5814853180?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784933119,
-    "first_seen": 1784951041,
-    "emailed": true
-  },
-  {
     "uid": "pittcsc:07e8b773-4e60-4cfd-8807-0b74c389e1ee",
     "source": "pittcsc",
     "company": "Genies",
@@ -4170,23 +3531,6 @@
     "date_posted": 1764174295,
     "first_seen": 1784911922,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5813824956",
-    "source": "adzuna",
-    "company": "Moog",
-    "title": "Intern, Software Engineering",
-    "category": "Software",
-    "locations": [
-      "Buffalo, Erie County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5813824956?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784881209,
-    "first_seen": 1784902668,
-    "emailed": true
   },
   {
     "uid": "pittcsc:624f3974-081c-4af4-9529-285d6268698e",
@@ -5844,23 +5188,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5813407491",
-    "source": "adzuna",
-    "company": "Rendezvous Robotics",
-    "title": "Software Engineering Intern (Fall 2026)",
-    "category": "Software",
-    "locations": [
-      "Golden, Jefferson County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5813407491?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784855905,
-    "first_seen": 1784875358,
-    "emailed": true
-  },
-  {
     "uid": "pittcsc:70ecddf1-c1e3-4dbf-ae3f-822bf987727a",
     "source": "pittcsc",
     "company": "TikTok",
@@ -7195,533 +6522,6 @@
     "date_posted": 1784764800,
     "first_seen": 1784846012,
     "emailed": false
-  },
-  {
-    "uid": "lever:palantir:315f695d-04d1-4a9a-848e-cb2bec7a997e",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - US Government",
-    "category": "Software",
-    "locations": [
-      "Honolulu, HI"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1765491974,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:373367a9-3160-49d8-b7af-2efec062fad1",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship - Production Infrastructure",
-    "category": "Software",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1750968313,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Deployment Strategist, Internship",
-    "category": "Software",
-    "locations": [
-      "Paris, France"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1778517108,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:a49d4181-a289-435a-b581-7f5af0497c8e",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Deployment Strategist, Internship - US Government",
-    "category": "Software",
-    "locations": [
-      "Honolulu, HI"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1765492275,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "Paris, France"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1778068078,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:395a4483-fc3d-4b77-a500-501923fd0976",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - AUS Government",
-    "category": "Software",
-    "locations": [
-      "Sydney, Australia"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1780058819,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - Commercial",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1456357025,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:d5486403-c050-4920-b2e0-91b69b61ebb2",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - Commercial",
-    "category": "Software",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1782849666,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1722899672,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:ac0dc094-2480-43c2-8495-26ade227ff4f",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - France",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1773145615,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:9e40d77f-b07c-437b-98e7-def9b0184d89",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - Intel",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1782933745,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:d582cd84-14fd-4aa3-b413-15982d286bd9",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - Poland",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1771501153,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:e0010393-c300-446f-bf67-fa2ef067f16f",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - US Government",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1656624050,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - US Government",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1625177563,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:09846827-b931-4a9f-bd64-c3bb8860187b",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Privacy and Civil Liberties Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1475793251,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:373eb939-6f57-4836-8479-be79a5e07249",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "Denver, CO"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1724906088,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1656623940,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:bdcfb29f-4f27-42de-933f-7f83a359b9f0",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1625176840,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1625176335,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship - Defense Tech",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1722900428,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship - Defense Tech",
-    "category": "Software",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1722900402,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship - Defense Tech",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1722900376,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:b229baac-494b-4a0d-9a13-2e38806e06f3",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship - Infrastructure",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1750950062,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:f221738b-e97c-4ce3-a12a-17ada2b855e4",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship - Infrastructure",
-    "category": "Software",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1755596923,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:37964982-9b4c-471e-a1d8-fb8f45d7f116",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship - Production Infrastructure",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1750968274,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship - Production Infrastructure",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1755596487,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
-    "category": "Software",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1782328394,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:e6789b17-62fb-4226-a079-f8c17ff19e2d",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1774033367,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:5c4c65c5-77da-4d36-856c-4ade87631019",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1776979025,
-    "first_seen": 1784826341,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:5c7bb70c-83ea-43e7-8055-0c8f319f4333",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1774033522,
-    "first_seen": 1784826341,
-    "emailed": true
-  },
-  {
-    "uid": "lever:palantir:655f9937-a4ce-4e7d-80e2-a6659af07329",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Year at Palantir - Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1774033655,
-    "first_seen": 1784826341,
-    "emailed": true
   },
   {
     "uid": "simplify:9b96cf35-590b-4fe5-9a32-caf76a2a6a85",
