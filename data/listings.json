@@ -1,5 +1,638 @@
 [
   {
+    "uid": "pittcsc:328d3dbf-a926-439e-882c-d69f12d4e2f5",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2003090",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630592,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:26983479-bf92-4081-a333-10e6f1ff1780",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Developer \u2013 Intern - I - Canada",
+    "category": "Software",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2003137",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630585,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:5e08ce2e-62e0-4bfe-a230-069592c99573",
+    "source": "pittcsc",
+    "company": "Field AI",
+    "title": "Field Application Engineer-Intern",
+    "category": "Software",
+    "locations": [
+      "Rancho Santa Margarita, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://jobs.lever.co/field-ai/18b10e56-5af0-4220-bab3-b8ccdff019cc/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630363,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:c97b1332-a2e5-4276-8d54-70df4b7c21e7",
+    "source": "simplify",
+    "company": "Cloudflare",
+    "title": "Research Engineer Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8089407",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785364195,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:720b84ca-84d8-43bc-9284-172ad2ed475f",
+    "source": "simplify",
+    "company": "Menasha Corporation",
+    "title": "Supply Chain Analytics Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Neenah, WI"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Supply-Chain-Analytics-Intern_R14985",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785283200,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:d8419553-b116-44e9-8ec0-d1ae843c6512",
+    "source": "simplify",
+    "company": "Virtu Financial",
+    "title": "Frontend Developer Internship",
+    "category": "Software",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785363946,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:42a4495c-329d-4277-8dcf-363d9fabcffd",
+    "source": "simplify",
+    "company": "Redwood Materials",
+    "title": "Embedded Software Engineer Intern",
+    "category": "Hardware",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785363920,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:3ebe96ab-b5a9-4ddf-99f0-9583e2226fb6",
+    "source": "simplify",
+    "company": "CVS Health",
+    "title": "Analytics & Behavior Change \u2013 Engineering Grad - Conversion",
+    "category": "AI/ML/Data",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Engineering-Grad--Conversion-_R0991701",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785283200,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:40c1294a-a472-402c-882b-843d26a07449",
+    "source": "simplify",
+    "company": "CVS Health",
+    "title": "Analytics & Behavior Change - Data Science - Conversion",
+    "category": "AI/ML/Data",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Data-Science-Undergrad--Conversion-_R0991610",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785283200,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:1fd1fcc8-fade-4579-a322-2bc276d73ca7",
+    "source": "simplify",
+    "company": "RapDev",
+    "title": "ServiceNow Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785363164,
+    "first_seen": 1785368139,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:6d7aec6c-69ae-46a8-ae30-91c6e60efa17",
+    "source": "pittcsc",
+    "company": "Formlabs",
+    "title": "Optical Engineering Intern - Summer 2026",
+    "category": "Hardware",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.formlabs.com/job/7435488/apply/?gh_jid=7435488",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764631410,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0a021bc0-81cd-4fe8-9a5f-7501940a7929",
+    "source": "pittcsc",
+    "company": "Formlabs",
+    "title": "Build Team Intern - Summer 2026",
+    "category": "Hardware",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.formlabs.com/job/7269643/apply/?gh_jid=7269643",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764631392,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7b118f9d-f5a3-494f-964a-3ced53aeceb8",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "Bell Labs Machine Learning and AI Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27164",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630966,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0fb6bc77-4d1a-4e06-b32f-8d82ae4a2bc5",
+    "source": "pittcsc",
+    "company": "Seagate Technology ",
+    "title": "Software Development Intern - AFM Probe Monitoring",
+    "category": "Software",
+    "locations": [
+      "Bloomington, MN"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://seagatecareers.com/job/Bloomington-Software-Development-Intern-AFM-Probe-Monitoring-MN/1346449300/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630971,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f5f620df-6b2a-4487-8e77-97845329f048",
+    "source": "pittcsc",
+    "company": "Netflix",
+    "title": "Analytics Engineer Intern - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "LA",
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://explore.jobs.netflix.net/careers/job/790313055767",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630467,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f547d7cd-7936-4dc6-ba32-4e7e531e8e1b",
+    "source": "pittcsc",
+    "company": "Netflix",
+    "title": "Data Visualization Engineering Intern - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056617",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630481,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ec472764-ee98-4a18-b861-c64265a494f3",
+    "source": "pittcsc",
+    "company": "Netflix",
+    "title": "Internet Measurement Research Intern - Openconnect Distributed Systems - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "LA",
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056856",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630715,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:accebcd7-6b51-4a70-8f9e-3a082565ac5f",
+    "source": "pittcsc",
+    "company": "Netflix",
+    "title": "Analytics Engineering Intern - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "LA",
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056024",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630707,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:92470aba-c1dc-4774-908d-1c505a700664",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "AI Engineering Product Management Specialist 1",
+    "category": "Product",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2000446",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630588,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:83f27dbe-c984-481f-abb5-62e3c931c6d5",
+    "source": "pittcsc",
+    "company": "Netflix",
+    "title": "Video Algorithms Intern - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630472,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7c67ea67-fc04-4e5e-bc89-72d78dc43e5c",
+    "source": "pittcsc",
+    "company": "Netflix",
+    "title": "Experimentation & Causal Inference Intern - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "LA",
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056618",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630478,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:67528e06-f6f6-4170-aa07-5fe52c1bb00a",
+    "source": "pittcsc",
+    "company": "Standard Aero",
+    "title": "Computer Engineering Intern - TFE Service Team",
+    "category": "Software",
+    "locations": [
+      "Winnipeg, MB, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/8023",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630634,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:58faa154-38a2-4ac3-95e8-5dcb767761f1",
+    "source": "pittcsc",
+    "company": "Netflix",
+    "title": "Data Engineer Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "LA",
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://explore.jobs.netflix.net/careers/job/790313056337",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630468,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:516871c0-5c24-41df-9932-4760e5254803",
+    "source": "pittcsc",
+    "company": "Hologic",
+    "title": "Intern Commercial Analytics",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Marlborough, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10401",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630693,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2f612f74-7c05-4d45-8900-580add8cd56d",
+    "source": "pittcsc",
+    "company": "Atomic Semi",
+    "title": "Automation Software Engineer Intern",
+    "category": "Hardware",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/atomicsemi/d5c5f921-67f7-4b01-8e7a-adaf450f8296/application",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630501,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:12a65cd4-9e6b-48a0-abe6-e736cbac4207",
+    "source": "pittcsc",
+    "company": "GM financial",
+    "title": "Intern \u2013 IT Data Engineering",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Arlington, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1395",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630423,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:118798df-28e9-4ca4-ad90-da927900d7cb",
+    "source": "pittcsc",
+    "company": "Toyota Research Institute",
+    "title": "Future Product Innovation Intern - CAD Generation ML",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.lever.co/tri/ae298f6b-d941-4de1-98ef-3ad876080104/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630423,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:396563ea-b001-42c6-8f14-c7a50a98bcef",
+    "source": "pittcsc",
+    "company": "Samsung Research America",
+    "title": "Intern - Research Scientist - Vision Language Model",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8221479002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764631122,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6dd7bd8d-0785-48d0-a6cf-26c1e67731b7",
+    "source": "pittcsc",
+    "company": "Formlabs",
+    "title": "Hardware Systems Integration Intern - Summer 2026",
+    "category": "Hardware",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.formlabs.com/job/7229235/apply/?gh_jid=7229235",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764631402,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e8e913cc-628c-4799-9e7a-5de667d909ae",
+    "source": "pittcsc",
+    "company": "Samsung Research America",
+    "title": "Summer Intern - Research Scientist - LLM",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8221423002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764631120,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:493a5f42-d0bc-4d19-b341-471f2b3638e7",
+    "source": "pittcsc",
+    "company": "Port Authority NY NJ",
+    "title": "Summer Intern - Regional Planning",
+    "category": "AI/ML/Data",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.jobvite.com/panynj/job/oSyZyfwH?nl=1&nl=1&fr=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630521,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b798b884-fd30-4122-9ca4-13a9f3bf6593",
+    "source": "pittcsc",
+    "company": "Port Authority NY NJ",
+    "title": "Summer Intern - Tenant Construction and Alteration Process",
+    "category": "AI/ML/Data",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.jobvite.com/panynj/job/oawZyfwX?nl=1&nl=1&fr=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630948,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:553f373e-6fa1-429a-9f62-100f5f614f2c",
+    "source": "pittcsc",
+    "company": "ION Group",
+    "title": "Software Developer - Leadership Development Program - Uniondale",
+    "category": "Software",
+    "locations": [
+      "Uniondale, NY"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764630711,
+    "first_seen": 1785368139,
+    "emailed": false
+  },
+  {
     "uid": "adzuna:5820384714",
     "source": "adzuna",
     "company": "Amazon",
@@ -9,7 +642,7 @@
       "Seattle, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820384714?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=DACF4D303F799D6D69F6EA6838D1F1F42A2C83C0",
+    "url": "https://www.adzuna.com/land/ad/5820384714?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=DACF4D303F799D6D69F6EA6838D1F1F42A2C83C0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351888,
@@ -26,7 +659,7 @@
       "Mc Lean, Fairfax County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820384619?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=2043FC5BFEEF5137930B516C7B35A9B9AE4881FE",
+    "url": "https://www.adzuna.com/land/ad/5820384619?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=2043FC5BFEEF5137930B516C7B35A9B9AE4881FE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351887,
@@ -43,7 +676,7 @@
       "Phoenix, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5808523068?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=A302DA3D690FBE0F36DD7ACFD815E055CE4AF399",
+    "url": "https://www.adzuna.com/land/ad/5808523068?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=A302DA3D690FBE0F36DD7ACFD815E055CE4AF399",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784574586,
@@ -479,7 +1112,7 @@
       "Plymouth, Wayne County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820025289?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=D20045357DECA97F144EB3E321E0615B29440EEE",
+    "url": "https://www.adzuna.com/land/ad/5820025289?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=D20045357DECA97F144EB3E321E0615B29440EEE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785331356,
@@ -496,7 +1129,7 @@
       "Perrysburg, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819594115?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=E767669FBA0D86BAFD5C898D68D250D0F58CF519",
+    "url": "https://www.adzuna.com/land/ad/5819594115?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=E767669FBA0D86BAFD5C898D68D250D0F58CF519",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785302995,
@@ -820,7 +1453,7 @@
       "Austin, Travis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819713296?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=79ECFF795CF97F5960E4F2547EFD65E3454CB26D",
+    "url": "https://www.adzuna.com/land/ad/5819713296?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=79ECFF795CF97F5960E4F2547EFD65E3454CB26D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785308074,
@@ -893,7 +1526,7 @@
       "Melbourne, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819407026?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=A13076FA499D99B6BF0444D568377B32CAB13100",
+    "url": "https://www.adzuna.com/land/ad/5819407026?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=A13076FA499D99B6BF0444D568377B32CAB13100",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785291961,
@@ -944,7 +1577,7 @@
       "Irvine, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5808523900?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=E62866588231515BEAB150EEDFD2C125707B49C3",
+    "url": "https://www.adzuna.com/land/ad/5808523900?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=E62866588231515BEAB150EEDFD2C125707B49C3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784574631,
@@ -961,7 +1594,7 @@
       "Cape Canaveral, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5808523854?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=53D3E53CCB4F1672DADEE06DC8A9AC107E1B4066",
+    "url": "https://www.adzuna.com/land/ad/5808523854?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=53D3E53CCB4F1672DADEE06DC8A9AC107E1B4066",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784574631,
@@ -978,7 +1611,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5808523618?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=5095D781BBF46D75E22D05B3CC154C6A176443ED",
+    "url": "https://www.adzuna.com/land/ad/5808523618?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=5095D781BBF46D75E22D05B3CC154C6A176443ED",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784574629,
@@ -995,7 +1628,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5808523460?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=1EEF956790CB495448FEE3B2CC19969C8F2631CE",
+    "url": "https://www.adzuna.com/land/ad/5808523460?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=1EEF956790CB495448FEE3B2CC19969C8F2631CE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784574629,
@@ -1012,7 +1645,7 @@
       "Hawthorne, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5808523208?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=CD92046AA2B0E4F3577D34D8182F8F1C4134C2AF",
+    "url": "https://www.adzuna.com/land/ad/5808523208?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=CD92046AA2B0E4F3577D34D8182F8F1C4134C2AF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784574587,
@@ -1029,7 +1662,7 @@
       "Mc Gregor, McLennan County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5808522902?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=F551129FC39BE2405D21A937F15863C12E6503B9",
+    "url": "https://www.adzuna.com/land/ad/5808522902?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=F551129FC39BE2405D21A937F15863C12E6503B9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784574584,
@@ -1222,7 +1855,7 @@
       "State College, Centre County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819255225?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=F31522F6D69603015A16901679BEFC006518593C",
+    "url": "https://www.adzuna.com/land/ad/5819255225?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=F31522F6D69603015A16901679BEFC006518593C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785280070,
@@ -1239,7 +1872,7 @@
       "Orenco, Washington County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819206403?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=9CB1629F6EBDD1C658E93FC26E242F891A72F04C",
+    "url": "https://www.adzuna.com/land/ad/5819206403?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=9CB1629F6EBDD1C658E93FC26E242F891A72F04C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785278532,
@@ -1256,7 +1889,7 @@
       "Farmington, Oakland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819201442?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=DB734856E2C18B8251DC1DF6C6544155E78B4597",
+    "url": "https://www.adzuna.com/land/ad/5819201442?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=DB734856E2C18B8251DC1DF6C6544155E78B4597",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785278374,
@@ -3126,7 +3759,7 @@
       "Washington, D.C., US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818301294?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=55F4BE968A31FBA997D75AF754B19B05CF015F07",
+    "url": "https://www.adzuna.com/land/ad/5818301294?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=55F4BE968A31FBA997D75AF754B19B05CF015F07",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221828,
@@ -3143,7 +3776,7 @@
       "Denver, Colorado"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818301293?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=0A308C7BCBD0B1A29F98EE317A7B4BAFF3368574",
+    "url": "https://www.adzuna.com/land/ad/5818301293?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=0A308C7BCBD0B1A29F98EE317A7B4BAFF3368574",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221828,
@@ -3160,7 +3793,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818298551?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=2602B0A26BB7B4417132A50CC99114C2A0CF602D",
+    "url": "https://www.adzuna.com/land/ad/5818298551?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=2602B0A26BB7B4417132A50CC99114C2A0CF602D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221647,
@@ -3406,7 +4039,7 @@
       "Washington, D.C., US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991241?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=DA2602206ACD0416616E48C05B6D38D246D76B1F",
+    "url": "https://www.adzuna.com/land/ad/5817991241?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=DA2602206ACD0416616E48C05B6D38D246D76B1F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200732,
@@ -3423,7 +4056,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991248?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=5BD575951FB12ADB5D1C78CBE7BF717BB5CF33DF",
+    "url": "https://www.adzuna.com/land/ad/5817991248?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=5BD575951FB12ADB5D1C78CBE7BF717BB5CF33DF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200732,
@@ -3440,7 +4073,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991190?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=C7500C82D0E49DB06F39748459D00D078A8F3658",
+    "url": "https://www.adzuna.com/land/ad/5817991190?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=C7500C82D0E49DB06F39748459D00D078A8F3658",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200731,
@@ -3457,7 +4090,7 @@
       "San Francisco, California"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991158?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=89C152469109CB8676E83433C52601795356D95D",
+    "url": "https://www.adzuna.com/land/ad/5817991158?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=89C152469109CB8676E83433C52601795356D95D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200730,
@@ -3876,7 +4509,7 @@
       "Miami, Miami-Dade County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817705741?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=BFDB22680F9487FAE57CEF56E7169DE72C63D903",
+    "url": "https://www.adzuna.com/land/ad/5817705741?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=BFDB22680F9487FAE57CEF56E7169DE72C63D903",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178894,
@@ -3893,7 +4526,7 @@
       "Chicago, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817699680?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=53A3C7AFDBCDB55C4682628B0F7206CED88356C1",
+    "url": "https://www.adzuna.com/land/ad/5817699680?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=53A3C7AFDBCDB55C4682628B0F7206CED88356C1",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178738,
@@ -3910,7 +4543,7 @@
       "Chicago, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817699627?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=DE27291644C81471CBD88D9738EC06B357E7F557",
+    "url": "https://www.adzuna.com/land/ad/5817699627?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=DE27291644C81471CBD88D9738EC06B357E7F557",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178738,
@@ -4907,7 +5540,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5812973442?se=IpsF7KSL8RGINrWrzxZWtQ&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
+    "url": "https://www.adzuna.com/land/ad/5812973442?se=tHRBNKaL8RGvcpHzPda_Yw&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784834712,
@@ -96935,430 +97568,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:6d7aec6c-69ae-46a8-ae30-91c6e60efa17",
-    "source": "simplify",
-    "company": "Formlabs",
-    "title": "Optical Engineering Intern - Summer 2026",
-    "category": "Hardware",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.formlabs.com/job/7435488/apply/?gh_jid=7435488",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764631410,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0a021bc0-81cd-4fe8-9a5f-7501940a7929",
-    "source": "simplify",
-    "company": "Formlabs",
-    "title": "Build Team Intern - Summer 2026",
-    "category": "Hardware",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.formlabs.com/job/7269643/apply/?gh_jid=7269643",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764631392,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7b118f9d-f5a3-494f-964a-3ced53aeceb8",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "Bell Labs Machine Learning and AI Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27164",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630966,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0fb6bc77-4d1a-4e06-b32f-8d82ae4a2bc5",
-    "source": "simplify",
-    "company": "Seagate Technology ",
-    "title": "Software Development Intern - AFM Probe Monitoring",
-    "category": "Software",
-    "locations": [
-      "Bloomington, MN"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://seagatecareers.com/job/Bloomington-Software-Development-Intern-AFM-Probe-Monitoring-MN/1346449300/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630971,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f5f620df-6b2a-4487-8e77-97845329f048",
-    "source": "simplify",
-    "company": "Netflix",
-    "title": "Analytics Engineer Intern - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "LA",
-      "Los Gatos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://explore.jobs.netflix.net/careers/job/790313055767",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630467,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f547d7cd-7936-4dc6-ba32-4e7e531e8e1b",
-    "source": "simplify",
-    "company": "Netflix",
-    "title": "Data Visualization Engineering Intern - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Los Gatos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056617",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630481,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ec472764-ee98-4a18-b861-c64265a494f3",
-    "source": "simplify",
-    "company": "Netflix",
-    "title": "Internet Measurement Research Intern - Openconnect Distributed Systems - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "LA",
-      "Los Gatos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056856",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630715,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:accebcd7-6b51-4a70-8f9e-3a082565ac5f",
-    "source": "simplify",
-    "company": "Netflix",
-    "title": "Analytics Engineering Intern - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "LA",
-      "Los Gatos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056024",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630707,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:92470aba-c1dc-4774-908d-1c505a700664",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "AI Engineering Product Management Specialist 1",
-    "category": "Product",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2000446",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630588,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:83f27dbe-c984-481f-abb5-62e3c931c6d5",
-    "source": "simplify",
-    "company": "Netflix",
-    "title": "Video Algorithms Intern - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Los Gatos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056868",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630472,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7c67ea67-fc04-4e5e-bc89-72d78dc43e5c",
-    "source": "simplify",
-    "company": "Netflix",
-    "title": "Experimentation & Causal Inference Intern - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "LA",
-      "Los Gatos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056618",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630478,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:67528e06-f6f6-4170-aa07-5fe52c1bb00a",
-    "source": "simplify",
-    "company": "Standard Aero",
-    "title": "Computer Engineering Intern - TFE Service Team",
-    "category": "Software",
-    "locations": [
-      "Winnipeg, MB, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/8023",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630634,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:58faa154-38a2-4ac3-95e8-5dcb767761f1",
-    "source": "simplify",
-    "company": "Netflix",
-    "title": "Data Engineer Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "LA",
-      "Los Gatos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://explore.jobs.netflix.net/careers/job/790313056337",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630468,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:516871c0-5c24-41df-9932-4760e5254803",
-    "source": "simplify",
-    "company": "Hologic",
-    "title": "Intern Commercial Analytics",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Marlborough, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10401",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630693,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:328d3dbf-a926-439e-882c-d69f12d4e2f5",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "London, UK"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2003090",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630592,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2f612f74-7c05-4d45-8900-580add8cd56d",
-    "source": "simplify",
-    "company": "Atomic Semi",
-    "title": "Automation Software Engineer Intern",
-    "category": "Hardware",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/atomicsemi/d5c5f921-67f7-4b01-8e7a-adaf450f8296/application",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630501,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:26983479-bf92-4081-a333-10e6f1ff1780",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Developer \u2013 Intern - I - Canada",
-    "category": "Software",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2003137",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630585,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:5e08ce2e-62e0-4bfe-a230-069592c99573",
-    "source": "simplify",
-    "company": "Field AI",
-    "title": "Field Application Engineer-Intern",
-    "category": "Software",
-    "locations": [
-      "Rancho Santa Margarita, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://jobs.lever.co/field-ai/18b10e56-5af0-4220-bab3-b8ccdff019cc/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630363,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:12a65cd4-9e6b-48a0-abe6-e736cbac4207",
-    "source": "simplify",
-    "company": "GM financial",
-    "title": "Intern \u2013 IT Data Engineering",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Arlington, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1395",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630423,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:118798df-28e9-4ca4-ad90-da927900d7cb",
-    "source": "simplify",
-    "company": "Toyota Research Institute",
-    "title": "Future Product Innovation Intern - CAD Generation ML",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.lever.co/tri/ae298f6b-d941-4de1-98ef-3ad876080104/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630423,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:396563ea-b001-42c6-8f14-c7a50a98bcef",
-    "source": "simplify",
-    "company": "Samsung Research America",
-    "title": "Intern - Research Scientist - Vision Language Model",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8221479002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764631122,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6dd7bd8d-0785-48d0-a6cf-26c1e67731b7",
-    "source": "simplify",
-    "company": "Formlabs",
-    "title": "Hardware Systems Integration Intern - Summer 2026",
-    "category": "Hardware",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.formlabs.com/job/7229235/apply/?gh_jid=7229235",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764631402,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:2803d251-227d-436a-bf29-f62886d7683e",
     "source": "simplify",
     "company": "Ivalua",
@@ -97393,25 +97602,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1764634079,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:e8e913cc-628c-4799-9e7a-5de667d909ae",
-    "source": "simplify",
-    "company": "Samsung Research America",
-    "title": "Summer Intern - Research Scientist - LLM",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8221423002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764631120,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -126073,25 +126263,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:493a5f42-d0bc-4d19-b341-471f2b3638e7",
-    "source": "simplify",
-    "company": "Port Authority NY NJ",
-    "title": "Summer Intern - Regional Planning",
-    "category": "AI/ML/Data",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.jobvite.com/panynj/job/oSyZyfwH?nl=1&nl=1&fr=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630521,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:ce6358f9-7b77-46e5-85fd-20409ac99159",
     "source": "simplify",
     "company": "Tiffany & Co.",
@@ -126185,25 +126356,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1764997868,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b798b884-fd30-4122-9ca4-13a9f3bf6593",
-    "source": "simplify",
-    "company": "Port Authority NY NJ",
-    "title": "Summer Intern - Tenant Construction and Alteration Process",
-    "category": "AI/ML/Data",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.jobvite.com/panynj/job/oawZyfwX?nl=1&nl=1&fr=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630948,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -166292,25 +166444,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1769844837,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:553f373e-6fa1-429a-9f62-100f5f614f2c",
-    "source": "simplify",
-    "company": "ION Group",
-    "title": "Software Developer - Leadership Development Program - Uniondale",
-    "category": "Software",
-    "locations": [
-      "Uniondale, NY"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.lever.co/ion/2b8f5185-70e2-4c73-8c85-3a961af411fd/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764630711,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -266798,7 +266931,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7538307729329277202",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1773565826,
     "first_seen": 1784003708,
     "emailed": true
@@ -303299,7 +303432,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4677337006",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1777511688,
     "first_seen": 1784003708,
     "emailed": true
@@ -305516,7 +305649,7 @@
     ],
     "url": "https://jobs.lever.co/plus-2/2f2c1cd9-f099-483a-9717-0da83a391333/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1779833137,
     "first_seen": 1784003708,
     "emailed": true
