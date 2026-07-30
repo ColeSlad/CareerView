@@ -1,5 +1,642 @@
 [
   {
+    "uid": "pittcsc:43d82b4b-c726-487a-925b-5cad0a612fed",
+    "source": "pittcsc",
+    "company": "John Deere",
+    "title": "Part-Time Student - Data Analytics",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Davenport, IA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://johndeere.eightfold.ai/careers/job/137466935301",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717141,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:1aee86a9-abac-4c51-be00-3d6cb590e5cb",
+    "source": "pittcsc",
+    "company": "Rheem",
+    "title": "Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Fort Smith, AR"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3433",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716767,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f77189e5-1d13-47b1-b208-1728de44fe0b",
+    "source": "pittcsc",
+    "company": "Zip",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/zip/2bad03a8-4e98-480e-b8cb-bc65d36e429f/application",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717045,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:da3fc77f-077c-4d93-b5a8-b824d55cf02d",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "Materials Systems Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Denton, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Materials-Systems-TX-76205-7864/1272878901/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716987,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:a00101f6-5c51-4a7d-a424-e3f3a7ac8a16",
+    "source": "simplify",
+    "company": "Trillium",
+    "title": "Equity Trader",
+    "category": "Quant",
+    "locations": [
+      "Miami, FL",
+      "Chicago, IL",
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://www.trlm.com/apply/5191110007?gh_jid=5191110007",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785450312,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:3e85b72b-71fc-400c-ba5f-6453f85dff12",
+    "source": "simplify",
+    "company": "Aptiv",
+    "title": "Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785369600,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:9f4f7324-75cc-408e-8f40-d332e544174f",
+    "source": "simplify",
+    "company": "Sparksoft",
+    "title": "Technical Intern",
+    "category": "Software",
+    "locations": [
+      "Maryland"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785450179,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:cdaa541b-91c1-4d8e-9532-02dc579cfa22",
+    "source": "simplify",
+    "company": "LightGuide, Inc.",
+    "title": "Application Engineering Co-op",
+    "category": "Hardware",
+    "locations": [
+      "Wixom, MI"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://ats.rippling.com/lightguide/jobs/37069bc9-a6ba-4841-97fb-b7d743826af0",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785449826,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:0c5577ea-da23-4f9c-b54f-70bc34fee45d",
+    "source": "simplify",
+    "company": "Autostore",
+    "title": "AI Engineer - Hardware Development",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-USA/AI-Engineer---HW-Development_JR102615",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785369600,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:706c75b3-f742-409b-b72b-e6e9b3930bac",
+    "source": "simplify",
+    "company": "McGill University",
+    "title": "Data & Analytics Coordinator",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Data---Analytics-Coordinator_JR0000079001",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785369600,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:288b98cb-c28a-4749-b863-533bf90afd67",
+    "source": "simplify",
+    "company": "University of Rochester",
+    "title": "Research Co-op",
+    "category": "Hardware",
+    "locations": [
+      "Rochester, NY"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-1_R273410",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785369600,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:12d18ee4-5916-44bb-8d90-d5b39f8a7c4b",
+    "source": "simplify",
+    "company": "GoDaddy",
+    "title": "Software Development Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Tempe, AZ"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785449532,
+    "first_seen": 1785455116,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:d8dde7da-b9cd-456f-8810-481073996ee1",
+    "source": "simplify",
+    "company": "Helsing",
+    "title": "AI Research Intern - 3D Computer Vision",
+    "category": "AI/ML/Data",
+    "locations": [
+      "London, UK",
+      "Paris, France",
+      "Berlin, Germany",
+      "Sant Cugat del Vall\u00e8s, Barcelona, Spain",
+      "Munich, Germany"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://helsing.ai/jobs/4941957101?gh_jid=4941957101",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785449524,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:7c270e85-d47c-4c59-88ce-1f61ded9511a",
+    "source": "simplify",
+    "company": "University of Virginia Investment Management Company (UVIMCO)",
+    "title": "Investment Analyst Intern",
+    "category": "Quant",
+    "locations": [
+      "Charlottesville, VA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/uvimco/jobs/5300713008",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785364087,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d6b7624f-ae2d-437a-b921-08a0a1e5d2f9",
+    "source": "pittcsc",
+    "company": "Virtu Financial",
+    "title": "Intern - Low Latency Software Engineer",
+    "category": "Software",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8314488002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717782,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:9d7a04d2-c884-466c-a5c8-3163aa086e4b",
+    "source": "pittcsc",
+    "company": "Samsung Research America",
+    "title": "2026 Summer Intern - Research Scientist - Visual Solution",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8304379002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717615,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:80243689-efff-4987-bff3-6327f9999a62",
+    "source": "pittcsc",
+    "company": "WSP",
+    "title": "Transportation Planning Intern-Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Detroit, MI",
+      "Dallas, TX",
+      "Reston, VA",
+      "Columbus, OH",
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76549",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717777,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0125a2ee-5ed2-4b6c-befc-ad8491ab3d3b",
+    "source": "pittcsc",
+    "company": "Virtu Financial",
+    "title": "Intern - Trading Applications Software Engineer - Front-end",
+    "category": "Software",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/virtu/jobs/8314481002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717780,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f5fed54d-80d4-40df-beed-5c7a02474c83",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "Worldwide Credits Data Analytics Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Bellevue-Worldwide-Credit-Data-Analytics-Summer-Internship-2026-WA-98004/1268327401/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716978,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b97c0326-a60a-4e02-bba5-8359eb25e7e3",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Developer PhD Co-op",
+    "category": "Software",
+    "locations": [
+      "Kanata, Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2003136",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716992,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:9f6cb4e3-1159-4aad-bb62-e530b1e77e89",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "Language Models for Databases Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27184",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717228,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7c7c96bf-b1f6-430f-9079-67231c7f349b",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "Networking Research Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27590",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717232,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7ac6f767-8f73-41aa-a971-796b01aa9830",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "2026 Summer Internship: Data Engineer",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Denton, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Data-Engineer-TX-76205-7864/1272881101/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716994,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:77c37ecf-56b1-4f5b-bf06-b8360f3a052f",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "Network Systems Summer Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27336",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717227,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:5ec0f0a0-3956-45a1-8e0e-dc19ea9fa817",
+    "source": "pittcsc",
+    "company": "Wood",
+    "title": "Data Engineering / Computer Science Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "St. John's, NL, Canada"
+    ],
+    "terms": [
+      "Winter 2025"
+    ],
+    "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25031",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717008,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:5ddbf2af-f5b5-42a6-a5a4-3eda290bae1b",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "Intern AI-Driven Vehicle Definition",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Denton, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1272884101/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716980,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:557d4461-eaf3-4011-88e4-7b3da8ac78f7",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "2026 Summer Internship: Liaison Engineering",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Denton, TX"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Liaison-Engineering-TX-76205-7864/1272882201/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716985,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:48c92c1a-18d9-488e-9976-188c1e758d39",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "Radio Frequency IC Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27573",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717225,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:441a1bdc-5bc3-41a0-9b47-aa3b07225658",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "Resident Engineering Product Data Management Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Denton, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Resident-Engineering-Product-Data-Management-TX-76205-7864/1272881301/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716968,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:36c9e1fe-7b3b-44b6-a7b0-abaa67223fa5",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "PFC Data Analytics \u2013 Summer Internship 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Bellevue, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Bellevue-PFC-Data-Analytics-Summer-Internship-2026-WA-98004/1266314501/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717000,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7250ff57-6606-4faa-a58f-924b0b06c2e1",
+    "source": "pittcsc",
+    "company": "Evolve Technology",
+    "title": "Embedded C++ Software Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Waltham, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.workable.com/evolv-technology/j/D179F21722/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716862,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c095003f-99e5-4245-a46a-9f37aa4233a8",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "Warranty Audit Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Denton, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Warranty-Audit-TX-76205-7864/1272884301/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764716993,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4eac2757-a91f-4c88-b082-a933f95c14c6",
+    "source": "pittcsc",
+    "company": "Perplexity AI",
+    "title": "Research Resident",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.ashbyhq.com/Perplexity/adf189e8-5802-4077-aa1f-3668206aacbb/application",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764717288,
+    "first_seen": 1785455116,
+    "emailed": false
+  },
+  {
     "uid": "simplify:9a6942e8-038d-4b47-8c8a-c56f0b1800fa",
     "source": "simplify",
     "company": "Amentum",
@@ -183,7 +820,7 @@
       "Phoenix, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821656912?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=E7D202C7AE8E91451DB7A1B96CEB9B81207EFC62",
+    "url": "https://www.adzuna.com/land/ad/5821656912?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=E7D202C7AE8E91451DB7A1B96CEB9B81207EFC62",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785435456,
@@ -238,7 +875,7 @@
       "Folsom, Sacramento County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821649897?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=7BCD72632AC4915CB13802E01D923EE7EE5E3F62",
+    "url": "https://www.adzuna.com/land/ad/5821649897?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=7BCD72632AC4915CB13802E01D923EE7EE5E3F62",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785434739,
@@ -255,7 +892,7 @@
       "State College, Centre County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821649381?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=E72A3EAF3C93A8ED75EAB1011D26AD2DF4414960",
+    "url": "https://www.adzuna.com/land/ad/5821649381?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=E72A3EAF3C93A8ED75EAB1011D26AD2DF4414960",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785434734,
@@ -272,7 +909,7 @@
       "Chandler, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821599961?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=AA87E19E0271FD8D239EEA4DE83022CA9BB5ED08",
+    "url": "https://www.adzuna.com/land/ad/5821599961?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=AA87E19E0271FD8D239EEA4DE83022CA9BB5ED08",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785433871,
@@ -289,7 +926,7 @@
       "US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821563203?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=425C330637D6F5448F78797A0400FBF41FCC9CC0",
+    "url": "https://www.adzuna.com/land/ad/5821563203?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=425C330637D6F5448F78797A0400FBF41FCC9CC0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785433551,
@@ -306,7 +943,7 @@
       "US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821528010?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=0A0CA41FBF154ED359F414CD0E2C09CC4D09C0FB",
+    "url": "https://www.adzuna.com/land/ad/5821528010?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=0A0CA41FBF154ED359F414CD0E2C09CC4D09C0FB",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785433262,
@@ -618,7 +1255,7 @@
       "Perrysburg, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820939721?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=4F0E07A95A1F5D54B9BAE0C873B2C0EE8EAA9ADB",
+    "url": "https://www.adzuna.com/land/ad/5820939721?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=4F0E07A95A1F5D54B9BAE0C873B2C0EE8EAA9ADB",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785389039,
@@ -825,7 +1462,7 @@
       "Michigan, US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821333931?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=140DCAE4484D4088038988B4B5F311A46A2B18A1",
+    "url": "https://www.adzuna.com/land/ad/5821333931?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=140DCAE4484D4088038988B4B5F311A46A2B18A1",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785414229,
@@ -1248,7 +1885,7 @@
       "Arlington, Arlington County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820385216?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=BF8AA8AF1F2BC072EDE2661E6853EABC046FE118",
+    "url": "https://www.adzuna.com/land/ad/5820385216?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=BF8AA8AF1F2BC072EDE2661E6853EABC046FE118",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351963,
@@ -1265,7 +1902,7 @@
       "Mc Lean, Fairfax County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820384619?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=2043FC5BFEEF5137930B516C7B35A9B9AE4881FE",
+    "url": "https://www.adzuna.com/land/ad/5820384619?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=2043FC5BFEEF5137930B516C7B35A9B9AE4881FE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351887,
@@ -2466,7 +3103,7 @@
       "Seattle, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820384714?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=DACF4D303F799D6D69F6EA6838D1F1F42A2C83C0",
+    "url": "https://www.adzuna.com/land/ad/5820384714?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=DACF4D303F799D6D69F6EA6838D1F1F42A2C83C0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351888,
@@ -2885,7 +3522,7 @@
       "Plymouth, Wayne County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820025289?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=D20045357DECA97F144EB3E321E0615B29440EEE",
+    "url": "https://www.adzuna.com/land/ad/5820025289?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=D20045357DECA97F144EB3E321E0615B29440EEE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785331356,
@@ -3192,7 +3829,7 @@
       "Austin, Travis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819713296?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=79ECFF795CF97F5960E4F2547EFD65E3454CB26D",
+    "url": "https://www.adzuna.com/land/ad/5819713296?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=79ECFF795CF97F5960E4F2547EFD65E3454CB26D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785308074,
@@ -3424,7 +4061,7 @@
       "Farmington, Oakland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819201442?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=DB734856E2C18B8251DC1DF6C6544155E78B4597",
+    "url": "https://www.adzuna.com/land/ad/5819201442?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=DB734856E2C18B8251DC1DF6C6544155E78B4597",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785278374,
@@ -5294,7 +5931,7 @@
       "Washington, D.C., US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818301294?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=55F4BE968A31FBA997D75AF754B19B05CF015F07",
+    "url": "https://www.adzuna.com/land/ad/5818301294?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=55F4BE968A31FBA997D75AF754B19B05CF015F07",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221828,
@@ -5311,7 +5948,7 @@
       "Denver, Colorado"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818301293?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=0A308C7BCBD0B1A29F98EE317A7B4BAFF3368574",
+    "url": "https://www.adzuna.com/land/ad/5818301293?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=0A308C7BCBD0B1A29F98EE317A7B4BAFF3368574",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221828,
@@ -5328,7 +5965,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818298551?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=2602B0A26BB7B4417132A50CC99114C2A0CF602D",
+    "url": "https://www.adzuna.com/land/ad/5818298551?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=2602B0A26BB7B4417132A50CC99114C2A0CF602D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221647,
@@ -5574,7 +6211,7 @@
       "Washington, D.C., US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991241?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=DA2602206ACD0416616E48C05B6D38D246D76B1F",
+    "url": "https://www.adzuna.com/land/ad/5817991241?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=DA2602206ACD0416616E48C05B6D38D246D76B1F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200732,
@@ -5591,7 +6228,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991248?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=5BD575951FB12ADB5D1C78CBE7BF717BB5CF33DF",
+    "url": "https://www.adzuna.com/land/ad/5817991248?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=5BD575951FB12ADB5D1C78CBE7BF717BB5CF33DF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200732,
@@ -5608,27 +6245,10 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991190?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=C7500C82D0E49DB06F39748459D00D078A8F3658",
+    "url": "https://www.adzuna.com/land/ad/5817991190?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=C7500C82D0E49DB06F39748459D00D078A8F3658",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200731,
-    "first_seen": 1785220545,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5817991158",
-    "source": "adzuna",
-    "company": "Notion",
-    "title": "Software Engineer Intern (Fall 2026)",
-    "category": "Software",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991158?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=89C152469109CB8676E83433C52601795356D95D",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785200730,
     "first_seen": 1785220545,
     "emailed": false
   },
@@ -6044,7 +6664,7 @@
       "Miami, Miami-Dade County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817705741?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=BFDB22680F9487FAE57CEF56E7169DE72C63D903",
+    "url": "https://www.adzuna.com/land/ad/5817705741?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=BFDB22680F9487FAE57CEF56E7169DE72C63D903",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178894,
@@ -6061,7 +6681,7 @@
       "Chicago, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817699680?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=53A3C7AFDBCDB55C4682628B0F7206CED88356C1",
+    "url": "https://www.adzuna.com/land/ad/5817699680?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=53A3C7AFDBCDB55C4682628B0F7206CED88356C1",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178738,
@@ -6078,7 +6698,7 @@
       "Chicago, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817699627?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=DE27291644C81471CBD88D9738EC06B357E7F557",
+    "url": "https://www.adzuna.com/land/ad/5817699627?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=DE27291644C81471CBD88D9738EC06B357E7F557",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178738,
@@ -7075,7 +7695,7 @@
       "SoMa, San Francisco"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5812973442?se=bqfiD2mM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
+    "url": "https://www.adzuna.com/land/ad/5812973442?se=5OYet3CM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=e936e76a&v=038CED17F5362298D3DDE0BEC00FB52DFE349D5B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1784834712,
@@ -24513,25 +25133,6 @@
     "emailed": false
   },
   {
-    "uid": "pittcsc:03368e5d-c6e7-403d-b1e4-c96a37157955",
-    "source": "pittcsc",
-    "company": "Al Warren Oil Company",
-    "title": "Software Developer",
-    "category": "Software",
-    "locations": [
-      "Elk Grove Village, IL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/046C4F1C51/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1762990631,
-    "first_seen": 1784355847,
-    "emailed": false
-  },
-  {
     "uid": "pittcsc:12bfd1e0-a5fd-4ba9-aeaa-10ac3027e5ed",
     "source": "pittcsc",
     "company": "Altom Transport",
@@ -25257,6 +25858,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1761623250,
+    "first_seen": 1784355847,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:03368e5d-c6e7-403d-b1e4-c96a37157955",
+    "source": "pittcsc",
+    "company": "Al Warren Oil Company",
+    "title": "Software Developer",
+    "category": "Software",
+    "locations": [
+      "Elk Grove Village, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/046C4F1C51/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1762990631,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -99103,390 +99723,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:d6b7624f-ae2d-437a-b921-08a0a1e5d2f9",
-    "source": "simplify",
-    "company": "Virtu Financial",
-    "title": "Intern - Low Latency Software Engineer",
-    "category": "Software",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/virtu/jobs/8314488002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717782,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9d7a04d2-c884-466c-a5c8-3163aa086e4b",
-    "source": "simplify",
-    "company": "Samsung Research America",
-    "title": "2026 Summer Intern - Research Scientist - Visual Solution",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8304379002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717615,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:80243689-efff-4987-bff3-6327f9999a62",
-    "source": "simplify",
-    "company": "WSP",
-    "title": "Transportation Planning Intern-Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Detroit, MI",
-      "Dallas, TX",
-      "Reston, VA",
-      "Columbus, OH",
-      "San Diego, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76549",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717777,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0125a2ee-5ed2-4b6c-befc-ad8491ab3d3b",
-    "source": "simplify",
-    "company": "Virtu Financial",
-    "title": "Intern - Trading Applications Software Engineer - Front-end",
-    "category": "Software",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/virtu/jobs/8314481002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717780,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f77189e5-1d13-47b1-b208-1728de44fe0b",
-    "source": "simplify",
-    "company": "Zip",
-    "title": "Software Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/zip/2bad03a8-4e98-480e-b8cb-bc65d36e429f/application",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717045,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f5fed54d-80d4-40df-beed-5c7a02474c83",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "Worldwide Credits Data Analytics Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Bellevue-Worldwide-Credit-Data-Analytics-Summer-Internship-2026-WA-98004/1268327401/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716978,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:da3fc77f-077c-4d93-b5a8-b824d55cf02d",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "Materials Systems Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Denton, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Materials-Systems-TX-76205-7864/1272878901/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716987,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b97c0326-a60a-4e02-bba5-8359eb25e7e3",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Developer PhD Co-op",
-    "category": "Software",
-    "locations": [
-      "Kanata, Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2003136",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716992,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9f6cb4e3-1159-4aad-bb62-e530b1e77e89",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "Language Models for Databases Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27184",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717228,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7c7c96bf-b1f6-430f-9079-67231c7f349b",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "Networking Research Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27590",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717232,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7ac6f767-8f73-41aa-a971-796b01aa9830",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "2026 Summer Internship: Data Engineer",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Denton, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Data-Engineer-TX-76205-7864/1272881101/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716994,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:77c37ecf-56b1-4f5b-bf06-b8360f3a052f",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "Network Systems Summer Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27336",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717227,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:5ec0f0a0-3956-45a1-8e0e-dc19ea9fa817",
-    "source": "simplify",
-    "company": "Wood",
-    "title": "Data Engineering / Computer Science Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "St. John's, NL, Canada"
-    ],
-    "terms": [
-      "Winter 2025"
-    ],
-    "url": "https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25031",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717008,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:5ddbf2af-f5b5-42a6-a5a4-3eda290bae1b",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "Intern AI-Driven Vehicle Definition",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Denton, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1272884101/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716980,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:557d4461-eaf3-4011-88e4-7b3da8ac78f7",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "2026 Summer Internship: Liaison Engineering",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Denton, TX"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Liaison-Engineering-TX-76205-7864/1272882201/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716985,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:48c92c1a-18d9-488e-9976-188c1e758d39",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "Radio Frequency IC Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27573",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717225,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:441a1bdc-5bc3-41a0-9b47-aa3b07225658",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "Resident Engineering Product Data Management Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Denton, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Resident-Engineering-Product-Data-Management-TX-76205-7864/1272881301/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716968,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:36c9e1fe-7b3b-44b6-a7b0-abaa67223fa5",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "PFC Data Analytics \u2013 Summer Internship 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Bellevue-PFC-Data-Analytics-Summer-Internship-2026-WA-98004/1266314501/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717000,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7250ff57-6606-4faa-a58f-924b0b06c2e1",
-    "source": "simplify",
-    "company": "Evolve Technology",
-    "title": "Embedded C++ Software Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Waltham, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.workable.com/evolv-technology/j/D179F21722/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716862,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:1aee86a9-abac-4c51-be00-3d6cb590e5cb",
-    "source": "simplify",
-    "company": "Rheem",
-    "title": "Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Fort Smith, AR"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3433",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716767,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:c6456e63-35d5-4467-87d7-d275a2eafd58",
     "source": "simplify",
     "company": "ServiceNow",
@@ -126210,25 +126446,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:c095003f-99e5-4245-a46a-9f37aa4233a8",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "Warranty Audit Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Denton, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Warranty-Audit-TX-76205-7864/1272884301/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764716993,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:8efb9804-78a6-4456-83f4-b45431dd56fc",
     "source": "simplify",
     "company": "AECOM",
@@ -131306,7 +131523,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7592368550477465909",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1767828476,
     "first_seen": 1784003708,
     "emailed": true
@@ -140259,25 +140476,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:43d82b4b-c726-487a-925b-5cad0a612fed",
-    "source": "simplify",
-    "company": "John Deere",
-    "title": "Part-Time Student - Data Analytics",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Davenport, IA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://johndeere.eightfold.ai/careers/job/137466935301",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717141,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:c8c216e0-6474-44c5-911e-0a121a7dc178",
     "source": "simplify",
     "company": "AltaML",
@@ -144103,25 +144301,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1768548893,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4eac2757-a91f-4c88-b082-a933f95c14c6",
-    "source": "simplify",
-    "company": "Perplexity AI",
-    "title": "Research Resident",
-    "category": "AI/ML/Data",
-    "locations": [
-      "SF"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.ashbyhq.com/Perplexity/adf189e8-5802-4077-aa1f-3668206aacbb/application",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764717288,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -327558,7 +327737,7 @@
     ],
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8044395",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783347326,
     "first_seen": 1784003708,
     "emailed": true
@@ -331183,7 +331362,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783980957,
     "first_seen": 1784003708,
     "emailed": true
@@ -331401,7 +331580,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783980948,
     "first_seen": 1784003708,
     "emailed": true
@@ -331439,7 +331618,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783980952,
     "first_seen": 1784003708,
     "emailed": true
