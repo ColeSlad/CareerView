@@ -1,5 +1,114 @@
 [
   {
+    "uid": "simplify:01c4d1da-b058-4813-b47e-7f8e4dba1bd1",
+    "source": "simplify",
+    "company": "General Intuition &amp; Medal",
+    "title": "Technical Intern and New Grad",
+    "category": "Software",
+    "locations": [
+      "London, UK",
+      "NYC"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/generalintuition-medal/aaa8928d-7d07-4859-86c1-eb39c4c4cbd3/application?embed=true",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784596422,
+    "first_seen": 1785575623,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:010aad27-346a-4bbd-a4b0-276986aaa169",
+    "source": "simplify",
+    "company": "Protech Automotive Solutions",
+    "title": "Automotive ADAS Calibration Technician Apprentice",
+    "category": "Hardware",
+    "locations": [
+      "Canton, PA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://calibercollision.wd1.myworkdayjobs.com/protech/job/PT-Canton/Automotive-ADAS-Calibration-Technician-Apprentice_R0221001",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1783987200,
+    "first_seen": 1785575623,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ddb0d2cc-8e0d-4be9-88ff-e728173b5c3b",
+    "source": "pittcsc",
+    "company": "Sierra Nevada Corporation",
+    "title": "Systems Engineer 1",
+    "category": "Hardware",
+    "locations": [
+      "Lone Tree, CO"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-I--For-SNC-Summer-2025-Interns-Only-_R0028909",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1764838455,
+    "first_seen": 1785575623,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5823695089",
+    "source": "adzuna",
+    "company": "PlusAI, Inc.",
+    "title": "Software Engineer Intern - Robotics",
+    "category": "Software",
+    "locations": [
+      "Santa Clara, Santa Clara County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5823695089?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785559988,
+    "first_seen": 1785575623,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5823543395",
+    "source": "adzuna",
+    "company": "Pratt & Whitney",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5823543395?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785557473,
+    "first_seen": 1785575623,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5823516461",
+    "source": "adzuna",
+    "company": "SK hynix",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "San Jose, Santa Clara County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5823516461?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=826D543484DE908E303A51CCD737ED529F6D3A15",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785556163,
+    "first_seen": 1785575623,
+    "emailed": true
+  },
+  {
     "uid": "pittcsc:b7eb49fc-8c04-4d8a-8779-54b86f0f0e9d",
     "source": "pittcsc",
     "company": "Cummins",
@@ -181,7 +290,7 @@
       "Alviso, San Jose"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5823421347?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=9B61E96A10516B62C3D00B9CE199F8910ED4829C",
+    "url": "https://www.adzuna.com/land/ad/5823421347?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=9B61E96A10516B62C3D00B9CE199F8910ED4829C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785550061,
@@ -716,7 +825,7 @@
       "Fullerton, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5823023859?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=5F5DD9ED6F2920DFB6ED663F54085D79C3C0BED0",
+    "url": "https://www.adzuna.com/land/ad/5823023859?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=5F5DD9ED6F2920DFB6ED663F54085D79C3C0BED0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785529548,
@@ -891,7 +1000,7 @@
     ],
     "url": "https://ats.rippling.com/briowt/jobs/52da1fca-1cb1-49ff-8a94-b6f3850cd8eb",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785536477,
     "first_seen": 1785540932,
     "emailed": false
@@ -1498,7 +1607,7 @@
       "Ny State Campus, Albany County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5822626452?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=5EEC0E38AC629B1AEDE069D44B99135BE64660A3",
+    "url": "https://www.adzuna.com/land/ad/5822626452?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=5EEC0E38AC629B1AEDE069D44B99135BE64660A3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785511801,
@@ -1515,7 +1624,7 @@
       "West Virginia, US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5822605264?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=BE1CA9135D2D12C3EEE6368B3675F7788F2D5F73",
+    "url": "https://www.adzuna.com/land/ad/5822605264?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=BE1CA9135D2D12C3EEE6368B3675F7788F2D5F73",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785509995,
@@ -1532,7 +1641,7 @@
       "Pennsylvania, US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5822605261?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=71FF8BB762D68BBF61A004EC253E4B4EBDC3B04A",
+    "url": "https://www.adzuna.com/land/ad/5822605261?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=71FF8BB762D68BBF61A004EC253E4B4EBDC3B04A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785509995,
@@ -1549,7 +1658,7 @@
       "Folsom, Sacramento County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821649897?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=7BCD72632AC4915CB13802E01D923EE7EE5E3F62",
+    "url": "https://www.adzuna.com/land/ad/5821649897?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=7BCD72632AC4915CB13802E01D923EE7EE5E3F62",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785434739,
@@ -1566,7 +1675,7 @@
       "US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821563203?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=425C330637D6F5448F78797A0400FBF41FCC9CC0",
+    "url": "https://www.adzuna.com/land/ad/5821563203?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=425C330637D6F5448F78797A0400FBF41FCC9CC0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785433551,
@@ -1583,7 +1692,7 @@
       "North Dakota, US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5822603195?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=5F5CBD98B97FCD9405DF2735E7EE9300952C22D6",
+    "url": "https://www.adzuna.com/land/ad/5822603195?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=5F5CBD98B97FCD9405DF2735E7EE9300952C22D6",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785509528,
@@ -2037,7 +2146,7 @@
     ],
     "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Milton-Ontario/Product-Management-Co-op_R0035961",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785456000,
     "first_seen": 1785511965,
     "emailed": false
@@ -2263,7 +2372,7 @@
     ],
     "url": "https://ats.rippling.com/naxo/jobs/09e22a83-c30d-47ce-903d-f684e17f656c",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596279,
     "first_seen": 1785494983,
     "emailed": false
@@ -2289,7 +2398,7 @@
     ],
     "url": "https://ats.rippling.com/citylogix/jobs/6e9e5f30-7699-402f-9979-1fe75671f0ec",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785363479,
     "first_seen": 1785494983,
     "emailed": false
@@ -2680,7 +2789,7 @@
       "Champaign, Champaign County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821087595?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=4088783D2F1A4EA86438ED3E66DF88F1931AFFA3",
+    "url": "https://www.adzuna.com/land/ad/5821087595?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=4088783D2F1A4EA86438ED3E66DF88F1931AFFA3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785397194,
@@ -4013,7 +4122,7 @@
       "Phoenix, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821656912?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=E7D202C7AE8E91451DB7A1B96CEB9B81207EFC62",
+    "url": "https://www.adzuna.com/land/ad/5821656912?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=E7D202C7AE8E91451DB7A1B96CEB9B81207EFC62",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785435456,
@@ -4068,7 +4177,7 @@
       "Chandler, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5821599961?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=AA87E19E0271FD8D239EEA4DE83022CA9BB5ED08",
+    "url": "https://www.adzuna.com/land/ad/5821599961?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=AA87E19E0271FD8D239EEA4DE83022CA9BB5ED08",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785433871,
@@ -4574,7 +4683,7 @@
     ],
     "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785369600,
     "first_seen": 1785425662,
     "emailed": true
@@ -4976,7 +5085,7 @@
       "Arlington, Arlington County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820385216?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=BF8AA8AF1F2BC072EDE2661E6853EABC046FE118",
+    "url": "https://www.adzuna.com/land/ad/5820385216?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=BF8AA8AF1F2BC072EDE2661E6853EABC046FE118",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351963,
@@ -4993,7 +5102,7 @@
       "Mc Lean, Fairfax County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820384619?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=2043FC5BFEEF5137930B516C7B35A9B9AE4881FE",
+    "url": "https://www.adzuna.com/land/ad/5820384619?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=2043FC5BFEEF5137930B516C7B35A9B9AE4881FE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351887,
@@ -5737,7 +5846,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785363164,
     "first_seen": 1785368139,
     "emailed": true
@@ -6194,7 +6303,7 @@
       "Seattle, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820384714?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=DACF4D303F799D6D69F6EA6838D1F1F42A2C83C0",
+    "url": "https://www.adzuna.com/land/ad/5820384714?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=DACF4D303F799D6D69F6EA6838D1F1F42A2C83C0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351888,
@@ -6349,7 +6458,7 @@
     ],
     "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Analytics---Behavior-Change---Engineering-Undergrad--Conversion-_R0991666",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785283200,
     "first_seen": 1785366470,
     "emailed": false
@@ -6613,7 +6722,7 @@
       "Plymouth, Wayne County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820025289?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=D20045357DECA97F144EB3E321E0615B29440EEE",
+    "url": "https://www.adzuna.com/land/ad/5820025289?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=D20045357DECA97F144EB3E321E0615B29440EEE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785331356,
@@ -6920,7 +7029,7 @@
       "Austin, Travis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819713296?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=79ECFF795CF97F5960E4F2547EFD65E3454CB26D",
+    "url": "https://www.adzuna.com/land/ad/5819713296?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=79ECFF795CF97F5960E4F2547EFD65E3454CB26D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785308074,
@@ -7152,7 +7261,7 @@
       "Farmington, Oakland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819201442?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=DB734856E2C18B8251DC1DF6C6544155E78B4597",
+    "url": "https://www.adzuna.com/land/ad/5819201442?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=DB734856E2C18B8251DC1DF6C6544155E78B4597",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785278374,
@@ -9022,7 +9131,7 @@
       "Denver, Colorado"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818301293?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=0A308C7BCBD0B1A29F98EE317A7B4BAFF3368574",
+    "url": "https://www.adzuna.com/land/ad/5818301293?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=0A308C7BCBD0B1A29F98EE317A7B4BAFF3368574",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221828,
@@ -9039,7 +9148,7 @@
       "Washington, D.C., US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818301294?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=55F4BE968A31FBA997D75AF754B19B05CF015F07",
+    "url": "https://www.adzuna.com/land/ad/5818301294?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=55F4BE968A31FBA997D75AF754B19B05CF015F07",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221828,
@@ -9056,7 +9165,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818298551?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=2602B0A26BB7B4417132A50CC99114C2A0CF602D",
+    "url": "https://www.adzuna.com/land/ad/5818298551?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=2602B0A26BB7B4417132A50CC99114C2A0CF602D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785221647,
@@ -9302,7 +9411,7 @@
       "Washington, D.C., US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991241?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=DA2602206ACD0416616E48C05B6D38D246D76B1F",
+    "url": "https://www.adzuna.com/land/ad/5817991241?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=DA2602206ACD0416616E48C05B6D38D246D76B1F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200732,
@@ -9319,7 +9428,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991248?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=5BD575951FB12ADB5D1C78CBE7BF717BB5CF33DF",
+    "url": "https://www.adzuna.com/land/ad/5817991248?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=5BD575951FB12ADB5D1C78CBE7BF717BB5CF33DF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200732,
@@ -9336,7 +9445,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991190?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=C7500C82D0E49DB06F39748459D00D078A8F3658",
+    "url": "https://www.adzuna.com/land/ad/5817991190?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=C7500C82D0E49DB06F39748459D00D078A8F3658",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785200731,
@@ -9395,7 +9504,7 @@
     ],
     "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785110400,
     "first_seen": 1785197649,
     "emailed": false
@@ -9755,7 +9864,7 @@
       "Miami, Miami-Dade County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817705741?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=BFDB22680F9487FAE57CEF56E7169DE72C63D903",
+    "url": "https://www.adzuna.com/land/ad/5817705741?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=BFDB22680F9487FAE57CEF56E7169DE72C63D903",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178894,
@@ -9772,7 +9881,7 @@
       "Chicago, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817699680?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=53A3C7AFDBCDB55C4682628B0F7206CED88356C1",
+    "url": "https://www.adzuna.com/land/ad/5817699680?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=53A3C7AFDBCDB55C4682628B0F7206CED88356C1",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178738,
@@ -9789,7 +9898,7 @@
       "Chicago, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817699627?se=sjxg832N8RG8DqYT68M2aw&utm_medium=api&utm_source=e936e76a&v=DE27291644C81471CBD88D9738EC06B357E7F557",
+    "url": "https://www.adzuna.com/land/ad/5817699627?se=QM-RSomN8RGy-fHAvtUmjQ&utm_medium=api&utm_source=e936e76a&v=DE27291644C81471CBD88D9738EC06B357E7F557",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785178738,
@@ -10639,57 +10748,6 @@
     "date_posted": 1784952158,
     "first_seen": 1785173021,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5815038857",
-    "source": "adzuna",
-    "company": "Tenstorrent University",
-    "title": "Software Engineering Intern, Power Modeling & AI Tools",
-    "category": "Software",
-    "locations": [
-      "Santa Clara, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5815038857?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784950034,
-    "first_seen": 1785173021,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5815038123",
-    "source": "adzuna",
-    "company": "CTC Campus",
-    "title": "Software Engineering Internship - Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Chicago, Cook County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5815038123?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784950010,
-    "first_seen": 1785173021,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5814916755",
-    "source": "adzuna",
-    "company": "CTC Campus",
-    "title": "Quant Trading Internship - Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Chicago, Cook County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5814916755?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1784940142,
-    "first_seen": 1785173021,
-    "emailed": true
   },
   {
     "uid": "simplify:7831a3f0-fe97-450c-8eb6-9ad12ce8c694",
@@ -14102,7 +14160,7 @@
     ],
     "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Data---Analytics-Assistant--Student-Wage-_R0085657-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784851200,
     "first_seen": 1784933087,
     "emailed": false
@@ -18941,7 +18999,7 @@
     ],
     "url": "https://careers-cadent.icims.com/jobs/1406/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784758202,
     "first_seen": 1784763429,
     "emailed": false
@@ -19362,7 +19420,7 @@
     ],
     "url": "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596630,
     "first_seen": 1784712826,
     "emailed": true
@@ -19807,7 +19865,7 @@
     ],
     "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/United-Kingdom-London/Product-manager-Intern_R107654",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781877976,
     "first_seen": 1784682134,
     "emailed": false
@@ -20413,7 +20471,7 @@
     ],
     "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-22278",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784073600,
     "first_seen": 1784643349,
     "emailed": false
@@ -20451,7 +20509,7 @@
     ],
     "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Corporate-Risk-Development-Program-Summer-Internship--Core-Risk----Early-Careers_R-556123",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783346871,
     "first_seen": 1784636079,
     "emailed": false
@@ -20641,7 +20699,7 @@
     ],
     "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Lenox-MA/Student-Employee---Distribution-Systems_REQ-3991",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781361291,
     "first_seen": 1784626420,
     "emailed": false
@@ -21161,7 +21219,7 @@
     ],
     "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Freeport-PA/Research-and-Development-Engineering-Intern_REQ_0000064925-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781361073,
     "first_seen": 1784615869,
     "emailed": false
@@ -21662,7 +21720,7 @@
     ],
     "url": "https://ats.rippling.com/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596702,
     "first_seen": 1784605085,
     "emailed": false
@@ -22198,7 +22256,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/reviserobotics/7b0426d4-cf8c-4fdf-98a8-5a0360706633/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596554,
     "first_seen": 1784605085,
     "emailed": false
@@ -22293,7 +22351,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1784596522,
     "first_seen": 1784605085,
     "emailed": false
@@ -22408,7 +22466,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/polymath/feac8f33-2e28-4434-bff5-cf26c849f270/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596504,
     "first_seen": 1784605085,
     "emailed": false
@@ -22503,7 +22561,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596461,
     "first_seen": 1784605085,
     "emailed": false
@@ -22541,7 +22599,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596451,
     "first_seen": 1784605085,
     "emailed": false
@@ -22560,7 +22618,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596501,
     "first_seen": 1784605085,
     "emailed": true
@@ -28002,7 +28060,7 @@
     ],
     "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Tower-Worker_REQ_0000077173-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781360992,
     "first_seen": 1784390848,
     "emailed": false
@@ -100671,7 +100729,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1784250683,
     "first_seen": 1784259827,
     "emailed": false
@@ -102710,25 +102768,6 @@
     "date_posted": 1774573747,
     "first_seen": 1784026751,
     "emailed": false
-  },
-  {
-    "uid": "simplify:ddb0d2cc-8e0d-4be9-88ff-e728173b5c3b",
-    "source": "simplify",
-    "company": "Sierra Nevada Corporation",
-    "title": "Systems Engineer 1",
-    "category": "Hardware",
-    "locations": [
-      "Lone Tree, CO"
-    ],
-    "terms": [
-      "Summer 2025"
-    ],
-    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Engineer-I--For-SNC-Summer-2025-Interns-Only-_R0028909",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1764838455,
-    "first_seen": 1784003708,
-    "emailed": true
   },
   {
     "uid": "simplify:5580b4b2-b3fc-4cc3-8cce-4c3803891ba6",
@@ -142644,7 +142683,7 @@
     ],
     "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1767974631,
     "first_seen": 1784003708,
     "emailed": true
@@ -145618,7 +145657,7 @@
     ],
     "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1765653235,
     "first_seen": 1784003708,
     "emailed": true
@@ -151449,7 +151488,7 @@
     ],
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1768956462,
     "first_seen": 1784003708,
     "emailed": true
@@ -156874,7 +156913,7 @@
     ],
     "url": "https://careers.bcg.com/global/en/job/56634",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1769267948,
     "first_seen": 1784003708,
     "emailed": true
@@ -202412,7 +202451,7 @@
     ],
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Culver-City/Intern--Advanced-Computer-Graphics-Research_JR-118801",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1771891604,
     "first_seen": 1784003708,
     "emailed": true
@@ -236297,7 +236336,7 @@
     ],
     "url": "https://www.metacareers.com/jobs/779670167783218",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1772752449,
     "first_seen": 1784003708,
     "emailed": true
@@ -238020,7 +238059,7 @@
     ],
     "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Undergraduate-Research-Assistant_R_00044725",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1773788399,
     "first_seen": 1784003708,
     "emailed": true
@@ -272118,7 +272157,7 @@
     ],
     "url": "https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1776290958,
     "first_seen": 1784003708,
     "emailed": true
@@ -275698,7 +275737,7 @@
     ],
     "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1776525905,
     "first_seen": 1784003708,
     "emailed": true
@@ -278512,7 +278551,7 @@
     ],
     "url": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1776809093,
     "first_seen": 1784003708,
     "emailed": true
@@ -280856,7 +280895,7 @@
     ],
     "url": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1776981863,
     "first_seen": 1784003708,
     "emailed": true
@@ -297830,7 +297869,7 @@
     ],
     "url": "https://careers.akima.com/jobs/22581?lang=en-us&icims=1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778796436,
     "first_seen": 1784003708,
     "emailed": true
@@ -298046,7 +298085,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/astera/d20c0641-1b3e-4666-bc08-4f90ee813261/application",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778796515,
     "first_seen": 1784003708,
     "emailed": true
@@ -299305,7 +299344,7 @@
     ],
     "url": "https://careers.akima.com/jobs/23147?lang=en-us&icims=1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778969204,
     "first_seen": 1784003708,
     "emailed": true
@@ -300120,7 +300159,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2/application",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1779152906,
     "first_seen": 1784003708,
     "emailed": true
@@ -304053,7 +304092,7 @@
     ],
     "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/6BEF4752B5/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1779487768,
     "first_seen": 1784003708,
     "emailed": true
@@ -308669,7 +308708,7 @@
     ],
     "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1779977342,
     "first_seen": 1784003708,
     "emailed": true
@@ -312418,7 +312457,7 @@
     ],
     "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Broadband-Intern_JR8298",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780610681,
     "first_seen": 1784003708,
     "emailed": true
@@ -312863,7 +312902,7 @@
     ],
     "url": "https://www.metacareers.com/jobs/1782902493113620",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1772752391,
     "first_seen": 1784003708,
     "emailed": true
@@ -315113,7 +315152,7 @@
     ],
     "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041709-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780927657,
     "first_seen": 1784003708,
     "emailed": true
@@ -318652,7 +318691,7 @@
     ],
     "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Fall-2026_2601749-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781301997,
     "first_seen": 1784003708,
     "emailed": true
@@ -319148,7 +319187,7 @@
     ],
     "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Technician---Assembly---Integration--All-Levels-All-Shifts-_R60817",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781345559,
     "first_seen": 1784003708,
     "emailed": true
@@ -322886,7 +322925,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/hiverge/ea6edea4-5216-4cdc-b368-909ba91c78a3/application",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782310149,
     "first_seen": 1784003708,
     "emailed": true
@@ -322924,7 +322963,7 @@
     ],
     "url": "https://careers-apogeeusa.icims.com/jobs/1448/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780005932,
     "first_seen": 1784003708,
     "emailed": true
@@ -323779,7 +323818,7 @@
     ],
     "url": "https://careers-sig.icims.com/jobs/10818/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782770788,
     "first_seen": 1784003708,
     "emailed": true
@@ -323838,7 +323877,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Montreal/Field-Service-Apprentice----QC_R4042209-1",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1782252363,
     "first_seen": 1784003708,
     "emailed": true
@@ -323895,7 +323934,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/clera/d3c69268-3324-4a84-b911-7a4303672767/application",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782482866,
     "first_seen": 1784003708,
     "emailed": true
@@ -325005,7 +325044,7 @@
     ],
     "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Audio-Visual-Assistant--Student-Wage-_R0084512",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782424852,
     "first_seen": 1784003708,
     "emailed": true
@@ -325628,7 +325667,7 @@
     ],
     "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782338824,
     "first_seen": 1784003708,
     "emailed": true
@@ -325668,7 +325707,7 @@
     ],
     "url": "https://careers-sig.icims.com/jobs/11099/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782425031,
     "first_seen": 1784003708,
     "emailed": true
@@ -329721,7 +329760,7 @@
     ],
     "url": "https://careers.medpace.com/jobs/12845?icims=1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783462019,
     "first_seen": 1784003708,
     "emailed": true
@@ -331110,7 +331149,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783635116,
     "first_seen": 1784003708,
     "emailed": true
@@ -331705,7 +331744,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783519495,
     "first_seen": 1784003708,
     "emailed": true
@@ -333032,7 +333071,7 @@
     ],
     "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Researcher--CEE_REQ_0000065530",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781361071,
     "first_seen": 1784003708,
     "emailed": true
