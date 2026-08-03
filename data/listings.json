@@ -1,5 +1,561 @@
 [
   {
+    "uid": "pittcsc:0fe8c919-0db4-45f0-a54b-d85adae034ab",
+    "source": "pittcsc",
+    "company": "Cloudflare",
+    "title": "Data Science Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7444764",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765010993,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:f85329a1-e142-4cd0-addc-48436e7b29be",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - AI Infra Compute",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7667379221434796341/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748596,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:92df8e09-9c84-4019-9087-e8a497375754",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - Multi-modal Agentic Databases",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7667380184615127301/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748597,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:7125ebf4-f7ce-4863-8495-30a7f8d59f7d",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - Distributed NoSQL Database Systems",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7668371456348326149/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748595,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:a7327377-6839-4afe-a0e7-a1e99135d7b4",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern - AI Infra Compute",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7667378931599214853/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748596,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:d96b68e1-8512-4890-8276-eac5392e1f2d",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern - AI Infrastructure Compute",
+    "category": "Software",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748596,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:e3086785-c94b-4a66-82a8-52a73cc4b994",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - Distributed NoSQL Database Systems",
+    "category": "Software",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7668371003554138421/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748594,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:861658aa-eaf0-4389-afce-80050126ac33",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Network Security Software Engineer Intern - Security Engineering",
+    "category": "Software",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Fall 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7667876489597257989/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748596,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:09941b8a-df5a-4b38-83d0-d44aca79128c",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7667379218929780997/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748599,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:254d1c36-2e43-4f3a-86fc-ec06b7e8a725",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "AI Perception Intern - Pico",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7665457718334425349/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748598,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:b9b419b0-d028-4baf-bd91-fc550d093bae",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - Multi-modal Agentic Databases",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7667380487805995269/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748597,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:55344ac6-f4ad-4c84-b434-97f4ca155ae2",
+    "source": "simplify",
+    "company": "Jane Street",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748562,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:aedd360d-23ce-4970-aa0b-45302887e26f",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7668373268886161669/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748594,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:b947f29d-d045-476f-8e18-ffab71e754ee",
+    "source": "simplify",
+    "company": "Jane Street",
+    "title": "Machine Learning Engineer",
+    "category": "AI/ML/Data",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/apply/8648474002?gh_jid=8648474002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748556,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:7a3479e6-fa2c-40d9-b917-c42922bfeaf1",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern - Distributed NoSQL Database Systems",
+    "category": "Software",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748596,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:98829ac8-5a3d-440d-9370-077b910866f2",
+    "source": "simplify",
+    "company": "Jane Street",
+    "title": "Hardware Engineer Intern - FPGA/ASIC",
+    "category": "Hardware",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748557,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:8be053bf-bff7-4984-aef1-e08ad2cff3e3",
+    "source": "simplify",
+    "company": "Jane Street",
+    "title": "Sales and Trading Intern",
+    "category": "Quant",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748560,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:9fe00265-7716-44f9-bc43-1017aa863220",
+    "source": "simplify",
+    "company": "Microsoft",
+    "title": "Software Engineer Intern - CoreAI",
+    "category": "Software",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748322,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:1429f063-6706-404c-8ece-56be8b43bd98",
+    "source": "simplify",
+    "company": "Geo Owl",
+    "title": "Maritime Cartographer Apprentice",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Springfield, VA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://geoowl.applytojob.com/apply/lvTIoh8S9K/Cartographic-Analyst-Apprentice",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1784787199,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:77635c2b-1d19-49ef-8d73-5ade973c99b2",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7667380188619131189/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1785748598,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:30d03840-7d51-4b0f-9015-950edc42a914",
+    "source": "pittcsc",
+    "company": "Calico Labs",
+    "title": "Intern \u2013 Machine Learning for Molecule Design - MS/PhD",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.calicolabs.com/careers/?gh_jid=8326862002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765010055,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:a76660fe-c45d-4515-b8dd-48e61b9ed5f0",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "IP Routing Customer Application Engineer Co-op/Intern",
+    "category": "Software",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28098",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765010815,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6a3c3dac-9a62-4e44-af28-3e821630f8d1",
+    "source": "pittcsc",
+    "company": "WTW",
+    "title": "Corporate Risk and Broking Intern - Risk & Analytics Core-2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202508633",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765016172,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5826552223",
+    "source": "adzuna",
+    "company": "SK hynix",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "San Jose, Santa Clara County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5826552223?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785741484,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5826552058",
+    "source": "adzuna",
+    "company": "Brunswick Boat Group",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Illinois, US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5826552058?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785741481,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5826549699",
+    "source": "adzuna",
+    "company": "Jump Trading",
+    "title": "Campus Software Engineer (Intern)",
+    "category": "Software",
+    "locations": [
+      "Chicago, Cook County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5826549699?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785741438,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5826547686",
+    "source": "adzuna",
+    "company": "Deep Infra Inc.",
+    "title": "Software Engineer Intern (US)",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, Santa Clara County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5826547686?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785741402,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5826547613",
+    "source": "adzuna",
+    "company": "Palantir Technologies",
+    "title": "Software Engineer, Internship",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, Santa Clara County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5826547613?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785741401,
+    "first_seen": 1785757078,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5826547536",
+    "source": "adzuna",
+    "company": "joinanvil.com",
+    "title": "Software Engineer Intern, Summer 2025",
+    "category": "Software",
+    "locations": [
+      "New York City, New York"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5826547536?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785741399,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5826547251",
+    "source": "adzuna",
+    "company": "ZipLine",
+    "title": "Software Engineer Intern (Fall 2026)",
+    "category": "Software",
+    "locations": [
+      "California, US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5826547251?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785741393,
+    "first_seen": 1785757078,
+    "emailed": false
+  },
+  {
     "uid": "simplify:bead841e-a62e-4398-b92e-600ec3c544c4",
     "source": "simplify",
     "company": "K1",
@@ -1866,7 +2422,7 @@
       "Westboro, Monmouth County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5826293660?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=4EB8957B7D8132C747E06E5B7D418A532BF9F197",
+    "url": "https://www.adzuna.com/land/ad/5826293660?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=4EB8957B7D8132C747E06E5B7D418A532BF9F197",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785711698,
@@ -3558,7 +4114,7 @@
       "Cloverdale, Shelby County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825198283?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=75FCC8391E19A093517F4398142BF9CCD3AD9492",
+    "url": "https://www.adzuna.com/land/ad/5825198283?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=75FCC8391E19A093517F4398142BF9CCD3AD9492",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624342,
@@ -3575,7 +4131,7 @@
       "Four Mile Lk, Washtenaw County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825193871?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=B267222A7892CAB4A568CEC7079F7ED4C351945C",
+    "url": "https://www.adzuna.com/land/ad/5825193871?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=B267222A7892CAB4A568CEC7079F7ED4C351945C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624265,
@@ -3592,7 +4148,7 @@
       "Mansfield, Bristol County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825192403?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=B49AC60884B8D2F1B5A35A228EEFA7B6BAA2AAEA",
+    "url": "https://www.adzuna.com/land/ad/5825192403?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=B49AC60884B8D2F1B5A35A228EEFA7B6BAA2AAEA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624243,
@@ -3609,7 +4165,7 @@
       "Watertown, Middlesex County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825192395?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=CB5CA839F1E652529E714E75821ABB0D22DA6675",
+    "url": "https://www.adzuna.com/land/ad/5825192395?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=CB5CA839F1E652529E714E75821ABB0D22DA6675",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624243,
@@ -3626,7 +4182,7 @@
       "Boston, Suffolk County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825192401?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=501E1AE029243A80FF065FD34B362B1BEDFE31EC",
+    "url": "https://www.adzuna.com/land/ad/5825192401?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=501E1AE029243A80FF065FD34B362B1BEDFE31EC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624243,
@@ -3643,7 +4199,7 @@
       "Guadalupe, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825191550?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=85D4590E3EB37BA202F17E73FB25E43D51BC24BF",
+    "url": "https://www.adzuna.com/land/ad/5825191550?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=85D4590E3EB37BA202F17E73FB25E43D51BC24BF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624232,
@@ -3660,7 +4216,7 @@
       "Eldorado Springs, Boulder County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825189058?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=2CF3FE9B6CCC805293ABCD66EF63D47BA5D9B959",
+    "url": "https://www.adzuna.com/land/ad/5825189058?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=2CF3FE9B6CCC805293ABCD66EF63D47BA5D9B959",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624198,
@@ -3677,7 +4233,7 @@
       "Lafayette, Boulder County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825189067?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=7BFE6BCB979D4A46B78EA511D9B606EDDD7961F3",
+    "url": "https://www.adzuna.com/land/ad/5825189067?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=7BFE6BCB979D4A46B78EA511D9B606EDDD7961F3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624198,
@@ -3694,7 +4250,7 @@
       "New Brighton, Ramsey County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825188622?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=4BEA760B0723290141DA1C0DF9A7A62137476DAD",
+    "url": "https://www.adzuna.com/land/ad/5825188622?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=4BEA760B0723290141DA1C0DF9A7A62137476DAD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624192,
@@ -3711,7 +4267,7 @@
       "Spring Lake Park, Anoka County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825188631?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=55FBCB3AFC3B12394D3D6E0D495A27DFBAFE33B0",
+    "url": "https://www.adzuna.com/land/ad/5825188631?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=55FBCB3AFC3B12394D3D6E0D495A27DFBAFE33B0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624192,
@@ -3728,7 +4284,7 @@
       "Hamel, Hennepin County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825188619?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=13E8FB31D02192803A01E48D76A5F9C2BF724655",
+    "url": "https://www.adzuna.com/land/ad/5825188619?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=13E8FB31D02192803A01E48D76A5F9C2BF724655",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624192,
@@ -3745,7 +4301,7 @@
       "Minneapolis, Hennepin County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825188636?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=2C39C76DE7D2AD4F7AC7A63A34C4545E0D7A1FFE",
+    "url": "https://www.adzuna.com/land/ad/5825188636?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=2C39C76DE7D2AD4F7AC7A63A34C4545E0D7A1FFE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624192,
@@ -3762,7 +4318,7 @@
       "Brooklyn, Hennepin County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825188618?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=0616EC8618421A69BEC294C57CC9C095155E1729",
+    "url": "https://www.adzuna.com/land/ad/5825188618?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=0616EC8618421A69BEC294C57CC9C095155E1729",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624192,
@@ -3779,7 +4335,7 @@
       "North Haven, New Haven County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5825181141?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=ACDBA006F7E8A38203C3E930955C00EF9C2FC2BA",
+    "url": "https://www.adzuna.com/land/ad/5825181141?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=ACDBA006F7E8A38203C3E930955C00EF9C2FC2BA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785624080,
@@ -4155,7 +4711,7 @@
       "Roseland, Sonoma County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5824836281?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=E01C07119D8F516A847A4D8A35573906EE0CDF55",
+    "url": "https://www.adzuna.com/land/ad/5824836281?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=E01C07119D8F516A847A4D8A35573906EE0CDF55",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785612246,
@@ -4172,7 +4728,7 @@
       "Huntington, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5824836279?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=602291F40E0522482B2C9C93605EC9F19D0FAEC9",
+    "url": "https://www.adzuna.com/land/ad/5824836279?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=602291F40E0522482B2C9C93605EC9F19D0FAEC9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785612246,
@@ -4189,7 +4745,7 @@
       "Santa Ana, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5824836283?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=6A314EB24DB0C3EACB786C664806EF57A421D968",
+    "url": "https://www.adzuna.com/land/ad/5824836283?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=6A314EB24DB0C3EACB786C664806EF57A421D968",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785612246,
@@ -4904,7 +5460,7 @@
     ],
     "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783161800,
     "first_seen": 1785597067,
     "emailed": false
@@ -5384,7 +5940,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/AfterQuery/51437c4c-9510-4704-a779-e61ac52c39d7/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782338960,
     "first_seen": 1785579513,
     "emailed": false
@@ -6734,7 +7290,7 @@
     ],
     "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106583",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778288920,
     "first_seen": 1785537859,
     "emailed": false
@@ -9979,40 +10535,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5819091899",
-    "source": "adzuna",
-    "company": "Bosch Group",
-    "title": "ADAS Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Plymouth, Wayne County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5819091899?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785272834,
-    "first_seen": 1785421560,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5818336088",
-    "source": "adzuna",
-    "company": "Bosch Group",
-    "title": "Powertrain Controls Software Engineering Intern (6-Months)",
-    "category": "Software",
-    "locations": [
-      "Farmington Hills, Oakland County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5818336088?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785229311,
-    "first_seen": 1785421560,
-    "emailed": true
-  },
-  {
     "uid": "pittcsc:7ec94309-1528-4767-8498-2536ec23b035",
     "source": "pittcsc",
     "company": "Sumitomo Mitsui Banking Corporation",
@@ -10356,7 +10878,7 @@
       "Arlington, Arlington County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820385216?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=BF8AA8AF1F2BC072EDE2661E6853EABC046FE118",
+    "url": "https://www.adzuna.com/land/ad/5820385216?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=BF8AA8AF1F2BC072EDE2661E6853EABC046FE118",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351963,
@@ -10373,7 +10895,7 @@
       "Mc Lean, Fairfax County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820384619?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=2043FC5BFEEF5137930B516C7B35A9B9AE4881FE",
+    "url": "https://www.adzuna.com/land/ad/5820384619?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=2043FC5BFEEF5137930B516C7B35A9B9AE4881FE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351887,
@@ -11574,7 +12096,7 @@
       "Seattle, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820384714?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=DACF4D303F799D6D69F6EA6838D1F1F42A2C83C0",
+    "url": "https://www.adzuna.com/land/ad/5820384714?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=DACF4D303F799D6D69F6EA6838D1F1F42A2C83C0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785351888,
@@ -11993,7 +12515,7 @@
       "Plymouth, Wayne County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5820025289?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=D20045357DECA97F144EB3E321E0615B29440EEE",
+    "url": "https://www.adzuna.com/land/ad/5820025289?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=D20045357DECA97F144EB3E321E0615B29440EEE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785331356,
@@ -12498,7 +13020,7 @@
       "Farmington, Oakland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5819201442?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=DB734856E2C18B8251DC1DF6C6544155E78B4597",
+    "url": "https://www.adzuna.com/land/ad/5819201442?se=0uQbxi-P8RG_qcIwnY9vSA&utm_medium=api&utm_source=e936e76a&v=DB734856E2C18B8251DC1DF6C6544155E78B4597",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785278374,
@@ -14359,57 +14881,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5818301293",
-    "source": "adzuna",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "Denver, Colorado"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818301293?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=0A308C7BCBD0B1A29F98EE317A7B4BAFF3368574",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785221828,
-    "first_seen": 1785240326,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5818301294",
-    "source": "adzuna",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C., US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818301294?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=55F4BE968A31FBA997D75AF754B19B05CF015F07",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785221828,
-    "first_seen": 1785240326,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5818298551",
-    "source": "adzuna",
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "category": "Software",
-    "locations": [
-      "New York City, New York"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5818298551?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=2602B0A26BB7B4417132A50CC99114C2A0CF602D",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785221647,
-    "first_seen": 1785240326,
-    "emailed": false
-  },
-  {
     "uid": "pittcsc:2af0a51c-33d4-4593-b335-9cfe855455fe",
     "source": "pittcsc",
     "company": "Nidec",
@@ -14639,40 +15110,6 @@
     "emailed": false
   },
   {
-    "uid": "adzuna:5817991248",
-    "source": "adzuna",
-    "company": "Palantir",
-    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
-    "category": "Software",
-    "locations": [
-      "New York City, New York"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991248?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=5BD575951FB12ADB5D1C78CBE7BF717BB5CF33DF",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785200732,
-    "first_seen": 1785220545,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5817991241",
-    "source": "adzuna",
-    "company": "Palantir",
-    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
-    "category": "Software",
-    "locations": [
-      "Washington, D.C., US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5817991241?se=znzemhiP8RGNzO_fQd9OLg&utm_medium=api&utm_source=e936e76a&v=DA2602206ACD0416616E48C05B6D38D246D76B1F",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785200732,
-    "first_seen": 1785220545,
-    "emailed": false
-  },
-  {
     "uid": "simplify:d91645a0-c83d-4a09-bb25-c45044295c83",
     "source": "simplify",
     "company": "TikTok",
@@ -14724,7 +15161,7 @@
     ],
     "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785110400,
     "first_seen": 1785197649,
     "emailed": false
@@ -22846,7 +23283,7 @@
     ],
     "url": "https://spherixglobalinsights.applytojob.com/apply/tXLqnpK9I3/Market-Research-Insights-Internship",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784787190,
     "first_seen": 1784792489,
     "emailed": false
@@ -23028,7 +23465,7 @@
     ],
     "url": "https://rantecpowersystemsinc.applytojob.com/apply/C88xK8WZio/PCB-Design-Engineering-Intern",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784787216,
     "first_seen": 1784788987,
     "emailed": false
@@ -24519,7 +24956,7 @@
     ],
     "url": "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784596630,
     "first_seen": 1784712826,
     "emailed": true
@@ -105672,7 +106109,7 @@
     ],
     "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Manufacturing-Execution-Systems--MES--Co-Op---Starting-in-September_R00252658",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784160000,
     "first_seen": 1784292291,
     "emailed": false
@@ -105828,7 +106265,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784250683,
     "first_seen": 1784259827,
     "emailed": false
@@ -107848,82 +108285,6 @@
     "date_posted": 1774573747,
     "first_seen": 1784026751,
     "emailed": false
-  },
-  {
-    "uid": "simplify:30d03840-7d51-4b0f-9015-950edc42a914",
-    "source": "simplify",
-    "company": "Calico Labs",
-    "title": "Intern \u2013 Machine Learning for Molecule Design - MS/PhD",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.calicolabs.com/careers/?gh_jid=8326862002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765010055,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0fe8c919-0db4-45f0-a54b-d85adae034ab",
-    "source": "simplify",
-    "company": "Cloudflare",
-    "title": "Data Science Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7444764",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765010993,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:a76660fe-c45d-4515-b8dd-48e61b9ed5f0",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "IP Routing Customer Application Engineer Co-op/Intern",
-    "category": "Software",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28098",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765010815,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6a3c3dac-9a62-4e44-af28-3e821630f8d1",
-    "source": "simplify",
-    "company": "WTW",
-    "title": "Corporate Risk and Broking Intern - Risk & Analytics Core-2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202508633",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765016172,
-    "first_seen": 1784003708,
-    "emailed": true
   },
   {
     "uid": "simplify:569c7c14-69f8-4074-8301-6d0815747765",
@@ -143606,7 +143967,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7572665884037826869",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1768443444,
     "first_seen": 1784003708,
     "emailed": true
@@ -144014,7 +144375,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7536042624604997896",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1768443441,
     "first_seen": 1784003708,
     "emailed": true
@@ -148769,7 +149130,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7595346361319491893",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1768605527,
     "first_seen": 1784003708,
     "emailed": true
@@ -149269,7 +149630,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7595344466313529653",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1768605546,
     "first_seen": 1784003708,
     "emailed": true
@@ -156684,7 +157045,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7595346355196954933",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1769123849,
     "first_seen": 1784003708,
     "emailed": true
@@ -160412,7 +160773,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7473334964256393479",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1769469496,
     "first_seen": 1784003708,
     "emailed": true
@@ -164617,7 +164978,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7600251462900140341",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1769642128,
     "first_seen": 1784003708,
     "emailed": true
@@ -246087,7 +246448,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1774073406,
     "first_seen": 1784003708,
     "emailed": true
@@ -256160,7 +256521,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7623166673809770757",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1774919590,
     "first_seen": 1784003708,
     "emailed": true
@@ -261726,7 +262087,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7623531261580036405",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1775178845,
     "first_seen": 1784003708,
     "emailed": true
@@ -263348,7 +263709,7 @@
     ],
     "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1775299204,
     "first_seen": 1784003708,
     "emailed": true
@@ -263634,7 +263995,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7527589875165563143",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1766059093,
     "first_seen": 1784003708,
     "emailed": true
@@ -313850,7 +314211,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780466939,
     "first_seen": 1784003708,
     "emailed": true
@@ -313869,7 +314230,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780466896,
     "first_seen": 1784003708,
     "emailed": true
@@ -313888,7 +314249,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7535168003103033618/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780466893,
     "first_seen": 1784003708,
     "emailed": true
@@ -314005,7 +314366,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7543005612200970503/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780466894,
     "first_seen": 1784003708,
     "emailed": true
@@ -314024,7 +314385,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7537117266451171592/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780466896,
     "first_seen": 1784003708,
     "emailed": true
@@ -314043,7 +314404,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7535953226975054098/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780466891,
     "first_seen": 1784003708,
     "emailed": true
@@ -314897,7 +315258,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7595707875767699765/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780610914,
     "first_seen": 1784003708,
     "emailed": true
@@ -317611,7 +317972,7 @@
     ],
     "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Berlin-WI---USA/GPS-Student-Apprentice---Electrical_JR14694",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1780524402,
     "first_seen": 1784003708,
     "emailed": true
@@ -322045,7 +322406,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7538301580093720840",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781503948,
     "first_seen": 1784003708,
     "emailed": true
@@ -322064,7 +322425,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7561941583777941813",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781503936,
     "first_seen": 1784003708,
     "emailed": true
@@ -324515,7 +324876,7 @@
     ],
     "url": "https://eosits.com/company/careers/?gh_jid=8594075002",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781639523,
     "first_seen": 1784003708,
     "emailed": true
@@ -325769,7 +326130,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7527065936093858055",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781503947,
     "first_seen": 1784003708,
     "emailed": true
@@ -325940,7 +326301,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7527077153591675154",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781503898,
     "first_seen": 1784003708,
     "emailed": true
@@ -325959,7 +326320,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7534536157456058632",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781503935,
     "first_seen": 1784003708,
     "emailed": true
@@ -332678,7 +333039,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042988-1",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783490748,
     "first_seen": 1784003708,
     "emailed": true
@@ -333475,7 +333836,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4042992",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783472744,
     "first_seen": 1784003708,
     "emailed": true
@@ -333494,7 +333855,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783490748,
     "first_seen": 1784003708,
     "emailed": true
@@ -333992,7 +334353,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783641600,
     "first_seen": 1784003708,
     "emailed": true
@@ -334298,7 +334659,7 @@
     ],
     "url": "https://jobs.bytedance.com/en/position/7564516412456306997/detail",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780610910,
     "first_seen": 1784003708,
     "emailed": true
@@ -334336,7 +334697,7 @@
     ],
     "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1783519495,
     "first_seen": 1784003708,
     "emailed": true
@@ -335720,7 +336081,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7572358528171510069",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781503947,
     "first_seen": 1784003708,
     "emailed": true
