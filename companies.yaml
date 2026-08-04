@@ -9,3 +9,19 @@ lever:
 
 ashby:
   openai: OpenAI
+
+# Workday tenant slug -> {name, wd instance, site slug}, all taken from the company's
+# own career-site URL, e.g. https://{tenant}.{wd}.myworkdayjobs.com/{site}/job/...
+workday:
+  intel:
+    name: Intel
+    wd: wd1
+    site: External
+
+# Oracle Cloud tenant slug -> {name, datacenter, site number}, taken from the company's
+# own career-site URL, e.g. https://{tenant}.fa.{dc}.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{site}/job/...
+oraclecloud:
+  eeho:
+    name: Oracle
+    dc: us2
+    site: CX_45001

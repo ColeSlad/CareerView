@@ -13,8 +13,10 @@ from careerview.sources.ashby import AshbySource
 from careerview.sources.base import Source
 from careerview.sources.greenhouse import GreenhouseSource
 from careerview.sources.lever import LeverSource
+from careerview.sources.oraclecloud import OracleCloudSource
 from careerview.sources.simplify import SimplifySource
 from careerview.sources.vanshb03 import Vanshb03Source
+from careerview.sources.workday import WorkdaySource
 
 
 def _build_sources(config: Config) -> list[Source]:
@@ -33,6 +35,10 @@ def _build_sources(config: Config) -> list[Source]:
         sources.append(LeverSource(slug, company_name, include_kw, exclude_kw))
     for slug, company_name in config.companies.get("ashby", {}).items():
         sources.append(AshbySource(slug, company_name, include_kw, exclude_kw))
+    for tenant, wd in config.companies.get("workday", {}).items():
+        sources.append(WorkdaySource(tenant, wd["wd"], wd["site"], wd["name"], include_kw, exclude_kw))
+    for tenant, oc in config.companies.get("oraclecloud", {}).items():
+        sources.append(OracleCloudSource(tenant, oc["dc"], oc["site"], oc["name"], include_kw, exclude_kw))
 
     app_id = os.environ.get("ADZUNA_APP_ID")
     app_key = os.environ.get("ADZUNA_APP_KEY")

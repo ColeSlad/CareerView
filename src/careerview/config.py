@@ -28,7 +28,7 @@ class Config:
     adzuna_keywords: str
     adzuna_locations: list[str]
     poll_cadence_minutes: int
-    companies: dict[str, dict[str, str]]
+    companies: dict[str, dict]
 
 
 def load_config(

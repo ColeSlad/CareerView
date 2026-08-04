@@ -19,6 +19,8 @@ def _is_us_or_remote(location: str) -> bool:
         return True
     if "united states" in loc or "usa" in loc or loc.strip() == "us":
         return True
+    if re.match(r"^us\s*,", loc):
+        return True  # Workday formats US locations as "US, <State>, <City>"
     if re.search(r"\bcounty\s*$", loc):
         return True  # Adzuna formats US locations as "City, X County" (ending in "county",
         # unlike e.g. "Madawaska County, NB, Canada" which ends with the country name)
