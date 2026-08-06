@@ -1,5 +1,326 @@
 [
   {
+    "uid": "pittcsc:842e69a5-d5bc-491d-807b-1acfea48abd2",
+    "source": "pittcsc",
+    "company": "Plexus",
+    "title": "Intern \u2013 Product Engineer - Summer 2026",
+    "category": "Software",
+    "locations": [
+      "Neenah, WI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Product-Engineer--Summer-2026-_R033663-1",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765265323,
+    "first_seen": 1786003436,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:a8536358-005c-4b52-9d86-a419e3b89c8f",
+    "source": "pittcsc",
+    "company": "MKS Instruments",
+    "title": "Compliance Engineer Co-op",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Irvine, CA",
+      "Beaverton, OR",
+      "Broomfield, CO",
+      "Burlington, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/XMLNAME-2026-Spring-to-Fall-Product-Environmental-Compliance-Co-op_R14534",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765264990,
+    "first_seen": 1786003436,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:596464a2-d68c-4e09-845f-2c85f3474255",
+    "source": "pittcsc",
+    "company": "Schweitzer Engineering Laboratories",
+    "title": "Designer Intern",
+    "category": "Hardware",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Calgary/Designer-Intern_2025-18710",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765264881,
+    "first_seen": 1786003436,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:73a68e3e-6de3-498a-98c8-8a01911b0357",
+    "source": "pittcsc",
+    "company": "Airbnb",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.airbnb.com/positions/7453837?gh_jid=7453837",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765264231,
+    "first_seen": 1786003436,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0ea55151-6d85-44de-b8b3-22f1239039b8",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "Embedded Software Engineer Intern",
+    "category": "Hardware",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26678",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765266255,
+    "first_seen": 1786003436,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:9ecba065-df34-4f39-a962-6638c3c36103",
+    "source": "pittcsc",
+    "company": "Veolia",
+    "title": "Application Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Oakville, ON, Canada"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765266020,
+    "first_seen": 1786003436,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5828360963",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Greeley, Weld County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360963?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=2470751F30E90D7061C7EB36A49F1474059D9FCB",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360965",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Columbia, Boone County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360965?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=7413C7C7493D6D4ECA2F6F5D3C90EFEECAC43D82",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360957",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Rockville, Montgomery County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360957?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=43C5AE3E1F44C0A447DC97E36FC2A391F073AB6B",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360967",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Frederick, Frederick County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360967?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=507BABE8FEA8CBE075AB0574A552AA0E2A8F3A6F",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360959",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Nampa, Canyon County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360959?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=18ED46DF78ABB5FD531AB6B27B33ADBBD8D1C5DF",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360961",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Aurora, Arapahoe County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360961?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=7CF86AFD7B97CAD616B6E6AB88D04860D8F15011",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360955",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Scottsdale, Maricopa County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360955?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=7F32024D1F081DB410057C9D3CBC9383FFFFCB64",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360947",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Berrien Springs, Berrien County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360947?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=6AD13AE0221A1335318D07508C21847E85BA577C",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360942",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Nashua, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360942?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=5A4F25B4874C7701CC6B770A6D2761627B4998CE",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360939",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Springfield, Greene County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360939?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=D91B199508395DFB954981B96FB2EEE9F1F623A1",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360949",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Ogden, Weber County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360949?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=4AFB7DB47930CE8C46DC7AB2CE75ED8BDCFC327A",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828360952",
+    "source": "adzuna",
+    "company": "Intel",
+    "title": "AI Software Engineer Graduate Intern",
+    "category": "Software",
+    "locations": [
+      "Greenville, Pitt County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828360952?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=70858B99F9AF2739CEF580456824ED02531691AB",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785870933,
+    "first_seen": 1786003436,
+    "emailed": true
+  },
+  {
     "uid": "pittcsc:32df4c32-167c-42eb-8ef1-7eb8f0880959",
     "source": "pittcsc",
     "company": "Sparksoft",
@@ -178,7 +499,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112187?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=50D3A76811268BAEB5AD692CA4FF705EA7581C34",
+    "url": "https://www.adzuna.com/land/ad/5830112187?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=50D3A76811268BAEB5AD692CA4FF705EA7581C34",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -195,7 +516,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112192?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=7DAAEBD577D1F0047687B9E256260FA021EC9D68",
+    "url": "https://www.adzuna.com/land/ad/5830112192?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=7DAAEBD577D1F0047687B9E256260FA021EC9D68",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -212,7 +533,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112195?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=8BB2F2EADAA6B72CCD04C2DE04760392495F69D3",
+    "url": "https://www.adzuna.com/land/ad/5830112195?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=8BB2F2EADAA6B72CCD04C2DE04760392495F69D3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -229,7 +550,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112173?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=7494D4480F8C7AFFD06492F512A3C2AAFCA91819",
+    "url": "https://www.adzuna.com/land/ad/5830112173?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=7494D4480F8C7AFFD06492F512A3C2AAFCA91819",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -254,40 +575,6 @@
     "emailed": true
   },
   {
-    "uid": "adzuna:5828360946",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Hartford, Hartford County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360946?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=EAC6A1EE42FCCFA778D181FBA86778994F68DB72",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785998488,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360954",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Rapid City, Pennington County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360954?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=5F1FF468029166C71B069EC5B0CE870977A75198",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785998488,
-    "emailed": true
-  },
-  {
     "uid": "adzuna:5828360958",
     "source": "adzuna",
     "company": "Intel",
@@ -297,7 +584,7 @@
       "Williamsburg, James City County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360958?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=17198DC0EE380E446394BFEC784723B120332B48",
+    "url": "https://www.adzuna.com/land/ad/5828360958?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=17198DC0EE380E446394BFEC784723B120332B48",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870933,
@@ -314,7 +601,7 @@
       "New Haven, New Haven County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360950?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=F9256D1EEBC2C3C58DD604C6DFD4B4E935031ED9",
+    "url": "https://www.adzuna.com/land/ad/5828360950?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=F9256D1EEBC2C3C58DD604C6DFD4B4E935031ED9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870933,
@@ -1822,7 +2109,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785914923,
+    "date_posted": 1785917027,
     "first_seen": 1785956319,
     "emailed": true
   },
@@ -1836,75 +2123,7 @@
       "Phoenix, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360941?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=CCFB85805DA52286A5F3CB4CFE0BC6828BAB08DA",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785952264,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360962",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Durham, Durham County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360962?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=559D4B55811FD9F1A358F3DF984A1320AF312F9A",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785952264,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360951",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Providence, Providence County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360951?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=AA3D61C95AE50D3A3E13DD6B393CA8166FA738FB",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785952264,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360966",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Virginia Beach, Virginia Beach City"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360966?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=3E8545D9E4E08EDBE48F3EFC41C9F09C528FCFE4",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785952264,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5828360948",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Fort Wayne, Allen County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360948?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=9A73F320D7B7801A12E7FBD2A03192FBD4A1D490",
+    "url": "https://www.adzuna.com/land/ad/5828360941?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=CCFB85805DA52286A5F3CB4CFE0BC6828BAB08DA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870933,
@@ -2036,7 +2255,7 @@
       "Perrysburg, Wood County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828919740?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=74E46DDF55001A724FB844D0F5DCD758D6F13560",
+    "url": "https://www.adzuna.com/land/ad/5828919740?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=74E46DDF55001A724FB844D0F5DCD758D6F13560",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785908267,
@@ -2189,7 +2408,7 @@
       "Irvine, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734468?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=D8AFB9B04C935802ABA44B44A7921A96C268E97C",
+    "url": "https://www.adzuna.com/land/ad/5828734468?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=D8AFB9B04C935802ABA44B44A7921A96C268E97C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
@@ -2206,7 +2425,7 @@
       "Mc Gregor, McLennan County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734470?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=AE6ED8F49404DBE58AA30D4A9F6CEAEED472C1E6",
+    "url": "https://www.adzuna.com/land/ad/5828734470?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=AE6ED8F49404DBE58AA30D4A9F6CEAEED472C1E6",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
@@ -2223,27 +2442,10 @@
       "Cape Canaveral, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734460?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=B2D0C752027F5FC4CB4434DD8B282A35338B1AA8",
+    "url": "https://www.adzuna.com/land/ad/5828734460?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=B2D0C752027F5FC4CB4434DD8B282A35338B1AA8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
-    "first_seen": 1785925053,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828734424",
-    "source": "adzuna",
-    "company": "SpaceX",
-    "title": "Spring 2027 Software Engineering Internship/Co-op",
-    "category": "Software",
-    "locations": [
-      "Cape Canaveral, Brevard County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734424?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=2233B2B9C7C2D9B0BC64A72BF8E905035554963F",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785892514,
     "first_seen": 1785925053,
     "emailed": true
   },
@@ -2257,7 +2459,7 @@
       "Bastrop, Bastrop County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734416?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=30F2404A31388505A95623E75DD30BB650A2911F",
+    "url": "https://www.adzuna.com/land/ad/5828734416?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=30F2404A31388505A95623E75DD30BB650A2911F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -2274,7 +2476,7 @@
       "Brownsville, Cameron County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734390?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=E50729004BC29905FBBC30F89477994D82E5A484",
+    "url": "https://www.adzuna.com/land/ad/5828734390?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=E50729004BC29905FBBC30F89477994D82E5A484",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -2291,7 +2493,24 @@
       "Hawthorne, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734419?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=DC87D570C48520295C2A6E733C8F152740D50E48",
+    "url": "https://www.adzuna.com/land/ad/5828734419?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=DC87D570C48520295C2A6E733C8F152740D50E48",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785892514,
+    "first_seen": 1785925053,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5828734424",
+    "source": "adzuna",
+    "company": "SpaceX",
+    "title": "Spring 2027 Software Engineering Internship/Co-op",
+    "category": "Software",
+    "locations": [
+      "Cape Canaveral, Brevard County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5828734424?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=2233B2B9C7C2D9B0BC64A72BF8E905035554963F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -2308,7 +2527,7 @@
       "Bastrop, Bastrop County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733218?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=7123A016063BD7295DF21005A26D5A9E7850343E",
+    "url": "https://www.adzuna.com/land/ad/5828733218?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=7123A016063BD7295DF21005A26D5A9E7850343E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892353,
@@ -2325,7 +2544,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733130?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=71CBCF070F03842E28D627E90F18C5D2C2435354",
+    "url": "https://www.adzuna.com/land/ad/5828733130?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=71CBCF070F03842E28D627E90F18C5D2C2435354",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892352,
@@ -2342,7 +2561,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733154?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=1ECC4FC009D46D0C6D091924F844202231E5ACA9",
+    "url": "https://www.adzuna.com/land/ad/5828733154?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=1ECC4FC009D46D0C6D091924F844202231E5ACA9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892352,
@@ -2376,7 +2595,7 @@
       "Overland Park, Johnson County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828701150?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=C838A9D688659AC6DC52F4F2E08B5048019D49FD",
+    "url": "https://www.adzuna.com/land/ad/5828701150?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=C838A9D688659AC6DC52F4F2E08B5048019D49FD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785888051,
@@ -2410,112 +2629,10 @@
       "Norman, Cleveland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360970?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=5527DA3DF4DF30E8B317AB9072AF3E59B25DFB85",
+    "url": "https://www.adzuna.com/land/ad/5828360970?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=5527DA3DF4DF30E8B317AB9072AF3E59B25DFB85",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870934,
-    "first_seen": 1785925053,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360960",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Arcata, Humboldt County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360960?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=3F93CCDB2E992BABA895C5911361E26E684BDAAA",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785925053,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360944",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Tacoma, Pierce County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360944?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=1E960D6E0876F85BC89515A990628A560DE4ADDA",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785925053,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360940",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Little Rock, Pulaski County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360940?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=97F4013C0D37AA1A25F71596E9A3386D83E63816",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785925053,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360956",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Laredo, Webb County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360956?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=8BBFD71847423F03753E904F7B6FB80F94620CA3",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785925053,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360938",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Hammond, Lake County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360938?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=27D787E5BDA4563D0C6B81652A9AE419B33D54C7",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
-    "first_seen": 1785925053,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5828360953",
-    "source": "adzuna",
-    "company": "Intel",
-    "title": "AI Software Engineer Graduate Intern",
-    "category": "Software",
-    "locations": [
-      "Sparks, Washoe County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360953?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=E1090FFDFB68995908E8E913C528D2E5921F4F42",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785870933,
     "first_seen": 1785925053,
     "emailed": true
   },
@@ -2529,7 +2646,7 @@
       "Yonkers, Westchester County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360945?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=D9BAB52E9F6F61744C5C80961757136240E7F3D1",
+    "url": "https://www.adzuna.com/land/ad/5828360945?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=D9BAB52E9F6F61744C5C80961757136240E7F3D1",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870933,
@@ -2546,7 +2663,7 @@
       "Idaho Falls, Bonneville County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360937?se=YiKudmiR8RGhXdg9eFHdFg&utm_medium=api&utm_source=e936e76a&v=BF84157B8056394C869C889CC63EA1FBA4068AB7",
+    "url": "https://www.adzuna.com/land/ad/5828360937?se=AvrSXG2R8RGExO5K9raumQ&utm_medium=api&utm_source=e936e76a&v=BF84157B8056394C869C889CC63EA1FBA4068AB7",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870933,
@@ -2566,7 +2683,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783409323,
+    "date_posted": 1783411427,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2583,7 +2700,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783409323,
+    "date_posted": 1783411427,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2600,7 +2717,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784705323,
+    "date_posted": 1784707427,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2617,7 +2734,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784878123,
+    "date_posted": 1784880227,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2634,7 +2751,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Design-Verification-Intern_JR0285979",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785223723,
+    "date_posted": 1785225827,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2651,7 +2768,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785742123,
+    "date_posted": 1785744227,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2668,7 +2785,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785310123,
+    "date_posted": 1785312227,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2685,7 +2802,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785310123,
+    "date_posted": 1785312227,
     "first_seen": 1785924123,
     "emailed": true
   },
@@ -2702,7 +2819,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783409323,
+    "date_posted": 1783411427,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2719,7 +2836,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785396523,
+    "date_posted": 1785398627,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2736,7 +2853,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785482923,
+    "date_posted": 1785485027,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2753,7 +2870,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785828523,
+    "date_posted": 1785830627,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2770,7 +2887,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783409323,
+    "date_posted": 1783411427,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2787,7 +2904,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784186923,
+    "date_posted": 1784189027,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2804,7 +2921,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785828523,
+    "date_posted": 1785830627,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2821,7 +2938,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/AI-Algorithm-Research-Intern---Neuromorphic-Computing_JR0283303",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783409323,
+    "date_posted": 1783411427,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2838,7 +2955,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783668523,
+    "date_posted": 1783670627,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2855,7 +2972,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785223723,
+    "date_posted": 1785225827,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2872,7 +2989,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785396523,
+    "date_posted": 1785398627,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2889,7 +3006,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Analog-Test-Chip-Industry-Immersion-Intern_JR0285981",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785396523,
+    "date_posted": 1785398627,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2906,7 +3023,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-Manufacturing-Technician-Internship_JR0284246",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785828523,
+    "date_posted": 1785830627,
     "first_seen": 1785924123,
     "emailed": true
   },
@@ -2923,7 +3040,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784273323,
+    "date_posted": 1784275427,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -2940,7 +3057,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785914923,
+    "date_posted": 1785917027,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -114339,123 +114456,6 @@
     "date_posted": 1774573747,
     "first_seen": 1784026751,
     "emailed": false
-  },
-  {
-    "uid": "simplify:842e69a5-d5bc-491d-807b-1acfea48abd2",
-    "source": "simplify",
-    "company": "Plexus",
-    "title": "Intern \u2013 Product Engineer - Summer 2026",
-    "category": "Software",
-    "locations": [
-      "Neenah, WI"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Product-Engineer--Summer-2026-_R033663-1",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765265323,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:a8536358-005c-4b52-9d86-a419e3b89c8f",
-    "source": "simplify",
-    "company": "MKS Instruments",
-    "title": "Compliance Engineer Co-op",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Irvine, CA",
-      "Beaverton, OR",
-      "Broomfield, CO",
-      "Burlington, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/XMLNAME-2026-Spring-to-Fall-Product-Environmental-Compliance-Co-op_R14534",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765264990,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:596464a2-d68c-4e09-845f-2c85f3474255",
-    "source": "simplify",
-    "company": "Schweitzer Engineering Laboratories",
-    "title": "Designer Intern",
-    "category": "Hardware",
-    "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "terms": [
-      "Winter 2026"
-    ],
-    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Calgary/Designer-Intern_2025-18710",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765264881,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:73a68e3e-6de3-498a-98c8-8a01911b0357",
-    "source": "simplify",
-    "company": "Airbnb",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.airbnb.com/positions/7453837?gh_jid=7453837",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765264231,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0ea55151-6d85-44de-b8b3-22f1239039b8",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "Embedded Software Engineer Intern",
-    "category": "Hardware",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26678",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765266255,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9ecba065-df34-4f39-a962-6638c3c36103",
-    "source": "simplify",
-    "company": "Veolia",
-    "title": "Application Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Oakville, ON, Canada"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765266020,
-    "first_seen": 1784003708,
-    "emailed": true
   },
   {
     "uid": "simplify:024af9c7-745f-4aa9-bf0a-06e6c65f96fe",
