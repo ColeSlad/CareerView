@@ -1,5 +1,434 @@
 [
   {
+    "uid": "pittcsc:bc6efca6-78b6-43a9-bc44-256d51ab8063",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640817",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371105,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6bc9048c-0168-4ee2-af5e-6e02b18baf60",
+    "source": "pittcsc",
+    "company": "ServiceNow",
+    "title": "Intern Associate Technical Portfolio Analyst",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Staines-upon-Thames, UK",
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097991956",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765369146,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2e350d27-cce6-45f2-aecd-45ed31f5f06f",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Multimodal Deep Learning for Healthcare",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637113",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371552,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2ba778b7-a15a-4080-9c90-42753ca35f64",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - AIP AI Knowledge Multimodal AI",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637119",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765371559,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:1e461d96-8f3e-4ae5-ab87-228583afdf1b",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Applied Sciences Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637430",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371560,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0c94e197-474d-4741-9ef7-fc11b6aab324",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - AI Network Observability",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA",
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639544",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765371488,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e94e2578-2b56-4203-83d8-27600152dadb",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Onedrive and Sharepoint",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640732",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765371120,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:8e25df52-56aa-4f74-93fa-09c4148b53b7",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Residency Programme - Post-Doctoral Researcher in Machine Learning - People-Centric AI",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556638636",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371325,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:24dd8581-c4b4-4e33-9d07-49d81b549138",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Applied Scientist Audio Visual Question Answering",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621552",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371160,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0da85049-8e8a-4515-a50d-34ad5cc9e583",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - AI Hardware",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621661",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765371217,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:762e0bf2-4ee1-4b42-ad3f-3dd6ac2da52e",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Computational Social Science",
+    "category": "AI/ML/Data",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639564",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765371405,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4f2273ab-8ca0-4cd7-9ae4-e1f0d6eadd5f",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Microsoft Teams",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640715",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765371121,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e87f2185-a474-4144-919e-9f683eeba41c",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - AI-Driven CPU Optimizations",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "terms": [
+      "Summer 2025"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640691",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371120,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:5f7a66c6-b15d-4f95-bcb7-952025bc75b5",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Silicon Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Hillsboro, OR"
+    ],
+    "terms": [
+      "Fall 2025",
+      "Winter 2025",
+      "Spring 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556638587",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371375,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c269a827-7cb0-4384-8d4e-e559fb80c2a9",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - FATE",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637127",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371554,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f306b5ba-e26a-4b6d-97a7-2f9ccb8af481",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Applied Science PhD Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "London, UK",
+      "Cambridge, UK",
+      "Reading, UK"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628232",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371622,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:3d8293da-9be3-435c-8530-a18653f541d2",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Machine Learning - People Centric AI",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556635218",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371638,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:62283d94-3b5d-4c9f-bef3-4b7abfe44bcd",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - AI/ML Numerics & Efficiency",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637096",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765371585,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:5d159621-6295-4707-b416-aa148493a7cb",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Deep Learning Group",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637090",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765371586,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:cb843c79-c283-448f-a789-5f88b5ef2dac",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Software Engineer: AI/ML Intern Opportunities - MAI for University Students",
+    "category": "Software",
+    "locations": [
+      "Redmond, WA",
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631195",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371570,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:af3d9caf-888f-44c5-9615-e45d5d06f6c5",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Interactive Multimodal Futures Group - Situated & Affective Computing",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, MA",
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637105",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371558,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:94c4ddac-8cb3-459c-b260-f6e3c240b299",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Internship: Improving Grounding in Language Models - NLP - Hci",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556635196",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765371639,
+    "first_seen": 1786109045,
+    "emailed": false
+  },
+  {
     "uid": "adzuna:5828360958",
     "source": "adzuna",
     "company": "Intel",
@@ -9,7 +438,7 @@
       "Williamsburg, James City County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360958?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=17198DC0EE380E446394BFEC784723B120332B48",
+    "url": "https://www.adzuna.com/land/ad/5828360958?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=17198DC0EE380E446394BFEC784723B120332B48",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870933,
@@ -335,7 +764,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Environmental-Health-and-Safety-Intern_JR0286293",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786105864,
+    "date_posted": 1786109039,
     "first_seen": 1786091817,
     "emailed": false
   },
@@ -349,7 +778,7 @@
       "Melbourne, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831690635?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=727842D56D15815E3A571AB4934707BFBB39FAD5",
+    "url": "https://www.adzuna.com/land/ad/5831690635?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=727842D56D15815E3A571AB4934707BFBB39FAD5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786076125,
@@ -366,7 +795,7 @@
       "Phoenix, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5829940532?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=5927A833C367727BC2F989A173750FA0B39BCCD4",
+    "url": "https://www.adzuna.com/land/ad/5829940532?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=5927A833C367727BC2F989A173750FA0B39BCCD4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785969846,
@@ -551,7 +980,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831516447?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=6D945F09DD4635756F61BAEBB48529E7DDF2376F",
+    "url": "https://www.adzuna.com/land/ad/5831516447?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=6D945F09DD4635756F61BAEBB48529E7DDF2376F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786062550,
@@ -619,7 +1048,7 @@
       "Atlanta, Fulton County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831465634?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=0D0702808BA7DC83773788ACA7D45C76A1845A7E",
+    "url": "https://www.adzuna.com/land/ad/5831465634?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=0D0702808BA7DC83773788ACA7D45C76A1845A7E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786056389,
@@ -636,7 +1065,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831229574?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=70B018CFCFD68A59E0B45745346B21A6B6D74F2F",
+    "url": "https://www.adzuna.com/land/ad/5831229574?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=70B018CFCFD68A59E0B45745346B21A6B6D74F2F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786044664,
@@ -653,7 +1082,7 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831228043?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=14E5AF58A69C0E7D07D7CDFFE49F54119E128146",
+    "url": "https://www.adzuna.com/land/ad/5831228043?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=14E5AF58A69C0E7D07D7CDFFE49F54119E128146",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786044532,
@@ -704,7 +1133,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112187?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=50D3A76811268BAEB5AD692CA4FF705EA7581C34",
+    "url": "https://www.adzuna.com/land/ad/5830112187?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=50D3A76811268BAEB5AD692CA4FF705EA7581C34",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -721,7 +1150,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112192?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=7DAAEBD577D1F0047687B9E256260FA021EC9D68",
+    "url": "https://www.adzuna.com/land/ad/5830112192?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=7DAAEBD577D1F0047687B9E256260FA021EC9D68",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -738,7 +1167,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112195?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=8BB2F2EADAA6B72CCD04C2DE04760392495F69D3",
+    "url": "https://www.adzuna.com/land/ad/5830112195?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=8BB2F2EADAA6B72CCD04C2DE04760392495F69D3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -755,7 +1184,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112173?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=7494D4480F8C7AFFD06492F512A3C2AAFCA91819",
+    "url": "https://www.adzuna.com/land/ad/5830112173?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=7494D4480F8C7AFFD06492F512A3C2AAFCA91819",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -772,7 +1201,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112197?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=6BC44C1E662660FCDCC05170C0AA4C3A292F5481",
+    "url": "https://www.adzuna.com/land/ad/5830112197?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=6BC44C1E662660FCDCC05170C0AA4C3A292F5481",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -789,7 +1218,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112164?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=96940A59D38B2715FBE94D8185FB118B207EDCDE",
+    "url": "https://www.adzuna.com/land/ad/5830112164?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=96940A59D38B2715FBE94D8185FB118B207EDCDE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -976,7 +1405,7 @@
       "Cape Canaveral, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734460?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=B2D0C752027F5FC4CB4434DD8B282A35338B1AA8",
+    "url": "https://www.adzuna.com/land/ad/5828734460?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=B2D0C752027F5FC4CB4434DD8B282A35338B1AA8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
@@ -993,7 +1422,7 @@
       "Mc Gregor, McLennan County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734470?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=AE6ED8F49404DBE58AA30D4A9F6CEAEED472C1E6",
+    "url": "https://www.adzuna.com/land/ad/5828734470?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=AE6ED8F49404DBE58AA30D4A9F6CEAEED472C1E6",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
@@ -1010,7 +1439,7 @@
       "Irvine, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734468?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=D8AFB9B04C935802ABA44B44A7921A96C268E97C",
+    "url": "https://www.adzuna.com/land/ad/5828734468?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=D8AFB9B04C935802ABA44B44A7921A96C268E97C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
@@ -1027,7 +1456,7 @@
       "Brownsville, Cameron County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734390?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=E50729004BC29905FBBC30F89477994D82E5A484",
+    "url": "https://www.adzuna.com/land/ad/5828734390?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=E50729004BC29905FBBC30F89477994D82E5A484",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -1044,7 +1473,7 @@
       "Hawthorne, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734419?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=DC87D570C48520295C2A6E733C8F152740D50E48",
+    "url": "https://www.adzuna.com/land/ad/5828734419?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=DC87D570C48520295C2A6E733C8F152740D50E48",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -1061,7 +1490,7 @@
       "Bastrop, Bastrop County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734416?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=30F2404A31388505A95623E75DD30BB650A2911F",
+    "url": "https://www.adzuna.com/land/ad/5828734416?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=30F2404A31388505A95623E75DD30BB650A2911F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -1078,7 +1507,7 @@
       "Cape Canaveral, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734424?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=2233B2B9C7C2D9B0BC64A72BF8E905035554963F",
+    "url": "https://www.adzuna.com/land/ad/5828734424?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=2233B2B9C7C2D9B0BC64A72BF8E905035554963F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -1095,7 +1524,7 @@
       "Bastrop, Bastrop County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733218?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=7123A016063BD7295DF21005A26D5A9E7850343E",
+    "url": "https://www.adzuna.com/land/ad/5828733218?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=7123A016063BD7295DF21005A26D5A9E7850343E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892353,
@@ -1112,7 +1541,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733154?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=1ECC4FC009D46D0C6D091924F844202231E5ACA9",
+    "url": "https://www.adzuna.com/land/ad/5828733154?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=1ECC4FC009D46D0C6D091924F844202231E5ACA9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892352,
@@ -1129,7 +1558,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733130?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=71CBCF070F03842E28D627E90F18C5D2C2435354",
+    "url": "https://www.adzuna.com/land/ad/5828733130?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=71CBCF070F03842E28D627E90F18C5D2C2435354",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892352,
@@ -1163,7 +1592,7 @@
       "Overland Park, Johnson County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828701150?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=C838A9D688659AC6DC52F4F2E08B5048019D49FD",
+    "url": "https://www.adzuna.com/land/ad/5828701150?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=C838A9D688659AC6DC52F4F2E08B5048019D49FD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785888051,
@@ -1197,7 +1626,7 @@
       "Norman, Cleveland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360970?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=5527DA3DF4DF30E8B317AB9072AF3E59B25DFB85",
+    "url": "https://www.adzuna.com/land/ad/5828360970?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=5527DA3DF4DF30E8B317AB9072AF3E59B25DFB85",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870934,
@@ -1214,7 +1643,7 @@
       "Yonkers, Westchester County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828360945?se=iLQ63luS8RGpFcUBpWXU7w&utm_medium=api&utm_source=e936e76a&v=D9BAB52E9F6F61744C5C80961757136240E7F3D1",
+    "url": "https://www.adzuna.com/land/ad/5828360945?se=uO-GQmOS8RGPo-QqF3Mg0A&utm_medium=api&utm_source=e936e76a&v=D9BAB52E9F6F61744C5C80961757136240E7F3D1",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785870933,
@@ -2755,7 +3184,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786019464,
+    "date_posted": 1786022639,
     "first_seen": 1786011553,
     "emailed": false
   },
@@ -4553,7 +4982,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785933064,
+    "date_posted": 1785936239,
     "first_seen": 1785956319,
     "emailed": true
   },
@@ -4685,7 +5114,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783513864,
+    "date_posted": 1783517039,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4702,7 +5131,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783513864,
+    "date_posted": 1783517039,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4719,7 +5148,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784723464,
+    "date_posted": 1784726639,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4736,7 +5165,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784896264,
+    "date_posted": 1784899439,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4753,7 +5182,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Design-Verification-Intern_JR0285979",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785241864,
+    "date_posted": 1785245039,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4770,7 +5199,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785760264,
+    "date_posted": 1785763439,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4787,7 +5216,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785328264,
+    "date_posted": 1785331439,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4804,7 +5233,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785328264,
+    "date_posted": 1785331439,
     "first_seen": 1785924123,
     "emailed": true
   },
@@ -4821,7 +5250,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783513864,
+    "date_posted": 1783517039,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4838,7 +5267,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785414664,
+    "date_posted": 1785417839,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4855,7 +5284,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785501064,
+    "date_posted": 1785504239,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4872,7 +5301,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785846664,
+    "date_posted": 1785849839,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4889,7 +5318,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783513864,
+    "date_posted": 1783517039,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4906,7 +5335,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784205064,
+    "date_posted": 1784208239,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4923,7 +5352,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785846664,
+    "date_posted": 1785849839,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4940,7 +5369,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783686664,
+    "date_posted": 1783689839,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4957,7 +5386,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785241864,
+    "date_posted": 1785245039,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4974,7 +5403,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785414664,
+    "date_posted": 1785417839,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -4991,7 +5420,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Analog-Test-Chip-Industry-Immersion-Intern_JR0285981",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785414664,
+    "date_posted": 1785417839,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -5008,7 +5437,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-Manufacturing-Technician-Internship_JR0284246",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785846664,
+    "date_posted": 1785849839,
     "first_seen": 1785924123,
     "emailed": true
   },
@@ -5025,7 +5454,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784291464,
+    "date_posted": 1784294639,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -5042,7 +5471,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785933064,
+    "date_posted": 1785936239,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -41872,44 +42301,6 @@
     "emailed": false
   },
   {
-    "uid": "pittcsc:20c7cc48-dce6-4c03-beff-a27ce48f61ff",
-    "source": "pittcsc",
-    "company": "Microsoft",
-    "title": "Research Intern in Machine Learning - Machine Intelligence",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.careers.microsoft.com/global/en/job/1894340",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1760378231,
-    "first_seen": 1784355847,
-    "emailed": false
-  },
-  {
-    "uid": "pittcsc:d50be02b-afd6-4fa8-842c-d505ecf0cbea",
-    "source": "pittcsc",
-    "company": "Microsoft",
-    "title": "Research Intern - Multiple Teams",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.careers.microsoft.com/global/en/job/1903515",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1761823173,
-    "first_seen": 1784355847,
-    "emailed": false
-  },
-  {
     "uid": "pittcsc:36506a9a-26d5-4dd0-b548-2326d9542996",
     "source": "pittcsc",
     "company": "Microsoft",
@@ -42211,6 +42602,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1760151960,
+    "first_seen": 1784355847,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d50be02b-afd6-4fa8-842c-d505ecf0cbea",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Multiple Teams",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Redmond, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1903515",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1761823173,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -54328,6 +54738,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1760375441,
+    "first_seen": 1784355847,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:20c7cc48-dce6-4c03-beff-a27ce48f61ff",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern in Machine Learning - Machine Intelligence",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.careers.microsoft.com/global/en/job/1894340",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1760378231,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -116443,200 +116872,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:6bc9048c-0168-4ee2-af5e-6e02b18baf60",
-    "source": "simplify",
-    "company": "ServiceNow",
-    "title": "Intern Associate Technical Portfolio Analyst",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Staines-upon-Thames, UK",
-      "London, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000097991956",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765369146,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2e350d27-cce6-45f2-aecd-45ed31f5f06f",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - Multimodal Deep Learning for Healthcare",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637113",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371552,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2ba778b7-a15a-4080-9c90-42753ca35f64",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - AIP AI Knowledge Multimodal AI",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637119",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371559,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:1e461d96-8f3e-4ae5-ab87-228583afdf1b",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Applied Sciences Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637430",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371560,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0c94e197-474d-4741-9ef7-fc11b6aab324",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - AI Network Observability",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA",
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639544",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371488,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:e94e2578-2b56-4203-83d8-27600152dadb",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - Onedrive and Sharepoint",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640732",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371120,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:bc6efca6-78b6-43a9-bc44-256d51ab8063",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640817",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371105,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:8e25df52-56aa-4f74-93fa-09c4148b53b7",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Residency Programme - Post-Doctoral Researcher in Machine Learning - People-Centric AI",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556638636",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371325,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:24dd8581-c4b4-4e33-9d07-49d81b549138",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Applied Scientist Audio Visual Question Answering",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621552",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371160,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0da85049-8e8a-4515-a50d-34ad5cc9e583",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - AI Hardware",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556621661",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371217,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:32265cdc-23d8-4417-9b9e-0af795c80910",
     "source": "simplify",
     "company": "Microsoft",
@@ -116677,84 +116912,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:762e0bf2-4ee1-4b42-ad3f-3dd6ac2da52e",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - Computational Social Science",
-    "category": "AI/ML/Data",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556639564",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371405,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4f2273ab-8ca0-4cd7-9ae4-e1f0d6eadd5f",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - Microsoft Teams",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640715",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371121,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:e87f2185-a474-4144-919e-9f683eeba41c",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - AI-Driven CPU Optimizations",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Hillsboro, OR"
-    ],
-    "terms": [
-      "Summer 2025"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556640691",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371120,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:5f7a66c6-b15d-4f95-bcb7-952025bc75b5",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Silicon Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Hillsboro, OR"
-    ],
-    "terms": [
-      "Fall 2025",
-      "Winter 2025",
-      "Spring 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556638587",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371375,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:17d13b84-4c8c-4e67-884d-a9a6a5366335",
     "source": "simplify",
     "company": "Microsoft",
@@ -116774,25 +116931,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:c269a827-7cb0-4384-8d4e-e559fb80c2a9",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - FATE",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637127",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371554,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:fb02695d-805b-4251-8a38-ae2cc07757ff",
     "source": "simplify",
     "company": "Microsoft",
@@ -116808,27 +116946,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765371877,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f306b5ba-e26a-4b6d-97a7-2f9ccb8af481",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Applied Science PhD Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "London, UK",
-      "Cambridge, UK",
-      "Reading, UK"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556628232",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371622,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -117043,26 +117160,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765371786,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:3d8293da-9be3-435c-8530-a18653f541d2",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - Machine Learning - People Centric AI",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556635218",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371638,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -117361,44 +117458,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:62283d94-3b5d-4c9f-bef3-4b7abfe44bcd",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - AI/ML Numerics & Efficiency",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637096",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371585,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:5d159621-6295-4707-b416-aa148493a7cb",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - Deep Learning Group",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637090",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371586,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:4cf0fb1e-6fd5-4df5-8048-282bf014992d",
     "source": "simplify",
     "company": "Microsoft",
@@ -117456,26 +117515,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765371934,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:cb843c79-c283-448f-a789-5f88b5ef2dac",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Software Engineer: AI/ML Intern Opportunities - MAI for University Students",
-    "category": "Software",
-    "locations": [
-      "Redmond, WA",
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556631195",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371570,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -117690,26 +117729,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:af3d9caf-888f-44c5-9615-e45d5d06f6c5",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - Interactive Multimodal Futures Group - Situated & Affective Computing",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, MA",
-      "Redmond, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556637105",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371558,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:e208c5f9-3bb1-4ecd-b75c-da96d3f16b32",
     "source": "simplify",
     "company": "Moog ",
@@ -117860,25 +117879,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765371911,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:94c4ddac-8cb3-459c-b260-f6e3c240b299",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Internship: Improving Grounding in Language Models - NLP - Hci",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, UK"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556635196",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765371639,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -318008,7 +318008,7 @@
     ],
     "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780136024,
     "first_seen": 1784003708,
     "emailed": true
