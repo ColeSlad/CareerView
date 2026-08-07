@@ -1,5 +1,922 @@
 [
   {
+    "uid": "pittcsc:3be11a17-3454-4ccb-9cca-9b0213e5a43f",
+    "source": "pittcsc",
+    "company": "EXL",
+    "title": "Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7574",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408925,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f3e1dd51-5fa2-4d31-a191-365c1691876f",
+    "source": "pittcsc",
+    "company": "Netflix",
+    "title": "Software Engineer PhD Intern - Streaming Algorithms - Summer 2026",
+    "category": "Software",
+    "locations": [
+      "Los Gatos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765408793,
+    "first_seen": 1786146174,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:4539a5e7-1238-4cab-86c1-5295f7a11ea9",
+    "source": "pittcsc",
+    "company": "Intuitive Surgical",
+    "title": "Product Lifecycle Management Intern",
+    "category": "Product",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/Intuitive/744000098141105",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408666,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fbc42e47-c91a-478c-b817-80757f77e9ba",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Risk Analysis Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Risk-Analysis-Intern-Summer-2026-NC/1322471100/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408331,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b9352c0d-f475-4b1e-9c5a-9f11e906bbaf",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Control Software Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Ogden, UT"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Ogden-Control-Software-Engineering-Intern-Summer-2026-UT-84404/1340341000/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408332,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:90eac154-cf62-449d-9954-dc1c158c3894",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Roseville, MN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408407,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:80302408-6288-4da1-849e-c2c38fe2df11",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Parts Product Management Intern",
+    "category": "Product",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Parts-Product-Management-Intern-Summer-2026-NC/1339982300/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408351,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:799348a2-ff1e-4af3-80d6-2fe37ab904de",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Software Development Intern Summer 2026",
+    "category": "Software",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Development-Intern-Summer-2026-NC/1335431600/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408405,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4b3ace4e-7f0e-44de-8115-9f50f1a745f4",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Sales Data Analyst Intern Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "New Stanton, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/New-Stanton-Sales-Data-Analyst-Intern-Summer-2026-PA-15672/1338047300/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408329,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:389449b0-95c5-48c6-bd4e-dd2eae07403e",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Data Science Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Data-Science-Intern-Summer-2026-NC/1332730100/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408365,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:1d64d1a3-607a-4371-a10f-5bc081474208",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Software and Automation Intern",
+    "category": "Software",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-and-Automation-Intern-Summer-2026-NC/1336532600/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408350,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:11f871a5-5fcf-4cad-8af5-55c1415dc907",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Hardware Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Cranberry Twp, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Hardware-Engineering-Intern-Summer-2026-OR/1321325700/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408362,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:020bd974-51da-4ba2-946f-8287a1c01224",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Enovia PLM Developer Intern",
+    "category": "Software",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Enovia-PLM-Developer-Intern-Summer-2026-NC/1338026700/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408334,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c2771724-65e0-4832-9bd6-37edc0f48251",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "Decentralized AI Intern - AI",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28483",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408011,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b4652dae-ba51-4a17-8bc6-7b4ed6413c0f",
+    "source": "pittcsc",
+    "company": "CommScope",
+    "title": "Intern-Software Engineer",
+    "category": "Software",
+    "locations": [
+      "Shakopee, MN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.commscope.com/job/Shakopee-Intern-Software-Engineer-Minn/1346617800/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765407894,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:903856f1-791c-4826-bdc4-a03c5c53f0a7",
+    "source": "pittcsc",
+    "company": "CommScope",
+    "title": "Intern-Product Lifecyle Management",
+    "category": "Product",
+    "locations": [
+      "Shakopee, MN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.commscope.com/job/Shakopee-Intern-Product-Lifecyle-Management-Minn/1347160000/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765407983,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:85936719-64fd-4449-85a0-07ced6ced379",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "GenAI Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27970",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408021,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7d0887c1-7529-464f-9236-98c2e0d27030",
+    "source": "pittcsc",
+    "company": "CommScope",
+    "title": "Intern Software Developer",
+    "category": "Software",
+    "locations": [
+      "Shakopee, MN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.commscope.com/job/Shakopee-Intern,-Software-Developer-Minn/1348768800/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765407891,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6c4aa9aa-7b36-4983-9702-73d4f74cde72",
+    "source": "pittcsc",
+    "company": "CommScope",
+    "title": "Analytics Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Hickory, NC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.commscope.com/job/Claremont-Analytics-Intern-Nort/1348738600/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765407886,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:29d09aa5-bf18-4d09-b993-20868004fa63",
+    "source": "pittcsc",
+    "company": "CommScope",
+    "title": "Intern - IMS Software Engineering",
+    "category": "Software",
+    "locations": [
+      "Denver, NC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.commscope.com/job/Catawba-Intern,-IMS-Software-Engineering-Nort/1347995900/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765407934,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:9f705bd2-eb54-4a7d-bb88-2deaf3298261",
+    "source": "pittcsc",
+    "company": "Atlassian",
+    "title": "PhD AI Research Intern - 2026 Summer U.S",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://campus-americas.icims.com/jobs/20960/phd-ai-research-intern%2c-2026-summer-u.s./job",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409256,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:770d8e42-1559-47c7-939c-1c10f2138bfe",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Document Management Solutions Intern Summer 2026",
+    "category": "Software",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Document-Management-Solutions-Intern-Summer-2026-NC/1338015400/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409397,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f6ef0152-835c-4eec-a3f3-2a0c1fdcfbc7",
+    "source": "pittcsc",
+    "company": "Zscaler",
+    "title": "Product Manager Intern - Cybersecurity",
+    "category": "Product",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5000447007",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409442,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:053f8b15-89ac-46e7-a53c-db1754cb7600",
+    "source": "pittcsc",
+    "company": "Cohesity",
+    "title": "Salesforce Developer Intern",
+    "category": "Software",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Salesforce-Developer-Intern_R02141",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408678,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b0958166-baf3-41f3-aca5-9ab4535c6e3b",
+    "source": "pittcsc",
+    "company": "Public Service Enterprise Group",
+    "title": "Technical Intern - Gas Operations GIS South",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Bristol, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.pseg.com/job/Burlington-Summer-2026-Technical-Intern-Gas-Operations-GIS-South-NJ/1348923600/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409390,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:dcaf0152-8488-4c5e-83c8-14d3e58b45ef",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "2026 PhD Software Engineer Intern - Observability Data Platform - United States",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://university-uber.icims.com/jobs/151981/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409301,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:bb423c59-e04c-40ce-8ef4-5fc6c1566180",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Nuclear Core Design Intern",
+    "category": "Software",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Core-Design-Intern-Summer-2026-NC/1326744400/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409398,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:de7c1f3a-d12f-4ee5-96e1-d12902351472",
+    "source": "pittcsc",
+    "company": "General Dynamics Mission Systems",
+    "title": "Intern Engineer",
+    "category": "Software",
+    "locations": [
+      "Kitsap County, WA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/69673/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409447,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ac486ca5-0d2d-4fd6-b18b-7ba0dc289662",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Risk Analysis Co-Op 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Risk-Analysis-Co-Op-2026-NC/1327729500/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409390,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:69ab24a0-41ca-4795-b946-fe2c84902b78",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "System Test Engineering Intern Summer 2026",
+    "category": "Hardware",
+    "locations": [
+      "Cranberry Twp, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Warrendale-System-Test-Engineering-Intern-Summer-2026-OR/1341012300/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409406,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:eb123a13-2920-4f75-918b-1a4df075fd8e",
+    "source": "pittcsc",
+    "company": "Commonwealth of Massachusetts",
+    "title": "Geospatial AI Data Engineer Co-op",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Massachusetts"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=250007QL",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408707,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d223d071-773d-4a4b-adb0-2b933df64a48",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "2026 PhD Software Engineer Intern - Kafka - United States",
+    "category": "Software",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.uber.com/global/en/careers/list/152031/",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408642,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f38199a2-9394-4822-a17a-a476acacc036",
+    "source": "pittcsc",
+    "company": "Dominion Energy",
+    "title": "IT Microsoft Center of Excellence",
+    "category": "Software",
+    "locations": [
+      "Richmond, VA",
+      "Columbia, SC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.dominionenergy.com/job/RICHMOND-Intern-IT-Microsoft-Center-of-Excellence-(Richmond,-VA-Cayce,-SC)-VA-23219/1348906400/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409056,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6058e8b2-c545-470b-9e22-d0e0d001e45f",
+    "source": "pittcsc",
+    "company": "RTX",
+    "title": "Data Science Internship - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Coralville, IA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA99-Field-Office---IA-Remote-Location-Remote-City-IA-50301-USA/Data-Science-Internship--Summer-2026---Remote-_01812002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408778,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6052f579-8af0-4ae0-9717-fd169cb6e1de",
+    "source": "pittcsc",
+    "company": "Paccar",
+    "title": "Intern - Aftersales Data Analyst",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Kirkland, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-AfterSales-Data-Analyst-WA-98033/1275251101/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1765409320,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e21c5ccd-9053-4aa0-827a-9edfd5d26421",
+    "source": "pittcsc",
+    "company": "Uber",
+    "title": "PhD Software Engineer Intern - Observability Data Platform",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.uber.com/global/en/careers/list/151981/",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408655,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2bc48395-de55-46ba-9d8c-f5c825b4d203",
+    "source": "pittcsc",
+    "company": "Cisco",
+    "title": "Software Engineer Full Stack/Application 2 - Co-op",
+    "category": "Software",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers.cisco.com/global/en/job/2004337",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408566,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7f6e95f6-60be-41e6-b5bc-5c87b50cc1fe",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "AI/ML Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Berkeley Heights, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27580",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408946,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:1d70656c-df1e-4c8e-9bd9-6a0f91263ae3",
+    "source": "pittcsc",
+    "company": "Zurich Insurance",
+    "title": "Application Delivery Intern",
+    "category": "Software",
+    "locations": [
+      "Hoffman Estates, IL"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://www.careers.zurich.com/job/Schaumburg-Application-Delivery-Internship-(Summer-2026)-IL-60159/1347928957/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409382,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c35d2403-ccc7-41fc-9eb2-8b7cef094820",
+    "source": "pittcsc",
+    "company": "General Dynamics Mission Systems",
+    "title": "Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Kings Bay Base, GA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://careers-gdms.icims.com/jobs/69728/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409446,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:937ac27d-da09-4e1e-b491-b5448eb47316",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Equipment Qualification Intern",
+    "category": "Hardware",
+    "locations": [
+      "New Stanton, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/New-Stanton-Equipment-Qualification-Intern-Summer-2026-PA-15672/1340725800/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408343,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:3b80a643-0ffe-4572-b1f2-fee6a64ab782",
+    "source": "pittcsc",
+    "company": "TikTok",
+    "title": "Creative Product Operations Intern - Monetization Product",
+    "category": "Product",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://lifeattiktok.com/search/7582337802856270085",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409273,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b37a841b-710c-47c6-b350-d0bd373f3dd0",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "1&C Commercial Engineering Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-I&C-Commercial-Engineering-Intern-Summer-2026-NC/1348880500/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408408,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b7512d56-a3fd-4a98-853d-e15b05057e49",
+    "source": "pittcsc",
+    "company": "Sanctuary AI",
+    "title": "Robot Test Pilot Co-op",
+    "category": "Hardware",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "url": "https://jobs.lever.co/sanctuary/1679ab93-50e1-495a-8182-ee8d3af89e25/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408756,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:907e30bd-32cd-4b78-87a2-1dc0c3ced0cd",
+    "source": "pittcsc",
+    "company": "Weston & Sampson",
+    "title": "Climate Resiliency Co-Op",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Boston, MA",
+      "Lowell, MA",
+      "Wakefield, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers-wseinc.icims.com/jobs/3310/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408293,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b0aa1e6f-59d6-45e4-a0d2-88df57706107",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Collaboration Automation Intern",
+    "category": "Software",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Collaboration-Automation-Intern-Summer-2026-NC/1338434100/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408331,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b5dbf1a4-1afb-4289-8dbf-4e408e98e0fb",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Independent Verification & Validation Intern",
+    "category": "Software",
+    "locations": [
+      "Grove City, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Independent-Verification-&-Validation-Intern-Summer-2026-OR/1321306900/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765408362,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fc41aafe-7973-4d51-988b-62e6a9eadfb3",
+    "source": "pittcsc",
+    "company": "Westinghouse Electric Company",
+    "title": "Electromechanical Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Greensburg, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers.westinghousenuclear.com/job/Blairsville-Electromechanical-Engineering-Intern-Summer-2026-PA-15717/1324179500/?ats=successfactors",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765409399,
+    "first_seen": 1786146174,
+    "emailed": false
+  },
+  {
     "uid": "simplify:01ba76c4-8637-49c3-a04f-324409838c74",
     "source": "simplify",
     "company": "Trillium",
@@ -822,7 +1739,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832227626?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=E3CB23DEE4DDE6EC0E7C8A3C7D0AD087188DCBC2",
+    "url": "https://www.adzuna.com/land/ad/5832227626?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=E3CB23DEE4DDE6EC0E7C8A3C7D0AD087188DCBC2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786108643,
@@ -856,7 +1773,7 @@
       "Melbourne, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831690635?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=727842D56D15815E3A571AB4934707BFBB39FAD5",
+    "url": "https://www.adzuna.com/land/ad/5831690635?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=727842D56D15815E3A571AB4934707BFBB39FAD5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786076125,
@@ -958,7 +1875,7 @@
       "Atlanta, Fulton County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831465634?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=0D0702808BA7DC83773788ACA7D45C76A1845A7E",
+    "url": "https://www.adzuna.com/land/ad/5831465634?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=0D0702808BA7DC83773788ACA7D45C76A1845A7E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786056389,
@@ -975,7 +1892,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831229574?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=70B018CFCFD68A59E0B45745346B21A6B6D74F2F",
+    "url": "https://www.adzuna.com/land/ad/5831229574?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=70B018CFCFD68A59E0B45745346B21A6B6D74F2F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786044664,
@@ -992,7 +1909,7 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831228043?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=14E5AF58A69C0E7D07D7CDFFE49F54119E128146",
+    "url": "https://www.adzuna.com/land/ad/5831228043?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=14E5AF58A69C0E7D07D7CDFFE49F54119E128146",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786044532,
@@ -1043,7 +1960,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112187?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=50D3A76811268BAEB5AD692CA4FF705EA7581C34",
+    "url": "https://www.adzuna.com/land/ad/5830112187?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=50D3A76811268BAEB5AD692CA4FF705EA7581C34",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -1060,7 +1977,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112192?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=7DAAEBD577D1F0047687B9E256260FA021EC9D68",
+    "url": "https://www.adzuna.com/land/ad/5830112192?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=7DAAEBD577D1F0047687B9E256260FA021EC9D68",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -1077,7 +1994,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112195?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=8BB2F2EADAA6B72CCD04C2DE04760392495F69D3",
+    "url": "https://www.adzuna.com/land/ad/5830112195?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=8BB2F2EADAA6B72CCD04C2DE04760392495F69D3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -1094,7 +2011,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112173?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=7494D4480F8C7AFFD06492F512A3C2AAFCA91819",
+    "url": "https://www.adzuna.com/land/ad/5830112173?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=7494D4480F8C7AFFD06492F512A3C2AAFCA91819",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -1111,7 +2028,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112197?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=6BC44C1E662660FCDCC05170C0AA4C3A292F5481",
+    "url": "https://www.adzuna.com/land/ad/5830112197?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=6BC44C1E662660FCDCC05170C0AA4C3A292F5481",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -1128,7 +2045,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5830112164?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=96940A59D38B2715FBE94D8185FB118B207EDCDE",
+    "url": "https://www.adzuna.com/land/ad/5830112164?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=96940A59D38B2715FBE94D8185FB118B207EDCDE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785980118,
@@ -1162,7 +2079,7 @@
       "Phoenix, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5829940532?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=5927A833C367727BC2F989A173750FA0B39BCCD4",
+    "url": "https://www.adzuna.com/land/ad/5829940532?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=5927A833C367727BC2F989A173750FA0B39BCCD4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785969846,
@@ -1332,7 +2249,7 @@
       "Cape Canaveral, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734460?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=B2D0C752027F5FC4CB4434DD8B282A35338B1AA8",
+    "url": "https://www.adzuna.com/land/ad/5828734460?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=B2D0C752027F5FC4CB4434DD8B282A35338B1AA8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
@@ -1349,7 +2266,7 @@
       "Mc Gregor, McLennan County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734470?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=AE6ED8F49404DBE58AA30D4A9F6CEAEED472C1E6",
+    "url": "https://www.adzuna.com/land/ad/5828734470?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=AE6ED8F49404DBE58AA30D4A9F6CEAEED472C1E6",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
@@ -1366,7 +2283,7 @@
       "Irvine, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734468?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=D8AFB9B04C935802ABA44B44A7921A96C268E97C",
+    "url": "https://www.adzuna.com/land/ad/5828734468?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=D8AFB9B04C935802ABA44B44A7921A96C268E97C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892515,
@@ -1383,7 +2300,7 @@
       "Bastrop, Bastrop County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734416?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=30F2404A31388505A95623E75DD30BB650A2911F",
+    "url": "https://www.adzuna.com/land/ad/5828734416?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=30F2404A31388505A95623E75DD30BB650A2911F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -1400,7 +2317,7 @@
       "Hawthorne, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734419?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=DC87D570C48520295C2A6E733C8F152740D50E48",
+    "url": "https://www.adzuna.com/land/ad/5828734419?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=DC87D570C48520295C2A6E733C8F152740D50E48",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -1417,7 +2334,7 @@
       "Brownsville, Cameron County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734390?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=E50729004BC29905FBBC30F89477994D82E5A484",
+    "url": "https://www.adzuna.com/land/ad/5828734390?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=E50729004BC29905FBBC30F89477994D82E5A484",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -1434,7 +2351,7 @@
       "Cape Canaveral, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828734424?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=2233B2B9C7C2D9B0BC64A72BF8E905035554963F",
+    "url": "https://www.adzuna.com/land/ad/5828734424?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=2233B2B9C7C2D9B0BC64A72BF8E905035554963F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892514,
@@ -1451,7 +2368,7 @@
       "Bastrop, Bastrop County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733218?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=7123A016063BD7295DF21005A26D5A9E7850343E",
+    "url": "https://www.adzuna.com/land/ad/5828733218?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=7123A016063BD7295DF21005A26D5A9E7850343E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892353,
@@ -1468,7 +2385,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733154?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=1ECC4FC009D46D0C6D091924F844202231E5ACA9",
+    "url": "https://www.adzuna.com/land/ad/5828733154?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=1ECC4FC009D46D0C6D091924F844202231E5ACA9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892352,
@@ -1485,7 +2402,7 @@
       "Palo Alto, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828733130?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=71CBCF070F03842E28D627E90F18C5D2C2435354",
+    "url": "https://www.adzuna.com/land/ad/5828733130?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=71CBCF070F03842E28D627E90F18C5D2C2435354",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785892352,
@@ -1519,7 +2436,7 @@
       "Overland Park, Johnson County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5828701150?se=EvjThbaS8RG9ks23jnlnsA&utm_medium=api&utm_source=e936e76a&v=C838A9D688659AC6DC52F4F2E08B5048019D49FD",
+    "url": "https://www.adzuna.com/land/ad/5828701150?se=zj-stbmS8RGlDuOngCclFw&utm_medium=api&utm_source=e936e76a&v=C838A9D688659AC6DC52F4F2E08B5048019D49FD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1785888051,
@@ -2016,7 +2933,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786144800,
+    "date_posted": 1786146169,
     "first_seen": 1786122284,
     "emailed": false
   },
@@ -4202,7 +5119,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Environmental-Health-and-Safety-Intern_JR0286293",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786144800,
+    "date_posted": 1786146169,
     "first_seen": 1786091817,
     "emailed": false
   },
@@ -5874,7 +6791,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786058400,
+    "date_posted": 1786059769,
     "first_seen": 1786011553,
     "emailed": false
   },
@@ -7672,7 +8589,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785972000,
+    "date_posted": 1785973369,
     "first_seen": 1785956319,
     "emailed": true
   },
@@ -7804,7 +8721,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783552800,
+    "date_posted": 1783554169,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7821,7 +8738,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783552800,
+    "date_posted": 1783554169,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7838,7 +8755,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784762400,
+    "date_posted": 1784763769,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7855,7 +8772,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784935200,
+    "date_posted": 1784936569,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7872,7 +8789,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Design-Verification-Intern_JR0285979",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785280800,
+    "date_posted": 1785282169,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7889,7 +8806,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785799200,
+    "date_posted": 1785800569,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7906,7 +8823,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785367200,
+    "date_posted": 1785368569,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7923,7 +8840,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785367200,
+    "date_posted": 1785368569,
     "first_seen": 1785924123,
     "emailed": true
   },
@@ -7940,7 +8857,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783552800,
+    "date_posted": 1783554169,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7957,7 +8874,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785453600,
+    "date_posted": 1785454969,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7974,7 +8891,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785540000,
+    "date_posted": 1785541369,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -7991,7 +8908,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783552800,
+    "date_posted": 1783554169,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -8008,7 +8925,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784244000,
+    "date_posted": 1784245369,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -8025,7 +8942,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785885600,
+    "date_posted": 1785886969,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -8042,7 +8959,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783725600,
+    "date_posted": 1783726969,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -8059,7 +8976,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785280800,
+    "date_posted": 1785282169,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -8076,7 +8993,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785453600,
+    "date_posted": 1785454969,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -8093,7 +9010,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Analog-Test-Chip-Industry-Immersion-Intern_JR0285981",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785453600,
+    "date_posted": 1785454969,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -8110,7 +9027,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-Manufacturing-Technician-Internship_JR0284246",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785885600,
+    "date_posted": 1785886969,
     "first_seen": 1785924123,
     "emailed": true
   },
@@ -8127,7 +9044,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784330400,
+    "date_posted": 1784331769,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -8144,7 +9061,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785972000,
+    "date_posted": 1785973369,
     "first_seen": 1785924123,
     "emailed": false
   },
@@ -44974,27 +45891,6 @@
     "emailed": false
   },
   {
-    "uid": "pittcsc:c3d47c03-3b94-4430-8c98-ff8cebefd998",
-    "source": "pittcsc",
-    "company": "Nokia",
-    "title": "Data fabric and network automation Co-op",
-    "category": "Software",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Winter 2026",
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25127",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1761490636,
-    "first_seen": 1784355847,
-    "emailed": false
-  },
-  {
     "uid": "pittcsc:8a3c36bb-0bcb-4977-bd4b-0a4414c8f6f3",
     "source": "pittcsc",
     "company": "General Dynamics Mission Systems",
@@ -45010,25 +45906,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1762300006,
-    "first_seen": 1784355847,
-    "emailed": false
-  },
-  {
-    "uid": "pittcsc:c49812e6-c9d4-4915-ac5b-0084cf2231a9",
-    "source": "pittcsc",
-    "company": "Electronic Arts",
-    "title": "Software Engineer Intern - ",
-    "category": "Software",
-    "locations": [
-      "San Carlos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210885",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1760146071,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -45474,6 +46351,27 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1762445534,
+    "first_seen": 1784355847,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c3d47c03-3b94-4430-8c98-ff8cebefd998",
+    "source": "pittcsc",
+    "company": "Nokia",
+    "title": "Data fabric and network automation Co-op",
+    "category": "Software",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Winter 2026",
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25127",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1761490636,
     "first_seen": 1784355847,
     "emailed": false
   },
@@ -85638,6 +86536,25 @@
     "emailed": false
   },
   {
+    "uid": "pittcsc:c49812e6-c9d4-4915-ac5b-0084cf2231a9",
+    "source": "pittcsc",
+    "company": "Electronic Arts",
+    "title": "Software Engineer Intern - ",
+    "category": "Software",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210885",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1760146071,
+    "first_seen": 1784355847,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:2a4d42c0-0d5d-40a5-b24f-4ae95995931a",
     "source": "pittcsc",
     "company": "SageSure",
@@ -119545,367 +120462,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:f3e1dd51-5fa2-4d31-a191-365c1691876f",
-    "source": "simplify",
-    "company": "Netflix",
-    "title": "Software Engineer PhD Intern - Streaming Algorithms - Summer 2026",
-    "category": "Software",
-    "locations": [
-      "Los Gatos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408793,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4539a5e7-1238-4cab-86c1-5295f7a11ea9",
-    "source": "simplify",
-    "company": "Intuitive Surgical",
-    "title": "Product Lifecycle Management Intern",
-    "category": "Product",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://jobs.smartrecruiters.com/Intuitive/744000098141105",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408666,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:fbc42e47-c91a-478c-b817-80757f77e9ba",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Risk Analysis Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Risk-Analysis-Intern-Summer-2026-NC/1322471100/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408331,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b9352c0d-f475-4b1e-9c5a-9f11e906bbaf",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Control Software Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Ogden, UT"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Ogden-Control-Software-Engineering-Intern-Summer-2026-UT-84404/1340341000/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408332,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:90eac154-cf62-449d-9954-dc1c158c3894",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Roseville, MN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408407,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:80302408-6288-4da1-849e-c2c38fe2df11",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Parts Product Management Intern",
-    "category": "Product",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Parts-Product-Management-Intern-Summer-2026-NC/1339982300/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408351,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:799348a2-ff1e-4af3-80d6-2fe37ab904de",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Software Development Intern Summer 2026",
-    "category": "Software",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Development-Intern-Summer-2026-NC/1335431600/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408405,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4b3ace4e-7f0e-44de-8115-9f50f1a745f4",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Sales Data Analyst Intern Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "New Stanton, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/New-Stanton-Sales-Data-Analyst-Intern-Summer-2026-PA-15672/1338047300/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408329,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:389449b0-95c5-48c6-bd4e-dd2eae07403e",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Data Science Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Data-Science-Intern-Summer-2026-NC/1332730100/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408365,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:1d64d1a3-607a-4371-a10f-5bc081474208",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Software and Automation Intern",
-    "category": "Software",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-and-Automation-Intern-Summer-2026-NC/1336532600/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408350,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:11f871a5-5fcf-4cad-8af5-55c1415dc907",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Hardware Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Cranberry Twp, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Hardware-Engineering-Intern-Summer-2026-OR/1321325700/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408362,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:020bd974-51da-4ba2-946f-8287a1c01224",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Enovia PLM Developer Intern",
-    "category": "Software",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Enovia-PLM-Developer-Intern-Summer-2026-NC/1338026700/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408334,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:c2771724-65e0-4832-9bd6-37edc0f48251",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "Decentralized AI Intern - AI",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28483",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408011,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b4652dae-ba51-4a17-8bc6-7b4ed6413c0f",
-    "source": "simplify",
-    "company": "CommScope",
-    "title": "Intern-Software Engineer",
-    "category": "Software",
-    "locations": [
-      "Shakopee, MN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.commscope.com/job/Shakopee-Intern-Software-Engineer-Minn/1346617800/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765407894,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:903856f1-791c-4826-bdc4-a03c5c53f0a7",
-    "source": "simplify",
-    "company": "CommScope",
-    "title": "Intern-Product Lifecyle Management",
-    "category": "Product",
-    "locations": [
-      "Shakopee, MN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.commscope.com/job/Shakopee-Intern-Product-Lifecyle-Management-Minn/1347160000/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765407983,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:85936719-64fd-4449-85a0-07ced6ced379",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "GenAI Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27970",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408021,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7d0887c1-7529-464f-9236-98c2e0d27030",
-    "source": "simplify",
-    "company": "CommScope",
-    "title": "Intern Software Developer",
-    "category": "Software",
-    "locations": [
-      "Shakopee, MN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.commscope.com/job/Shakopee-Intern,-Software-Developer-Minn/1348768800/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765407891,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6c4aa9aa-7b36-4983-9702-73d4f74cde72",
-    "source": "simplify",
-    "company": "CommScope",
-    "title": "Analytics Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Hickory, NC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.commscope.com/job/Claremont-Analytics-Intern-Nort/1348738600/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765407886,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:29d09aa5-bf18-4d09-b993-20868004fa63",
-    "source": "simplify",
-    "company": "CommScope",
-    "title": "Intern - IMS Software Engineering",
-    "category": "Software",
-    "locations": [
-      "Denver, NC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.commscope.com/job/Catawba-Intern,-IMS-Software-Engineering-Nort/1347995900/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765407934,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:ea9c64db-2da3-4386-bef4-e5bb8e359972",
     "source": "simplify",
     "company": "Leidos",
@@ -119921,101 +120477,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765411418,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9f705bd2-eb54-4a7d-bb88-2deaf3298261",
-    "source": "simplify",
-    "company": "Atlassian",
-    "title": "PhD AI Research Intern - 2026 Summer U.S",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://campus-americas.icims.com/jobs/20960/phd-ai-research-intern%2c-2026-summer-u.s./job",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409256,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:770d8e42-1559-47c7-939c-1c10f2138bfe",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Document Management Solutions Intern Summer 2026",
-    "category": "Software",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Document-Management-Solutions-Intern-Summer-2026-NC/1338015400/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409397,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f6ef0152-835c-4eec-a3f3-2a0c1fdcfbc7",
-    "source": "simplify",
-    "company": "Zscaler",
-    "title": "Product Manager Intern - Cybersecurity",
-    "category": "Product",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5000447007",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409442,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:053f8b15-89ac-46e7-a53c-db1754cb7600",
-    "source": "simplify",
-    "company": "Cohesity",
-    "title": "Salesforce Developer Intern",
-    "category": "Software",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Salesforce-Developer-Intern_R02141",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408678,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b0958166-baf3-41f3-aca5-9ab4535c6e3b",
-    "source": "simplify",
-    "company": "Public Service Enterprise Group",
-    "title": "Technical Intern - Gas Operations GIS South",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Bristol, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.pseg.com/job/Burlington-Summer-2026-Technical-Intern-Gas-Operations-GIS-South-NJ/1348923600/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409390,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -120036,44 +120497,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765409660,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:dcaf0152-8488-4c5e-83c8-14d3e58b45ef",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "2026 PhD Software Engineer Intern - Observability Data Platform - United States",
-    "category": "Software",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://university-uber.icims.com/jobs/151981/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409301,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:bb423c59-e04c-40ce-8ef4-5fc6c1566180",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Nuclear Core Design Intern",
-    "category": "Software",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Core-Design-Intern-Summer-2026-NC/1326744400/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409398,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -120117,44 +120540,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:de7c1f3a-d12f-4ee5-96e1-d12902351472",
-    "source": "simplify",
-    "company": "General Dynamics Mission Systems",
-    "title": "Intern Engineer",
-    "category": "Software",
-    "locations": [
-      "Kitsap County, WA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers-gdms.icims.com/jobs/69673/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409447,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ac486ca5-0d2d-4fd6-b18b-7ba0dc289662",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Risk Analysis Co-Op 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Risk-Analysis-Co-Op-2026-NC/1327729500/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409390,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:658bd1bd-b3ba-4414-adb3-3b0a53d93ae6",
     "source": "simplify",
     "company": "Vera Institute of Justice",
@@ -120192,180 +120577,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765409508,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:69ab24a0-41ca-4795-b946-fe2c84902b78",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "System Test Engineering Intern Summer 2026",
-    "category": "Hardware",
-    "locations": [
-      "Cranberry Twp, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Warrendale-System-Test-Engineering-Intern-Summer-2026-OR/1341012300/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409406,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:eb123a13-2920-4f75-918b-1a4df075fd8e",
-    "source": "simplify",
-    "company": "Commonwealth of Massachusetts",
-    "title": "Geospatial AI Data Engineer Co-op",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Massachusetts"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=250007QL",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408707,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:d223d071-773d-4a4b-adb0-2b933df64a48",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "2026 PhD Software Engineer Intern - Kafka - United States",
-    "category": "Software",
-    "locations": [
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.uber.com/global/en/careers/list/152031/",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408642,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:3be11a17-3454-4ccb-9cca-9b0213e5a43f",
-    "source": "simplify",
-    "company": "EXL",
-    "title": "Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/7574",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408925,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f38199a2-9394-4822-a17a-a476acacc036",
-    "source": "simplify",
-    "company": "Dominion Energy",
-    "title": "IT Microsoft Center of Excellence",
-    "category": "Software",
-    "locations": [
-      "Richmond, VA",
-      "Columbia, SC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.dominionenergy.com/job/RICHMOND-Intern-IT-Microsoft-Center-of-Excellence-(Richmond,-VA-Cayce,-SC)-VA-23219/1348906400/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409056,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6058e8b2-c545-470b-9e22-d0e0d001e45f",
-    "source": "simplify",
-    "company": "RTX",
-    "title": "Data Science Internship - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Coralville, IA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA99-Field-Office---IA-Remote-Location-Remote-City-IA-50301-USA/Data-Science-Internship--Summer-2026---Remote-_01812002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408778,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6052f579-8af0-4ae0-9717-fd169cb6e1de",
-    "source": "simplify",
-    "company": "Paccar",
-    "title": "Intern - Aftersales Data Analyst",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Kirkland, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-AfterSales-Data-Analyst-WA-98033/1275251101/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409320,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:e21c5ccd-9053-4aa0-827a-9edfd5d26421",
-    "source": "simplify",
-    "company": "Uber",
-    "title": "PhD Software Engineer Intern - Observability Data Platform",
-    "category": "Software",
-    "locations": [
-      "Seattle, WA",
-      "SF",
-      "Sunnyvale, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.uber.com/global/en/careers/list/151981/",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408655,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2bc48395-de55-46ba-9d8c-f5c825b4d203",
-    "source": "simplify",
-    "company": "Cisco",
-    "title": "Software Engineer Full Stack/Application 2 - Co-op",
-    "category": "Software",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers.cisco.com/global/en/job/2004337",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408566,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -120519,44 +120730,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765411024,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7f6e95f6-60be-41e6-b5bc-5c87b50cc1fe",
-    "source": "simplify",
-    "company": "Nokia",
-    "title": "AI/ML Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Berkeley Heights, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27580",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408946,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:1d70656c-df1e-4c8e-9bd9-6a0f91263ae3",
-    "source": "simplify",
-    "company": "Zurich Insurance",
-    "title": "Application Delivery Intern",
-    "category": "Software",
-    "locations": [
-      "Hoffman Estates, IL"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://www.careers.zurich.com/job/Schaumburg-Application-Delivery-Internship-(Summer-2026)-IL-60159/1347928957/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409382,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -120751,25 +120924,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765409451,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:c35d2403-ccc7-41fc-9eb2-8b7cef094820",
-    "source": "simplify",
-    "company": "General Dynamics Mission Systems",
-    "title": "Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Kings Bay Base, GA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://careers-gdms.icims.com/jobs/69728/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409446,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -137065,25 +137219,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:937ac27d-da09-4e1e-b491-b5448eb47316",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Equipment Qualification Intern",
-    "category": "Hardware",
-    "locations": [
-      "New Stanton, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/New-Stanton-Equipment-Qualification-Intern-Summer-2026-PA-15672/1340725800/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408343,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:8ee2f5c5-ad35-40c7-b448-487246ca76cc",
     "source": "simplify",
     "company": "DXC Technology",
@@ -137782,25 +137917,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:3b80a643-0ffe-4572-b1f2-fee6a64ab782",
-    "source": "simplify",
-    "company": "TikTok",
-    "title": "Creative Product Operations Intern - Monetization Product",
-    "category": "Product",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://lifeattiktok.com/search/7582337802856270085",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409273,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:2a52d6ef-6847-46ca-bb6c-fe0adc2f81da",
     "source": "simplify",
     "company": "TD Bank",
@@ -138345,25 +138461,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:b37a841b-710c-47c6-b350-d0bd373f3dd0",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "1&C Commercial Engineering Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-I&C-Commercial-Engineering-Intern-Summer-2026-NC/1348880500/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408408,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:c625f680-78e2-4820-8b43-ec1cce15d9c9",
     "source": "simplify",
     "company": "Nokia",
@@ -138398,25 +138495,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765937344,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b7512d56-a3fd-4a98-853d-e15b05057e49",
-    "source": "simplify",
-    "company": "Sanctuary AI",
-    "title": "Robot Test Pilot Co-op",
-    "category": "Hardware",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "terms": [
-      "Winter 2026"
-    ],
-    "url": "https://jobs.lever.co/sanctuary/1679ab93-50e1-495a-8182-ee8d3af89e25/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408756,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -139588,27 +139666,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1767631122,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:907e30bd-32cd-4b78-87a2-1dc0c3ced0cd",
-    "source": "simplify",
-    "company": "Weston & Sampson",
-    "title": "Climate Resiliency Co-Op",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Boston, MA",
-      "Lowell, MA",
-      "Wakefield, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers-wseinc.icims.com/jobs/3310/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408293,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -148623,25 +148680,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:b0aa1e6f-59d6-45e4-a0d2-88df57706107",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Collaboration Automation Intern",
-    "category": "Software",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Collaboration-Automation-Intern-Summer-2026-NC/1338434100/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408331,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:ae757aa4-f547-43c4-9437-3e3f03016289",
     "source": "simplify",
     "company": "Civil & Environmental Consultants",
@@ -150055,25 +150093,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1766195121,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b5dbf1a4-1afb-4289-8dbf-4e408e98e0fb",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Independent Verification & Validation Intern",
-    "category": "Software",
-    "locations": [
-      "Grove City, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Warrendale-Independent-Verification-&-Validation-Intern-Summer-2026-OR/1321306900/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765408362,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -228697,25 +228716,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1772695175,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:fc41aafe-7973-4d51-988b-62e6a9eadfb3",
-    "source": "simplify",
-    "company": "Westinghouse Electric Company",
-    "title": "Electromechanical Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Greensburg, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers.westinghousenuclear.com/job/Blairsville-Electromechanical-Engineering-Intern-Summer-2026-PA-15717/1324179500/?ats=successfactors",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765409399,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -331844,7 +331844,7 @@
     ],
     "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1781906923,
     "first_seen": 1784003708,
     "emailed": true
