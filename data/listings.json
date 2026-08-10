@@ -1,5 +1,81 @@
 [
   {
+    "uid": "simplify:ee56e04b-7138-4fe5-a28a-7649cd80c668",
+    "source": "simplify",
+    "company": "OH.io",
+    "title": "GTM Engineer - Data & Analytics",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://job-boards.greenhouse.io/ohio/jobs/4361901009",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1786388170,
+    "first_seen": 1786389020,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:dcb0f70a-f1e3-4bff-a8f1-265f4b73b499",
+    "source": "pittcsc",
+    "company": "Harris Computer",
+    "title": "Information Management Student",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Charlottetown, PE, Canada"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Charlottetown-Prince-Edward-Island/Information-Management-Student--Co-op-Work-Term---Internship-_R0031084",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765651989,
+    "first_seen": 1786389020,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4ffb5d82-3f85-40ee-9ab8-972d27565c3c",
+    "source": "pittcsc",
+    "company": "ASML",
+    "title": "Intern - System Integration",
+    "category": "Hardware",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---System-Integration-Summer-2026_J-00328615",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765652293,
+    "first_seen": 1786389020,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
+    "source": "pittcsc",
+    "company": "University of Texas - Austin",
+    "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765651238,
+    "first_seen": 1786389020,
+    "emailed": false
+  },
+  {
     "uid": "adzuna:5835826972",
     "source": "adzuna",
     "company": "BasePower",
@@ -1395,7 +1471,7 @@
       "Merrimack, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251934?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=041EA477A68B9BA92DA0EE99AB77067BE3E3D7D5",
+    "url": "https://www.adzuna.com/land/ad/5835251934?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=041EA477A68B9BA92DA0EE99AB77067BE3E3D7D5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -1412,7 +1488,7 @@
       "Hudson, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251937?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=F7643D96BAA2E0E2FDC0016F27912583B23D7DDD",
+    "url": "https://www.adzuna.com/land/ad/5835251937?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=F7643D96BAA2E0E2FDC0016F27912583B23D7DDD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -1429,7 +1505,7 @@
       "Manchester, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251943?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=E25B7B08E5E2EEEAD0832E287507A421A7B7CBE0",
+    "url": "https://www.adzuna.com/land/ad/5835251943?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=E25B7B08E5E2EEEAD0832E287507A421A7B7CBE0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -1446,7 +1522,7 @@
       "Nashua, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251932?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=F9FEAC862A14C74F6FFCA4CAB0D513F6BD3BF416",
+    "url": "https://www.adzuna.com/land/ad/5835251932?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=F9FEAC862A14C74F6FFCA4CAB0D513F6BD3BF416",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -1531,7 +1607,7 @@
       "Austin, Lonoke County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834594407?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=B3F1205F865058F64BCE31E231F82EF3E01ED090",
+    "url": "https://www.adzuna.com/land/ad/5834594407?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=B3F1205F865058F64BCE31E231F82EF3E01ED090",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786258681,
@@ -1548,7 +1624,7 @@
       "Seattle, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834594408?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=543561C4A202888C13DAC3535D8491892C77EFF0",
+    "url": "https://www.adzuna.com/land/ad/5834594408?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=543561C4A202888C13DAC3535D8491892C77EFF0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786258681,
@@ -1837,7 +1913,7 @@
       "Bridgeton, Saint Louis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834288157?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=332F8954068EF67C2E7370E0143B2EF730426260",
+    "url": "https://www.adzuna.com/land/ad/5834288157?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=332F8954068EF67C2E7370E0143B2EF730426260",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786230097,
@@ -1854,7 +1930,7 @@
       "Bridgeton, Saint Louis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834288162?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=E7599A26B7CBCCA115B8A16F3E00DDB43EBD537C",
+    "url": "https://www.adzuna.com/land/ad/5834288162?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=E7599A26B7CBCCA115B8A16F3E00DDB43EBD537C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786230097,
@@ -1871,7 +1947,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834201043?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=725D3BBC7893919006B46BD83B28B3D169A5AA51",
+    "url": "https://www.adzuna.com/land/ad/5834201043?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=725D3BBC7893919006B46BD83B28B3D169A5AA51",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786225811,
@@ -1888,7 +1964,7 @@
       "Melbourne, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5831919095?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=1DA20C05DC3F3A7034E37B31975F5592A9A904A0",
+    "url": "https://www.adzuna.com/land/ad/5831919095?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=1DA20C05DC3F3A7034E37B31975F5592A9A904A0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786086419,
@@ -2041,7 +2117,7 @@
       "Manchester, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832894424?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=AD32051F96D2C39CEFD450D8992591501B79DBE2",
+    "url": "https://www.adzuna.com/land/ad/5832894424?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=AD32051F96D2C39CEFD450D8992591501B79DBE2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786143672,
@@ -2058,7 +2134,7 @@
       "Nashua, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832894412?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=95A61819BE1A1B338654697DC9F12A19224B32AD",
+    "url": "https://www.adzuna.com/land/ad/5832894412?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=95A61819BE1A1B338654697DC9F12A19224B32AD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786143672,
@@ -2075,7 +2151,7 @@
       "Hudson, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832894421?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=1285852553BDF01EEAC43B72E0558FFFE865F6C8",
+    "url": "https://www.adzuna.com/land/ad/5832894421?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=1285852553BDF01EEAC43B72E0558FFFE865F6C8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786143672,
@@ -2092,7 +2168,7 @@
       "Merrimack, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832894434?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=B47622B281B574BF6E9BC824D59637C20FD2DE6A",
+    "url": "https://www.adzuna.com/land/ad/5832894434?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=B47622B281B574BF6E9BC824D59637C20FD2DE6A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786143672,
@@ -2126,7 +2202,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832227626?se=HIJtd-qU8RG1LuL09AY9wQ&utm_medium=api&utm_source=e936e76a&v=E3CB23DEE4DDE6EC0E7C8A3C7D0AD087188DCBC2",
+    "url": "https://www.adzuna.com/land/ad/5832227626?se=atinIO-U8RGNtb1lvyYpAg&utm_medium=api&utm_source=e936e76a&v=E3CB23DEE4DDE6EC0E7C8A3C7D0AD087188DCBC2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786108643,
@@ -5367,7 +5443,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783795012,
+    "date_posted": 1783797014,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5384,7 +5460,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783795012,
+    "date_posted": 1783797014,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5401,7 +5477,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784745412,
+    "date_posted": 1784747414,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5418,7 +5494,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784918212,
+    "date_posted": 1784920214,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5435,7 +5511,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Design-Verification-Intern_JR0285979",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785263812,
+    "date_posted": 1785265814,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5452,7 +5528,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785782212,
+    "date_posted": 1785784214,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5469,7 +5545,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786041412,
+    "date_posted": 1786043414,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5486,7 +5562,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786127812,
+    "date_posted": 1786129814,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5503,7 +5579,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785350212,
+    "date_posted": 1785352214,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5520,7 +5596,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785350212,
+    "date_posted": 1785352214,
     "first_seen": 1786177391,
     "emailed": true
   },
@@ -5537,7 +5613,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783795012,
+    "date_posted": 1783797014,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5554,7 +5630,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785436612,
+    "date_posted": 1785438614,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5571,7 +5647,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785523012,
+    "date_posted": 1785525014,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5588,7 +5664,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783795012,
+    "date_posted": 1783797014,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5605,7 +5681,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784227012,
+    "date_posted": 1784229014,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5622,7 +5698,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785868612,
+    "date_posted": 1785870614,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5639,7 +5715,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Environmental-Health-and-Safety-Intern_JR0286293",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786127812,
+    "date_posted": 1786129814,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5656,7 +5732,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/System-Validation-Intern--Power-and-Performance-_JR0285548",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783795012,
+    "date_posted": 1783797014,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5673,7 +5749,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785263812,
+    "date_posted": 1785265814,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5690,7 +5766,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785436612,
+    "date_posted": 1785438614,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5707,7 +5783,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-Manufacturing-Technician-Internship_JR0284246",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785868612,
+    "date_posted": 1785870614,
     "first_seen": 1786177391,
     "emailed": true
   },
@@ -5724,7 +5800,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784313412,
+    "date_posted": 1784315414,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5741,7 +5817,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785955012,
+    "date_posted": 1785957014,
     "first_seen": 1786177391,
     "emailed": true
   },
@@ -5758,7 +5834,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785955012,
+    "date_posted": 1785957014,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -46038,7 +46114,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/ditto/cbece35a-bb1a-4c93-a866-510279b8756c/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784585469,
     "first_seen": 1784590045,
     "emailed": true
@@ -138912,25 +138988,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:dcb0f70a-f1e3-4bff-a8f1-265f4b73b499",
-    "source": "simplify",
-    "company": "Harris Computer",
-    "title": "Information Management Student",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Charlottetown, PE, Canada"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Charlottetown-Prince-Edward-Island/Information-Management-Student--Co-op-Work-Term---Internship-_R0031084",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765651989,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:1ed78cbb-38bf-4362-bda9-56a223e0b8ac",
     "source": "simplify",
     "company": "AMC Networks",
@@ -139671,25 +139728,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1767351022,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4ffb5d82-3f85-40ee-9ab8-972d27565c3c",
-    "source": "simplify",
-    "company": "ASML",
-    "title": "Intern - System Integration",
-    "category": "Hardware",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---System-Integration-Summer-2026_J-00328615",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765652293,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -154336,25 +154374,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765653222,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
-    "source": "simplify",
-    "company": "University of Texas - Austin",
-    "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Austin, TX"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765651238,
     "first_seen": 1784003708,
     "emailed": true
   },
