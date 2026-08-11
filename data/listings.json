@@ -1,5 +1,827 @@
 [
   {
+    "uid": "pittcsc:2d2bb44c-f253-49cb-888c-273ccdd02008",
+    "source": "pittcsc",
+    "company": "Royal Bank of Canada",
+    "title": "Data Analyst Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---CLAO--Data-Analyst-Intern--4-Months-_R-0000152234",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765671034,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:84eb5f67-9a37-41b6-8a9f-6a51ba5e7c7b",
+    "source": "pittcsc",
+    "company": "Royal Bank of Canada",
+    "title": "Insurance \u2013 Business and Data Analyst",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Mississauga, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Summer-Business-and-Data-Analyst--4-16-months-_R-0000152445",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765671039,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:31f057e0-31a9-40ec-8092-2dace22ec47e",
+    "source": "pittcsc",
+    "company": "Thales",
+    "title": "Test Manufacturing Technician",
+    "category": "Hardware",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Test-Manufacturing-Technician_R0296700",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765670980,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5835986103",
+    "source": "adzuna",
+    "company": "CTGT",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "Hayes Valley, San Francisco"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5835986103?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786382776,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834411742",
+    "source": "adzuna",
+    "company": "Belvedere Trading",
+    "title": "Software Engineer Intern - Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Chicago, Cook County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834411742?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786241615,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5835894633",
+    "source": "adzuna",
+    "company": "RTX",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "Cedar Rapids, Linn County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5835894633?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=6B7BA15FEFF2088C20EB5065AD19A8F1672C29DE",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786375443,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5835894394",
+    "source": "adzuna",
+    "company": "Terranova",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Berkeley, Alameda County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5835894394?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=E59DBCD0C3ED6E99E5342161F775EE20851E72B0",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786375438,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5835826972",
+    "source": "adzuna",
+    "company": "BasePower",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Bee Cave, Travis County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5835826972?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786368102,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5835251934",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern II, (Summer 2027) Onsite",
+    "category": "Software",
+    "locations": [
+      "Merrimack, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5835251934?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=041EA477A68B9BA92DA0EE99AB77067BE3E3D7D5",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786316468,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5835251937",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern II, (Summer 2027) Onsite",
+    "category": "Software",
+    "locations": [
+      "Hudson, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5835251937?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=F7643D96BAA2E0E2FDC0016F27912583B23D7DDD",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786316468,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5835251943",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern II, (Summer 2027) Onsite",
+    "category": "Software",
+    "locations": [
+      "Manchester, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5835251943?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=E25B7B08E5E2EEEAD0832E287507A421A7B7CBE0",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786316468,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5835251932",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern II, (Summer 2027) Onsite",
+    "category": "Software",
+    "locations": [
+      "Nashua, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5835251932?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=F9FEAC862A14C74F6FFCA4CAB0D513F6BD3BF416",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786316468,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834637235",
+    "source": "adzuna",
+    "company": "Melius",
+    "title": "Software Engineering Intern [Spring/Summer 2027]",
+    "category": "Software",
+    "locations": [
+      "New York City, New York"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834637235?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786261246,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834601357",
+    "source": "adzuna",
+    "company": "Wells Fargo Bank",
+    "title": "2026 Intern Conversion \u2013 2027 Technology Summer Internship Program",
+    "category": "Software",
+    "locations": [
+      "Charlotte, Mecklenburg County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834601357?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786259548,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834597229",
+    "source": "adzuna",
+    "company": "BlueLinx",
+    "title": "Information Technology - Intern",
+    "category": "Software",
+    "locations": [
+      "Marietta, Cobb County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834597229?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786259102,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834595030",
+    "source": "adzuna",
+    "company": "Wells Fargo Bank",
+    "title": "2026 Intern Conversion \u2013 2027 Technology Summer Internship Program",
+    "category": "Software",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834595030?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786258689,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834594407",
+    "source": "adzuna",
+    "company": "Oracle",
+    "title": "OCI Software Engineer Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Austin, Lonoke County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5834594407?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=B3F1205F865058F64BCE31E231F82EF3E01ED090",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786258681,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834594408",
+    "source": "adzuna",
+    "company": "Oracle",
+    "title": "OCI Software Engineer Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Seattle, King County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5834594408?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=543561C4A202888C13DAC3535D8491892C77EFF0",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786258681,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834593036",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Technical Intern 2",
+    "category": "Software",
+    "locations": [
+      "Nashua, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834593036?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786258607,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834590415",
+    "source": "adzuna",
+    "company": "Fab2",
+    "title": "Automation Software Engineering Intern - Fall",
+    "category": "Software",
+    "locations": [
+      "Austin, Travis County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834590415?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786258496,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834549032",
+    "source": "adzuna",
+    "company": "The Nuclear Company",
+    "title": "Summer 2027 Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Washington, Washington, D.C."
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834549032?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786256422,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834546321",
+    "source": "adzuna",
+    "company": "Fab2",
+    "title": "Infrastructure Software Engineering Intern - Fall",
+    "category": "Software",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834546321?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786255777,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834538978",
+    "source": "adzuna",
+    "company": "Melius",
+    "title": "Software Engineering Intern [Fall/Winter 2026]",
+    "category": "Software",
+    "locations": [
+      "New York City, New York"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834538978?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786254151,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834536149",
+    "source": "adzuna",
+    "company": "Varda Space",
+    "title": "Flight Software Internship - Spring 2027",
+    "category": "Software",
+    "locations": [
+      "El Segundo, Los Angeles County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834536149?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786253703,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834453372",
+    "source": "adzuna",
+    "company": "The Nuclear Company",
+    "title": "Fall 2026 AI Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Washington, Washington, D.C."
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834453372?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786248241,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834444088",
+    "source": "adzuna",
+    "company": "Circleback",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834444088?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786246863,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834432548",
+    "source": "adzuna",
+    "company": "Fab2",
+    "title": "Fab Software Engineering Intern - Fall",
+    "category": "Software",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834432548?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786245244,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834414277",
+    "source": "adzuna",
+    "company": "SpreeAI",
+    "title": "Software Engineer Intern (AI Infrastructure / Training / Inference)",
+    "category": "Software",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834414277?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786242199,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834391145",
+    "source": "adzuna",
+    "company": "The Nuclear Company",
+    "title": "Spring 2027 Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Washington, Washington, D.C."
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834391145?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786239631,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834356231",
+    "source": "adzuna",
+    "company": "Fab2",
+    "title": "Rust Software Engineering Intern (Chip Design Tools) - Fall 2026",
+    "category": "Software",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834356231?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786239150,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834328914",
+    "source": "adzuna",
+    "company": "SpreeAI",
+    "title": "Mobile Software Engineer Intern \u2014 Flagship Apps (iOS / Android / Web)",
+    "category": "Software",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834328914?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786237185,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834295384",
+    "source": "adzuna",
+    "company": "Microsoft",
+    "title": "Software Engineering INTERN",
+    "category": "Software",
+    "locations": [
+      "Illinois, US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834295384?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786230679,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5834288157",
+    "source": "adzuna",
+    "company": "Leonardo DRS, Inc.",
+    "title": "Quality Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Bridgeton, Saint Louis County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5834288157?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=332F8954068EF67C2E7370E0143B2EF730426260",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786230097,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834288162",
+    "source": "adzuna",
+    "company": "Leonardo DRS, Inc.",
+    "title": "Embedded Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Bridgeton, Saint Louis County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5834288162?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=E7599A26B7CBCCA115B8A16F3E00DDB43EBD537C",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786230097,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834201043",
+    "source": "adzuna",
+    "company": "RTX Corporation",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "Cedar Rapids, Linn County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5834201043?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=725D3BBC7893919006B46BD83B28B3D169A5AA51",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786225811,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834195541",
+    "source": "adzuna",
+    "company": "Northrop Grumman",
+    "title": "2027 Intern Software Engineer",
+    "category": "Software",
+    "locations": [
+      "Melbourne, Brevard County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834195541?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786224411,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5834069519",
+    "source": "adzuna",
+    "company": "KASTLE",
+    "title": "Software Engineer - Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5834069519?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786218352,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5833376550",
+    "source": "adzuna",
+    "company": "Quantum Design",
+    "title": "Software Engineering Intern- Python Modernization & Automation",
+    "category": "Software",
+    "locations": [
+      "US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5833376550?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786171696,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5833315765",
+    "source": "adzuna",
+    "company": "Impact.com",
+    "title": "Associate Software Engineer intern",
+    "category": "Software",
+    "locations": [
+      "Santa Barbara, Santa Barbara County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5833315765?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786168907,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5833313006",
+    "source": "adzuna",
+    "company": "Quadrillion",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "New York City, New York"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5833313006?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786168505,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5833212440",
+    "source": "adzuna",
+    "company": "DensityAI",
+    "title": "Technical Intern- Software (Fall 2026)",
+    "category": "Software",
+    "locations": [
+      "Mountain View, Santa Clara County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5833212440?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786163838,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5833154351",
+    "source": "adzuna",
+    "company": "Apple",
+    "title": "Software Engineering Intern - AI Tools for Hardware Engineering PM",
+    "category": "Software",
+    "locations": [
+      "US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5833154351?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786160012,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5832949480",
+    "source": "adzuna",
+    "company": "SecurityMetrics",
+    "title": "Associate/Intern and Software Engineer",
+    "category": "Software",
+    "locations": [
+      "Lakeview, Utah County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5832949480?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786149560,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5832904353",
+    "source": "adzuna",
+    "company": "Latent Defense",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "New York City, New York"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5832904353?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786144012,
+    "first_seen": 1786408601,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5832894424",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern IV, (Summer 2027) Onsite",
+    "category": "Software",
+    "locations": [
+      "Manchester, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5832894424?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=AD32051F96D2C39CEFD450D8992591501B79DBE2",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786143672,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5832894412",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern IV, (Summer 2027) Onsite",
+    "category": "Software",
+    "locations": [
+      "Nashua, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5832894412?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=95A61819BE1A1B338654697DC9F12A19224B32AD",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786143672,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5832894421",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern IV, (Summer 2027) Onsite",
+    "category": "Software",
+    "locations": [
+      "Hudson, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5832894421?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=1285852553BDF01EEAC43B72E0558FFFE865F6C8",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786143672,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5832894434",
+    "source": "adzuna",
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern IV, (Summer 2027) Onsite",
+    "category": "Software",
+    "locations": [
+      "Merrimack, Hillsborough County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5832894434?se=sHKVthyV8RGI3JXz7KkMuA&utm_medium=api&utm_source=e936e76a&v=B47622B281B574BF6E9BC824D59637C20FD2DE6A",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786143672,
+    "first_seen": 1786408601,
+    "emailed": true
+  },
+  {
     "uid": "simplify:e87551ad-e266-4369-aa66-b85287a56ea2",
     "source": "simplify",
     "company": "Deloitte",
@@ -5714,7 +6536,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783814650,
+    "date_posted": 1783816592,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5731,7 +6553,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783814650,
+    "date_posted": 1783816592,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5748,7 +6570,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784765050,
+    "date_posted": 1784766992,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5765,7 +6587,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784937850,
+    "date_posted": 1784939792,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5782,7 +6604,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Design-Verification-Intern_JR0285979",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785283450,
+    "date_posted": 1785285392,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5799,7 +6621,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785801850,
+    "date_posted": 1785803792,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5816,7 +6638,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786061050,
+    "date_posted": 1786062992,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5833,7 +6655,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786147450,
+    "date_posted": 1786149392,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5850,7 +6672,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785369850,
+    "date_posted": 1785371792,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5867,7 +6689,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785369850,
+    "date_posted": 1785371792,
     "first_seen": 1786177391,
     "emailed": true
   },
@@ -5884,7 +6706,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783814650,
+    "date_posted": 1783816592,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5901,7 +6723,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785456250,
+    "date_posted": 1785458192,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5918,7 +6740,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785542650,
+    "date_posted": 1785544592,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5935,7 +6757,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-Colombia/Retail-Sales-and-Marketing-Intern_JR0284369",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783814650,
+    "date_posted": 1783816592,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5952,7 +6774,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784246650,
+    "date_posted": 1784248592,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5969,7 +6791,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785888250,
+    "date_posted": 1785890192,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -5986,7 +6808,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Environmental-Health-and-Safety-Intern_JR0286293",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786147450,
+    "date_posted": 1786149392,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -6003,7 +6825,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Pre-Silicon-IP-System-Validation-Intern_JR0286047",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785283450,
+    "date_posted": 1785285392,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -6020,7 +6842,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785456250,
+    "date_posted": 1785458192,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -6037,7 +6859,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784333050,
+    "date_posted": 1784334992,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -6054,7 +6876,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-Manufacturing-Technician-Internship_JR0284246",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785888250,
+    "date_posted": 1785890192,
     "first_seen": 1786177391,
     "emailed": true
   },
@@ -6071,7 +6893,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785974650,
+    "date_posted": 1785976592,
     "first_seen": 1786177391,
     "emailed": true
   },
@@ -6088,7 +6910,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785974650,
+    "date_posted": 1785976592,
     "first_seen": 1786177391,
     "emailed": false
   },
@@ -19999,7 +20821,7 @@
     ],
     "url": "https://rodanenergysolutionsinc.applytojob.com/apply/6Zif3yjncr/Data-Science-Coop-Student",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785738058,
     "first_seen": 1785742708,
     "emailed": false
@@ -126097,44 +126919,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:84eb5f67-9a37-41b6-8a9f-6a51ba5e7c7b",
-    "source": "simplify",
-    "company": "Royal Bank of Canada",
-    "title": "Insurance \u2013 Business and Data Analyst",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Mississauga, ON, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Summer-Business-and-Data-Analyst--4-16-months-_R-0000152445",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765671039,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2d2bb44c-f253-49cb-888c-273ccdd02008",
-    "source": "simplify",
-    "company": "Royal Bank of Canada",
-    "title": "Data Analyst Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---CLAO--Data-Analyst-Intern--4-Months-_R-0000152234",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765671034,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:9ee25c43-14d2-48c6-9657-2f9919fc5cbe",
     "source": "simplify",
     "company": "Capella",
@@ -154457,25 +155241,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765834901,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:31f057e0-31a9-40ec-8092-2dace22ec47e",
-    "source": "simplify",
-    "company": "Thales",
-    "title": "Test Manufacturing Technician",
-    "category": "Hardware",
-    "locations": [
-      "Glasgow, UK"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/Test-Manufacturing-Technician_R0296700",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765670980,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -289897,7 +290662,7 @@
     ],
     "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Application-Engineering-Co-Op--Summer-_R26_01164",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1776895676,
     "first_seen": 1784003708,
     "emailed": true
@@ -325287,7 +326052,7 @@
     ],
     "url": "https://www.tesla.com/careers/search/job/270521",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780842854,
     "first_seen": 1784003708,
     "emailed": true
