@@ -1,5 +1,22 @@
 [
   {
+    "uid": "adzuna:5837772334",
+    "source": "adzuna",
+    "company": "Pratt & Whitney",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "Cedar Rapids, Linn County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5837772334?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786497755,
+    "first_seen": 1786515799,
+    "emailed": true
+  },
+  {
     "uid": "simplify:cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
     "source": "simplify",
     "company": "Tesla",
@@ -20,23 +37,6 @@
     "emailed": true
   },
   {
-    "uid": "adzuna:5837558772",
-    "source": "adzuna",
-    "company": "Pratt & Whitney",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "category": "Software",
-    "locations": [
-      "Reading, Middlesex County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5837558772?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1786484248,
-    "first_seen": 1786510595,
-    "emailed": true
-  },
-  {
     "uid": "adzuna:5837665233",
     "source": "adzuna",
     "company": "Marathon Petroleum Corporation",
@@ -46,7 +46,7 @@
       "Findlay, Hancock County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5837665233?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=5BDA99A8A50F1182BA25A88A6E4C5530C2DBE9A9",
+    "url": "https://www.adzuna.com/land/ad/5837665233?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=5BDA99A8A50F1182BA25A88A6E4C5530C2DBE9A9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786488651,
@@ -453,7 +453,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783919977,
+    "date_posted": 1783923794,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -470,7 +470,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783919977,
+    "date_posted": 1783923794,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -487,7 +487,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784783977,
+    "date_posted": 1784787794,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -504,7 +504,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784956777,
+    "date_posted": 1784960594,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -521,7 +521,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785820777,
+    "date_posted": 1785824594,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -538,7 +538,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786079977,
+    "date_posted": 1786083794,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -555,7 +555,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786166377,
+    "date_posted": 1786170194,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -572,7 +572,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785388777,
+    "date_posted": 1785392594,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -589,7 +589,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785388777,
+    "date_posted": 1785392594,
     "first_seen": 1786487187,
     "emailed": true
   },
@@ -606,7 +606,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783919977,
+    "date_posted": 1783923794,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -623,7 +623,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785475177,
+    "date_posted": 1785478994,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -640,7 +640,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785561577,
+    "date_posted": 1785565394,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -657,7 +657,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784265577,
+    "date_posted": 1784269394,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -674,7 +674,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Environmental-Health-and-Safety-Intern_JR0286293",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786166377,
+    "date_posted": 1786170194,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -691,7 +691,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785475177,
+    "date_posted": 1785478994,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -708,7 +708,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784351977,
+    "date_posted": 1784355794,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -725,7 +725,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-Manufacturing-Technician-Internship_JR0284246",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785907177,
+    "date_posted": 1785910994,
     "first_seen": 1786487187,
     "emailed": true
   },
@@ -742,7 +742,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785993577,
+    "date_posted": 1785997394,
     "first_seen": 1786487187,
     "emailed": true
   },
@@ -759,7 +759,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785993577,
+    "date_posted": 1785997394,
     "first_seen": 1786487187,
     "emailed": false
   },
@@ -845,7 +845,7 @@
       "Merrimack, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832894434?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=B47622B281B574BF6E9BC824D59637C20FD2DE6A",
+    "url": "https://www.adzuna.com/land/ad/5832894434?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=B47622B281B574BF6E9BC824D59637C20FD2DE6A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786143672,
@@ -1379,7 +1379,7 @@
       "San Antonio, Bexar County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5836641159?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=40E73440067CB030B0D3C3735154EE10684D13E7",
+    "url": "https://www.adzuna.com/land/ad/5836641159?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=40E73440067CB030B0D3C3735154EE10684D13E7",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786432255,
@@ -1396,7 +1396,7 @@
       "Findlay, Hancock County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5836641048?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=E128F9CC2C3C6AB0DB15BB8FD98BB96F2A4AC819",
+    "url": "https://www.adzuna.com/land/ad/5836641048?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=E128F9CC2C3C6AB0DB15BB8FD98BB96F2A4AC819",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786432253,
@@ -1925,7 +1925,7 @@
       "Merrimack, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251934?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=041EA477A68B9BA92DA0EE99AB77067BE3E3D7D5",
+    "url": "https://www.adzuna.com/land/ad/5835251934?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=041EA477A68B9BA92DA0EE99AB77067BE3E3D7D5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -1942,7 +1942,7 @@
       "Hudson, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251937?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=F7643D96BAA2E0E2FDC0016F27912583B23D7DDD",
+    "url": "https://www.adzuna.com/land/ad/5835251937?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=F7643D96BAA2E0E2FDC0016F27912583B23D7DDD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -1959,7 +1959,7 @@
       "Manchester, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251943?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=E25B7B08E5E2EEEAD0832E287507A421A7B7CBE0",
+    "url": "https://www.adzuna.com/land/ad/5835251943?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=E25B7B08E5E2EEEAD0832E287507A421A7B7CBE0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -1976,7 +1976,7 @@
       "Nashua, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251932?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=F9FEAC862A14C74F6FFCA4CAB0D513F6BD3BF416",
+    "url": "https://www.adzuna.com/land/ad/5835251932?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=F9FEAC862A14C74F6FFCA4CAB0D513F6BD3BF416",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -2061,7 +2061,7 @@
       "Seattle, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834594408?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=543561C4A202888C13DAC3535D8491892C77EFF0",
+    "url": "https://www.adzuna.com/land/ad/5834594408?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=543561C4A202888C13DAC3535D8491892C77EFF0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786258681,
@@ -2078,7 +2078,7 @@
       "Austin, Lonoke County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834594407?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=B3F1205F865058F64BCE31E231F82EF3E01ED090",
+    "url": "https://www.adzuna.com/land/ad/5834594407?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=B3F1205F865058F64BCE31E231F82EF3E01ED090",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786258681,
@@ -2350,7 +2350,7 @@
       "Bridgeton, Saint Louis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834288157?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=332F8954068EF67C2E7370E0143B2EF730426260",
+    "url": "https://www.adzuna.com/land/ad/5834288157?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=332F8954068EF67C2E7370E0143B2EF730426260",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786230097,
@@ -2367,7 +2367,7 @@
       "Bridgeton, Saint Louis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834288162?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=E7599A26B7CBCCA115B8A16F3E00DDB43EBD537C",
+    "url": "https://www.adzuna.com/land/ad/5834288162?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=E7599A26B7CBCCA115B8A16F3E00DDB43EBD537C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786230097,
@@ -2384,7 +2384,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834201043?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=725D3BBC7893919006B46BD83B28B3D169A5AA51",
+    "url": "https://www.adzuna.com/land/ad/5834201043?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=725D3BBC7893919006B46BD83B28B3D169A5AA51",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786225811,
@@ -2537,7 +2537,7 @@
       "Manchester, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832894424?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=AD32051F96D2C39CEFD450D8992591501B79DBE2",
+    "url": "https://www.adzuna.com/land/ad/5832894424?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=AD32051F96D2C39CEFD450D8992591501B79DBE2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786143672,
@@ -2554,7 +2554,7 @@
       "Nashua, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832894412?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=95A61819BE1A1B338654697DC9F12A19224B32AD",
+    "url": "https://www.adzuna.com/land/ad/5832894412?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=95A61819BE1A1B338654697DC9F12A19224B32AD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786143672,
@@ -2571,7 +2571,7 @@
       "Hudson, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5832894421?se=EstRbA2W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=e936e76a&v=1285852553BDF01EEAC43B72E0558FFFE865F6C8",
+    "url": "https://www.adzuna.com/land/ad/5832894421?se=VB9DTxaW8RG5VMLygbg_Tg&utm_medium=api&utm_source=e936e76a&v=1285852553BDF01EEAC43B72E0558FFFE865F6C8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786143672,
