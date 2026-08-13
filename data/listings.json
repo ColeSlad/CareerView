@@ -1,5 +1,505 @@
 [
   {
+    "uid": "simplify:acf117a3-c0c1-472f-ad4c-e68012e06ab4",
+    "source": "simplify",
+    "company": "Schweitzer Engineering Laboratories",
+    "title": "Software Engineer Intern - AI Focus",
+    "category": "Software",
+    "locations": [
+      "Pullman, WA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1786492800,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:aa733ff3-312d-4f91-935f-9b74817edc2b",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Self-Built Engineer Intern - CDN Platform",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1786584315,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:2546c60d-b4b4-495a-927e-6a112bdefc69",
+    "source": "simplify",
+    "company": "TikTok",
+    "title": "Product Operations Intern - TikTok Shop Apps and API",
+    "category": "Product",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://lifeattiktok.com/search/7669705525866383621",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1786583342,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:39d0143c-975e-465c-812c-8fe6e6401523",
+    "source": "simplify",
+    "company": "Dick's Sporting Goods",
+    "title": "Data Engineer Co-op",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2022"
+    ],
+    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1786492800,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:31b6c7b2-864a-4492-8fdc-1e1d94a23ce1",
+    "source": "simplify",
+    "company": "Epic Games",
+    "title": "Gameplay Programmer Intern",
+    "category": "Software",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1786584506,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:258690d6-50c0-4eee-9b5b-3d9e2bcf17b7",
+    "source": "pittcsc",
+    "company": "Genentech",
+    "title": "Intern - Large Language Models",
+    "category": "AI/ML/Data",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2026-Summer-Intern---Large-Language-Models--Prescient-Design---AI-for-Drug-Discovery-_202512-131826-1",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765845284,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:cdbebe86-9c32-4d75-98b3-f8853e6b4c63",
+    "source": "pittcsc",
+    "company": "Royal Bank of Canada",
+    "title": "FC Risk Analytics Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--FC-Risk-Analytics-Intern--4-Months-_R-0000152168",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765845076,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b58c3c09-7bfa-4e32-9b3f-73e5133f8ef3",
+    "source": "pittcsc",
+    "company": "Genentech",
+    "title": "Intern - Genentech Gred Computational Sciences - Center of Excellence",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Genentech-gRED-Computational-Sciences---Center-of-Excellence_202512-131807",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765845314,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:bebf3592-aa39-4da5-9048-c919792c1707",
+    "source": "pittcsc",
+    "company": "LinkedIn",
+    "title": "Strategy & Insights-Data Science Intern - Master's - Summer 2026",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000099076986",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765850561,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:7ebfec8d-a150-4ca8-b3dc-2fecef4a3104",
+    "source": "pittcsc",
+    "company": "LinkedIn",
+    "title": "Data Engineer-Data Science Intern - Master's - Summer 2026','Mountain View','CA",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000099077455",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765850568,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:cb32b03e-266a-49cb-88f5-a914bf0c7348",
+    "source": "pittcsc",
+    "company": "Microsoft",
+    "title": "Research Intern - Post-Training",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Washington",
+      "California",
+      "Redmond, WA",
+      "Mountain View, CA",
+      "United States"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1765851256,
+    "first_seen": 1786588774,
+    "emailed": false
+  },
+  {
+    "uid": "oraclecloud:eeho:334391",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "DRC Customer Success Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Colorado Springs, CO, United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334391",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779235200,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334395",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "DRC Customer Success Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Colorado Springs, CO, United States",
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334395",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779235200,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334371",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "M&D Operations Analyst Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334371",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779580800,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334396",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "CEGIU Demo Data Strategy Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Redwood City, CA, United States",
+      "Seattle, WA, United States",
+      "Santa Clara, CA, United States",
+      "Rocklin, CA, United States",
+      "Santa Monica, CA, United States",
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779494400,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334366",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "M&D Operations Planning Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334366",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779926400,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:342415",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "Platform Software Engineer 1 - Full-time Intern Conversion",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786492800,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334388",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "M&D Customer Solutions Analyst Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779926400,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334345",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
+    "category": "Software",
+    "locations": [
+      "Austin, TX, United States",
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334345",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779408000,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334350",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "NetSuite Customer Success Special Projects Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Nashville, TN, United States",
+      "Austin, TX, United States",
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334350",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779148800,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334333",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "OCI Software Engineer Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Austin, TX, United States",
+      "Nashville, TN, United States",
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779408000,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334325",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "OCI Software Engineer Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA, United States",
+      "Santa Clara, CA, United States",
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334325",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779408000,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:334390",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "GDI Business Analyst Intern - OVIP",
+    "category": "Software",
+    "locations": [
+      "Austin, TX, United States",
+      "Reston, VA, United States",
+      "United States"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334390",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1779235200,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5839215198",
+    "source": "adzuna",
+    "company": "RTX",
+    "title": "Software Engineering Intern (2027)",
+    "category": "Software",
+    "locations": [
+      "Burnsville, Dakota County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5839215198?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=6D346681EF10FACA67F8DD39A710BA420012745D",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786571828,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5839151141",
+    "source": "adzuna",
+    "company": "Advanced Energy Industries, Inc",
+    "title": "Intern - Firmware Engineer - Fall 2026",
+    "category": "Software",
+    "locations": [
+      "Fort Collins, Larimer County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5839151141?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=D090C96E6C63AEE6318C9778D64BC72076CA6F62",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786568271,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5839147838",
+    "source": "adzuna",
+    "company": "Wells Fargo",
+    "title": "2026 Intern Conversion - 2027 Technology Summer Internship Program",
+    "category": "Software",
+    "locations": [
+      "San Leandro, Alameda County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5839147838?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=1D51274DC9F69F5D13E9C465A0FE94A8A654FA74",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786568044,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5839136988",
+    "source": "adzuna",
+    "company": "Wells Fargo",
+    "title": "2026 Intern Conversion - 2027 Technology Summer Internship Program",
+    "category": "Software",
+    "locations": [
+      "Concord, Contra Costa County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5839136988?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=52036E9F3D99967D23A23C431B4C0D2FDB93B053",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786567300,
+    "first_seen": 1786588774,
+    "emailed": true
+  },
+  {
     "uid": "pittcsc:927a07ce-a74e-4fec-8376-6444fcf4573d",
     "source": "pittcsc",
     "company": "Northrop Grumman",
@@ -1952,7 +2452,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783989965,
+    "date_posted": 1783996769,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -1969,7 +2469,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Electrical-Validation-Intern_JR0285377",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783989965,
+    "date_posted": 1783996769,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -1986,7 +2486,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784767565,
+    "date_posted": 1784774369,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2003,7 +2503,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784940365,
+    "date_posted": 1784947169,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2020,7 +2520,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785804365,
+    "date_posted": 1785811169,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2037,7 +2537,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786063565,
+    "date_posted": 1786070369,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2054,7 +2554,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786149965,
+    "date_posted": 1786156769,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2071,7 +2571,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785372365,
+    "date_posted": 1785379169,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2088,7 +2588,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785372365,
+    "date_posted": 1785379169,
     "first_seen": 1786572435,
     "emailed": true
   },
@@ -2105,7 +2605,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783989965,
+    "date_posted": 1783996769,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2122,7 +2622,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785458765,
+    "date_posted": 1785465569,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2139,7 +2639,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0286083-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785545165,
+    "date_posted": 1785551969,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2156,7 +2656,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Server-Quality-and-Reliability-Intern_JR0284940",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784249165,
+    "date_posted": 1784255969,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2173,7 +2673,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Environmental-Health-and-Safety-Intern_JR0286293",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786149965,
+    "date_posted": 1786156769,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2190,7 +2690,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785458765,
+    "date_posted": 1785465569,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2207,7 +2707,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/MBA-Internship---Ecosystem-Development-Specialist_JR0285771",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784335565,
+    "date_posted": 1784342369,
     "first_seen": 1786572435,
     "emailed": false
   },
@@ -2224,7 +2724,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785977165,
+    "date_posted": 1785983969,
     "first_seen": 1786572435,
     "emailed": true
   },
@@ -2241,24 +2741,24 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785977165,
+    "date_posted": 1785983969,
     "first_seen": 1786572435,
     "emailed": false
   },
   {
-    "uid": "adzuna:5838753587",
+    "uid": "adzuna:5838716489",
     "source": "adzuna",
-    "company": "Pratt & Whitney",
-    "title": "Software Engineering Intern (Summer 2027)",
+    "company": "DV Trading",
+    "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
     "category": "Software",
     "locations": [
-      "Reading, Middlesex County"
+      "Ny State Campus, Albany County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/details/5838753587?utm_medium=api&utm_source=e936e76a",
+    "url": "https://www.adzuna.com/land/ad/5838716489?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=6430F456C6D09596CD0C25965A075DE5926FD870",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786555788,
+    "date_posted": 1786549735,
     "first_seen": 1786571777,
     "emailed": true
   },
@@ -2272,27 +2772,10 @@
       "Ny State Campus, Albany County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838713981?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=0164F66FF6F928D619353C780C694D11491BBB18",
+    "url": "https://www.adzuna.com/land/ad/5838713981?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=0164F66FF6F928D619353C780C694D11491BBB18",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786549511,
-    "first_seen": 1786571777,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5838716489",
-    "source": "adzuna",
-    "company": "DV Trading",
-    "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
-    "category": "Software",
-    "locations": [
-      "Ny State Campus, Albany County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838716489?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=6430F456C6D09596CD0C25965A075DE5926FD870",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1786549735,
     "first_seen": 1786571777,
     "emailed": true
   },
@@ -2306,7 +2789,7 @@
       "US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838713468?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=A153CE8D03E83E5D2CB64E5E36C60F61DEEAD4DA",
+    "url": "https://www.adzuna.com/land/ad/5838713468?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=A153CE8D03E83E5D2CB64E5E36C60F61DEEAD4DA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786549503,
@@ -2323,7 +2806,7 @@
       "Washington, Washington, D.C."
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838707512?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=EA883BB09C712119EDDFE13527C23E98A88336B3",
+    "url": "https://www.adzuna.com/land/ad/5838707512?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=EA883BB09C712119EDDFE13527C23E98A88336B3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786548943,
@@ -2340,7 +2823,7 @@
       "Charlotte, Mecklenburg County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838704094?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=6C4E6481EFB7346AA2D1C211F6416D0F58393CB4",
+    "url": "https://www.adzuna.com/land/ad/5838704094?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=6C4E6481EFB7346AA2D1C211F6416D0F58393CB4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786548693,
@@ -2357,7 +2840,7 @@
       "Austin, Travis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838702904?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=54C7609D556229BF0EC85FC4B19AE71670AF03DC",
+    "url": "https://www.adzuna.com/land/ad/5838702904?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=54C7609D556229BF0EC85FC4B19AE71670AF03DC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786548458,
@@ -2374,7 +2857,7 @@
       "Phoenix, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838694645?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=BBDB4FF068E94B5DDBCD907A46BF23F2E2F793DC",
+    "url": "https://www.adzuna.com/land/ad/5838694645?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=BBDB4FF068E94B5DDBCD907A46BF23F2E2F793DC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786547738,
@@ -2391,7 +2874,7 @@
       "Durham, Durham County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838644850?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=4E6539CBFD666F7A046D7898BA7A9B09017E4999",
+    "url": "https://www.adzuna.com/land/ad/5838644850?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=4E6539CBFD666F7A046D7898BA7A9B09017E4999",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786541585,
@@ -2425,7 +2908,7 @@
       "San Jose, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838641083?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=CF52FF0163DE82C01D54F1F9E75FBC6CF7020B89",
+    "url": "https://www.adzuna.com/land/ad/5838641083?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=CF52FF0163DE82C01D54F1F9E75FBC6CF7020B89",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786541390,
@@ -2442,7 +2925,7 @@
       "US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838382599?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=29FD1D8D000F62E6C7E245E29AD5636AE43A9F25",
+    "url": "https://www.adzuna.com/land/ad/5838382599?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=29FD1D8D000F62E6C7E245E29AD5636AE43A9F25",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786531144,
@@ -2459,7 +2942,7 @@
       "Sunnyvale, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838370975?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=0D327FA1EB2C23AB3B58F9F8A66DE38C281A5DAD",
+    "url": "https://www.adzuna.com/land/ad/5838370975?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=0D327FA1EB2C23AB3B58F9F8A66DE38C281A5DAD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786530931,
@@ -2476,7 +2959,7 @@
       "Bridgeton, Saint Louis County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838363555?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=7D8A939A4ED01AD13A96C2DD5D011C6487C1EE37",
+    "url": "https://www.adzuna.com/land/ad/5838363555?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=7D8A939A4ED01AD13A96C2DD5D011C6487C1EE37",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786530534,
@@ -2493,7 +2976,7 @@
       "Findlay, Hancock County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5837665233?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=5BDA99A8A50F1182BA25A88A6E4C5530C2DBE9A9",
+    "url": "https://www.adzuna.com/land/ad/5837665233?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=5BDA99A8A50F1182BA25A88A6E4C5530C2DBE9A9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786488651,
@@ -2510,7 +2993,7 @@
       "Largo, Pinellas County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838361433?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=30D1BAF3A8C2A566A07B19539C1E12F4B34C5C48",
+    "url": "https://www.adzuna.com/land/ad/5838361433?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=30D1BAF3A8C2A566A07B19539C1E12F4B34C5C48",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786530516,
@@ -2527,7 +3010,7 @@
       "Washington, Washington, D.C."
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838361362?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=2A6ED5124118243DC342A7B43C17CB07EDA2AF99",
+    "url": "https://www.adzuna.com/land/ad/5838361362?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=2A6ED5124118243DC342A7B43C17CB07EDA2AF99",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786530515,
@@ -2561,7 +3044,7 @@
       "Chicago, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838347930?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=92EDD72072D5B6875FF9C6BDE2EF98E712DA5E30",
+    "url": "https://www.adzuna.com/land/ad/5838347930?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=92EDD72072D5B6875FF9C6BDE2EF98E712DA5E30",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786530089,
@@ -2578,7 +3061,7 @@
       "Chandler, Maricopa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838333807?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=755428B47117B0BFCC0C6D89020826C8FD27A137",
+    "url": "https://www.adzuna.com/land/ad/5838333807?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=755428B47117B0BFCC0C6D89020826C8FD27A137",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786529276,
@@ -2595,7 +3078,7 @@
       "Iselin, Middlesex County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838332505?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=0B5FAEB5B9360ACCEAB3CEF2A71D74BFBBDD6E3F",
+    "url": "https://www.adzuna.com/land/ad/5838332505?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=0B5FAEB5B9360ACCEAB3CEF2A71D74BFBBDD6E3F",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786529230,
@@ -2612,12 +3095,29 @@
       "Woburn, Middlesex County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838329692?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=5A4D2D118A2ABBFA709714EFEA132E79E969EE98",
+    "url": "https://www.adzuna.com/land/ad/5838329692?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=5A4D2D118A2ABBFA709714EFEA132E79E969EE98",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786528970,
     "first_seen": 1786571777,
     "emailed": true
+  },
+  {
+    "uid": "adzuna:5838315614",
+    "source": "adzuna",
+    "company": "RTX",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "Texas, US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5838315614?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=6F895BCDAF58536480ECCC7425CBBE49A0E5E026",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786528128,
+    "first_seen": 1786571777,
+    "emailed": false
   },
   {
     "uid": "adzuna:5837549601",
@@ -2635,23 +3135,6 @@
     "date_posted": 1786484144,
     "first_seen": 1786571777,
     "emailed": true
-  },
-  {
-    "uid": "adzuna:5838315614",
-    "source": "adzuna",
-    "company": "RTX",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "category": "Software",
-    "locations": [
-      "Texas, US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5838315614?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=6F895BCDAF58536480ECCC7425CBBE49A0E5E026",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1786528128,
-    "first_seen": 1786571777,
-    "emailed": false
   },
   {
     "uid": "adzuna:5837211183",
@@ -2680,7 +3163,7 @@
       "San Antonio, Bexar County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5836641159?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=40E73440067CB030B0D3C3735154EE10684D13E7",
+    "url": "https://www.adzuna.com/land/ad/5836641159?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=40E73440067CB030B0D3C3735154EE10684D13E7",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786432255,
@@ -2697,7 +3180,7 @@
       "Findlay, Hancock County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5836641048?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=E128F9CC2C3C6AB0DB15BB8FD98BB96F2A4AC819",
+    "url": "https://www.adzuna.com/land/ad/5836641048?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=E128F9CC2C3C6AB0DB15BB8FD98BB96F2A4AC819",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786432253,
@@ -2714,7 +3197,7 @@
       "Chicago, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835902269?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=2B3D609F87570BA107AF4240D10537C81AE5CAB7",
+    "url": "https://www.adzuna.com/land/ad/5835902269?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=2B3D609F87570BA107AF4240D10537C81AE5CAB7",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786375945,
@@ -2731,7 +3214,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835899068?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=F3CFB37BAEC9A6C7A9BDE6E55167E13D3D12F7FA",
+    "url": "https://www.adzuna.com/land/ad/5835899068?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=F3CFB37BAEC9A6C7A9BDE6E55167E13D3D12F7FA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786375746,
@@ -2748,7 +3231,7 @@
       "Merrimack, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251934?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=041EA477A68B9BA92DA0EE99AB77067BE3E3D7D5",
+    "url": "https://www.adzuna.com/land/ad/5835251934?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=041EA477A68B9BA92DA0EE99AB77067BE3E3D7D5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -2765,7 +3248,7 @@
       "Hudson, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251937?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=F7643D96BAA2E0E2FDC0016F27912583B23D7DDD",
+    "url": "https://www.adzuna.com/land/ad/5835251937?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=F7643D96BAA2E0E2FDC0016F27912583B23D7DDD",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -2782,7 +3265,7 @@
       "Manchester, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251943?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=E25B7B08E5E2EEEAD0832E287507A421A7B7CBE0",
+    "url": "https://www.adzuna.com/land/ad/5835251943?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=E25B7B08E5E2EEEAD0832E287507A421A7B7CBE0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -2799,7 +3282,7 @@
       "Nashua, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5835251932?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=F9FEAC862A14C74F6FFCA4CAB0D513F6BD3BF416",
+    "url": "https://www.adzuna.com/land/ad/5835251932?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=F9FEAC862A14C74F6FFCA4CAB0D513F6BD3BF416",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786316468,
@@ -2867,7 +3350,7 @@
       "Seattle, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834594408?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=543561C4A202888C13DAC3535D8491892C77EFF0",
+    "url": "https://www.adzuna.com/land/ad/5834594408?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=543561C4A202888C13DAC3535D8491892C77EFF0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786258681,
@@ -2884,7 +3367,7 @@
       "Austin, Lonoke County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5834594407?se=7BDMarCW8RGZjegz1di2Mg&utm_medium=api&utm_source=e936e76a&v=B3F1205F865058F64BCE31E231F82EF3E01ED090",
+    "url": "https://www.adzuna.com/land/ad/5834594407?se=ChbWN8CW8RGlpt0ydDONhw&utm_medium=api&utm_source=e936e76a&v=B3F1205F865058F64BCE31E231F82EF3E01ED090",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786258681,
@@ -2939,23 +3422,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1786255777,
-    "first_seen": 1786571777,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5834538978",
-    "source": "adzuna",
-    "company": "Melius",
-    "title": "Software Engineering Intern [Fall/Winter 2026]",
-    "category": "Software",
-    "locations": [
-      "New York City, New York"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5834538978?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1786254151,
     "first_seen": 1786571777,
     "emailed": false
   },
@@ -28325,7 +28791,7 @@
     ],
     "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/New-Product-Development-Intern---Summer-2026_JR0000037718-5",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778943274,
     "first_seen": 1785583525,
     "emailed": false
@@ -50973,7 +51439,7 @@
     ],
     "url": "https://jobs.lever.co/telesat/58832b41-ddb7-4ee1-99fc-92d57f23b788/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784585135,
     "first_seen": 1784586747,
     "emailed": false
@@ -130571,101 +131037,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:258690d6-50c0-4eee-9b5b-3d9e2bcf17b7",
-    "source": "simplify",
-    "company": "Genentech",
-    "title": "Intern - Large Language Models",
-    "category": "AI/ML/Data",
-    "locations": [
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2026-Summer-Intern---Large-Language-Models--Prescient-Design---AI-for-Drug-Discovery-_202512-131826-1",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765845284,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:cdbebe86-9c32-4d75-98b3-f8853e6b4c63",
-    "source": "simplify",
-    "company": "Royal Bank of Canada",
-    "title": "FC Risk Analytics Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--FC-Risk-Analytics-Intern--4-Months-_R-0000152168",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765845076,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b58c3c09-7bfa-4e32-9b3f-73e5133f8ef3",
-    "source": "simplify",
-    "company": "Genentech",
-    "title": "Intern - Genentech Gred Computational Sciences - Center of Excellence",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Genentech-gRED-Computational-Sciences---Center-of-Excellence_202512-131807",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765845314,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:bebf3592-aa39-4da5-9048-c919792c1707",
-    "source": "simplify",
-    "company": "LinkedIn",
-    "title": "Strategy & Insights-Data Science Intern - Master's - Summer 2026",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000099076986",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765850561,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7ebfec8d-a150-4ca8-b3dc-2fecef4a3104",
-    "source": "simplify",
-    "company": "LinkedIn",
-    "title": "Data Engineer-Data Science Intern - Master's - Summer 2026','Mountain View','CA",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000099077455",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765850568,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:0bcd4246-3e39-4728-aced-1fcf8bdb8726",
     "source": "simplify",
     "company": "SolarWinds",
@@ -130700,29 +131071,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1765852262,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:cb32b03e-266a-49cb-88f5-a914bf0c7348",
-    "source": "simplify",
-    "company": "Microsoft",
-    "title": "Research Intern - Post-Training",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Washington",
-      "California",
-      "Redmond, WA",
-      "Mountain View, CA",
-      "United States"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1765851256,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -313430,7 +313778,7 @@
     ],
     "url": "https://jobs.lever.co/plus-2/b69c9b6d-483f-41d4-b487-97c99332ca40/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1779170722,
     "first_seen": 1784003708,
     "emailed": true
