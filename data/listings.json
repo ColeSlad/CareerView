@@ -1,5 +1,236 @@
 [
   {
+    "uid": "vanshb03:c045a1de-0845-4fb4-8d88-73b2d41f0ca4",
+    "source": "vanshb03",
+    "company": "Databricks",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Bellevue, Washington",
+      "Mountain View, California",
+      "San Francisco, California"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002?gh_jid=8732364002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1787327675,
+    "first_seen": 1787328842,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:072a827a-41f4-46e2-90e2-689e7ddc585b",
+    "source": "vanshb03",
+    "company": "Formlabs",
+    "title": "Print Production Intern",
+    "category": "Software",
+    "locations": [
+      "Somerville, MA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1787327681,
+    "first_seen": 1787328842,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:ff120d27-6dae-4fe6-91ab-20b8d3b4e29f",
+    "source": "vanshb03",
+    "company": "Astranis",
+    "title": "Reliability Test Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4677973006",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "date_posted": 1787327684,
+    "first_seen": 1787328842,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:40f1994b-331f-4836-b7e5-33e8197296d0",
+    "source": "vanshb03",
+    "company": "Campbell Soup Company",
+    "title": "Agentic AI Engineer Co-Op",
+    "category": "Software",
+    "locations": [
+      "Remote"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1787327688,
+    "first_seen": 1787328842,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:546c4a60-2ac8-438f-ab80-a1426327fd62",
+    "source": "vanshb03",
+    "company": "Campbell Soup Company",
+    "title": "Data Engineer Intern, DA&AI Co-Op",
+    "category": "Software",
+    "locations": [
+      "Camden, NJ"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1787327690,
+    "first_seen": 1787328842,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:d6288825-2aef-4086-b1b6-f29bf66edfb8",
+    "source": "vanshb03",
+    "company": "Capital One",
+    "title": "Software Engineer Intern, Team Pickle",
+    "category": "Software",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1787327693,
+    "first_seen": 1787328842,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:26dc04ff-78b4-4078-a223-a25add01bb70",
+    "source": "vanshb03",
+    "company": "Capital One",
+    "title": "Software Engineer Intern, Mobile",
+    "category": "Software",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1787327697,
+    "first_seen": 1787328842,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:b28ad3d6-dc11-46a0-8b90-945829de7543",
+    "source": "vanshb03",
+    "company": "Capital One",
+    "title": "Backend Software Engineer Intern, Team Interstellar",
+    "category": "Software",
+    "locations": [
+      "Toronto, ON"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1787327699,
+    "first_seen": 1787328842,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:ab806a40-3173-438c-b929-7cb4e21780ed",
+    "source": "vanshb03",
+    "company": "Figma",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+    "sponsorship": "Offers Sponsorship",
+    "active": true,
+    "date_posted": 1787327703,
+    "first_seen": 1787328842,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:1ad039f9-d191-46e8-8949-933beb4efdbe",
+    "source": "vanshb03",
+    "company": "Figure",
+    "title": "Power Systems Integration Intern",
+    "category": "Software",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4702104006",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1787327704,
+    "first_seen": 1787328842,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:af4b7f97-fb40-4eb9-af1c-83d4a4349ba0",
+    "source": "vanshb03",
+    "company": "Formlabs",
+    "title": "Hardware R&D Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Somerville, MA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1787327728,
+    "first_seen": 1787328842,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:f01d2642-608b-4b6a-9a94-bcd2fc434e37",
+    "source": "vanshb03",
+    "company": "Varda Space Industries",
+    "title": "Applications Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1787327731,
+    "first_seen": 1787328842,
+    "emailed": true
+  },
+  {
     "uid": "vanshb03:d6b0d4fb-dd47-478e-ad9b-2887f64a1645",
     "source": "vanshb03",
     "company": "Teledyne Technologies Incorporated",
@@ -812,7 +1043,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5850804931?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=7FA5CF9D9B6A7E0977F5AC6A0478D490C67F87CB",
+    "url": "https://www.adzuna.com/land/ad/5850804931?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=7FA5CF9D9B6A7E0977F5AC6A0478D490C67F87CB",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787290893,
@@ -846,7 +1077,7 @@
       "New York City, New York"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5850783281?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=B57A556D17FA43389E02B391ED059B42E3FAA53C",
+    "url": "https://www.adzuna.com/land/ad/5850783281?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=B57A556D17FA43389E02B391ED059B42E3FAA53C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787288421,
@@ -931,7 +1162,7 @@
       "Redmond, King County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5850637122?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=2F58A145F0398728A7EDC196EC126A7CDB80459C",
+    "url": "https://www.adzuna.com/land/ad/5850637122?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=2F58A145F0398728A7EDC196EC126A7CDB80459C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787276960,
@@ -982,7 +1213,7 @@
       "Colorado Springs, El Paso County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5850435645?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=7A7238E5C57A144BB6D787306E95999E9AF500CF",
+    "url": "https://www.adzuna.com/land/ad/5850435645?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=7A7238E5C57A144BB6D787306E95999E9AF500CF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787266411,
@@ -1016,7 +1247,7 @@
       "Rome, Oneida County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5850432780?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=94EB2D2E0AAD42F2A9569197C168AF5DC913BE36",
+    "url": "https://www.adzuna.com/land/ad/5850432780?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=94EB2D2E0AAD42F2A9569197C168AF5DC913BE36",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787266374,
@@ -1084,7 +1315,7 @@
       "Poughkeepsie, Dutchess County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5850166035?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=963EDC8897DBBAD71CDB4012ACE3338379266B2A",
+    "url": "https://www.adzuna.com/land/ad/5850166035?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=963EDC8897DBBAD71CDB4012ACE3338379266B2A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787253733,
@@ -1118,7 +1349,7 @@
       "Grand Chute, Outagamie County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5849329390?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=6451629088B9B5C6A96F1DB44DBD2A11F150FE5E",
+    "url": "https://www.adzuna.com/land/ad/5849329390?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=6451629088B9B5C6A96F1DB44DBD2A11F150FE5E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787190664,
@@ -1135,7 +1366,7 @@
       "Main Avenue Station, Passaic County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5849247310?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=8F2E2B99CF947C60B567347309D8037E7F104759",
+    "url": "https://www.adzuna.com/land/ad/5849247310?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=8F2E2B99CF947C60B567347309D8037E7F104759",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787182130,
@@ -1152,7 +1383,7 @@
       "Findlay, Hancock County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5849207892?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=156E5001CA1E17A4E11DBCE796CD23A8C9E88097",
+    "url": "https://www.adzuna.com/land/ad/5849207892?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=156E5001CA1E17A4E11DBCE796CD23A8C9E88097",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787180251,
@@ -1237,7 +1468,7 @@
       "Long Island City, Queens"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964941?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=D28FF2345F2C9BC8FCD4FB27DC5C66D275B1F6AC",
+    "url": "https://www.adzuna.com/land/ad/5848964941?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=D28FF2345F2C9BC8FCD4FB27DC5C66D275B1F6AC",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1254,7 +1485,7 @@
       "Sioux City, Woodbury County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964927?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=8FBA0EE1AB8EBEC4FD54CA33D71B7582AB57F6B3",
+    "url": "https://www.adzuna.com/land/ad/5848964927?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=8FBA0EE1AB8EBEC4FD54CA33D71B7582AB57F6B3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1271,7 +1502,7 @@
       "Tuscaloosa, Tuscaloosa County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964959?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=E205BB2A277EB7C2DCB27A4AC7637EE56BE536C2",
+    "url": "https://www.adzuna.com/land/ad/5848964959?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=E205BB2A277EB7C2DCB27A4AC7637EE56BE536C2",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1288,7 +1519,7 @@
       "Edison, Middlesex County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964944?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=514606734CB5DE6C0ECCE254FE8EBC12D8278BDA",
+    "url": "https://www.adzuna.com/land/ad/5848964944?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=514606734CB5DE6C0ECCE254FE8EBC12D8278BDA",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1305,7 +1536,7 @@
       "Pomona, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964922?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=43BF03532802840DAFB29733BDCB806162C59B59",
+    "url": "https://www.adzuna.com/land/ad/5848964922?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=43BF03532802840DAFB29733BDCB806162C59B59",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1322,7 +1553,7 @@
       "Cleveland, Cuyahoga County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964919?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=4EC1224BFB6720895401F471A9719750C6BD6836",
+    "url": "https://www.adzuna.com/land/ad/5848964919?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=4EC1224BFB6720895401F471A9719750C6BD6836",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1339,7 +1570,7 @@
       "Orem, Utah County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964915?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=EAC35FD9C5081D16FEF59CE35F83DE622B76BE92",
+    "url": "https://www.adzuna.com/land/ad/5848964915?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=EAC35FD9C5081D16FEF59CE35F83DE622B76BE92",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1356,7 +1587,7 @@
       "Racine, Racine County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964916?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=23C496918F600ED4815AA785C8485145CA000353",
+    "url": "https://www.adzuna.com/land/ad/5848964916?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=23C496918F600ED4815AA785C8485145CA000353",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1373,7 +1604,7 @@
       "Orlando, Orange County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964914?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=31BF5F61E0D836014CF55C117A1C5F0DDB922F7B",
+    "url": "https://www.adzuna.com/land/ad/5848964914?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=31BF5F61E0D836014CF55C117A1C5F0DDB922F7B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1390,7 +1621,7 @@
       "Minot, Ward County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964952?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=EF00D768AA782E8A498F719306AF46542362B393",
+    "url": "https://www.adzuna.com/land/ad/5848964952?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=EF00D768AA782E8A498F719306AF46542362B393",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1407,7 +1638,7 @@
       "Sterling Heights, Macomb County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964939?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=F2C06D7AC72D1FBA10311B7E970D51696E2A36F8",
+    "url": "https://www.adzuna.com/land/ad/5848964939?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=F2C06D7AC72D1FBA10311B7E970D51696E2A36F8",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1424,7 +1655,7 @@
       "Rochester Hills, Oakland County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964954?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=930627ECDF9CA3B5905258AD965FC4D059FBBB87",
+    "url": "https://www.adzuna.com/land/ad/5848964954?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=930627ECDF9CA3B5905258AD965FC4D059FBBB87",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1441,7 +1672,7 @@
       "Columbus, Muscogee County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964950?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=895FA1C1C723391EBE3930D2E42DBA58A6C2D959",
+    "url": "https://www.adzuna.com/land/ad/5848964950?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=895FA1C1C723391EBE3930D2E42DBA58A6C2D959",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1458,7 +1689,7 @@
       "Virginia Beach, Virginia Beach City"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964918?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=F653BCAB7F392D87AA1F527EC2E6A4C32E78D74B",
+    "url": "https://www.adzuna.com/land/ad/5848964918?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=F653BCAB7F392D87AA1F527EC2E6A4C32E78D74B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1475,7 +1706,7 @@
       "Louisville, Jefferson County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964928?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=4A0829E624B1CD2097F5E17FF9C9559D2FCC065B",
+    "url": "https://www.adzuna.com/land/ad/5848964928?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=4A0829E624B1CD2097F5E17FF9C9559D2FCC065B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1492,7 +1723,7 @@
       "Bellingham, Whatcom County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964955?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=9DBF969901CA8C474A9940F48C5F37026957D239",
+    "url": "https://www.adzuna.com/land/ad/5848964955?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=9DBF969901CA8C474A9940F48C5F37026957D239",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -1509,7 +1740,7 @@
       "Colchester, Chittenden County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5848964965?se=VPwgsXmd8RGSb8VpDRDiVA&utm_medium=api&utm_source=e936e76a&v=3B1346135B7E90BD10D8A2BE3AA429B4F202EEA4",
+    "url": "https://www.adzuna.com/land/ad/5848964965?se=evqBUnud8RGU6LIjyaRnwA&utm_medium=api&utm_source=e936e76a&v=3B1346135B7E90BD10D8A2BE3AA429B4F202EEA4",
     "sponsorship": null,
     "active": true,
     "date_posted": 1787167311,
@@ -2589,7 +2820,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1787328135,
+    "date_posted": 1787328835,
     "first_seen": 1787281939,
     "emailed": false
   },
@@ -4360,7 +4591,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/SoC-Functional-Validation-Intern_JR0286018",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1787241735,
+    "date_posted": 1787242435,
     "first_seen": 1787242475,
     "emailed": false
   },
@@ -5085,7 +5316,7 @@
     ],
     "url": "https://careers.bcg.com/global/en/job/59067",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1787186938,
     "first_seen": 1787190432,
     "emailed": false
@@ -6328,7 +6559,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0285181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784736135,
+    "date_posted": 1784736835,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6345,7 +6576,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Beijing/Executive-Assistant-Intern_JR0285840",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784736135,
+    "date_posted": 1784736835,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6362,7 +6593,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Treasury-Analyst-Student_JR0285827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784908935,
+    "date_posted": 1784909635,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6379,7 +6610,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/AI-Engineer-Intern_JR0286108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785772935,
+    "date_posted": 1785773635,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6396,7 +6627,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Facilities-Engineering-Intern_JR0286245",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786032135,
+    "date_posted": 1786032835,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6413,7 +6644,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Software-Engineer--Intern-_JR0286207-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786118535,
+    "date_posted": 1786119235,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6430,7 +6661,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785340935,
+    "date_posted": 1785341635,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6447,7 +6678,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785340935,
+    "date_posted": 1785341635,
     "first_seen": 1787175323,
     "emailed": true
   },
@@ -6464,7 +6695,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Development-Tools-Software-Intern_JR0285211",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1784736135,
+    "date_posted": 1784736835,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6481,7 +6712,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/CRVLE-Industrial-Engineering-Intern_JR0286084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785427335,
+    "date_posted": 1785428035,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6498,7 +6729,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786982535,
+    "date_posted": 1786983235,
     "first_seen": 1787175323,
     "emailed": true
   },
@@ -6515,7 +6746,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Environmental-Health-and-Safety-Intern_JR0286293",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786118535,
+    "date_posted": 1786119235,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6532,7 +6763,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786723335,
+    "date_posted": 1786724035,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6549,7 +6780,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/AI-ML-Software-Development-Intern_JR0286500",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786982535,
+    "date_posted": 1786983235,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6566,7 +6797,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1787068935,
+    "date_posted": 1787069635,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6583,7 +6814,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Test-Process-and-Equipment-Engineer-Intern_JR0286072",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785427335,
+    "date_posted": 1785428035,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6600,7 +6831,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Taiwan-Taipei/Solution-Enabling-Engineer--1-Year-Internship-_JR0286422",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1787068935,
+    "date_posted": 1787069635,
     "first_seen": 1787175323,
     "emailed": false
   },
@@ -6617,7 +6848,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785945735,
+    "date_posted": 1785946435,
     "first_seen": 1787175323,
     "emailed": true
   },
@@ -6634,7 +6865,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Module-Engineering-Intern---AI-ML--Data-Science--Robotics--Electrical--and-Mechatronics-Engineering-Disciplines_JR0286119-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785945735,
+    "date_posted": 1785946435,
     "first_seen": 1787175323,
     "emailed": false
   },
