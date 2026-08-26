@@ -1,22 +1,122 @@
 # ATS watchlist: company slug (as it appears in the provider's public job-board URL)
 # mapped to a human-readable display name (Lever/Ashby don't return a company name
-# in their job payloads, so we supply it here).
+# in their job payloads, so we supply it here). Every slug below was verified live
+# against the provider's public API before being added; a slug that goes stale just
+# logs a warning and is skipped, so a bad entry degrades rather than breaks the poll.
 greenhouse:
+  affirm: Affirm
+  airbnb: Airbnb
+  airtable: Airtable
+  anthropic: Anthropic
+  asana: Asana
+  attentive: Attentive
+  brex: Brex
+  buzzfeed: BuzzFeed
+  calendly: Calendly
+  carta: Carta
+  carvana: Carvana
+  chime: Chime
+  cloudflare: Cloudflare
+  cloverhealth: Clover Health
+  coinbase: Coinbase
+  coursera: Coursera
+  cultureamp: Culture Amp
+  databricks: Databricks
+  datadog: Datadog
+  discord: Discord
+  dropbox: Dropbox
+  duolingo: Duolingo
+  elastic: Elastic
+  faire: Faire
+  figma: Figma
+  flexport: Flexport
+  gitlab: GitLab
+  gusto: Gusto
+  instacart: Instacart
+  khanacademy: Khan Academy
+  kickstarter: Kickstarter
+  lattice: Lattice
+  marqeta: Marqeta
+  mercury: Mercury
+  mixpanel: Mixpanel
+  mongodb: MongoDB
+  netlify: Netlify
+  pagerduty: PagerDuty
+  peloton: Peloton
+  pinterest: Pinterest
+  postman: Postman
+  reddit: Reddit
+  remotecom: Remote
+  ripple: Ripple
+  robinhood: Robinhood
+  roblox: Roblox
+  samsara: Samsara
+  scaleai: Scale AI
+  smartsheet: Smartsheet
+  sofi: SoFi
+  squarespace: Squarespace
   stripe: Stripe
+  twilio: Twilio
+  twitch: Twitch
+  udemy: Udemy
+  vercel: Vercel
+  webflow: Webflow
+  zoominfo: ZoomInfo
 
 lever:
   palantir: Palantir
+  wealthfront: Wealthfront
 
 ashby:
+  abridge: Abridge
+  airbyte: Airbyte
+  amplitude: Amplitude
+  attio: Attio
+  clickhouse: ClickHouse
+  cohere: Cohere
+  cursor: Cursor
+  decagon: Decagon
+  drata: Drata
+  harvey: Harvey
+  hex: Hex
+  linear: Linear
+  lovable: Lovable
+  modal: Modal
+  notion: Notion
   openai: OpenAI
+  pinecone: Pinecone
+  ramp: Ramp
+  replit: Replit
+  runway: Runway
+  sierra: Sierra
+  suno: Suno
+  temporal: Temporal
+  vanta: Vanta
+  watershed: Watershed
 
 # Workday tenant slug -> {name, wd instance, site slug}, all taken from the company's
 # own career-site URL, e.g. https://{tenant}.{wd}.myworkdayjobs.com/{site}/job/...
 workday:
+  autodesk:
+    name: Autodesk
+    wd: wd1
+    site: Ext
   intel:
     name: Intel
     wd: wd1
     site: External
+  micron:
+    name: Micron
+    wd: wd1
+    site: External
+  nvidia:
+    name: Nvidia
+    wd: wd5
+    site: NVIDIAExternalCareerSite
+  workday:
+    name: Workday
+    wd: wd5
+    site: Workday
 
 # Oracle Cloud tenant slug -> {name, datacenter, site number}, taken from the company's
 # own career-site URL, e.g. https://{tenant}.fa.{dc}.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{site}/job/...
