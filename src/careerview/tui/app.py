@@ -11,9 +11,12 @@ from textual.widgets import DataTable, Footer, Header, Input, Static
 from careerview import status_store, store
 from careerview.config import load_config
 from careerview.filters import locations_pass, title_matches
+from careerview.inbox import Inbox
 from careerview.tui.screens import DetailScreen, NoteScreen
 
 STATUS_CYCLE = ("all", "new", "interested", "applied", "skipped")
+INBOX_CYCLE = ("all", "new", "unread")
+INBOX_LABELS = {"all": "All listings", "new": "New since last visit", "unread": "Unread"}
 
 
 def _relative_time(ts: int | None, now: int) -> str:
@@ -41,6 +44,7 @@ class CareerViewApp(App):
     CSS = """
     #search { dock: top; height: 3; }
     #filter-line { dock: top; height: 1; color: $text-muted; padding: 0 1; }
+    #inbox-line { dock: top; height: auto; min-height: 1; padding: 0 1; }
     DataTable { height: 1fr; }
     """
 
@@ -55,6 +59,9 @@ class CareerViewApp(App):
         ("2", "toggle_relevant", "Relevant"),
         ("3", "toggle_us_remote", "US/Remote"),
         ("4", "cycle_status_filter", "Status"),
+        ("5", "cycle_inbox_filter", "Inbox"),
+        ("m", "mark_reviewed", "Reviewed"),
+        ("M", "mark_shown_reviewed", "Review shown"),
         ("r", "refresh_now", "Refresh"),
         ("q", "quit", "Quit"),
     ]
@@ -63,6 +70,7 @@ class CareerViewApp(App):
         super().__init__()
         self.config = load_config()
         self.db = status_store.connect()
+        self.inbox = Inbox(self.db)
         self.listings: dict = {}
         self.statuses: dict = {}
         self.search_text = ""
@@ -70,18 +78,20 @@ class CareerViewApp(App):
         self.relevant_only = True
         self.us_remote_only = True
         self.status_filter = "all"
+        self.inbox_filter = "all"
         self._visible_uids: list[str] = []
 
     def compose(self) -> ComposeResult:
         yield Header()
         yield Input(placeholder="Search company or title... (press / to focus)", id="search")
         yield Static("", id="filter-line")
+        yield Static("", id="inbox-line", markup=False)
         yield DataTable(id="table", cursor_type="row", zebra_stripes=True)
         yield Footer()
 
     def on_mount(self) -> None:
         table = self.query_one(DataTable)
-        table.add_columns("Posted", "Status", "Company", "Role", "Term", "Location", "Source")
+        table.add_columns("Inbox", "Posted", "Status", "Company", "Role", "Term", "Location", "Source")
         self._load_data()
         table.focus()
 
@@ -89,6 +99,7 @@ class CareerViewApp(App):
         self._git_pull_best_effort()
         self.listings = store.load_listings()
         self.statuses = status_store.load_all(self.db)
+        self.inbox.observe(self.listings)
         self.refresh_table()
 
     def _git_pull_best_effort(self) -> None:
@@ -101,11 +112,16 @@ class CareerViewApp(App):
         except Exception as exc:
             self.notify(f"git pull failed, showing local data: {exc}", severity="warning")
 
-    def _matching_uids(self) -> list[str]:
+    def _matching_uids(self, *, ignore_inbox: bool = False) -> list[str]:
         search = self.search_text.lower().strip()
         relevance = self.config.relevance
         result = []
         for uid, listing in self.listings.items():
+            if not ignore_inbox:
+                if self.inbox_filter == "new" and uid not in self.inbox.new_uids:
+                    continue
+                if self.inbox_filter == "unread" and uid not in self.inbox.unread_uids:
+                    continue
             if self.active_only and not listing.active:
                 continue
             if self.relevant_only:
@@ -135,7 +151,13 @@ class CareerViewApp(App):
             listing = self.listings[uid]
             record = self.statuses.get(uid)
             status_label = (record.status if record else "new").capitalize()
+            unread = uid in self.inbox.unread_uids
+            if uid in self.inbox.new_uids:
+                inbox_label = "New" if unread else "New · read"
+            else:
+                inbox_label = "Unread" if unread else ""
             table.add_row(
+                inbox_label,
                 _relative_time(listing.date_posted, now),
                 status_label,
                 listing.company,
@@ -159,6 +181,13 @@ class CareerViewApp(App):
             f"({len(self._visible_uids)} shown)",
         ]
         line.update("  ".join(parts))
+        matching = set(self._matching_uids(ignore_inbox=True))
+        new_count = len(matching & self.inbox.new_uids)
+        unread_count = len(matching & self.inbox.unread_uids)
+        self.query_one("#inbox-line", Static).update(
+            f"[5] {INBOX_LABELS[self.inbox_filter]}  |  "
+            f"{new_count} new since last visit  |  {unread_count} unread"
+        )
 
     def _current_uid(self) -> str | None:
         table = self.query_one(DataTable)
@@ -180,6 +209,8 @@ class CareerViewApp(App):
         record = self.statuses.get(uid)
         status_value = record.status if record else "new"
         note = record.note if record else None
+        self.inbox.mark_reviewed([uid])
+        self.refresh_table()
         self.push_screen(DetailScreen(listing, status_value, note))
 
     def action_focus_search(self) -> None:
@@ -206,10 +237,28 @@ class CareerViewApp(App):
         self.status_filter = STATUS_CYCLE[(idx + 1) % len(STATUS_CYCLE)]
         self.refresh_table()
 
+    def action_cycle_inbox_filter(self) -> None:
+        idx = INBOX_CYCLE.index(self.inbox_filter)
+        self.inbox_filter = INBOX_CYCLE[(idx + 1) % len(INBOX_CYCLE)]
+        self.refresh_table()
+
+    def action_mark_reviewed(self) -> None:
+        uid = self._current_uid()
+        if uid:
+            self.inbox.mark_reviewed([uid])
+            self.refresh_table()
+
+    def action_mark_shown_reviewed(self) -> None:
+        count = self.inbox.mark_reviewed(self._visible_uids)
+        self.refresh_table()
+        self.notify(f"Marked {count} shown listings reviewed", timeout=3)
+
     def action_open_url(self) -> None:
         uid = self._current_uid()
         if uid and self.listings[uid].url:
-            webbrowser.open(self.listings[uid].url)
+            if webbrowser.open(self.listings[uid].url):
+                self.inbox.mark_reviewed([uid])
+                self.refresh_table()
 
     def action_mark_applied(self) -> None:
         self._set_status("applied")
@@ -225,6 +274,7 @@ class CareerViewApp(App):
         if not uid:
             return
         status_store.set_status(self.db, uid, status)
+        self.inbox.mark_reviewed([uid])
         self.statuses = status_store.load_all(self.db)
         self.refresh_table()
 
@@ -238,6 +288,7 @@ class CareerViewApp(App):
         def handle_result(result: str | None) -> None:
             if result is not None:
                 status_store.set_note(self.db, uid, result)
+                self.inbox.mark_reviewed([uid])
                 self.statuses = status_store.load_all(self.db)
                 self.refresh_table()
 

@@ -73,10 +73,29 @@ looked.
 | `2` | Toggle "Relevant only" filter (category + intern-title match) |
 | `3` | Toggle "US/Remote only" filter |
 | `4` | Cycle status filter (all → new → interested → applied → skipped) |
+| `5` | Cycle inbox view (all → new since last visit → unread) |
+| `m` | Mark the selected listing reviewed |
+| `Shift+m` | Mark all listings in the current filtered view reviewed |
+| `r` | Pull the latest listings and refresh the table |
 | `q` | Quit |
 
-Your statuses and notes are stored locally in `~/.local/share/careerview/status.db`
-and are never committed to the repo.
+The first launch with inbox tracking establishes a baseline from the current
+listings. On later visits, **New since last visit** shows listings that were not
+present on any previous visit, including arrivals found by pressing `r`. It uses
+listing IDs, so older posting dates and missing dates do not hide new arrivals.
+Refreshing keeps the current visit's new markers.
+
+**Unread** keeps new arrivals available across visits until you review them.
+Opening details or an apply link, changing application status, saving a note, or
+pressing `m` marks a listing reviewed. `Shift+m` reviews only the listings matching
+the current view and filters. The new/unread counts also respect your search and
+application filters. A reviewed arrival stays in "New since last visit" for the
+rest of that visit, labeled "New · read".
+
+Inbox review state is separate from the existing **New** application status,
+which means you have not assigned an application status. Your statuses, notes,
+and inbox history are stored locally in `~/.local/share/careerview/status.db` and
+are never committed to the repo.
 
 ### Manually run a poll
 
@@ -122,3 +141,11 @@ The repo should be **public** so the workflow gets unlimited free Actions minute
 
 You can trigger a run manually from the Actions tab ("Run workflow") or via
 `gh workflow run poll.yml`.
+
+## Tests
+
+Run the inbox persistence and headless UI tests against the source checkout:
+
+```bash
+PYTHONPATH=src .venv/bin/python -m unittest discover -s tests -v
+```
