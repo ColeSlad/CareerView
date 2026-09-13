@@ -25,6 +25,10 @@ The cloud workflow owns `data/listings.json` (what's out there). Your Mac owns a
 local SQLite file (your own status/notes on each listing). The two never write to
 the same thing, so there's no syncing to worry about.
 
+Email digests group openings under each company's name and listing count in both
+HTML and plain text. Companies appear by their newest posting, with roles sorted
+newest first within each company.
+
 ### Sources
 
 - [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) — community-maintained internship list
