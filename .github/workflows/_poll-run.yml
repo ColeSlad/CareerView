@@ -12,6 +12,9 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          # A queued run should poll from the latest state of its branch.
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v5
         with:
@@ -31,9 +34,40 @@ jobs:
         run: careerview poll --email
 
       - name: Commit updated listings
+        shell: bash
+        env:
+          POLL_BRANCH: ${{ github.ref_name }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "Update listings [skip ci]"
-          git push
+          if git diff --cached --quiet; then
+            echo "No listing changes to commit"
+            exit 0
+          fi
+          git commit -m "Update listings [skip ci]"
+          listing_commit=$(git rev-parse HEAD)
+
+          # The branch can advance during a poll. Preserve incoming commits and
+          # replay this run's complete data snapshot on top before retrying.
+          # Merging individual JSON hunks could mix data from different polls.
+          for attempt in 1 2 3; do
+            if git push origin "HEAD:refs/heads/$POLL_BRANCH"; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              break
+            fi
+            echo "Push failed (attempt $attempt); refreshing $POLL_BRANCH and retrying"
+            git fetch origin "refs/heads/$POLL_BRANCH"
+            # Reset only the runner's checkout; the saved commit retains its data.
+            git reset --hard FETCH_HEAD
+            git restore --source="$listing_commit" --staged --worktree -- data/
+            if git diff --cached --quiet; then
+              echo "Listing snapshot already present on $POLL_BRANCH"
+              exit 0
+            fi
+            git commit -m "Update listings [skip ci]"
+          done
+          echo "Push still failed after 3 attempts" >&2
+          exit 1
