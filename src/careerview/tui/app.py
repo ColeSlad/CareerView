@@ -55,6 +55,7 @@ class CareerViewApp(App):
         ("2", "toggle_relevant", "Relevant"),
         ("3", "toggle_us_remote", "US/Remote"),
         ("4", "cycle_status_filter", "Status"),
+        ("r", "refresh_now", "Refresh"),
         ("q", "quit", "Quit"),
     ]
 
@@ -79,14 +80,16 @@ class CareerViewApp(App):
         yield Footer()
 
     def on_mount(self) -> None:
+        table = self.query_one(DataTable)
+        table.add_columns("Posted", "Status", "Company", "Role", "Term", "Location", "Source")
+        self._load_data()
+        table.focus()
+
+    def _load_data(self) -> None:
         self._git_pull_best_effort()
         self.listings = store.load_listings()
         self.statuses = status_store.load_all(self.db)
-
-        table = self.query_one(DataTable)
-        table.add_columns("Posted", "Status", "Company", "Role", "Term", "Location", "Source")
         self.refresh_table()
-        table.focus()
 
     def _git_pull_best_effort(self) -> None:
         try:
@@ -181,6 +184,10 @@ class CareerViewApp(App):
 
     def action_focus_search(self) -> None:
         self.query_one("#search", Input).focus()
+
+    def action_refresh_now(self) -> None:
+        self._load_data()
+        self.notify(f"Refreshed — {len(self.listings)} listings loaded", timeout=3)
 
     def action_toggle_active(self) -> None:
         self.active_only = not self.active_only
