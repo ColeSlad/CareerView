@@ -1,11 +1,13 @@
 from __future__ import annotations
 
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from pathlib import Path
+from urllib.parse import parse_qs, urlsplit
 
 from careerview import store
 from careerview.models import Listing
-from careerview.sources.base import Source
+from careerview.sources.base import Source, fetch_with_retry
 
 
 @dataclass
@@ -16,11 +18,31 @@ class PollResult:
     fetched_count: int
 
 
+def _job_identity(listing: Listing) -> str | None:
+    """Recognize the same ATS posting linked by different community feeds."""
+    url = urlsplit(listing.url)
+    host = (url.hostname or "").lower()
+    parts = url.path.strip("/").split("/")
+    if host in {"jobs.ashbyhq.com", "jobs.lever.co", "jobs.eu.lever.co"} and len(parts) >= 2:
+        # /company/id and /company/id/application or /apply are the same job;
+        # query parameters such as embed=true do not identify a different role.
+        return f"{host}:{parts[0].casefold()}:{parts[1]}"
+    if host in {"boards.greenhouse.io", "job-boards.greenhouse.io", "boards.eu.greenhouse.io", "job-boards.eu.greenhouse.io"}:
+        region = "eu" if ".eu." in host else "us"
+        if len(parts) >= 3 and parts[-2] == "jobs" and parts[-1].isdigit():
+            return f"greenhouse:{region}:{parts[-1]}"
+        if url.path == "/embed/job_app":
+            token = parse_qs(url.query).get("token", [""])[0]
+            if token.isdigit():
+                return f"greenhouse:{region}:{token}"
+    return None
+
+
 def dedup(listings: list[Listing]) -> list[Listing]:
-    """Collapse the same req reported by multiple feeds, keeping the earliest-dated copy."""
+    """Collapse copies of a posting, retaining distinct ATS requisition IDs."""
     best: dict[str, Listing] = {}
     for listing in listings:
-        key = listing.dedup_key()
+        key = _job_identity(listing) or f"text:{listing.dedup_key()}"
         existing = best.get(key)
         if existing is None:
             best[key] = listing
@@ -35,16 +57,28 @@ def dedup(listings: list[Listing]) -> list[Listing]:
 def run_poll(sources: list[Source], listings_path: Path | str = store.DEFAULT_LISTINGS_PATH) -> PollResult:
     known = store.load_listings(listings_path)
     is_first_run = len(known) == 0
+    known_by_posting: dict[str, Listing] = {}
+    for prior in known.values():
+        identity = _job_identity(prior)
+        if identity and (identity not in known_by_posting or prior.emailed):
+            known_by_posting[identity] = prior
+
+    def fetch_source(source: Source) -> list[Listing]:
+        label = f"{source.name}:{getattr(source, 'slug', getattr(source, 'tenant', 'feed'))}"
+        try:
+            source_listings = fetch_with_retry(source)
+        except Exception as exc:
+            print(f"  warning: {label} fetch failed, skipping ({exc})", flush=True)
+            return []
+        print(f"  {label}: {len(source_listings)} listings", flush=True)
+        return source_listings
 
     fetched: list[Listing] = []
-    for source in sources:
-        try:
-            source_listings = source.fetch()
-        except Exception as exc:
-            print(f"  warning: {source.name} fetch failed, skipping ({exc})")
-            continue
-        print(f"  {source.name}: {len(source_listings)} listings")
-        fetched.extend(source_listings)
+    # Preserve configured source order for deterministic deduplication while
+    # avoiding a serial request for every company in the expanded watchlist.
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        for source_listings in pool.map(fetch_source, sources):
+            fetched.extend(source_listings)
     fetched = dedup(fetched)
 
     now = store.now_ts()
@@ -52,7 +86,9 @@ def run_poll(sources: list[Source], listings_path: Path | str = store.DEFAULT_LI
     new_listings: list[Listing] = []
 
     for listing in fetched:
-        prior = known.get(listing.uid)
+        identity = _job_identity(listing)
+        alias = known_by_posting.get(identity) if identity else None
+        prior = known.get(listing.uid) or alias
         if prior is None:
             listing.first_seen = now
             listing.emailed = is_first_run
@@ -60,7 +96,7 @@ def run_poll(sources: list[Source], listings_path: Path | str = store.DEFAULT_LI
                 new_listings.append(listing)
         else:
             listing.first_seen = prior.first_seen
-            listing.emailed = prior.emailed
+            listing.emailed = prior.emailed or bool(alias and alias.emailed)
         merged[listing.uid] = listing
 
     return PollResult(

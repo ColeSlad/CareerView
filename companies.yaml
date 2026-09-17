@@ -1,101 +1,463 @@
-# ATS watchlist: company slug (as it appears in the provider's public job-board URL)
-# mapped to a human-readable display name (Lever/Ashby don't return a company name
-# in their job payloads, so we supply it here). Every slug below was verified live
-# against the provider's public API before being added; a slug that goes stale just
-# logs a warning and is skipped, so a bad entry degrades rather than breaks the poll.
+# Direct company job boards, expanded and verified on 2026-09-17.
+# See docs/watchlist.md for the company catalog, evidence, and coverage gaps.
+# Keys are exact, case-sensitive public ATS board IDs, not guessed company names.
+# Audit without sending email: PYTHONPATH=src .venv/bin/python scripts/audit_watchlist.py
 greenhouse:
+  abcellera: AbCellera
+  abnormalsecurity: Abnormal AI
   affirm: Affirm
+  agilityrobotics: Agility Robotics
   airbnb: Airbnb
   airtable: Airtable
+  akunacapital: Akuna Capital
+  alloy: Alloy
+  alpaca: Alpaca
+  altruist: Altruist
+  amplitude: Amplitude
+  anaplan: Anaplan
+  andurilindustries: Anduril
   anthropic: Anthropic
+  antora: Antora Energy
+  apptronik: Apptronik
+  aptoslabs: Aptos Labs
+  archer56: Archer
+  arizeai: Arize AI
   asana: Asana
+  assemblyai: AssemblyAI
+  astranis: Astranis
   attentive: Attentive
+  augmentcomputing: Augment Code
+  augury: Augury
+  billcom: BILL
+  bishopfox: Bishop Fox
+  bitgo: BitGo
+  bitwarden: Bitwarden
+  block: Square / Block
+  boulevard: Boulevard
+  braze: Braze
   brex: Brex
+  bugcrowd: Bugcrowd
   buzzfeed: BuzzFeed
+  cadencehealth: Cadence
   calendly: Calendly
+  carbonrobotics: Carbon Robotics
   carta: Carta
   carvana: Carvana
+  censys: Censys
+  chainguard: Chainguard
   chime: Chime
+  circleci: CircleCI
+  clearstreet: Clear Street
   cloudflare: Cloudflare
   cloverhealth: Clover Health
+  cockroachlabs: Cockroach Labs
   coinbase: Coinbase
+  comet: Comet
+  contentful: Contentful
+  coreweave: CoreWeave
   coursera: Coursera
+  cresta: Cresta
+  cribl: Cribl
   cultureamp: Culture Amp
+  current81: Current
+  dashlane: Dashlane
   databricks: Databricks
   datadog: Datadog
+  descope: Descope
+  descript: Descript
+  dialpad: Dialpad
+  digitalocean98: DigitalOcean
   discord: Discord
+  doordashusa: DoorDash
   dropbox: Dropbox
+  drweng: DRW
   duolingo: Duolingo
+  dvtrading: DV Trading
+  earnin: EarnIn
   elastic: Elastic
+  endorlabs: Endor Labs
+  epicgames: Epic Games
+  epirus: Epirus
   faire: Faire
+  falconx: FalconX
+  fastly: Fastly
   figma: Figma
+  figureai: Figure
+  fireblocks: Fireblocks
+  fivetran: Fivetran
+  flex: Flex
   flexport: Flexport
+  flyzipline: Zipline
+  gardacp: Garda Capital Partners
+  garnerhealth: Garner Health
+  gemini: Gemini
   gitlab: GitLab
+  gleanwork: Glean
+  gomotive: Motive
+  gongio: Gong
+  goodfire: Goodfire
+  grafanalabs: Grafana Labs
   gusto: Gusto
+  hextechnologies: Hex
+  heygen: HeyGen
+  honeycomb: Honeycomb
+  hubspotjobs: HubSpot
+  huntress: Huntress
+  imc: IMC Trading
+  imply: Imply
   instacart: Instacart
+  instawork: Instawork
+  intercom: Intercom
+  invisibletech: Invisible Technologies
+  iterable: Iterable
+  janestreet: Jane Street
+  jfrog: JFrog
+  jumptrading: Jump Trading
   khanacademy: Khan Academy
   kickstarter: Kickstarter
+  klaviyo: Klaviyo
+  kodiak: Kodiak Robotics
+  labelbox: Labelbox
   lattice: Lattice
-  marqeta: Marqeta
+  launchdarkly: LaunchDarkly
+  lightmatter: Lightmatter
+  lithic: Lithic
+  lucidsoftware: Lucid
+  lyft: Lyft
+  machindustries: Mach Industries
+  masterclass: MasterClass
+  melio: Melio
   mercury: Mercury
   mixpanel: Mixpanel
+  modernhealth: Modern Health
   mongodb: MongoDB
+  muonspace: Muon Space
+  nebius: Nebius
   netlify: Netlify
+  newrelic: New Relic
+  nuro: Nuro
+  observeai: Observe.AI
+  oklo: Oklo
+  okta: Okta
+  oldmissioncapital: Old Mission
+  orcasecurity: Orca Security
+  oscar: Oscar Health
+  oura: Oura
+  outschool: Outschool
   pagerduty: PagerDuty
+  parloa: Parloa
   peloton: Peloton
   pinterest: Pinterest
-  postman: Postman
+  planetlabs: Planet
+  planetscale: PlanetScale
+  point72: Point72
+  public: Public
+  purestorage: Pure Storage
+  recursionpharmaceuticals: Recursion
   reddit: Reddit
+  redwoodmaterials: Redwood Materials
+  redwoodsoftware: Redwood Software
+  relativity: Relativity Space
   remotecom: Remote
+  riotgames: Riot Games
   ripple: Ripple
   robinhood: Robinhood
   roblox: Roblox
+  rocketlab: Rocket Lab
+  rubrik: Rubrik
+  sambanovasystems: SambaNova
   samsara: Samsara
   scaleai: Scale AI
+  schonfeld: Schonfeld
+  seatgeek: SeatGeek
+  sigmacomputing: Sigma Computing
+  singlestore: SingleStore
   smartsheet: Smartsheet
+  snorkelai: Snorkel AI
   sofi: SoFi
+  sourcegraph91: Sourcegraph
+  spacex: SpaceX
+  speechify: Speechify
+  springhealth66: Spring Health
+  squarepointcapital: Squarepoint
   squarespace: Squarespace
+  stackblitz: Bolt / StackBlitz
+  starburst: Starburst
+  step: Step
+  stokespacetechnologies: Stoke Space
   stripe: Stripe
+  stubhubinc: StubHub
+  suki: Suki
+  tanium: Tanium
+  taskrabbit: Taskrabbit
+  tenstorrent: Tenstorrent
+  toast: Toast
+  togetherai: Together AI
+  torcrobotics: Torc Robotics
+  torq: Torq
+  towerresearchcapital: Tower Research
+  tripactions: Navan
+  trueanomalyinc: True Anomaly
+  turing: Turing
   twilio: Twilio
   twitch: Twitch
   udemy: Udemy
+  upstart: Upstart
+  vannevarlabs: Vannevar Labs
+  vardaspace: Varda
+  vast: Vast
   vercel: Vercel
+  verkada: Verkada
+  warp: Warp (terminal)
+  waymo: Waymo
+  wayve: Wayve
   webflow: Webflow
+  wehrtyou: Hudson River Trading
+  wizinc: Wiz
+  xai: xAI
+  yugabyte: Yugabyte
   zoominfo: ZoomInfo
-
+  zscaler: Zscaler
 lever:
+  alltrails: AllTrails
+  anchorage: Anchorage Digital
+  belvederetrading: Belvedere Trading
+  brilliant: Brilliant
+  cfsenergy: Commonwealth Fusion Systems
+  dexterity: Dexterity
+  field-ai: FieldAI
+  filevine: Filevine
+  finch: Finch
+  fresha: Fresha
+  hermeus: Hermeus
+  lightship: Lightship
+  lyrahealth: Lyra Health
+  metabase: Metabase
   palantir: Palantir
+  rover: Rover
+  shieldai: Shield AI
+  sonarsource: Sonar
+  veeva: Veeva
+  waabi: Waabi
   wealthfront: Wealthfront
-
+  zoox: Zoox
 ashby:
+  1password: 1Password
+  1x: 1X
+  Rox-Data-Corp: Rox
+  Serval: Serval
   abridge: Abridge
   airbyte: Airbyte
-  amplitude: Amplitude
+  airwallex: Airwallex
+  alchemy: Alchemy
+  ambiencehealthcare: Ambience Healthcare
+  applied: Applied Intuition
+  artisan: Artisan
+  ashby: Ashby
+  astronomer: Astronomer
+  atlan: Atlan
+  atob: AtoB
   attio: Attio
+  baseten: Baseten
+  basis-ai: Basis
+  black-forest-labs: Black Forest Labs
+  bland: Bland AI
+  braintrust: Braintrust
+  capchase: Capchase
+  cartesia: Cartesia
+  character: Character.AI
+  claylabs: Clay
+  clerk: Clerk
   clickhouse: ClickHouse
+  clickup: ClickUp
+  close: Close
+  coderabbit: CodeRabbit
+  cognition: Cognition / Windsurf
   cohere: Cohere
+  column: Column
+  commure: Commure
+  confluent: Confluent
+  crusoe: Crusoe
+  cruxclimate: Crux
   cursor: Cursor
+  d-matrix: d-Matrix
+  dave: Dave
   decagon: Decagon
+  deepgram: Deepgram
+  depot: Depot
+  docker: Docker
+  doppler: Doppler
+  doss: Doss
+  dovetail: Dovetail
   drata: Drata
+  dust: Dust
+  dyna-robotics: Dyna Robotics
+  elevenlabs: ElevenLabs
+  etched: Etched
+  factory: Factory
+  fal-ai: fal
+  fathom.video: Fathom (AI notes)
+  fireworks: Fireworks AI
+  formenergy: Form Energy
+  fullstory: FullStory
+  gamma: Gamma
+  generalist: Generalist
+  gorgias: Gorgias
+  granola: Granola
+  gumloop: Gumloop
+  hackerone: HackerOne
+  handshake: Handshake
   harvey: Harvey
-  hex: Hex
+  headway: Headway
+  hebbia-ai: Hebbia
+  helion: Helion
+  higgsfieldai: Higgsfield
+  hightouch: Hightouch
+  hume-ai: Hume AI
+  ideogram: Ideogram
+  incident: incident.io
+  inngest: Inngest
+  juicebox: Juicebox
+  kalshi: Kalshi
+  kestra: Kestra
+  kit: Kit
+  knock: Knock
+  krea: Krea
+  lago: Lago
+  lambda: Lambda
+  lancedb: LanceDB
+  langchain: LangChain
+  legora: Legora
+  lightdash: Lightdash
   linear: Linear
+  livekit: LiveKit
+  llamaindex: LlamaIndex
   lovable: Lovable
+  lumaai: Luma AI
+  magic.dev: Magic
+  maintainx: MaintainX
+  marqeta-inc: Marqeta
+  materialize: Materialize
+  mechanize: Mechanize
+  meow: Meow
+  mercor: Mercor
+  merge: Merge
+  mesh: Mesh
+  metaview: Metaview
+  method: Method
+  midjourney: Midjourney
+  mintlify: Mintlify
+  mirage: Mirage (Captions)
+  mistral.ai: Mistral AI
   modal: Modal
+  moderntreasury: Modern Treasury
+  monarchmoney: Monarch Money
+  motherduck: MotherDuck
+  mystenlabs: Mysten Labs
+  n8n: n8n
+  nabla: Nabla
+  nango: Nango
+  nooks: Nooks
+  notable: Notable
   notion: Notion
+  nousresearch: Nous Research
+  numeric: Numeric
+  omni: Omni
+  opal: Opal Security
   openai: OpenAI
+  openevidence: OpenEvidence
+  orb: Orb
+  oso: Oso
+  owner: Owner
+  paddle: Paddle
+  paraform: Paraform
+  paragon: Paragon
+  partiful: Partiful
+  passes: Passes
+  patreon: Patreon
+  perplexity: Perplexity
+  persona: Persona
+  phantom: Phantom
+  physicalintelligence: Physical Intelligence
+  pika: Pika
   pinecone: Pinecone
+  plaid: Plaid
+  plain: Plain
+  polymarket: Polymarket
+  poolside: Poolside
+  posh: Posh
+  posthog: PostHog
+  prefect: Prefect
+  primeintellect: Prime Intellect
+  pylon-labs: Pylon
+  quicknode: QuickNode
+  railway: Railway
   ramp: Ramp
+  recraft: Recraft
+  reducto: Reducto
+  reflectionai: Reflection AI
+  regard: Regard
+  relay: Relay.app
+  relevanceai: Relevance AI
+  render: Render
   replit: Replit
-  runway: Runway
+  resend: Resend
+  retell-ai: Retell AI
+  revenuecat: RevenueCat
+  rho: Rho
+  rillet: Rillet
+  rogo: Rogo
+  runpod: RunPod
+  runway: Runway (finance)
+  runway-ml: Runway AI
+  sana-roles: Sana
+  sanity: Sanity
+  sardine: Sardine
+  saronic: Saronic
+  scalar: Scalar
+  scribe: Scribe
+  secureframe: Secureframe
+  semgrep: Semgrep
+  sentry: Sentry
+  serverobotics: Serve Robotics
   sierra: Sierra
+  slope: Slope
+  snowflake: Snowflake
+  socket: Socket
+  speak: Speak
+  speakeasy: Speakeasy
+  spotdraft: SpotDraft
+  stytch: Stytch
+  substack: Substack
   suno: Suno
+  supabase: Supabase
+  surge-ai: Surge AI
+  svix: Svix
+  synthesia: Synthesia
+  tabs: Tabs
+  tavus: Tavus
   temporal: Temporal
+  tesslcareers: Tessl
+  thinkingmachines: Thinking Machines Lab
+  tigerdata: TigerData
+  traba: Traba
+  trustedhealth: Trusted Health
+  unify: Unify
+  unit: Unit
+  unstructured: Unstructured
   vanta: Vanta
+  vapi: Vapi
+  warp: Warp (payroll)
   watershed: Watershed
-
-# Workday tenant slug -> {name, wd instance, site slug}, all taken from the company's
-# own career-site URL, e.g. https://{tenant}.{wd}.myworkdayjobs.com/{site}/job/...
+  weaviate: Weaviate
+  whoop: Whoop
+  whop: Whop
+  workos: WorkOS
+  worldlabs: World Labs
+  writer: Writer
+  zapier: Zapier
+  zed: Zed
+  zip: Zip
 workday:
   autodesk:
     name: Autodesk
@@ -117,9 +479,6 @@ workday:
     name: Workday
     wd: wd5
     site: Workday
-
-# Oracle Cloud tenant slug -> {name, datacenter, site number}, taken from the company's
-# own career-site URL, e.g. https://{tenant}.fa.{dc}.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{site}/job/...
 oraclecloud:
   eeho:
     name: Oracle

@@ -3,7 +3,7 @@ from __future__ import annotations
 import httpx
 from dateutil import parser as dateparser
 
-from careerview.filters import title_matches
+from careerview.filters import internship_category, title_matches
 from careerview.models import Listing
 from careerview.sources.base import Source
 
@@ -48,7 +48,7 @@ class GreenhouseSource(Source):
                     source=self.name,
                     company=job.get("company_name") or self.company_name,
                     title=title,
-                    category="Software",
+                    category=internship_category(title),
                     locations=[location] if location else [],
                     terms=[],
                     url=job.get("absolute_url", ""),

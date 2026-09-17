@@ -5,7 +5,7 @@ import time
 
 import httpx
 
-from careerview.filters import title_matches
+from careerview.filters import internship_category, title_matches
 from careerview.models import Listing
 from careerview.sources.base import Source
 
@@ -94,7 +94,7 @@ class WorkdaySource(Source):
                     source=self.name,
                     company=self.company_name,
                     title=title,
-                    category="Software",
+                    category=internship_category(title),
                     locations=[posting["locationsText"]] if posting.get("locationsText") else [],
                     terms=[],
                     url=f"https://{self.tenant}.{self.wd}.myworkdayjobs.com/{self.site}{path}",

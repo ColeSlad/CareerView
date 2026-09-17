@@ -3,11 +3,19 @@ from __future__ import annotations
 import httpx
 from dateutil import parser as dateparser
 
-from careerview.filters import title_matches
+from careerview.filters import internship_category, title_matches
 from careerview.models import Listing
 from careerview.sources.base import Source
 
 _URL = "https://api.ashbyhq.com/posting-api/job-board/{slug}"
+
+
+def _location_label(location: dict) -> str:
+    label = location.get("location") or ""
+    country = ((location.get("address") or {}).get("postalAddress") or {}).get("addressCountry")
+    if country and country.casefold() not in label.casefold():
+        return f"{label}, {country}" if label else country
+    return label
 
 
 class AshbySource(Source):
@@ -39,10 +47,10 @@ class AshbySource(Source):
                 continue
 
             locations = []
-            if job.get("location"):
-                locations.append(job["location"])
+            if location := _location_label(job):
+                locations.append(location)
             for secondary in job.get("secondaryLocations") or []:
-                loc = secondary.get("location") if isinstance(secondary, dict) else secondary
+                loc = _location_label(secondary) if isinstance(secondary, dict) else secondary
                 if loc:
                     locations.append(loc)
 
@@ -55,7 +63,7 @@ class AshbySource(Source):
                     source=self.name,
                     company=self.company_name,
                     title=title,
-                    category="Software",
+                    category=internship_category(title, job.get("department") or ""),
                     locations=locations,
                     terms=[],
                     url=job.get("applyUrl") or job.get("jobUrl", ""),

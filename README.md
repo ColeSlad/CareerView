@@ -32,8 +32,30 @@ newest first within each company.
 ### Sources
 
 - [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) — community-maintained internship list
-- **Greenhouse / Lever / Ashby** — pulled directly from each company's public job board API, for companies you list in `companies.yaml`
+- **459 company boards** across Greenhouse, Lever, Ashby, Workday, and Oracle Cloud — configured in `companies.yaml`, with eight sources fetched concurrently. See the [full company catalog and coverage gaps](docs/watchlist.md).
 - **Adzuna** — a broader keyword search, for coverage beyond the watchlist (optional; skipped automatically if not configured)
+
+An open role stays eligible for its first email until it is actually emailed, even
+if an earlier poll discovered it while its location failed the relevance filter.
+The first-ever poll still establishes a silent baseline. Direct ATS links are
+deduplicated across community feeds, and email history follows the posting when
+the selected feed changes. City-only US locations such as `SF`, `San Francisco`,
+and `New York City` are recognized; Ashby country metadata is also preserved.
+
+ATS adapters exclude clearly non-software internship titles from the Software
+category (for example, accounting and mechanical engineering), while retaining
+ambiguous engineering internships. This is a heuristic, not a full job-description
+classifier. The US/Remote filter continues to include remote postings; check each
+posting's geographic and work-authorization requirements.
+
+Check every configured company board without sending email or modifying listing state:
+
+```bash
+PYTHONPATH=src .venv/bin/python scripts/audit_watchlist.py --output /tmp/watchlist-health.json
+```
+
+The audit reports failed boards by company and exits nonzero if any fail. A working
+board with zero matching internships is still watched for future openings.
 
 ## Setup
 
@@ -148,7 +170,8 @@ You can trigger a run manually from the Actions tab ("Run workflow") or via
 
 ## Tests
 
-Run the inbox persistence and headless UI tests against the source checkout:
+Run the alert eligibility, source parsing, inbox persistence, and headless UI tests
+against the source checkout:
 
 ```bash
 PYTHONPATH=src .venv/bin/python -m unittest discover -s tests -v

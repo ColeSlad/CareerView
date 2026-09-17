@@ -78,9 +78,14 @@ def cmd_poll(args: argparse.Namespace) -> int:
         print(f"First run: seeding {len(result.all_listings)} listings as already-seen (no email)")
         relevant_new = []
     else:
-        relevant_new = [listing for listing in result.new_listings if is_relevant(listing, config.relevance)]
-        print(f"New listings this run: {len(result.new_listings)} (relevant: {len(relevant_new)})")
-        _print_listings(relevant_new, "New relevant listings")
+        # A previously discovered role may become eligible after a filter fix or
+        # a location update. Discovery alone must not consume its email alert.
+        relevant_new = [
+            listing for listing in result.all_listings.values()
+            if not listing.emailed and is_relevant(listing, config.relevance)
+        ]
+        print(f"New listings this run: {len(result.new_listings)}; awaiting alert: {len(relevant_new)}")
+        _print_listings(relevant_new, "Relevant listings awaiting an alert")
 
     if args.dry_run:
         print("\n(dry run — nothing written, no email sent)")

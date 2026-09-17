@@ -3,7 +3,7 @@ from __future__ import annotations
 import httpx
 from dateutil import parser as dateparser
 
-from careerview.filters import title_matches
+from careerview.filters import internship_category, title_matches
 from careerview.models import Listing
 from careerview.sources.base import Source
 
@@ -84,7 +84,7 @@ class OracleCloudSource(Source):
                     source=self.name,
                     company=self.company_name,
                     title=title,
-                    category="Software",
+                    category=internship_category(title),
                     locations=locations,
                     terms=[],
                     url=f"https://{self.tenant}.fa.{self.dc}.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{self.site}/job/{req_id}",
