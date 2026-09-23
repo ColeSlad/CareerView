@@ -39,3 +39,5 @@ adzuna:
 
 poll:
   cadence_minutes: 15
+  # Warn in the TUI if the latest saved poll is this old. Does not change cron.
+  stale_after_minutes: 45

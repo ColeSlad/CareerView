@@ -25,6 +25,7 @@ jobs:
         run: pip install .
 
       - name: Poll and email new listings
+        id: poll
         env:
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
@@ -34,6 +35,8 @@ jobs:
         run: careerview poll --email
 
       - name: Commit updated listings
+        # Publish saved diagnostics even when polling or email delivery failed.
+        if: ${{ !cancelled() && (steps.poll.outcome == 'success' || steps.poll.outcome == 'failure') }}
         shell: bash
         env:
           POLL_BRANCH: ${{ github.ref_name }}

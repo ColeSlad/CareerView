@@ -1,8 +1,8 @@
 # CareerView
 
 A terminal tracker for software engineering internship openings. A GitHub Actions
-job checks a set of job sources on a schedule, emails you a digest the moment a
-genuinely new internship appears, and a local terminal UI lets you browse, filter,
+job checks a set of job sources on a schedule, emails you a digest when it finds
+new relevant internships, and a local terminal UI lets you browse, filter,
 and track your application pipeline.
 
 ## How it works
@@ -103,6 +103,7 @@ looked.
 | `m` | Mark the selected listing reviewed |
 | `Shift+m` | Mark all listings in the current filtered view reviewed |
 | `r` | Pull the latest listings and refresh the table |
+| `h` | Open polling health: last checks, failed boards, and source history |
 | `q` | Quit |
 
 The first launch with inbox tracking establishes a baseline from the current
@@ -122,6 +123,42 @@ Inbox review state is separate from the existing **New** application status,
 which means you have not assigned an application status. Your statuses, notes,
 and inbox history are stored locally in `~/.local/share/careerview/status.db` and
 are never committed to the repo.
+
+### Polling health
+
+The health line above the listings shows when the latest saved poll finished,
+how many sources succeeded, and whether any failed. It warns **STALE** after
+45 minutes without a recorded poll. The warning updates while the TUI is open;
+press `r` to pull the newest cloud results. A failed pull is shown separately so
+an old local snapshot does not look like a successful sync.
+
+Press `h` for the searchable health dashboard. Failed sources appear first, with
+the last successful check, fetch duration, listing count, error type or HTTP
+status, and consecutive failure count. Select a row for exact timestamps. A
+successful fetch with zero listings is healthy; a failed fetch has no count.
+Counts are returned listings before cross-source deduplication. The summary
+distinguishes partial failures from a fully successful poll.
+
+You can also inspect the saved snapshot without launching the TUI:
+
+```bash
+careerview health
+```
+
+This command does not poll or pull from GitHub. It exits with status 1 when the
+snapshot is stale, degraded, or has no recorded health. Health is stored alongside
+listings in `data/meta.json`, so existing snapshots show "Health not recorded"
+until the next poll with the updated code. Last-success history starts then.
+
+Failed sources retain their previous listings and email history until a later
+successful fetch; retained rows do not generate new alerts while the source is
+failing. Poll diagnostics are saved even if email delivery fails, and pending
+alerts remain eligible for a later run. If all sources fail, the poll exits
+nonzero and the workflow still commits its diagnostics.
+
+Set `poll.stale_after_minutes` in `config.yaml` to change the warning threshold.
+This does not change the cloud schedule. The dashboard reports saved polling
+results, not a live connection to GitHub or an external outage notification.
 
 ### Manually run a poll
 
@@ -151,8 +188,11 @@ as environment variables (see below).
 
 ## Cloud watcher (GitHub Actions)
 
-`.github/workflows/poll.yml` runs `careerview poll --email` every ~15 minutes and
-commits the updated `data/` back to the repo. It needs these repository secrets
+The four `.github/workflows/poll-*.yml` schedules target minutes `:07`, `:22`,
+`:37`, and `:52` each hour and call `_poll-run.yml` to run `careerview poll --email`
+and commit the updated `data/` back to the repo. GitHub may delay or skip scheduled
+runs, so the 15-minute target is not guaranteed; use the health view to check
+actual freshness. It needs these repository secrets
 (Settings → Secrets and variables → Actions):
 
 | Secret | Required | Purpose |
@@ -166,7 +206,7 @@ The repo should be **public** so the workflow gets unlimited free Actions minute
 (private repos are capped at ~2,000 min/month on the free plan).
 
 You can trigger a run manually from the Actions tab ("Run workflow") or via
-`gh workflow run poll.yml`.
+`gh workflow run poll-1.yml`.
 
 ## Tests
 

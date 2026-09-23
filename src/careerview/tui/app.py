@@ -8,11 +8,12 @@ from textual.app import App, ComposeResult
 from textual.coordinate import Coordinate
 from textual.widgets import DataTable, Footer, Header, Input, Static
 
-from careerview import status_store, store
+from careerview import health, status_store, store
 from careerview.config import load_config
 from careerview.filters import locations_pass, title_matches
 from careerview.inbox import Inbox
 from careerview.tui.screens import DetailScreen, NoteScreen
+from careerview.tui.health_screen import HealthScreen
 
 STATUS_CYCLE = ("all", "new", "interested", "applied", "skipped")
 INBOX_CYCLE = ("all", "new", "unread")
@@ -45,6 +46,8 @@ class CareerViewApp(App):
     #search { dock: top; height: 3; }
     #filter-line { dock: top; height: 1; color: $text-muted; padding: 0 1; }
     #inbox-line { dock: top; height: auto; min-height: 1; padding: 0 1; }
+    #health-line { dock: top; height: auto; min-height: 1; padding: 0 1; color: $text-muted; }
+    #health-line.warning { color: $warning; }
     DataTable { height: 1fr; }
     """
 
@@ -63,6 +66,7 @@ class CareerViewApp(App):
         ("m", "mark_reviewed", "Reviewed"),
         ("M", "mark_shown_reviewed", "Review shown"),
         ("r", "refresh_now", "Refresh"),
+        ("h", "show_health", "Health"),
         ("q", "quit", "Quit"),
     ]
 
@@ -80,12 +84,15 @@ class CareerViewApp(App):
         self.status_filter = "all"
         self.inbox_filter = "all"
         self._visible_uids: list[str] = []
+        self.poll_meta: dict = {}
+        self.sync_error = False
 
     def compose(self) -> ComposeResult:
         yield Header()
         yield Input(placeholder="Search company or title... (press / to focus)", id="search")
         yield Static("", id="filter-line")
         yield Static("", id="inbox-line", markup=False)
+        yield Static("", id="health-line", markup=False)
         yield DataTable(id="table", cursor_type="row", zebra_stripes=True)
         yield Footer()
 
@@ -94,22 +101,28 @@ class CareerViewApp(App):
         table.add_columns("Inbox", "Posted", "Status", "Company", "Role", "Term", "Location", "Source")
         self._load_data()
         table.focus()
+        self.set_interval(30, self._update_health_line)
 
     def _load_data(self) -> None:
         self._git_pull_best_effort()
         self.listings = store.load_listings()
+        self.poll_meta = store.load_meta()
         self.statuses = status_store.load_all(self.db)
         self.inbox.observe(self.listings)
         self.refresh_table()
+        self._update_health_line()
 
     def _git_pull_best_effort(self) -> None:
+        self.sync_error = False
         try:
             result = subprocess.run(
                 ["git", "pull", "--quiet"], capture_output=True, timeout=20, check=False, text=True
             )
             if result.returncode != 0:
+                self.sync_error = True
                 self.notify(f"git pull failed, showing local data: {result.stderr.strip()[:200]}", severity="warning")
         except Exception as exc:
+            self.sync_error = True
             self.notify(f"git pull failed, showing local data: {exc}", severity="warning")
 
     def _matching_uids(self, *, ignore_inbox: bool = False) -> list[str]:
@@ -218,7 +231,21 @@ class CareerViewApp(App):
 
     def action_refresh_now(self) -> None:
         self._load_data()
-        self.notify(f"Refreshed — {len(self.listings)} listings loaded", timeout=3)
+        if not self.sync_error:
+            self.notify(f"Refreshed — {len(self.listings)} listings loaded", timeout=3)
+
+    def _update_health_line(self) -> None:
+        widget = self.query_one("#health-line", Static)
+        now = store.now_ts()
+        message = health.summary(self.poll_meta, now, self.config.poll_stale_after_minutes)
+        if self.sync_error:
+            message = "Sync failed; local snapshot | " + message
+        widget.update("[h] " + message)
+        widget.set_class(self.sync_error or health.needs_attention(
+            self.poll_meta, now, self.config.poll_stale_after_minutes), "warning")
+
+    def action_show_health(self) -> None:
+        self.push_screen(HealthScreen())
 
     def action_toggle_active(self) -> None:
         self.active_only = not self.active_only

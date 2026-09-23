@@ -29,6 +29,7 @@ class Config:
     adzuna_locations: list[str]
     poll_cadence_minutes: int
     companies: dict[str, dict]
+    poll_stale_after_minutes: int = 45
 
 
 def load_config(
@@ -60,4 +61,6 @@ def load_config(
         adzuna_locations=raw["adzuna"].get("locations", []),
         poll_cadence_minutes=raw["poll"]["cadence_minutes"],
         companies=companies,
+        poll_stale_after_minutes=max(1, int(raw["poll"].get(
+            "stale_after_minutes", 3 * raw["poll"]["cadence_minutes"]))),
     )

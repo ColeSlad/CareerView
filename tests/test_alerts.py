@@ -13,6 +13,7 @@ import httpx
 from careerview import cli, store
 from careerview.config import load_config
 from careerview.filters import internship_category, is_relevant, locations_pass
+from careerview.health import SourceCheck
 from careerview.models import Listing
 from careerview.poller import PollResult, dedup, run_poll
 from careerview.sources.ashby import AshbySource
@@ -141,11 +142,14 @@ class PollingTests(unittest.TestCase):
 class EmailEligibilityTests(unittest.TestCase):
     def run_command(self, result, email=True, dry_run=False):
         config = load_config()
+        result.source_checks = [SourceCheck('ashby:decagon', 'Decagon', 'ashby', 'decagon', 100, 1, 1)]
+        result.started_at = result.finished_at = store.now_ts()
         with patch.object(cli, 'load_config', return_value=config), \
              patch.object(cli, '_build_sources', return_value=[]), \
              patch.object(cli, 'run_poll', return_value=result), \
              patch.object(cli.notify, 'send_digest', return_value=True) as send, \
              patch.object(cli.store, 'save_listings') as save, \
+             patch.object(cli.store, 'load_meta', return_value={}), \
              patch.object(cli.store, 'save_meta'), \
              patch.dict('os.environ', {'GMAIL_ADDRESS': 'sender@example.invalid', 'GMAIL_APP_PASSWORD': 'test', 'NOTIFY_TO': 'recipient@example.invalid'}), \
              redirect_stdout(io.StringIO()):

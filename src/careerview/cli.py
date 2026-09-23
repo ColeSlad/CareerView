@@ -4,7 +4,7 @@ import argparse
 import os
 import sys
 
-from careerview import notify, store
+from careerview import health, notify, store
 from careerview.config import Config, load_config
 from careerview.filters import is_relevant
 from careerview.poller import run_poll
@@ -82,7 +82,8 @@ def cmd_poll(args: argparse.Namespace) -> int:
         # a location update. Discovery alone must not consume its email alert.
         relevant_new = [
             listing for listing in result.all_listings.values()
-            if not listing.emailed and is_relevant(listing, config.relevance)
+            if listing.uid not in result.retained_uids
+            and not listing.emailed and is_relevant(listing, config.relevance)
         ]
         print(f"New listings this run: {len(result.new_listings)}; awaiting alert: {len(relevant_new)}")
         _print_listings(relevant_new, "Relevant listings awaiting an alert")
@@ -90,6 +91,13 @@ def cmd_poll(args: argparse.Namespace) -> int:
     if args.dry_run:
         print("\n(dry run — nothing written, no email sent)")
         return 0
+
+    meta = store.load_meta()
+    meta["poll_health"] = health.build_health(
+        meta, result.source_checks, result.started_at, result.finished_at, result.duration_seconds)
+    poll_health = meta["poll_health"]
+    poll_health["email_status"] = "not_needed" if args.email else "not_requested"
+    exit_code = 1 if poll_health["status"] in {"failed", "no_sources"} else 0
 
     if args.email and relevant_new:
         smtp_user = os.environ.get("GMAIL_ADDRESS")
@@ -100,19 +108,43 @@ def cmd_poll(args: argparse.Namespace) -> int:
                 "\nerror: --email requires GMAIL_ADDRESS, GMAIL_APP_PASSWORD, NOTIFY_TO to be set",
                 file=sys.stderr,
             )
-            return 1
-        notify.send_digest(relevant_new, smtp_user=smtp_user, smtp_password=smtp_password, to_addr=to_addr)
-        print(f"\nSent digest email for {len(relevant_new)} listing(s) to {to_addr}")
-        for listing in relevant_new:
-            result.all_listings[listing.uid].emailed = True
+            poll_health["email_status"] = "failed"
+            exit_code = 1
+        else:
+            try:
+                notify.send_digest(relevant_new, smtp_user=smtp_user, smtp_password=smtp_password, to_addr=to_addr)
+            except Exception as exc:
+                print(f"\nerror: email delivery failed ({type(exc).__name__}); alerts remain pending", file=sys.stderr)
+                poll_health["email_status"] = "failed"
+                exit_code = 1
+            else:
+                print(f"\nSent digest email for {len(relevant_new)} listing(s) to {to_addr}")
+                poll_health["email_status"] = "sent"
+                for listing in relevant_new:
+                    result.all_listings[listing.uid].emailed = True
     elif args.email:
         print("\n(--email set but nothing relevant to send)")
 
     store.save_listings(result.all_listings)
-    store.save_meta({"last_run": store.now_ts(), "fetched_count": result.fetched_count})
+    meta.update(last_run=result.finished_at, fetched_count=result.fetched_count)
+    store.save_meta(meta)
     print(f"Wrote {len(result.all_listings)} listings to data/listings.json")
+    print(health.summary(meta, store.now_ts(), config.poll_stale_after_minutes))
 
-    return 0
+    return exit_code
+
+
+def cmd_health(args: argparse.Namespace) -> int:
+    config = load_config()
+    meta = store.load_meta()
+    now = store.now_ts()
+    print(health.details(meta, now, config.poll_cadence_minutes, config.poll_stale_after_minutes))
+    for row in health.sorted_sources(meta):
+        if row["error"]:
+            print(f"  FAILED {row['company']} ({row['key']}): {row['error']} | "
+                  f"last success {health.age(row['last_success_at'], now)} | "
+                  f"{row['consecutive_failures']} consecutive failure(s)")
+    return int(health.needs_attention(meta, now, config.poll_stale_after_minutes))
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -123,6 +155,9 @@ def build_parser() -> argparse.ArgumentParser:
     poll.add_argument("--dry-run", action="store_true", help="Fetch and print without writing state or emailing")
     poll.add_argument("--email", action="store_true", help="Email a digest of newly-found relevant listings")
     poll.set_defaults(func=cmd_poll)
+
+    health_parser = subparsers.add_parser("health", help="Show saved polling health (does not fetch sources)")
+    health_parser.set_defaults(func=cmd_health)
 
     return parser
 
