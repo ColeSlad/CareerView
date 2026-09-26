@@ -1,5 +1,523 @@
 [
   {
+    "uid": "pittcsc:48dd6a63-40af-40ff-9a7d-14897fd0a342",
+    "source": "pittcsc",
+    "company": "Equifax",
+    "title": "Data & Analytics Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1769654133,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:ec241207-37cb-48f4-aa65-cf19d960f7a2",
+    "source": "simplify",
+    "company": "Flint",
+    "title": "Engineering Intern - Summer 2027",
+    "category": "Software",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1790403322,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:23fdc562-5150-463c-9db8-6953ed2cadcd",
+    "source": "pittcsc",
+    "company": "Hitachi",
+    "title": "Research Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Montr\u00e9al, QC, Canada"
+    ],
+    "terms": [
+      "Spring 2026",
+      "Summer 2026"
+    ],
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Saint-Laurent-Quebec-Canada/Research-Intern---Human-Centered-Transparency-for-GenAI-Systems_R0116511",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769653608,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:4490128c-605d-46fb-a1b1-cbf5ef2df62d",
+    "source": "pittcsc",
+    "company": "Empower",
+    "title": "Intern-Software Engineer-Technology Modernization",
+    "category": "Software",
+    "locations": [
+      "Greenwood Village, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2026-Intern--Software-Engineer--Technology-Modernization_R0056207",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769653376,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ecec20f8-731e-46b3-9a61-65abfaa82449",
+    "source": "pittcsc",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Measurement Product - 2026 Summer','BS/MS",
+    "category": "Product",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://lifeattiktok.com/search/7600541513397487877",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769652828,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d651c0af-65df-48fa-ba84-b826ef333d96",
+    "source": "pittcsc",
+    "company": "TikTok",
+    "title": "Product Manager Intern - Ads Attribution and Measurement Product - 2026 Summer",
+    "category": "Product",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://lifeattiktok.com/search/7600547425322256693",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769652832,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:79e39891-6641-42dc-bdbf-047bfdbee3bc",
+    "source": "pittcsc",
+    "company": "Ercot",
+    "title": "Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Austin, TX",
+      "Pflugerville, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Engineering--Baylor-University-_R1993",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769652604,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:443985df-2333-4636-9309-b512f591758a",
+    "source": "pittcsc",
+    "company": "Ercot",
+    "title": "Intern Engineering",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Austin, TX",
+      "Pflugerville, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Engineering--Texas-A-M-_R1992",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769652607,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2ae2b3ec-60cd-4eed-9d08-cd9a3b6e2cd0",
+    "source": "pittcsc",
+    "company": "Insulet Corporation",
+    "title": "Intern/Co-op Systems Engineering",
+    "category": "Hardware",
+    "locations": [
+      "Acton, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Systems-Engineering--July---December-2026--Hybrid-_REQ-2026-14621",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769654775,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0ad133ee-a543-456c-962a-a3d0b95a3fde",
+    "source": "pittcsc",
+    "company": "Aristocrat Leisure",
+    "title": "Intern \u2013 Data Analyst",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Bedford, NH"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/USA---New-Hampshire-Concord/Intern--Data-Analyst_R0020525",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769654720,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:dfcc1ec1-d6ce-4f3d-8424-74ecfc5b702f",
+    "source": "pittcsc",
+    "company": "Genentech",
+    "title": "2026 Summer Intern - Product Development Data Sciences",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Bruno, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences--Digital-Endpoints-and-Patient-Centered-Solutions_202601-101745",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769653256,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:instawork:4651150006",
+    "source": "greenhouse",
+    "company": "Instawork",
+    "title": "Trainer Intern",
+    "category": "Software",
+    "locations": [
+      "Bengaluru, Karnataka, India"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/instawork/jobs/4651150006",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1770197748,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5899298382",
+    "source": "adzuna",
+    "company": "Rajant Corp",
+    "title": "Software Engineering Intern - Embedded Systems & Hardware Integration",
+    "category": "Software",
+    "locations": [
+      "Downingtown, Chester County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5899298382?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790385375,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899262653",
+    "source": "adzuna",
+    "company": "HIDDEN LEVEL",
+    "title": "Full Stack Software Engineering Intern \u2013 Summer 2027",
+    "category": "Software",
+    "locations": [
+      "US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5899262653?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790383364,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899224360",
+    "source": "adzuna",
+    "company": "DCS Corp",
+    "title": "Intern - Software Engineering",
+    "category": "Software",
+    "locations": [
+      "Dayton, Montgomery County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5899224360?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790379038,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899146415",
+    "source": "adzuna",
+    "company": "Qumulo",
+    "title": "Software Development Engineer (Seattle) - Internship 2027",
+    "category": "Software",
+    "locations": [
+      "Times Square, King County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899146415?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=81CACDCA521AEEDA177EBC0AD60E16330EF9890F",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790376274,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899145721",
+    "source": "adzuna",
+    "company": "Heven AeroTech",
+    "title": "AI / Machine Learning Intern",
+    "category": "Software",
+    "locations": [
+      "Stephenson, Frederick County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899145721?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=3D1E5CCB1E5C3FFC60D2EE51C032FFDB6FE7618A",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790376265,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899139553",
+    "source": "adzuna",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Bellevue, King County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899139553?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=46B4A195A0B08B7B8862BCCC574C21E7F2989501",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790375762,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899138550",
+    "source": "adzuna",
+    "company": "Notion",
+    "title": "Software Engineer Intern, Mobile (Winter 2027)",
+    "category": "Software",
+    "locations": [
+      "Hayes Valley, San Francisco"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899138550?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=D8AD52E70BD4695A355A44B16A0BB58A9AA33AAD",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790375727,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5899096259",
+    "source": "adzuna",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Bellevue, King County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899096259?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=127FD0788523EA0E8890D03AA82E54EBC6D72FEC",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790375214,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899077336",
+    "source": "adzuna",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Bellevue, King County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899077336?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=0128C92A49993002102C15039B8C96298A2DE0CF",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790374900,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899068296",
+    "source": "adzuna",
+    "company": "Magna International, Inc",
+    "title": "Intern - Engineering Software",
+    "category": "Software",
+    "locations": [
+      "Southfield, Oakland County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5899068296?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790374586,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899062880",
+    "source": "adzuna",
+    "company": "Radiance Technologies",
+    "title": "Software Engineer Intern Spring/Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Oakwood, Montgomery County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899062880?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=FEDCE1172A364B81D1554D34DF85F2063A43A8D5",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790374415,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899061053",
+    "source": "adzuna",
+    "company": "HIDDEN LEVEL INC",
+    "title": "Full Stack Software Engineering Intern - Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Syracuse, Onondaga County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899061053?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=BDA59A1A567F9921092BDCC799FF625FC7F75648",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790374393,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5899060858",
+    "source": "adzuna",
+    "company": "Qorvo",
+    "title": "Software Engineering Intern, SWR",
+    "category": "Software",
+    "locations": [
+      "Florida"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5899060858?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=EB91F19EB388335DF9985126C93B7172AC41D346",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790374388,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5898262389",
+    "source": "adzuna",
+    "company": "General Motors",
+    "title": "2027 Summer Intern - Digital Product: Software Engineering",
+    "category": "Software",
+    "locations": [
+      "International, King County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898262389?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=22AA385918CCEEBDCAEEE7AA38C38DC6C399EE7B",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790319886,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898258082",
+    "source": "adzuna",
+    "company": "Ramp",
+    "title": "Software Engineering Intern, iOS",
+    "category": "Software",
+    "locations": [
+      "New York City, New York"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5898258082?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790319802,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898239568",
+    "source": "adzuna",
+    "company": "RTX Corporation",
+    "title": "Operations Software Engineering Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "Burnsville, Dakota County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898239568?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=87BB5F308C6F5C888320B01B6763710FE21EEC03",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790319516,
+    "first_seen": 1790404808,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898233434",
+    "source": "adzuna",
+    "company": "Northrop Grumman",
+    "title": "2027 Embedded Software Engineer Intern - Baltimore MD",
+    "category": "Software",
+    "locations": [
+      "Druid, Baltimore"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898233434?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=F46FF0ECACD1749F025B3D0486AD726BDCCA0D2B",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790319362,
+    "first_seen": 1790404808,
+    "emailed": false
+  },
+  {
     "uid": "simplify:22726e24-c6c4-4f17-ac39-fecbc1551a52",
     "source": "simplify",
     "company": "Moment Energy",
@@ -3324,6 +3842,159 @@
     "emailed": true
   },
   {
+    "uid": "adzuna:5898787003",
+    "source": "adzuna",
+    "company": "Radiance Technologies",
+    "title": "Software Engineer Intern Spring/Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Dayton, Montgomery County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898787003?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=7909E12952034A43C6B8BA8D54ACEE9681CDB7A5",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790359442,
+    "first_seen": 1790374496,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898771835",
+    "source": "adzuna",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Menlo Park, San Mateo County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898771835?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=52ABA77B4D329DC9AF99A8016D38003325A78D6A",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790358313,
+    "first_seen": 1790374496,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898771292",
+    "source": "adzuna",
+    "company": "The Nuclear Company",
+    "title": "Summer 2027 Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Washington, Washington, D.C."
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898771292?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=AD056CA0CB073550607739C8D5CC46BD0EFE1305",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790358303,
+    "first_seen": 1790374496,
+    "emailed": false
+  },
+  {
+    "uid": "adzuna:5898755684",
+    "source": "adzuna",
+    "company": "Notion",
+    "title": "Software Engineer Intern, Mobile (Winter 2027)",
+    "category": "Software",
+    "locations": [
+      "South San Francisco, San Mateo County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898755684?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=BA787826F0E7042495C34242DF0E809D64E93C70",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790357310,
+    "first_seen": 1790374496,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898751261",
+    "source": "adzuna",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+    "category": "Software",
+    "locations": [
+      "US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898751261?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=30443617A042560A55D5BD52295B20568A0AE48C",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790357108,
+    "first_seen": 1790374496,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898751098",
+    "source": "adzuna",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
+    "category": "Software",
+    "locations": [
+      "US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898751098?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=87FFB6194329AD6713E94DDC196CB2363F702205",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790357107,
+    "first_seen": 1790374496,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898732179",
+    "source": "adzuna",
+    "company": "Snowflake",
+    "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Menlo Park, San Mateo County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898732179?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=912DF7A60EAD585F468C13B8633E17416E4513BE",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790356489,
+    "first_seen": 1790374496,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898702287",
+    "source": "adzuna",
+    "company": "Northrop Grumman",
+    "title": "2027 Software Engineer Intern - Woodland Hills CA with Security Clearance",
+    "category": "Software",
+    "locations": [
+      "Los Angeles, Los Angeles County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898702287?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=0B774C8C8EB2BC4A5FA23E3DD6A314BE9228BFD1",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790354856,
+    "first_seen": 1790374496,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5898699767",
+    "source": "adzuna",
+    "company": "Qumulo",
+    "title": "Software Development Engineer (Seattle) - Internship 2027",
+    "category": "Software",
+    "locations": [
+      "US"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5898699767?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=5282B588866C65983494CF291933C807B99E3A3B",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790354778,
+    "first_seen": 1790374496,
+    "emailed": true
+  },
+  {
     "uid": "workday:intel:/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
     "source": "workday",
     "company": "Intel",
@@ -3354,312 +4025,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790387704,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898787003",
-    "source": "adzuna",
-    "company": "Radiance Technologies",
-    "title": "Software Engineer Intern Spring/Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Dayton, Montgomery County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898787003?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=7909E12952034A43C6B8BA8D54ACEE9681CDB7A5",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790359442,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898773527",
-    "source": "adzuna",
-    "company": "Leidos",
-    "title": "Software Engineer Web (Intern)",
-    "category": "Software",
-    "locations": [
-      "Saint Louis, Saint Louis County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898773527?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=F34ACB901C5609F4CF0F5497D392321B7247344D",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790358366,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898773525",
-    "source": "adzuna",
-    "company": "Leidos",
-    "title": "Intern Bachelors Software Engineer",
-    "category": "Software",
-    "locations": [
-      "Saint Louis, Saint Louis County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898773525?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=F738D64961F5B4E41E983775085FFA209D88A548",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790358366,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898771835",
-    "source": "adzuna",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Menlo Park, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898771835?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=52ABA77B4D329DC9AF99A8016D38003325A78D6A",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790358313,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898771292",
-    "source": "adzuna",
-    "company": "The Nuclear Company",
-    "title": "Summer 2027 Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Washington, Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898771292?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=AD056CA0CB073550607739C8D5CC46BD0EFE1305",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790358303,
-    "first_seen": 1790374496,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5898767419",
-    "source": "adzuna",
-    "company": "Waymo",
-    "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
-    "category": "Software",
-    "locations": [
-      "Mountain View, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898767419?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=94F253F67B247066DECFA6647CCAA6DDFDD2CE2F",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790358037,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898759851",
-    "source": "adzuna",
-    "company": "Advanced Energy Industries, Inc",
-    "title": "Intern - Firmware Engineer - Fall 2026",
-    "category": "Software",
-    "locations": [
-      "Fort Collins, Larimer County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898759851?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=9DC37B2E5F14B0B2F4BDFF5142561B5F7B6360E9",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790357602,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898755684",
-    "source": "adzuna",
-    "company": "Notion",
-    "title": "Software Engineer Intern, Mobile (Winter 2027)",
-    "category": "Software",
-    "locations": [
-      "South San Francisco, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898755684?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=BA787826F0E7042495C34242DF0E809D64E93C70",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790357310,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898751261",
-    "source": "adzuna",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-    "category": "Software",
-    "locations": [
-      "US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898751261?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=30443617A042560A55D5BD52295B20568A0AE48C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790357108,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898751098",
-    "source": "adzuna",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
-    "category": "Software",
-    "locations": [
-      "US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898751098?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=87FFB6194329AD6713E94DDC196CB2363F702205",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790357107,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898747073",
-    "source": "adzuna",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
-    "category": "Software",
-    "locations": [
-      "US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898747073?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=7A67284FBC0F964E188726D5B273D78224AAF83F",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790357032,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898742048",
-    "source": "adzuna",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Menlo Park, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898742048?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=144DA3FF4804C56B3486BF6FD2C9EA4358ECAB0C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790356832,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898741778",
-    "source": "adzuna",
-    "company": "Heven AeroTech",
-    "title": "AI / Machine Learning Intern",
-    "category": "Software",
-    "locations": [
-      "Winchester, Virginia"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898741778?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=2CE461F0931FE77F92534720E9672E508C7F4382",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790356829,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898732179",
-    "source": "adzuna",
-    "company": "Snowflake",
-    "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Menlo Park, San Mateo County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898732179?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=912DF7A60EAD585F468C13B8633E17416E4513BE",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790356489,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898721730",
-    "source": "adzuna",
-    "company": "READER PRECISION SOLUTIONS",
-    "title": "Software Engineering Intern- Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Elkhorn, Walworth County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898721730?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=F8D239A0FB1E4233D13B6539D56273F57368958C",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790356177,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898704279",
-    "source": "adzuna",
-    "company": "The Nuclear Company",
-    "title": "Spring 2027 Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Washington, Washington, D.C."
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898704279?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=1A2097A0D767F3ED5A5F2749CADF6952D0341693",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790355055,
-    "first_seen": 1790374496,
-    "emailed": false
-  },
-  {
-    "uid": "adzuna:5898702287",
-    "source": "adzuna",
-    "company": "Northrop Grumman",
-    "title": "2027 Software Engineer Intern - Woodland Hills CA with Security Clearance",
-    "category": "Software",
-    "locations": [
-      "Los Angeles, Los Angeles County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898702287?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=0B774C8C8EB2BC4A5FA23E3DD6A314BE9228BFD1",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790354856,
-    "first_seen": 1790374496,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898699767",
-    "source": "adzuna",
-    "company": "Qumulo",
-    "title": "Software Development Engineer (Seattle) - Internship 2027",
-    "category": "Software",
-    "locations": [
-      "US"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898699767?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=5282B588866C65983494CF291933C807B99E3A3B",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790354778,
     "first_seen": 1790374496,
     "emailed": true
   },
@@ -4118,40 +4483,6 @@
     "emailed": true
   },
   {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Process Development Engineer, DRAM Thin Films",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790387690,
-    "first_seen": 1790361087,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Government---Public-Affairs--Global-Policy-_JR113475",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Government & Public Affairs (Global Policy)",
-    "category": "Software",
-    "locations": [
-      "MTI - WASHINGTON  DC - 25 Mass - Office"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Government---Public-Affairs--Global-Policy-_JR113475",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790387690,
-    "first_seen": 1790361087,
-    "emailed": false
-  },
-  {
     "uid": "adzuna:5898612723",
     "source": "adzuna",
     "company": "RTX",
@@ -4161,7 +4492,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898612723?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=FAB5654C548E3FE4A6D9FC34B22751C60DE62218",
+    "url": "https://www.adzuna.com/land/ad/5898612723?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=FAB5654C548E3FE4A6D9FC34B22751C60DE62218",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790343978,
@@ -4178,7 +4509,7 @@
       "Sterling, Loudoun County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898445009?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=BF0CBC2C68505B227EC8AF16A9B0787DEB683EA1",
+    "url": "https://www.adzuna.com/land/ad/5898445009?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=BF0CBC2C68505B227EC8AF16A9B0787DEB683EA1",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790335284,
@@ -4218,6 +4549,40 @@
     "date_posted": 1790332836,
     "first_seen": 1790361087,
     "emailed": true
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Process Development Engineer, DRAM Thin Films",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--DRAM-Thin-Films_JR107203",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790387690,
+    "first_seen": 1790361087,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Government---Public-Affairs--Global-Policy-_JR113475",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Government & Public Affairs (Global Policy)",
+    "category": "Software",
+    "locations": [
+      "MTI - WASHINGTON  DC - 25 Mass - Office"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Government---Public-Affairs--Global-Policy-_JR113475",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790387690,
+    "first_seen": 1790361087,
+    "emailed": false
   },
   {
     "uid": "adzuna:5898367991",
@@ -4411,7 +4776,7 @@
       "Reston, Fairfax County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898294123?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=263DB1E60604107C1F6761BD3504A9EE80FF859A",
+    "url": "https://www.adzuna.com/land/ad/5898294123?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=263DB1E60604107C1F6761BD3504A9EE80FF859A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790322556,
@@ -4445,7 +4810,7 @@
       "Waltham, Middlesex County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898292693?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=1A43806471ACB57CE59BE349F374264ECBD15E96",
+    "url": "https://www.adzuna.com/land/ad/5898292693?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=1A43806471ACB57CE59BE349F374264ECBD15E96",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790322378,
@@ -4462,7 +4827,7 @@
       "Newburgh Heights, Cuyahoga County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898246994?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=B2E0F129A7164CF9C4991311ECC32FE7238B8C06",
+    "url": "https://www.adzuna.com/land/ad/5898246994?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=B2E0F129A7164CF9C4991311ECC32FE7238B8C06",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790319617,
@@ -4479,7 +4844,7 @@
       "Waukesha, Waukesha County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898234532?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=384CD25C2A36B64259644EB5FA4B321D18767F86",
+    "url": "https://www.adzuna.com/land/ad/5898234532?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=384CD25C2A36B64259644EB5FA4B321D18767F86",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790319439,
@@ -4496,7 +4861,7 @@
       "Caledonia, Racine County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898229295?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=724D6305EFE78A899D77E095195CEEB7D5CE08DB",
+    "url": "https://www.adzuna.com/land/ad/5898229295?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=724D6305EFE78A899D77E095195CEEB7D5CE08DB",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790319307,
@@ -4513,7 +4878,7 @@
       "Caledonia, Racine County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898229242?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=8AD4FC5DF6564B5EE3E432CA1EEB0B1D77AF5A62",
+    "url": "https://www.adzuna.com/land/ad/5898229242?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=8AD4FC5DF6564B5EE3E432CA1EEB0B1D77AF5A62",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790319306,
@@ -4530,7 +4895,7 @@
       "Village of Los Ranchos, Bernalillo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898223616?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=3CE638437ACAEB28ADBAB9FF5F312FA37FF6404B",
+    "url": "https://www.adzuna.com/land/ad/5898223616?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=3CE638437ACAEB28ADBAB9FF5F312FA37FF6404B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790319271,
@@ -4547,78 +4912,10 @@
       "San Diego, San Diego County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898196641?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=63CB92133DAA3986350AA82D93427D718FB16640",
+    "url": "https://www.adzuna.com/land/ad/5898196641?se=CvqVG3W58RG3jpCv9xpWmA&utm_medium=api&utm_source=e936e76a&v=63CB92133DAA3986350AA82D93427D718FB16640",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790319042,
-    "first_seen": 1790343585,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898179505",
-    "source": "adzuna",
-    "company": "Advanced Energy",
-    "title": "Intern - Firmware Engineer - Fall 2026",
-    "category": "Software",
-    "locations": [
-      "Fort Collins, Larimer County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898179505?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=21E0805CB829F87F79657AA268F998DCA21038A2",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790318792,
-    "first_seen": 1790343585,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898160165",
-    "source": "adzuna",
-    "company": "Lifetime Workforce Solutions",
-    "title": "College Intern - Summer 2027 - Software Engineering (Multiple Openings Available)",
-    "category": "Software",
-    "locations": [
-      "Rochester, Monroe County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5898160165?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790318444,
-    "first_seen": 1790343585,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898112753",
-    "source": "adzuna",
-    "company": "Northrop Grumman",
-    "title": "2027 Software Engineer Intern \u2013 Woodland Hills CA",
-    "category": "Software",
-    "locations": [
-      "Woodland Hills, Los Angeles County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5898112753?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=B0E96223C2CA31064229CC979BDEEE69BD596BDB",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790314315,
-    "first_seen": 1790343585,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5898063182",
-    "source": "adzuna",
-    "company": "Microsoft",
-    "title": "Software Engineer: Intern Opportunity for University Students",
-    "category": "Software",
-    "locations": [
-      "Mountain View, Santa Clara County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5898063182?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790311790,
     "first_seen": 1790343585,
     "emailed": true
   },
@@ -5111,57 +5408,6 @@
     "date_posted": 1790387704,
     "first_seen": 1790322103,
     "emailed": false
-  },
-  {
-    "uid": "adzuna:5898003005",
-    "source": "adzuna",
-    "company": "Excellus BCBS",
-    "title": "College Intern - Summer 2027 - Software Engineering (Multiple Openings Available)",
-    "category": "Software",
-    "locations": [
-      "Rochester, Monroe County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5898003005?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790303937,
-    "first_seen": 1790322103,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5897991456",
-    "source": "adzuna",
-    "company": "Ramp",
-    "title": "Software Engineering Intern, Android",
-    "category": "Software",
-    "locations": [
-      "New York City, New York"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/details/5897991456?utm_medium=api&utm_source=e936e76a",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790302414,
-    "first_seen": 1790322103,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5897990626",
-    "source": "adzuna",
-    "company": "Amazon",
-    "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazo with Security Clearance",
-    "category": "Software",
-    "locations": [
-      "Crystal, Arlington County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5897990626?se=WI1oME258RGMa97zoXXoXw&utm_medium=api&utm_source=e936e76a&v=F6E4104E1C8551FFC452F9678FBE3B6191840134",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790302373,
-    "first_seen": 1790322103,
-    "emailed": true
   },
   {
     "uid": "simplify:4dbf8f7e-b82e-4f37-97c6-327eac9a9efd",
@@ -6652,7 +6898,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/geocgi/jobs/4420076009",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790289509,
     "first_seen": 1790292815,
     "emailed": true
@@ -6921,7 +7167,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790288613,
     "first_seen": 1790292815,
     "emailed": false
@@ -6941,7 +7187,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/5b62eacf-e930-4bc8-8fc7-30c213c02127/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790288620,
     "first_seen": 1790292815,
     "emailed": false
@@ -12527,7 +12773,7 @@
     ],
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790121600,
     "first_seen": 1790182147,
     "emailed": true
@@ -16059,7 +16305,7 @@
     ],
     "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790035200,
     "first_seen": 1790102884,
     "emailed": true
@@ -18167,7 +18413,7 @@
     ],
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789948800,
     "first_seen": 1790032427,
     "emailed": true
@@ -18225,7 +18471,7 @@
     ],
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249838",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789948800,
     "first_seen": 1790032427,
     "emailed": false
@@ -19682,7 +19928,7 @@
     ],
     "url": "https://jobs.lever.co/CesiumAstro/7778b1db-4953-4320-83ec-35805f5a0516/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790029068,
     "first_seen": 1790032427,
     "emailed": false
@@ -55916,19 +56162,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8130805",
+    "uid": "greenhouse:stripe:8097801",
     "source": "greenhouse",
     "company": "Stripe",
     "title": "Software Engineer, Intern (Summer or Winter)",
     "category": "Software",
     "locations": [
-      "Toronto"
+      "Dublin"
     ],
     "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "url": "https://stripe.com/jobs/search?gh_jid=8097801",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1788218508,
+    "date_posted": 1786974374,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -55950,19 +56196,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8097801",
+    "uid": "greenhouse:stripe:8130805",
     "source": "greenhouse",
     "company": "Stripe",
     "title": "Software Engineer, Intern (Summer or Winter)",
     "category": "Software",
     "locations": [
-      "Dublin"
+      "Toronto"
     ],
     "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8097801",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1786974374,
+    "date_posted": 1788218508,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -74691,7 +74937,7 @@
     ],
     "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788998400,
     "first_seen": 1789082791,
     "emailed": false
@@ -78310,7 +78556,7 @@
     ],
     "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155233",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788912000,
     "first_seen": 1788999048,
     "emailed": false
@@ -82522,7 +82768,7 @@
     ],
     "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Analyst-I---4-Month-Internship-Coop--Winter-2027--_R155138",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788825600,
     "first_seen": 1788928638,
     "emailed": false
@@ -84022,7 +84268,7 @@
     ],
     "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788825600,
     "first_seen": 1788912591,
     "emailed": false
@@ -84041,7 +84287,7 @@
     ],
     "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027--_R155113",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788825600,
     "first_seen": 1788912591,
     "emailed": false
@@ -86539,7 +86785,7 @@
     ],
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op--WINTER-2027-_R_1506697-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788825600,
     "first_seen": 1788860308,
     "emailed": false
@@ -86616,7 +86862,7 @@
     ],
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788825600,
     "first_seen": 1788860308,
     "emailed": false
@@ -86768,7 +87014,7 @@
     ],
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Personal-Savings---Investing--PS-I--Product-Management-Intern-Co-op_R_1504373",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788825600,
     "first_seen": 1788860308,
     "emailed": false
@@ -88226,7 +88472,7 @@
     ],
     "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788739200,
     "first_seen": 1788763452,
     "emailed": true
@@ -98784,7 +99030,7 @@
     ],
     "url": "https://higher.gs.com/roles/175421?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767954,
     "first_seen": 1788495901,
     "emailed": false
@@ -98803,7 +99049,7 @@
     ],
     "url": "https://higher.gs.com/roles/171551?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -98822,7 +99068,7 @@
     ],
     "url": "https://higher.gs.com/roles/171550?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": false
@@ -98841,7 +99087,7 @@
     ],
     "url": "https://higher.gs.com/roles/171548?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": false
@@ -98879,7 +99125,7 @@
     ],
     "url": "https://higher.gs.com/roles/175426?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767935,
     "first_seen": 1788495901,
     "emailed": false
@@ -98898,7 +99144,7 @@
     ],
     "url": "https://higher.gs.com/roles/171564?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": true
@@ -98917,7 +99163,7 @@
     ],
     "url": "https://higher.gs.com/roles/171532?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -98936,7 +99182,7 @@
     ],
     "url": "https://higher.gs.com/roles/171534?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -98974,7 +99220,7 @@
     ],
     "url": "https://higher.gs.com/roles/175428?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767955,
     "first_seen": 1788495901,
     "emailed": false
@@ -98993,7 +99239,7 @@
     ],
     "url": "https://higher.gs.com/roles/171533?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -99012,7 +99258,7 @@
     ],
     "url": "https://higher.gs.com/roles/171565?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": true
@@ -99031,7 +99277,7 @@
     ],
     "url": "https://higher.gs.com/roles/171547?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -99050,7 +99296,7 @@
     ],
     "url": "https://higher.gs.com/roles/171549?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767946,
     "first_seen": 1788495901,
     "emailed": false
@@ -99069,7 +99315,7 @@
     ],
     "url": "https://higher.gs.com/roles/170644?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767943,
     "first_seen": 1788495901,
     "emailed": false
@@ -99088,7 +99334,7 @@
     ],
     "url": "https://higher.gs.com/roles/177808?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767938,
     "first_seen": 1788495901,
     "emailed": true
@@ -99107,7 +99353,7 @@
     ],
     "url": "https://higher.gs.com/roles/170637?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767944,
     "first_seen": 1788495901,
     "emailed": false
@@ -99126,7 +99372,7 @@
     ],
     "url": "https://higher.gs.com/roles/171553?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": true
@@ -111089,7 +111335,7 @@
     ],
     "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Electrical-Engineer-MA-01060/1423783600/?ats=successfactors",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787787589,
     "first_seen": 1788428589,
     "emailed": false
@@ -123123,7 +123369,7 @@
     ],
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---DTDS---Contracts-Intern---Summer-2027_757235WD",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788134400,
     "first_seen": 1788220161,
     "emailed": false
@@ -123281,7 +123527,7 @@
     ],
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Deals---DTDS---Analytics-Intern---Summer-2027_757228WD",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788134400,
     "first_seen": 1788220161,
     "emailed": false
@@ -123320,7 +123566,7 @@
     ],
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Financial-Crimes-Unit-Data---Analytics-Tech-Consulting-Intern---Summer-2027_757242WD",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788134400,
     "first_seen": 1788220161,
     "emailed": false
@@ -133876,7 +134122,7 @@
     ],
     "url": "https://higher.gs.com/roles/171546?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767946,
     "first_seen": 1787862234,
     "emailed": false
@@ -134274,7 +134520,7 @@
     ],
     "url": "https://higher.gs.com/roles/171552?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1787832205,
     "emailed": false
@@ -134954,7 +135200,7 @@
     ],
     "url": "https://jobs.l3harris.com/job/Northampton-Intern,-Software-Engineer-MA-01060/1423745000/?ats=successfactors",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787780764,
     "first_seen": 1787786547,
     "emailed": false
@@ -135108,7 +135354,7 @@
     ],
     "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787702400,
     "first_seen": 1787786547,
     "emailed": false
@@ -144587,7 +144833,7 @@
     ],
     "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787184000,
     "first_seen": 1787265510,
     "emailed": false
@@ -146982,7 +147228,7 @@
     ],
     "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787011200,
     "first_seen": 1787092533,
     "emailed": false
@@ -147210,7 +147456,7 @@
     ],
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/90-WESTERN-PKYBEDFORD/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months--Halifax_R-0000184830-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787011200,
     "first_seen": 1787092533,
     "emailed": false
@@ -150232,7 +150478,7 @@
     ],
     "url": "https://higher.gs.com/roles/175427?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767949,
     "first_seen": 1786808422,
     "emailed": false
@@ -150251,7 +150497,7 @@
     ],
     "url": "https://higher.gs.com/roles/171535?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767947,
     "first_seen": 1786808422,
     "emailed": false
@@ -150270,7 +150516,7 @@
     ],
     "url": "https://higher.gs.com/roles/171563?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767951,
     "first_seen": 1786808422,
     "emailed": false
@@ -150308,7 +150554,7 @@
     ],
     "url": "https://higher.gs.com/roles/181628?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767935,
     "first_seen": 1786808422,
     "emailed": false
@@ -150442,7 +150688,7 @@
     ],
     "url": "https://higher.gs.com/roles/175424?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767954,
     "first_seen": 1786770317,
     "emailed": false
@@ -150480,7 +150726,7 @@
     ],
     "url": "https://higher.gs.com/roles/171566?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767953,
     "first_seen": 1786770317,
     "emailed": false
@@ -150518,7 +150764,7 @@
     ],
     "url": "https://higher.gs.com/roles/175423?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767954,
     "first_seen": 1786770317,
     "emailed": false
@@ -155943,7 +156189,7 @@
     ],
     "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Digital-Analytics--Summer-2027-Summer-2028--_JR00126578",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786320000,
     "first_seen": 1786402289,
     "emailed": false
@@ -171586,7 +171832,7 @@
     ],
     "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784764800,
     "first_seen": 1784792489,
     "emailed": false
@@ -171606,7 +171852,7 @@
     ],
     "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Technology-and-Data-Internship_82677",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784764800,
     "first_seen": 1784792489,
     "emailed": false
@@ -180082,7 +180328,7 @@
     ],
     "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505878",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784153316,
     "first_seen": 1784155020,
     "emailed": false
@@ -181210,237 +181456,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:23fdc562-5150-463c-9db8-6953ed2cadcd",
-    "source": "simplify",
-    "company": "Hitachi",
-    "title": "Research Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Montr\u00e9al, QC, Canada"
-    ],
-    "terms": [
-      "Spring 2026",
-      "Summer 2026"
-    ],
-    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Saint-Laurent-Quebec-Canada/Research-Intern---Human-Centered-Transparency-for-GenAI-Systems_R0116511",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769653608,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:4490128c-605d-46fb-a1b1-cbf5ef2df62d",
-    "source": "simplify",
-    "company": "Empower",
-    "title": "Intern-Software Engineer-Technology Modernization",
-    "category": "Software",
-    "locations": [
-      "Greenwood Village, CO"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2026-Intern--Software-Engineer--Technology-Modernization_R0056207",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769653376,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9c916af0-01bf-4c02-ac7b-a33ea671c76f",
-    "source": "simplify",
-    "company": "Samsung",
-    "title": "Intern \u2013 SSD Firmware Development",
-    "category": "Hardware",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7605467003",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769653148,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:617135d7-b07c-4efc-97d1-fd206d521ca0",
-    "source": "simplify",
-    "company": "Archer",
-    "title": "Data Engineer Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/archer56/jobs/7565624003",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769653064,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ecec20f8-731e-46b3-9a61-65abfaa82449",
-    "source": "simplify",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Measurement Product - 2026 Summer','BS/MS",
-    "category": "Product",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://lifeattiktok.com/search/7600541513397487877",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769652828,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:d651c0af-65df-48fa-ba84-b826ef333d96",
-    "source": "simplify",
-    "company": "TikTok",
-    "title": "Product Manager Intern - Ads Attribution and Measurement Product - 2026 Summer",
-    "category": "Product",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://lifeattiktok.com/search/7600547425322256693",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769652832,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6da7596e-7c10-4ff8-8ff3-bd07778f34cc",
-    "source": "simplify",
-    "company": "d-Matrix",
-    "title": "Machine Learning Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/d-Matrix/72854192-f7bd-4fd5-988b-e05582501ce8/application",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769652842,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:79e39891-6641-42dc-bdbf-047bfdbee3bc",
-    "source": "simplify",
-    "company": "Ercot",
-    "title": "Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Austin, TX",
-      "Pflugerville, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Engineering--Baylor-University-_R1993",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769652604,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:443985df-2333-4636-9309-b512f591758a",
-    "source": "simplify",
-    "company": "Ercot",
-    "title": "Intern Engineering",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Austin, TX",
-      "Pflugerville, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Taylor-TX/Intern---Engineering--Texas-A-M-_R1992",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769652607,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2ae2b3ec-60cd-4eed-9d08-cd9a3b6e2cd0",
-    "source": "simplify",
-    "company": "Insulet Corporation",
-    "title": "Intern/Co-op Systems Engineering",
-    "category": "Hardware",
-    "locations": [
-      "Acton, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/US---Massachusetts-Acton---Office/Co-op--Systems-Engineering--July---December-2026--Hybrid-_REQ-2026-14621",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769654775,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0ad133ee-a543-456c-962a-a3d0b95a3fde",
-    "source": "simplify",
-    "company": "Aristocrat Leisure",
-    "title": "Intern \u2013 Data Analyst",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Bedford, NH"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/USA---New-Hampshire-Concord/Intern--Data-Analyst_R0020525",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769654720,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:48dd6a63-40af-40ff-9a7d-14897fd0a342",
-    "source": "simplify",
-    "company": "Equifax",
-    "title": "Data & Analytics Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Alpharetta, GA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1769654133,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:fba62581-6225-4fa9-ac5a-16693d636d67",
     "source": "simplify",
     "company": "TikTok",
@@ -181649,25 +181664,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1769683150,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:dfcc1ec1-d6ce-4f3d-8424-74ecfc5b702f",
-    "source": "simplify",
-    "company": "Genentech",
-    "title": "2026 Summer Intern - Product Development Data Sciences",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Bruno, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Sciences--Digital-Endpoints-and-Patient-Centered-Solutions_202601-101745",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1769653256,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -351814,6 +351810,63 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1769642746,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:9c916af0-01bf-4c02-ac7b-a33ea671c76f",
+    "source": "pittcsc",
+    "company": "Samsung",
+    "title": "Intern \u2013 SSD Firmware Development",
+    "category": "Hardware",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7605467003",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769653148,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:617135d7-b07c-4efc-97d1-fd206d521ca0",
+    "source": "pittcsc",
+    "company": "Archer",
+    "title": "Data Engineer Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/archer56/jobs/7565624003",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769653064,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:6da7596e-7c10-4ff8-8ff3-bd07778f34cc",
+    "source": "pittcsc",
+    "company": "d-Matrix",
+    "title": "Machine Learning Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/d-Matrix/72854192-f7bd-4fd5-988b-e05582501ce8/application",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1769652842,
     "first_seen": 1784003708,
     "emailed": true
   },
