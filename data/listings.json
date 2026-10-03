@@ -1,5 +1,95 @@
 [
   {
+    "uid": "simplify:ef1134c6-b8e9-4764-9153-e85268e91f72",
+    "source": "simplify",
+    "company": "AMD",
+    "title": "Masters Photonics Design Engineering Co-op",
+    "category": "Hardware",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "url": "https://careers.amd.com/jobs/91633?icims=1",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1791007700,
+    "first_seen": 1791010968,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:3bdfa3d0-178e-48f0-be29-54a668942c5c",
+    "source": "simplify",
+    "company": "Keysight Technologies",
+    "title": "R&D Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Winter 2026"
+    ],
+    "url": "https://jobs.keysight.com/jobs/54388?icims=1",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1791007697,
+    "first_seen": 1791010968,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5909591645",
+    "source": "adzuna",
+    "company": "Northrop Grumman",
+    "title": "2027 Software Engineering Intern - Colorado Springs CO",
+    "category": "Software",
+    "locations": [
+      "Roy, Weber County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5909591645?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=E287C19E95C85FCFCBBEB5E96E1F88843264C599",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790994749,
+    "first_seen": 1791010968,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5909584327",
+    "source": "adzuna",
+    "company": "Microsoft",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+    "category": "Software",
+    "locations": [
+      "Redmond, King County"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/details/5909584327?utm_medium=api&utm_source=e936e76a",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790994330,
+    "first_seen": 1791010968,
+    "emailed": true
+  },
+  {
+    "uid": "adzuna:5909581278",
+    "source": "adzuna",
+    "company": "Pinterest",
+    "title": "Software Engineer Intern 2027 (USA)",
+    "category": "Software",
+    "locations": [
+      "Hayes Valley, San Francisco"
+    ],
+    "terms": [],
+    "url": "https://www.adzuna.com/land/ad/5909581278?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=872D22DEDEE4270880B01184983110695BA33AA3",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790994182,
+    "first_seen": 1791010968,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:52c3dcc9-a0e9-46ff-aa46-eb6f6dc273b4",
     "source": "pittcsc",
     "company": "RR Donnelley",
@@ -277,7 +367,7 @@
       "Mountain View, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909576518?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=C4AFE867B25720FA4ADB84C7DB4FE813DF9BE261",
+    "url": "https://www.adzuna.com/land/ad/5909576518?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=C4AFE867B25720FA4ADB84C7DB4FE813DF9BE261",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790993767,
@@ -294,7 +384,7 @@
       "Totowa, Passaic County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909555942?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=98BF14ED76CDADC027D3ABE47BDE547FCB5ECA40",
+    "url": "https://www.adzuna.com/land/ad/5909555942?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=98BF14ED76CDADC027D3ABE47BDE547FCB5ECA40",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790992489,
@@ -311,7 +401,7 @@
       "Huntsville, Madison County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909555773?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=96FCADD6B7A1CCB9EE382F711B9A0CA2D84D5119",
+    "url": "https://www.adzuna.com/land/ad/5909555773?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=96FCADD6B7A1CCB9EE382F711B9A0CA2D84D5119",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790992472,
@@ -328,7 +418,7 @@
       "Cupertino, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909553335?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=A35395060373F058841D31F09DA490B97B5B216B",
+    "url": "https://www.adzuna.com/land/ad/5909553335?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=A35395060373F058841D31F09DA490B97B5B216B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790992247,
@@ -362,7 +452,7 @@
       "San Jose, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909502321?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=94EE53D832CF47EB0B1DB92E173D15C10E2D1502",
+    "url": "https://www.adzuna.com/land/ad/5909502321?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=94EE53D832CF47EB0B1DB92E173D15C10E2D1502",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790990638,
@@ -379,7 +469,7 @@
       "Boston, Suffolk County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909502016?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=93A22ADA83D48DA399B73A3C77E71C4C260FA501",
+    "url": "https://www.adzuna.com/land/ad/5909502016?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=93A22ADA83D48DA399B73A3C77E71C4C260FA501",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790990631,
@@ -413,7 +503,7 @@
       "South Boston, Suffolk County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909463128?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=45D96D9CACDB79CF3C8278CDCEAB85897AB1702E",
+    "url": "https://www.adzuna.com/land/ad/5909463128?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=45D96D9CACDB79CF3C8278CDCEAB85897AB1702E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790990032,
@@ -430,7 +520,7 @@
       "South Boston, Suffolk County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909463110?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=FD0FCEB4B1BBD062A41EC2D22D36675F237CA1DF",
+    "url": "https://www.adzuna.com/land/ad/5909463110?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=FD0FCEB4B1BBD062A41EC2D22D36675F237CA1DF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790990032,
@@ -447,7 +537,7 @@
       "Schiller Park, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909460964?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=85D99F78D3F5BC86CEF86C55F0BEC13C6F285081",
+    "url": "https://www.adzuna.com/land/ad/5909460964?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=85D99F78D3F5BC86CEF86C55F0BEC13C6F285081",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790990015,
@@ -481,7 +571,7 @@
       "Boston, Suffolk County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909436781?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=9132B00F957C07FD60213B753EFC8E2A4DB31F57",
+    "url": "https://www.adzuna.com/land/ad/5909436781?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=9132B00F957C07FD60213B753EFC8E2A4DB31F57",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790989292,
@@ -515,7 +605,7 @@
       "Cupertino, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909423377?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=A7FF4355E209F18147D3B4807B4CF6F9AA9A0BF9",
+    "url": "https://www.adzuna.com/land/ad/5909423377?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=A7FF4355E209F18147D3B4807B4CF6F9AA9A0BF9",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790988616,
@@ -532,7 +622,7 @@
       "Georgia, US"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909408406?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=303503C191018C6C89BA51BBF5103CCB9BAF880A",
+    "url": "https://www.adzuna.com/land/ad/5909408406?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=303503C191018C6C89BA51BBF5103CCB9BAF880A",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790987814,
@@ -549,7 +639,7 @@
       "Dayton, Montgomery County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909278822?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=7189B3315BD90690E4E1AFC2DECE4D04C244980D",
+    "url": "https://www.adzuna.com/land/ad/5909278822?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=7189B3315BD90690E4E1AFC2DECE4D04C244980D",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790980654,
@@ -566,7 +656,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909248607?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=0CBC9BE54416E7A8F53C8A5C0CBCFD1AE588C094",
+    "url": "https://www.adzuna.com/land/ad/5909248607?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=0CBC9BE54416E7A8F53C8A5C0CBCFD1AE588C094",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790979930,
@@ -634,7 +724,7 @@
       "Salt Lake City, Salt Lake County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908995430?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=340DC2CD4F61E3C805D525CF1A8BC9306A3C9A99",
+    "url": "https://www.adzuna.com/land/ad/5908995430?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=340DC2CD4F61E3C805D525CF1A8BC9306A3C9A99",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790971673,
@@ -823,7 +913,7 @@
       "Richardson, Dallas"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909209404?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=210713BB8B0CA888B5CD33FF9C4873D4935E69F5",
+    "url": "https://www.adzuna.com/land/ad/5909209404?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=210713BB8B0CA888B5CD33FF9C4873D4935E69F5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790977712,
@@ -840,7 +930,7 @@
       "Rockford, Winnebago County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909209399?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=3E5AB6E3786A129096B825CB33BA05F8B7EA336C",
+    "url": "https://www.adzuna.com/land/ad/5909209399?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=3E5AB6E3786A129096B825CB33BA05F8B7EA336C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790977712,
@@ -857,7 +947,7 @@
       "Mc Leansville, Guilford County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909202350?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=026546517A6EAE482321D38D0438490231D76960",
+    "url": "https://www.adzuna.com/land/ad/5909202350?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=026546517A6EAE482321D38D0438490231D76960",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790977448,
@@ -874,7 +964,7 @@
       "Pimmit, Fairfax County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909118739?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=51323407A986D0CCF30F2A3AD2C7B1247B608768",
+    "url": "https://www.adzuna.com/land/ad/5909118739?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=51323407A986D0CCF30F2A3AD2C7B1247B608768",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790976421,
@@ -891,7 +981,7 @@
       "South San Francisco, San Mateo County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909090691?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=6116EF417D62133B342EC294B9E8DB5765A1B0BE",
+    "url": "https://www.adzuna.com/land/ad/5909090691?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=6116EF417D62133B342EC294B9E8DB5765A1B0BE",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790975156,
@@ -942,7 +1032,7 @@
       "Highland Bch, Anne Arundel County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5909013417?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=D54D1A911F07A3905F17F4DA91207C63818AD072",
+    "url": "https://www.adzuna.com/land/ad/5909013417?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=D54D1A911F07A3905F17F4DA91207C63818AD072",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790973675,
@@ -2722,7 +2812,7 @@
       "Loehmanns Plaza, Monroe County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908998913?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=4B78E67BFE10F135296D3D502AB8DDEC60C6C74B",
+    "url": "https://www.adzuna.com/land/ad/5908998913?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=4B78E67BFE10F135296D3D502AB8DDEC60C6C74B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790971966,
@@ -2739,7 +2829,7 @@
       "Richardson, Dallas"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908998886?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=B9078E9743E8E9BBC1DB176E4D18C0A92C26F7F7",
+    "url": "https://www.adzuna.com/land/ad/5908998886?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=B9078E9743E8E9BBC1DB176E4D18C0A92C26F7F7",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790971962,
@@ -2756,7 +2846,7 @@
       "Sunnyvale, Santa Clara County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908998105?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=1CD8D1CF2F1F852ECFB87402AE5F229A77ADFF59",
+    "url": "https://www.adzuna.com/land/ad/5908998105?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=1CD8D1CF2F1F852ECFB87402AE5F229A77ADFF59",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790971768,
@@ -2773,7 +2863,7 @@
       "Forbes Village, Hartford County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908997962?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=F076F7EA4DD684B8ECE4447D8C5C843FEBCC5B9E",
+    "url": "https://www.adzuna.com/land/ad/5908997962?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=F076F7EA4DD684B8ECE4447D8C5C843FEBCC5B9E",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790971736,
@@ -2790,7 +2880,7 @@
       "Simpsonville, Howard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908994242?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=D377B186FBF083AF0EEC797C7BDFE99A627B55C5",
+    "url": "https://www.adzuna.com/land/ad/5908994242?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=D377B186FBF083AF0EEC797C7BDFE99A627B55C5",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790971377,
@@ -2807,7 +2897,7 @@
       "San Lorenzo, Alameda County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908990442?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=24C58FE24BA59BFD4F464F612A53A582AF585FB3",
+    "url": "https://www.adzuna.com/land/ad/5908990442?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=24C58FE24BA59BFD4F464F612A53A582AF585FB3",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790971078,
@@ -2824,7 +2914,7 @@
       "Salt Lake City, Salt Lake County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908989640?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=9B9E1416C6BA1CE776243D002421CBA5301F06F0",
+    "url": "https://www.adzuna.com/land/ad/5908989640?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=9B9E1416C6BA1CE776243D002421CBA5301F06F0",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790971069,
@@ -3417,7 +3507,7 @@
       "El Segundo, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908810002?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=18702A01F06C1EB2791D6C00609640070876D587",
+    "url": "https://www.adzuna.com/land/ad/5908810002?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=18702A01F06C1EB2791D6C00609640070876D587",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790960444,
@@ -3570,7 +3660,7 @@
       "East Hartford, Hartford County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908791780?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=4F4B554C0C284462B1F2FECADC23BFB5779BEC75",
+    "url": "https://www.adzuna.com/land/ad/5908791780?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=4F4B554C0C284462B1F2FECADC23BFB5779BEC75",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790958280,
@@ -3587,7 +3677,7 @@
       "Cedar Rapids, Linn County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908785080?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=D373908B6F9CFF94A2F165E1B6716D370A6CF3EF",
+    "url": "https://www.adzuna.com/land/ad/5908785080?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=D373908B6F9CFF94A2F165E1B6716D370A6CF3EF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790958006,
@@ -3604,7 +3694,7 @@
       "Annapolis, Anne Arundel County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908784696?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=DA78F65F069FF323909FA76C352F118421660DBF",
+    "url": "https://www.adzuna.com/land/ad/5908784696?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=DA78F65F069FF323909FA76C352F118421660DBF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790958003,
@@ -3621,7 +3711,7 @@
       "Melbourne, Brevard County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908777527?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=725A8348396ADC8FAA95261E018DD7EE5CEB9EA7",
+    "url": "https://www.adzuna.com/land/ad/5908777527?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=725A8348396ADC8FAA95261E018DD7EE5CEB9EA7",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790957689,
@@ -3638,7 +3728,7 @@
       "Rolling Meadows, Cook County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908776523?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=5EDABC9EAB5032F54CC92456FF63C1CF2752351B",
+    "url": "https://www.adzuna.com/land/ad/5908776523?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=5EDABC9EAB5032F54CC92456FF63C1CF2752351B",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790957676,
@@ -3655,7 +3745,7 @@
       "Los Lunas, Valencia County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908762096?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=E7AC6B1390CD939BEBF42D34BA24FFCC60E4CC39",
+    "url": "https://www.adzuna.com/land/ad/5908762096?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=E7AC6B1390CD939BEBF42D34BA24FFCC60E4CC39",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790957504,
@@ -3672,7 +3762,7 @@
       "Manhattan Beach, Los Angeles County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908748203?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=3D231CAF30914EC8A4892CBE98ABF5F4FD87C9CF",
+    "url": "https://www.adzuna.com/land/ad/5908748203?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=3D231CAF30914EC8A4892CBE98ABF5F4FD87C9CF",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790957338,
@@ -3689,61 +3779,10 @@
       "East Lake-Orient Park, Hillsborough County"
     ],
     "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908748115?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=72EFD5DAC2F12F5E11C53442E365118DE3FA513C",
+    "url": "https://www.adzuna.com/land/ad/5908748115?se=5McWb_i-8RG-ZIwkc6cYlg&utm_medium=api&utm_source=e936e76a&v=72EFD5DAC2F12F5E11C53442E365118DE3FA513C",
     "sponsorship": null,
     "active": true,
     "date_posted": 1790957337,
-    "first_seen": 1790974646,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5908747985",
-    "source": "adzuna",
-    "company": "Northrop Grumman",
-    "title": "2027 Software Engineer Intern - Morrisville NC with Security Clearance",
-    "category": "Software",
-    "locations": [
-      "Morrisville, Wake County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908747985?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=B88E65A122D494A1F082AAFD10901592D47CBDC8",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790957335,
-    "first_seen": 1790974646,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5908707063",
-    "source": "adzuna",
-    "company": "Northrop Grumman",
-    "title": "2027 Engineering Intern - Hollywood (MD) (Evergreen) with Security Clearance",
-    "category": "Software",
-    "locations": [
-      "Hollywood, St. Mary's County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908707063?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=9F90A7996A5AF36311FD83DF3E6DA13E4663DB5F",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790956922,
-    "first_seen": 1790974646,
-    "emailed": true
-  },
-  {
-    "uid": "adzuna:5908707105",
-    "source": "adzuna",
-    "company": "Northrop Grumman",
-    "title": "2027 Embedded Software Engineer Intern - Rolling Meadows IL with Security Clearance",
-    "category": "Software",
-    "locations": [
-      "Rolling Meadows, Cook County"
-    ],
-    "terms": [],
-    "url": "https://www.adzuna.com/land/ad/5908707105?se=fHM-GPO-8RGdRLcUnFY4TA&utm_medium=api&utm_source=e936e76a&v=61909BA2AF09A38D6F380970BA1D0BAF6681B468",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790956922,
     "first_seen": 1790974646,
     "emailed": true
   },
@@ -18847,7 +18886,7 @@
     ],
     "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790640000,
     "first_seen": 1790670133,
     "emailed": false
@@ -18866,7 +18905,7 @@
     ],
     "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790640000,
     "first_seen": 1790670133,
     "emailed": false
@@ -120455,7 +120494,7 @@
     ],
     "url": "https://higher.gs.com/roles/175421?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767954,
     "first_seen": 1788495901,
     "emailed": false
@@ -120474,7 +120513,7 @@
     ],
     "url": "https://higher.gs.com/roles/171551?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -120493,7 +120532,7 @@
     ],
     "url": "https://higher.gs.com/roles/171550?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": false
@@ -120512,7 +120551,7 @@
     ],
     "url": "https://higher.gs.com/roles/171548?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": false
@@ -120588,7 +120627,7 @@
     ],
     "url": "https://higher.gs.com/roles/171532?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -120607,7 +120646,7 @@
     ],
     "url": "https://higher.gs.com/roles/171534?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -120645,7 +120684,7 @@
     ],
     "url": "https://higher.gs.com/roles/175428?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767955,
     "first_seen": 1788495901,
     "emailed": false
@@ -120664,7 +120703,7 @@
     ],
     "url": "https://higher.gs.com/roles/171533?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -120683,7 +120722,7 @@
     ],
     "url": "https://higher.gs.com/roles/171565?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": true
@@ -120702,7 +120741,7 @@
     ],
     "url": "https://higher.gs.com/roles/171547?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -155463,7 +155502,7 @@
     ],
     "url": "https://higher.gs.com/roles/171552?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1787832205,
     "emailed": false
@@ -171421,7 +171460,7 @@
     ],
     "url": "https://higher.gs.com/roles/175427?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767949,
     "first_seen": 1786808422,
     "emailed": false
@@ -171440,7 +171479,7 @@
     ],
     "url": "https://higher.gs.com/roles/171535?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767947,
     "first_seen": 1786808422,
     "emailed": false
@@ -171459,7 +171498,7 @@
     ],
     "url": "https://higher.gs.com/roles/171563?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767951,
     "first_seen": 1786808422,
     "emailed": false
@@ -171631,7 +171670,7 @@
     ],
     "url": "https://higher.gs.com/roles/175424?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767954,
     "first_seen": 1786770317,
     "emailed": false
@@ -171669,7 +171708,7 @@
     ],
     "url": "https://higher.gs.com/roles/171566?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767953,
     "first_seen": 1786770317,
     "emailed": false
@@ -171707,7 +171746,7 @@
     ],
     "url": "https://higher.gs.com/roles/175423?type=students",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1786767954,
     "first_seen": 1786770317,
     "emailed": false
