@@ -36,7 +36,7 @@ def build_html(listings: list[Listing]) -> str:
     for company, company_listings in _group_by_company(listings).items():
         rows.append(
             "<tbody><tr>"
-            '<th colspan="5" scope="rowgroup" style="text-align:left;background-color:#f3f4f6">'
+            '<th colspan="6" scope="rowgroup" style="text-align:left;background-color:#f3f4f6">'
             f"{escape(company)} ({len(company_listings)})</th>"
             "</tr>"
         )
@@ -46,6 +46,7 @@ def build_html(listings: list[Listing]) -> str:
             rows.append(
                 "<tr>"
                 f"<td>{escape(listing.title)}</td>"
+                f"<td>{escape(listing.source_label)}</td>"
                 f"<td>{loc}</td>"
                 f"<td>{term}</td>"
                 f"<td>{_format_posted(listing.date_posted)}</td>"
@@ -56,7 +57,7 @@ def build_html(listings: list[Listing]) -> str:
     return (
         "<html><body>"
         "<table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse'>"
-        "<thead><tr><th>Role</th><th>Location</th><th>Term</th><th>Posted</th><th>Apply</th></tr></thead>"
+        "<thead><tr><th>Role</th><th>Source</th><th>Location</th><th>Term</th><th>Posted</th><th>Apply</th></tr></thead>"
         + "".join(rows)
         + "</table></body></html>"
     )
@@ -68,7 +69,7 @@ def build_plaintext(listings: list[Listing]) -> str:
         lines = [f"{company} ({len(company_listings)})"]
         for listing in company_listings:
             loc = ", ".join(listing.locations) if listing.locations else "?"
-            lines.append(f"  - {listing.title} ({loc}) — {listing.url}")
+            lines.append(f"  - {listing.title} ({loc}) — Source: {listing.source_label} — {listing.url}")
         sections.append("\n".join(lines))
     return "\n\n".join(sections)
 

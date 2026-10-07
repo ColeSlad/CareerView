@@ -45,7 +45,7 @@ class DetailScreen(ModalScreen[None]):
             f"[b]{listing.company}[/b] — {listing.title}",
             "",
             f"Status:      {self.status.capitalize()}",
-            f"Source:      {listing.source}",
+            f"Source:      {listing.source_label}",
             f"Category:    {listing.category}",
             f"Locations:   {', '.join(listing.locations) or '?'}",
             f"Terms:       {', '.join(listing.terms) or '?'}",

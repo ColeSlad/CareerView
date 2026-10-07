@@ -4,6 +4,19 @@ import re
 from dataclasses import asdict, dataclass, field
 
 
+_SOURCE_LABELS = {
+    "adzuna": "Adzuna",
+    "ashby": "Ashby",
+    "greenhouse": "Greenhouse",
+    "lever": "Lever",
+    "oraclecloud": "Oracle Cloud",
+    "pittcsc": "PittCSC",
+    "simplify": "SimplifyJobs",
+    "vanshb03": "vanshb03",
+    "workday": "Workday",
+}
+
+
 @dataclass
 class Listing:
     uid: str
@@ -19,6 +32,11 @@ class Listing:
     date_posted: int | None = None
     first_seen: int | None = None
     emailed: bool = False
+
+    @property
+    def source_label(self) -> str:
+        """Readable name of the feed or career board that supplied this listing."""
+        return _SOURCE_LABELS.get(self.source, self.source or "?")
 
     def dedup_key(self) -> str:
         """Cross-source key for collapsing the same role posted via multiple feeds.

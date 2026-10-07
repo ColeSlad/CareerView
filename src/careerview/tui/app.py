@@ -98,7 +98,7 @@ class CareerViewApp(App):
 
     def on_mount(self) -> None:
         table = self.query_one(DataTable)
-        table.add_columns("Inbox", "Posted", "Status", "Company", "Role", "Term", "Location", "Source")
+        table.add_columns("Inbox", "Posted", "Status", "Company", "Source", "Role", "Term", "Location")
         self._load_data()
         table.focus()
         self.set_interval(30, self._update_health_line)
@@ -174,10 +174,10 @@ class CareerViewApp(App):
                 _relative_time(listing.date_posted, now),
                 status_label,
                 listing.company,
+                listing.source_label,
                 listing.title,
                 _truncate(", ".join(listing.terms) or "-"),
                 ", ".join(listing.locations) or "?",
-                listing.source,
                 key=uid,
             )
         self._update_filter_line()

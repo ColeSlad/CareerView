@@ -26,8 +26,9 @@ local SQLite file (your own status/notes on each listing). The two never write t
 the same thing, so there's no syncing to worry about.
 
 Email digests group openings under each company's name and listing count in both
-HTML and plain text. Companies appear by their newest posting, with roles sorted
-newest first within each company.
+HTML and plain text. Each opening includes its source, such as Greenhouse, Adzuna,
+or SimplifyJobs. Companies appear by their newest posting, with roles sorted newest
+first within each company.
 
 ### Sources
 
@@ -84,6 +85,9 @@ Run this from the repo root — it reads `config.yaml`, `companies.yaml`, and
 `data/listings.json` relative to your current directory, and does a best-effort
 `git pull` on startup to grab whatever the cloud watcher has found since you last
 looked.
+
+The **Source** column beside the company shows the feed or career board that
+supplied each listing. The same source label appears in the full listing details.
 
 | Key | Action |
 |---|---|
