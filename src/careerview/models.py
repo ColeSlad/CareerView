@@ -5,7 +5,6 @@ from dataclasses import asdict, dataclass, field
 
 
 _SOURCE_LABELS = {
-    "adzuna": "Adzuna",
     "ashby": "Ashby",
     "greenhouse": "Greenhouse",
     "lever": "Lever",

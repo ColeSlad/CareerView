@@ -8,7 +8,6 @@ from careerview import health, notify, store
 from careerview.config import Config, load_config
 from careerview.filters import is_relevant
 from careerview.poller import run_poll
-from careerview.sources.adzuna import AdzunaSource
 from careerview.sources.ashby import AshbySource
 from careerview.sources.base import Source
 from careerview.sources.greenhouse import GreenhouseSource
@@ -39,23 +38,6 @@ def _build_sources(config: Config) -> list[Source]:
         sources.append(WorkdaySource(tenant, wd["wd"], wd["site"], wd["name"], include_kw, exclude_kw))
     for tenant, oc in config.companies.get("oraclecloud", {}).items():
         sources.append(OracleCloudSource(tenant, oc["dc"], oc["site"], oc["name"], include_kw, exclude_kw))
-
-    app_id = os.environ.get("ADZUNA_APP_ID")
-    app_key = os.environ.get("ADZUNA_APP_KEY")
-    if app_id and app_key:
-        sources.append(
-            AdzunaSource(
-                app_id=app_id,
-                app_key=app_key,
-                country=config.adzuna_country,
-                keywords=config.adzuna_keywords,
-                locations=config.adzuna_locations,
-                include_keywords=include_kw,
-                exclude_keywords=exclude_kw,
-            )
-        )
-    else:
-        print("(skipping Adzuna: ADZUNA_APP_ID / ADZUNA_APP_KEY not set)")
 
     return sources
 

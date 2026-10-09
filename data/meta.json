@@ -1,6 +1,6 @@
 {
   "last_run": 1791562078,
-  "fetched_count": 19549,
+  "fetched_count": 19500,
   "poll_health": {
     "started_at": 1791561960,
     "finished_at": 1791562078,
@@ -5550,18 +5550,6 @@
         "listing_count": 14,
         "error": null,
         "last_success_at": 1791561977,
-        "consecutive_failures": 0
-      },
-      {
-        "key": "adzuna:us",
-        "company": "Adzuna",
-        "source": "adzuna",
-        "board": "us",
-        "checked_at": 1791561974,
-        "duration_seconds": 1.481,
-        "listing_count": 49,
-        "error": null,
-        "last_success_at": 1791561974,
         "consecutive_failures": 0
       }
     ],

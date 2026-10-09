@@ -31,12 +31,6 @@ relevance:
     - manager
     - director
 
-adzuna:
-  country: us
-  keywords: "software engineering intern"
-  locations:
-    - "United States"
-
 poll:
   cadence_minutes: 15
   # Warn in the TUI if the latest saved poll is this old. Does not change cron.

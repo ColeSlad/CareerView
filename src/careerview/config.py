@@ -24,9 +24,6 @@ class Config:
     vanshb03_repo: str
     vanshb03_branch: str
     relevance: RelevanceConfig
-    adzuna_country: str
-    adzuna_keywords: str
-    adzuna_locations: list[str]
     poll_cadence_minutes: int
     companies: dict[str, dict]
     poll_stale_after_minutes: int = 45
@@ -56,9 +53,6 @@ def load_config(
             include_title_keywords=relevance_raw.get("include_title_keywords", []),
             exclude_title_keywords=relevance_raw.get("exclude_title_keywords", []),
         ),
-        adzuna_country=raw["adzuna"]["country"],
-        adzuna_keywords=raw["adzuna"]["keywords"],
-        adzuna_locations=raw["adzuna"].get("locations", []),
         poll_cadence_minutes=raw["poll"]["cadence_minutes"],
         companies=companies,
         poll_stale_after_minutes=max(1, int(raw["poll"].get(

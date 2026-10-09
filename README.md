@@ -26,7 +26,7 @@ local SQLite file (your own status/notes on each listing). The two never write t
 the same thing, so there's no syncing to worry about.
 
 Email digests group openings under each company's name and listing count in both
-HTML and plain text. Each opening includes its source, such as Greenhouse, Adzuna,
+HTML and plain text. Each opening includes its source, such as Greenhouse, Ashby,
 or SimplifyJobs. Companies appear by their newest posting, with roles sorted newest
 first within each company.
 
@@ -34,7 +34,6 @@ first within each company.
 
 - [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) — community-maintained internship list
 - **459 company boards** across Greenhouse, Lever, Ashby, Workday, and Oracle Cloud — configured in `companies.yaml`, with eight sources fetched concurrently. See the [full company catalog and coverage gaps](docs/watchlist.md).
-- **Adzuna** — a broader keyword search, for coverage beyond the watchlist (optional; skipped automatically if not configured)
 
 An open role stays eligible for its first email until it is actually emailed, even
 if an earlier poll discovered it while its location failed the relevance filter.
@@ -178,7 +177,7 @@ as environment variables (see below).
 ## Configuration
 
 - **`config.yaml`** — which Simplify repo/branch to pull, the relevance filter
-  (category, US/remote, intern-title keywords), and Adzuna search settings.
+  (category, US/remote, intern-title keywords), and polling settings.
 - **`companies.yaml`** — the Greenhouse/Lever/Ashby company watchlist. Each entry
   maps a company's job-board slug to a display name, e.g.:
   ```yaml
@@ -204,7 +203,6 @@ actual freshness. It needs these repository secrets
 | `GMAIL_ADDRESS` | yes | Gmail address to send from |
 | `GMAIL_APP_PASSWORD` | yes | [App password](https://myaccount.google.com/apppasswords) (not your regular login — requires 2-Step Verification) |
 | `NOTIFY_TO` | yes | Where the digest email goes |
-| `ADZUNA_APP_ID` / `ADZUNA_APP_KEY` | no | Free key from [developer.adzuna.com](https://developer.adzuna.com) — Adzuna is skipped automatically if unset |
 
 The repo should be **public** so the workflow gets unlimited free Actions minutes
 (private repos are capped at ~2,000 min/month on the free plan).
