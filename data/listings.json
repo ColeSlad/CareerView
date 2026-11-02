@@ -1,5 +1,725 @@
 [
   {
+    "uid": "vanshb03:b42b684a-7a90-4884-837f-37547a0cde62",
+    "source": "vanshb03",
+    "company": "Aerospace Corporation",
+    "title": "Software Engineering Undergrad Intern",
+    "category": "Software",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/19W",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "date_posted": 1793656370,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:4bbfb27d-5bef-43d0-a8af-0b8eaeca2380",
+    "source": "vanshb03",
+    "company": "Samsung Semiconductor",
+    "title": "AI Application Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Folsom, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/19X",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793654810,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:4b065cd5-9738-42be-9388-f109c6f68e84",
+    "source": "vanshb03",
+    "company": "Toshiba Commerce Solutions",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Durham, NC"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "url": "https://go.vansh.nyc/19Y",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793648428,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:27bb3e57-53f7-46af-9940-b395478b629b",
+    "source": "vanshb03",
+    "company": "Apple",
+    "title": "Machine Learning and Artificial Intelligence Undergrad Intern",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/19Z",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1779396848,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:2d3f96d5-61a6-4ce5-b30c-c247cce3fbc6",
+    "source": "vanshb03",
+    "company": "Qualcomm",
+    "title": "SoC Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Markham, Canada"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1a0",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793659406,
+    "first_seen": 1793662135,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:eb2036b9-9a66-4883-92a0-117533221414",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Integration Engineer Intern, High Voltage Systems",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/282241",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:afef6a76-3774-460b-a478-ad7edc6f4243",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "RL Engineer Intern, Tesla SI",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/275494",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:a5c132c1-2a1a-4985-8294-5d5569c20708",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Data Analyst Intern, People Products",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/286085",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:f1d1ad1b-a8d9-43fe-b985-f03247af0521",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "SI Engineer Intern, Tesla SI",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/275331",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:830bf168-9d98-44ed-b965-6b2da4d0f452",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "SI Software Engineer Intern, Core Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/285085",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:e8667c6e-f218-4d9a-bb11-68c8eee8b537",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "SoC Firmware Engineer Intern, SI Hardware Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/287024",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:77873770-9a6e-4698-bd30-d77cc16c7b38",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Engineer Intern, Core SI Compiler & Runtime",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/281951",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:368e525d-6235-4624-8681-3a5579af5c8d",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Engineer Intern, Infotainment Platforms Validation",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/286261",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:b8d04ef9-9d35-4971-a4a4-d4e793ebd5b3",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Engineer Intern, Build & Simulation Platform",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/285801",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:33111242-957c-4da1-ac5b-00e6fa866710",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Embedded Software Engineer Intern, Vehicle Suspension",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/285153",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:0be2926f-2b70-4ceb-9fc6-484e24a521d3",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Integration Engineer Intern, SI Platforms",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/277009",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:2b51957c-7b4f-4724-a893-2e693e9c388e",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "SI Hardware RTL Design Engineer Intern, SI Hardware",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/285089",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:7cf66877-3dac-442c-9336-d610ade52213",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "SI Hardware Design Verification Engineer Intern, SI Hardware",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/285088",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:2fe9c70d-d975-4f96-a3a0-6c1c81bc3e37",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "SI Hardware Silicon Validation Engineer Intern, SI Hardware",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/284821",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:19010d13-5d2f-4982-86f5-38689c8f4f29",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/284286",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:12d9ef19-d449-4739-a32c-2b3a1599cb65",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Engineering Intern, People Products",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/284004",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:6f22b50f-08ee-450f-bb76-5f5e998ac5a3",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Engineer Opticaster Intern, Energy Engineering",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/283950",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:0df1956d-5647-49d5-be9a-d3b711914eef",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Fullstack Software Engineer Intern, Fleetnet",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/281099",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:0bc89be6-ba8b-4952-a825-25c3400e6c31",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Engineer Intern, Automated Diagnostics",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/281623",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:c557cc63-0922-44af-aed6-3c3865e6fd70",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Fullstack Engineer Intern, Applications Engineering",
+    "category": "Software",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/280820",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:0303d036-6ab0-4527-9783-90d7129930a7",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Embedded Systems Software Engineer Intern, SI Platforms",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/282331",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:1e59d245-6b8f-446d-9ee4-62918c5f1db7",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Fullstack Engineer Intern, SI Tooling",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/282291",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:9396676f-4a56-4a4f-a0fa-d02cf123ffd8",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Integration Engineer Intern, Access Control Systems",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/282258",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:a13166b3-ba3d-4691-9e2c-c786ce5c938a",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Validation Engineer Intern, Steering, Chassis Systems",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/282250",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:45e96851-4697-491f-b0c3-ee9d1a6f7ba9",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Validation Engineer Intern, Vehicle Firmware",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/282246",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:2ad25055-75df-41a3-92e7-8802dd110c21",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Site Reliability Engineer Intern, Infrastructure Engineering",
+    "category": "Software",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/281482",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:ebcd0dd5-9d1a-4857-b0e8-d8124c4f4af9",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "SI Hardware Physical Design Engineer Intern, SI Hardware",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/281233",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:67ce063f-5de2-4402-bcb4-7c6d9c0fd731",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Engineer Intern, SI Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Fall"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/278578",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:f3f720cd-3734-4779-bd62-de14f5f13278",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/279763",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:e384b3fa-321b-46ab-8264-a33fa1436fcd",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Red Team Security Engineer Intern, Vehicle Software",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/277843",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:64d049a5-74b7-4ca7-a87b-aded7d03f060",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Fullstack Engineer Intern, Infrastructure Engineering",
+    "category": "Software",
+    "locations": [
+      "Fremont, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/281462",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:57d95069-ab51-4db1-bbc2-ccc08a95d729",
+    "source": "vanshb03",
+    "company": "Tesla",
+    "title": "Software Engineer Intern, SI Hardware Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://www.tesla.com/careers/search/job/285076",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1793660574,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
+    "uid": "lever:shieldai:ac38d092-f435-4301-880b-48d0e92679a4",
+    "source": "lever",
+    "company": "Shield AI",
+    "title": "Summer 2027 Intern - Embedded Firmware - 5810",
+    "category": "Software",
+    "locations": [
+      "Dallas, Texas"
+    ],
+    "terms": [],
+    "url": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4/apply",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793660996,
+    "first_seen": 1793662135,
+    "emailed": true
+  },
+  {
     "uid": "vanshb03:1b79cc6c-467a-4f54-bf44-40045bf07e7d",
     "source": "vanshb03",
     "company": "T-Mobile",
@@ -403,23 +1123,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:verkada:4866879007",
-    "source": "greenhouse",
-    "company": "Verkada",
-    "title": "Sales Development Representative, Internship",
-    "category": "Other",
-    "locations": [
-      "San Mateo, CA United States"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4866879007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1757425254,
-    "first_seen": 1793656515,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:verkada:4995135007",
     "source": "greenhouse",
     "company": "Verkada",
@@ -433,6 +1136,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793648776,
+    "first_seen": 1793656515,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:verkada:4866879007",
+    "source": "greenhouse",
+    "company": "Verkada",
+    "title": "Sales Development Representative, Internship",
+    "category": "Other",
+    "locations": [
+      "San Mateo, CA United States"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4866879007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1757425254,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -466,7 +1186,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656481,
+    "date_posted": 1793662008,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -483,7 +1203,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656449,
+    "date_posted": 1793661986,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -500,7 +1220,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---YE-Electrical-Failure-Analysis-Engineer_JR114538",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656449,
+    "date_posted": 1793661986,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -517,7 +1237,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656449,
+    "date_posted": 1793661986,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -534,7 +1254,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656477,
+    "date_posted": 1793662020,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -551,7 +1271,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028699",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656477,
+    "date_posted": 1793662020,
     "first_seen": 1793656515,
     "emailed": true
   },
@@ -1066,7 +1786,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237281,
+    "date_posted": 1791242808,
     "first_seen": 1793633854,
     "emailed": true
   },
@@ -1176,7 +1896,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Substrates-Materials-Engineering-Intern_JR0287929-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656481,
+    "date_posted": 1793662008,
     "first_seen": 1793598702,
     "emailed": false
   },
@@ -1661,7 +2381,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Foundry-Construction-Intern---Undergraduate_JR0288757",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656481,
+    "date_posted": 1793662008,
     "first_seen": 1793587461,
     "emailed": false
   },
@@ -2895,7 +3615,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/Manufacturing-Automation-Solution-Intern---2027_JR2028280",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793656477,
+    "date_posted": 1793662020,
     "first_seen": 1793560163,
     "emailed": false
   },
@@ -6568,7 +7288,7 @@
     ],
     "url": "https://go.vansh.nyc/13q",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793404800,
     "first_seen": 1793494874,
     "emailed": true
@@ -6855,7 +7575,7 @@
     ],
     "url": "https://go.vansh.nyc/13G",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793404800,
     "first_seen": 1793494874,
     "emailed": false
@@ -6874,7 +7594,7 @@
     ],
     "url": "https://go.vansh.nyc/13H",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793404800,
     "first_seen": 1793494874,
     "emailed": false
@@ -8502,7 +9222,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Integration---Advanced-Packaging_JR115378",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483649,
+    "date_posted": 1793489186,
     "first_seen": 1793477806,
     "emailed": false
   },
@@ -11977,7 +12697,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -11994,7 +12714,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12011,7 +12731,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12028,7 +12748,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12045,7 +12765,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12062,7 +12782,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12079,7 +12799,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/PhD-Research-Intern--Quantum-and-AI-for-Chemistry---2027_JR2024997",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12096,7 +12816,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12113,7 +12833,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12130,7 +12850,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12147,7 +12867,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12164,7 +12884,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12181,7 +12901,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12198,7 +12918,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12215,7 +12935,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12232,7 +12952,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12249,7 +12969,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026569",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12266,7 +12986,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12283,7 +13003,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12300,7 +13020,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12317,7 +13037,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Embodied-and-Agentic-AI---2027_JR2025792",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12334,7 +13054,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12351,7 +13071,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Design-Verification-Intern---Spring-2027_JR2026704",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12368,7 +13088,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---Summer-2027_JR2026499",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12385,7 +13105,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/PCIe-Design-Verification-Intern---Summer-2027_JR2026708",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12402,7 +13122,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12419,7 +13139,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12436,7 +13156,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12453,7 +13173,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12470,7 +13190,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12487,7 +13207,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12504,7 +13224,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Platform-Technical-Marketing-Engineer-Intern---Summer-2027_JR2025907",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12521,7 +13241,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12538,7 +13258,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12555,7 +13275,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12572,7 +13292,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12589,7 +13309,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/ASIC-Verification-Intern---Summer-2027_JR2027982",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12606,7 +13326,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12623,7 +13343,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12640,7 +13360,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12657,7 +13377,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12674,7 +13394,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12691,7 +13411,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12708,7 +13428,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Math-Device-Extension-Libraries-Intern---2027_JR2028206",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12725,7 +13445,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12742,7 +13462,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793408822,
     "emailed": true
   },
@@ -12759,7 +13479,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/Software-Engineering-Intern--Nsight-Systems---2026_JR2007248",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793483677,
+    "date_posted": 1793489220,
     "first_seen": 1793408822,
     "emailed": false
   },
@@ -12834,7 +13554,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793404537,
     "emailed": true
   },
@@ -12851,7 +13571,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793404537,
     "emailed": true
   },
@@ -15025,7 +15745,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-PhD-Intern_JR0288749",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397281,
+    "date_posted": 1793402808,
     "first_seen": 1793401857,
     "emailed": false
   },
@@ -15186,7 +15906,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Sales-Strategy-and-Operations-Summer-Intern_JR116055",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397249,
+    "date_posted": 1793402786,
     "first_seen": 1793394594,
     "emailed": false
   },
@@ -15528,23 +16248,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8328664",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "PhD Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377164,
-    "first_seen": 1793386205,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8328662",
     "source": "greenhouse",
     "company": "Stripe",
@@ -15560,6 +16263,23 @@
     "date_posted": 1793377168,
     "first_seen": 1793386205,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:stripe:8328664",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377164,
+    "first_seen": 1793386205,
+    "emailed": false
   },
   {
     "uid": "lever:cfsenergy:b464985c-bfc2-4efb-91db-7dd1a92f8f4b",
@@ -16617,7 +17337,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Foundry-Supply-Chain-and-Sourcing-Intern---Undergraduate_JR0288759",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397281,
+    "date_posted": 1793402808,
     "first_seen": 1793351095,
     "emailed": false
   },
@@ -17520,7 +18240,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Signal-Integrity-Intern_JR0288518",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310881,
+    "date_posted": 1793316408,
     "first_seen": 1793341370,
     "emailed": false
   },
@@ -18840,7 +19560,7 @@
     ],
     "url": "https://austincc.wd1.myworkdayjobs.com/external/job/Highland-Campus/GIS-Intern-at-ACC-Inc--Hourly-_R-10104",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793232000,
     "first_seen": 1793319364,
     "emailed": false
@@ -21079,7 +21799,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397277,
+    "date_posted": 1793402820,
     "first_seen": 1793319364,
     "emailed": true
   },
@@ -21436,7 +22156,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Armenia-Yerevan/Performance-Testing-Engineering-Intern---2027_JR2028481-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310877,
+    "date_posted": 1793316420,
     "first_seen": 1793293699,
     "emailed": false
   },
@@ -22966,7 +23686,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-Process-and-Equipment-Engineer_JR111895",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1793290674,
     "emailed": false
   },
@@ -23061,7 +23781,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/System-Level-Test-Engineer--RDSS-Intern-_JR2025554",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310877,
+    "date_posted": 1793316420,
     "first_seen": 1793281284,
     "emailed": false
   },
@@ -23078,7 +23798,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/System-Level-Product-Engineer--RDSS-Intern-_JR2024119",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310877,
+    "date_posted": 1793316420,
     "first_seen": 1793281284,
     "emailed": false
   },
@@ -23095,7 +23815,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Chip-Level-Defect-Localization-and-Failure-Analysis-Engineer---RDSS-Intern_JR2028296",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310877,
+    "date_posted": 1793316420,
     "first_seen": 1793281284,
     "emailed": false
   },
@@ -23974,7 +24694,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Wafer-Reliability_JR111154",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310849,
+    "date_posted": 1793316386,
     "first_seen": 1793255081,
     "emailed": false
   },
@@ -25748,7 +26468,7 @@
     ],
     "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793145600,
     "first_seen": 1793230714,
     "emailed": false
@@ -27671,7 +28391,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Performance-and-Power-Modeling_JR112542",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793224449,
+    "date_posted": 1793229986,
     "first_seen": 1793221208,
     "emailed": false
   },
@@ -27876,7 +28596,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Undergraduate_JR0287912",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793224481,
+    "date_posted": 1793230008,
     "first_seen": 1793214626,
     "emailed": false
   },
@@ -27893,7 +28613,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Graduate_JR0287924",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793224481,
+    "date_posted": 1793230008,
     "first_seen": 1793214626,
     "emailed": false
   },
@@ -27910,7 +28630,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Strategic-Category-Analyst_JR115962",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793224449,
+    "date_posted": 1793229986,
     "first_seen": 1793214626,
     "emailed": false
   },
@@ -27927,7 +28647,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Perf-Engineering-Intern---2027_JR2028384",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310877,
+    "date_posted": 1793316420,
     "first_seen": 1793214626,
     "emailed": false
   },
@@ -28021,7 +28741,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793224449,
+    "date_posted": 1793229986,
     "first_seen": 1793205892,
     "emailed": false
   },
@@ -28038,7 +28758,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310877,
+    "date_posted": 1793316420,
     "first_seen": 1793205892,
     "emailed": false
   },
@@ -28055,7 +28775,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310877,
+    "date_posted": 1793316420,
     "first_seen": 1793205892,
     "emailed": false
   },
@@ -28072,7 +28792,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Korea-Seoul/PhD-Researcher-Intern--World-Foundation-Models_JR2028487",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310877,
+    "date_posted": 1793316420,
     "first_seen": 1793205892,
     "emailed": false
   },
@@ -28613,7 +29333,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793224481,
+    "date_posted": 1793230008,
     "first_seen": 1793203053,
     "emailed": true
   },
@@ -29589,7 +30309,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792108800,
     "first_seen": 1793172043,
     "emailed": false
@@ -30088,7 +30808,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793224481,
+    "date_posted": 1793230008,
     "first_seen": 1793168549,
     "emailed": false
   },
@@ -32972,7 +33692,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793138049,
+    "date_posted": 1793143586,
     "first_seen": 1793126935,
     "emailed": false
   },
@@ -32989,7 +33709,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793138049,
+    "date_posted": 1793143586,
     "first_seen": 1793126935,
     "emailed": false
   },
@@ -33006,7 +33726,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793138049,
+    "date_posted": 1793143586,
     "first_seen": 1793126935,
     "emailed": true
   },
@@ -33120,7 +33840,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793138049,
+    "date_posted": 1793143586,
     "first_seen": 1793119926,
     "emailed": true
   },
@@ -33597,7 +34317,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793138049,
+    "date_posted": 1793143586,
     "first_seen": 1793118512,
     "emailed": false
   },
@@ -33614,7 +34334,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793138049,
+    "date_posted": 1793143586,
     "first_seen": 1793118512,
     "emailed": false
   },
@@ -34558,7 +35278,7 @@
     ],
     "url": "https://www.metacareers.com/jobs/1423049949381658",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793063881,
     "first_seen": 1793076751,
     "emailed": false
@@ -34968,7 +35688,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---TSE-SSD-TE_JR115162",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793138049,
+    "date_posted": 1793143586,
     "first_seen": 1793076751,
     "emailed": false
   },
@@ -40324,7 +41044,7 @@
     ],
     "url": "https://go.vansh.nyc/St",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792339604,
     "first_seen": 1793041945,
     "emailed": true
@@ -46955,7 +47675,7 @@
     ],
     "url": "https://go.vansh.nyc/H5",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791218209,
     "first_seen": 1793019007,
     "emailed": true
@@ -47316,7 +48036,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793051677,
+    "date_posted": 1793057220,
     "first_seen": 1793019007,
     "emailed": false
   },
@@ -55784,7 +56504,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792878877,
+    "date_posted": 1792884420,
     "first_seen": 1792803764,
     "emailed": false
   },
@@ -55801,7 +56521,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792878877,
+    "date_posted": 1792884420,
     "first_seen": 1792803764,
     "emailed": false
   },
@@ -58457,7 +59177,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792481,
+    "date_posted": 1792798008,
     "first_seen": 1792793002,
     "emailed": false
   },
@@ -61829,7 +62549,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792706081,
+    "date_posted": 1792711608,
     "first_seen": 1792776757,
     "emailed": false
   },
@@ -61846,7 +62566,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Graduate_JR0288230",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792481,
+    "date_posted": 1792798008,
     "first_seen": 1792776757,
     "emailed": false
   },
@@ -62543,7 +63263,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792477,
+    "date_posted": 1792798020,
     "first_seen": 1792761685,
     "emailed": false
   },
@@ -62560,7 +63280,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792477,
+    "date_posted": 1792798020,
     "first_seen": 1792761685,
     "emailed": false
   },
@@ -62577,7 +63297,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792477,
+    "date_posted": 1792798020,
     "first_seen": 1792761685,
     "emailed": false
   },
@@ -62594,7 +63314,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792477,
+    "date_posted": 1792798020,
     "first_seen": 1792761685,
     "emailed": false
   },
@@ -62611,7 +63331,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792477,
+    "date_posted": 1792798020,
     "first_seen": 1792761685,
     "emailed": false
   },
@@ -62628,7 +63348,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Reinforcement-Learning-and-World-Model-for-Autonomous-Simulation-Intern---2027_JR2028022",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792477,
+    "date_posted": 1792798020,
     "first_seen": 1792761685,
     "emailed": false
   },
@@ -63109,7 +63829,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Facilities-Electrical-Internship-program_JR0288472",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792481,
+    "date_posted": 1792798008,
     "first_seen": 1792757580,
     "emailed": false
   },
@@ -63221,7 +63941,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-HVM-Photo-PEE_JR110525",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793051649,
+    "date_posted": 1793057186,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63238,7 +63958,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Engineer-HVM-PEE-PHOTO_JR99361",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63255,7 +63975,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Component-Validation_JR115004",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63272,7 +63992,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63289,7 +64009,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Probe-Product-Engineering--Test-Mode-Integration-_JR113345",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63306,7 +64026,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Process-and-Equipment-Engineer_JR114294",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63323,7 +64043,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Planning-Strategic-Layout_JR114705",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63340,7 +64060,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/INTERN--MFG-ENGINEER_JR110956",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63357,7 +64077,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ADTS-ATI-PI_JR112258",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63374,7 +64094,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Assembly-NPI_JR112502",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63391,7 +64111,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-MFG-Implant--Bench-_JR112626",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63408,7 +64128,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63425,7 +64145,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Front-End-Materials-Procurement-Operations_JR110925",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63442,7 +64162,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63459,7 +64179,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---MSB-Automation-Engineer_JR112720",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63476,7 +64196,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10W-Singapore/Intern---Manufacturing-Dry-Etch_JR112344",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63493,7 +64213,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63510,7 +64230,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PIE-YE_JR112506",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63527,7 +64247,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---SSD-Manufacturing_JR111162",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63544,7 +64264,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-Business-Operations_JR111147",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63561,7 +64281,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---STPG-PE-NAND-Reliability_JR111498",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63578,7 +64298,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-Product-System_JR111189",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63595,7 +64315,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63612,7 +64332,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Probe-Process-Control_JR111851",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63629,7 +64349,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern--Silicon-Design-Validation-Engineer_JR111156",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63646,7 +64366,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---SSD-Validation-Engineer_JR108414",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792449,
+    "date_posted": 1792797986,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -63663,7 +64383,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1792740277,
     "emailed": true
   },
@@ -64486,7 +65206,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Facilities-Engineering-Intern--Total-Gas-Chemical-Management-_JR0288473",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792792481,
+    "date_posted": 1792798008,
     "first_seen": 1792737267,
     "emailed": false
   },
@@ -66383,7 +67103,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Business-Process-Analyst_JR115234",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792706049,
+    "date_posted": 1792711586,
     "first_seen": 1792717291,
     "emailed": false
   },
@@ -68181,7 +68901,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792706081,
+    "date_posted": 1792711608,
     "first_seen": 1792693823,
     "emailed": false
   },
@@ -68351,7 +69071,7 @@
     ],
     "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792627200,
     "first_seen": 1792683776,
     "emailed": true
@@ -68740,7 +69460,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792706081,
+    "date_posted": 1792711608,
     "first_seen": 1792676684,
     "emailed": false
   },
@@ -68757,7 +69477,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792706077,
+    "date_posted": 1792711620,
     "first_seen": 1792676684,
     "emailed": false
   },
@@ -70089,7 +70809,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-System-Firmware-Engineer--RDSS-Intern-_JR2026055",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792706077,
+    "date_posted": 1792711620,
     "first_seen": 1792646916,
     "emailed": false
   },
@@ -70106,7 +70826,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Client-System-Firmware-Engineer--RDSS-Intern-_JR2025560",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792706077,
+    "date_posted": 1792711620,
     "first_seen": 1792646916,
     "emailed": false
   },
@@ -70548,7 +71268,7 @@
     ],
     "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792540800,
     "first_seen": 1792628294,
     "emailed": true
@@ -72028,7 +72748,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619649,
+    "date_posted": 1792625186,
     "first_seen": 1792628294,
     "emailed": false
   },
@@ -73343,7 +74063,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619649,
+    "date_posted": 1792625186,
     "first_seen": 1792604599,
     "emailed": false
   },
@@ -73360,7 +74080,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Safety-Engineer_JR115035",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619649,
+    "date_posted": 1792625186,
     "first_seen": 1792604599,
     "emailed": false
   },
@@ -73377,7 +74097,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---RDA-Application-Engineer_JR115353",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619649,
+    "date_posted": 1792625186,
     "first_seen": 1792604599,
     "emailed": false
   },
@@ -73394,7 +74114,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114654",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619649,
+    "date_posted": 1792625186,
     "first_seen": 1792604599,
     "emailed": false
   },
@@ -73411,7 +74131,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---SMS-Pathfinding-Engineering_JR115034",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619649,
+    "date_posted": 1792625186,
     "first_seen": 1792604599,
     "emailed": true
   },
@@ -73888,7 +74608,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619681,
+    "date_posted": 1792625208,
     "first_seen": 1792590217,
     "emailed": false
   },
@@ -73905,7 +74625,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619681,
+    "date_posted": 1792625208,
     "first_seen": 1792590217,
     "emailed": false
   },
@@ -73941,7 +74661,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619681,
+    "date_posted": 1792625208,
     "first_seen": 1792585778,
     "emailed": false
   },
@@ -73958,7 +74678,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern---2027_JR2026972",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619677,
+    "date_posted": 1792625220,
     "first_seen": 1792585778,
     "emailed": false
   },
@@ -73975,7 +74695,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792619677,
+    "date_posted": 1792625220,
     "first_seen": 1792585778,
     "emailed": false
   },
@@ -75551,7 +76271,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533249,
+    "date_posted": 1792538786,
     "first_seen": 1792537750,
     "emailed": true
   },
@@ -75568,7 +76288,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533249,
+    "date_posted": 1792538786,
     "first_seen": 1792537750,
     "emailed": false
   },
@@ -75759,7 +76479,7 @@
     ],
     "url": "https://www.metacareers.com/jobs/2857194467985784",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792534813,
     "first_seen": 1792536267,
     "emailed": false
@@ -76778,7 +77498,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792535152,
     "emailed": true
   },
@@ -76795,7 +77515,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792535152,
     "emailed": true
   },
@@ -76812,7 +77532,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792529445,
     "emailed": false
   },
@@ -76829,7 +77549,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533249,
+    "date_posted": 1792538786,
     "first_seen": 1792525203,
     "emailed": false
   },
@@ -76846,7 +77566,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533249,
+    "date_posted": 1792538786,
     "first_seen": 1792523463,
     "emailed": false
   },
@@ -76863,7 +77583,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533249,
+    "date_posted": 1792538786,
     "first_seen": 1792523463,
     "emailed": false
   },
@@ -77165,7 +77885,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792517443,
     "emailed": false
   },
@@ -77182,7 +77902,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792517443,
     "emailed": true
   },
@@ -77199,7 +77919,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533277,
+    "date_posted": 1792538820,
     "first_seen": 1792517443,
     "emailed": false
   },
@@ -77676,7 +78396,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792508350,
     "emailed": false
   },
@@ -77731,7 +78451,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287026",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1792503678,
     "emailed": true
   },
@@ -77748,7 +78468,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792503678,
     "emailed": false
   },
@@ -77803,7 +78523,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/DFT-Design-Engineering-Intern_JR0288321",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792497800,
     "emailed": false
   },
@@ -77995,7 +78715,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288261",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792533281,
+    "date_posted": 1792538808,
     "first_seen": 1792477947,
     "emailed": false
   },
@@ -79470,7 +80190,7 @@
     ],
     "url": "https://www.metacareers.com/jobs/2267351860492630",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792449186,
     "first_seen": 1792452876,
     "emailed": false
@@ -79737,7 +80457,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446881,
+    "date_posted": 1792452408,
     "first_seen": 1792449010,
     "emailed": true
   },
@@ -79924,7 +80644,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/Facilities-Technician-Intern_JR0286923",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446881,
+    "date_posted": 1792452408,
     "first_seen": 1792446422,
     "emailed": false
   },
@@ -80035,7 +80755,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446849,
+    "date_posted": 1792452386,
     "first_seen": 1792437418,
     "emailed": true
   },
@@ -80683,7 +81403,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446881,
+    "date_posted": 1792452408,
     "first_seen": 1792431370,
     "emailed": false
   },
@@ -80948,7 +81668,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Manufacturing-Technician-Internship_JR0288176-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446881,
+    "date_posted": 1792452408,
     "first_seen": 1792407418,
     "emailed": false
   },
@@ -80965,7 +81685,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446877,
+    "date_posted": 1792452420,
     "first_seen": 1792407418,
     "emailed": false
   },
@@ -80982,7 +81702,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446877,
+    "date_posted": 1792452420,
     "first_seen": 1792407418,
     "emailed": false
   },
@@ -80999,7 +81719,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446877,
+    "date_posted": 1792452420,
     "first_seen": 1792407418,
     "emailed": false
   },
@@ -90534,7 +91254,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029-new-2027_JR0288083",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792187681,
+    "date_posted": 1792193208,
     "first_seen": 1792171304,
     "emailed": true
   },
@@ -94314,7 +95034,7 @@
     ],
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792022400,
     "first_seen": 1792106191,
     "emailed": false
@@ -95221,7 +95941,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792101281,
+    "date_posted": 1792106808,
     "first_seen": 1792076942,
     "emailed": false
   },
@@ -95238,7 +95958,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792101277,
+    "date_posted": 1792106820,
     "first_seen": 1792076942,
     "emailed": false
   },
@@ -97102,7 +97822,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineer-PhD-Intern-New-2027_JR0287951",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792014881,
+    "date_posted": 1792020408,
     "first_seen": 1792022398,
     "emailed": true
   },
@@ -97915,7 +98635,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Eng-PhD-Intern--2027_JR0288068",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792014881,
+    "date_posted": 1792020408,
     "first_seen": 1792016063,
     "emailed": true
   },
@@ -97949,7 +98669,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792014881,
+    "date_posted": 1792020408,
     "first_seen": 1792004400,
     "emailed": true
   },
@@ -98560,7 +99280,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792014881,
+    "date_posted": 1792020408,
     "first_seen": 1791985119,
     "emailed": false
   },
@@ -98577,7 +99297,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792014881,
+    "date_posted": 1792020408,
     "first_seen": 1791985119,
     "emailed": false
   },
@@ -98842,7 +99562,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792014881,
+    "date_posted": 1792020408,
     "first_seen": 1791979675,
     "emailed": false
   },
@@ -98859,7 +99579,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792014877,
+    "date_posted": 1792020420,
     "first_seen": 1791979675,
     "emailed": false
   },
@@ -98952,7 +99672,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Base-OS--RDSS-Intern-_JR2025948",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792706077,
+    "date_posted": 1792711620,
     "first_seen": 1791958546,
     "emailed": false
   },
@@ -100612,7 +101332,7 @@
     ],
     "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oOvWAfwz?nl=1&nl=1&fr=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791930020,
     "first_seen": 1791933937,
     "emailed": false
@@ -100800,7 +101520,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791928481,
+    "date_posted": 1791934008,
     "first_seen": 1791933937,
     "emailed": true
   },
@@ -100834,7 +101554,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Equipment-Engineer_JR114818",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310849,
+    "date_posted": 1793316386,
     "first_seen": 1791925946,
     "emailed": false
   },
@@ -101260,7 +101980,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791928481,
+    "date_posted": 1791934008,
     "first_seen": 1791906854,
     "emailed": false
   },
@@ -101563,7 +102283,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842081,
+    "date_posted": 1791847608,
     "first_seen": 1791877183,
     "emailed": false
   },
@@ -101773,7 +102493,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Research-Intern--Robotics---2027_JR2027628",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791928477,
+    "date_posted": 1791934020,
     "first_seen": 1791863348,
     "emailed": false
   },
@@ -101790,7 +102510,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Multi-Agent-Systems---2027_JR2027701-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791928477,
+    "date_posted": 1791934020,
     "first_seen": 1791863348,
     "emailed": false
   },
@@ -101807,7 +102527,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Planning-and-Control-Adaptation-Intern--Autonomous-Driving---2027_JR2027182",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791928477,
+    "date_posted": 1791934020,
     "first_seen": 1791863348,
     "emailed": false
   },
@@ -101824,7 +102544,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791928477,
+    "date_posted": 1791934020,
     "first_seen": 1791863348,
     "emailed": false
   },
@@ -101858,7 +102578,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/DFT-Intern---2027_JR2027176",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791928477,
+    "date_posted": 1791934020,
     "first_seen": 1791851646,
     "emailed": false
   },
@@ -101875,7 +102595,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791928477,
+    "date_posted": 1791934020,
     "first_seen": 1791851646,
     "emailed": false
   },
@@ -103360,7 +104080,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842081,
+    "date_posted": 1791847608,
     "first_seen": 1791846744,
     "emailed": true
   },
@@ -103377,7 +104097,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern_JR0287975",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842081,
+    "date_posted": 1791847608,
     "first_seen": 1791846744,
     "emailed": true
   },
@@ -103394,7 +104114,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842049,
+    "date_posted": 1791847586,
     "first_seen": 1791846744,
     "emailed": false
   },
@@ -103411,7 +104131,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842049,
+    "date_posted": 1791847586,
     "first_seen": 1791846744,
     "emailed": false
   },
@@ -103481,7 +104201,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842049,
+    "date_posted": 1791847586,
     "first_seen": 1791827237,
     "emailed": false
   },
@@ -103764,7 +104484,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineering-Intern--GPU-and-SOC---Summer-2027_JR2026406",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842077,
+    "date_posted": 1791847620,
     "first_seen": 1791820941,
     "emailed": false
   },
@@ -103781,7 +104501,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-Agent-Test-Development---2027_JR2027477",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842077,
+    "date_posted": 1791847620,
     "first_seen": 1791790164,
     "emailed": false
   },
@@ -103798,7 +104518,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/MLOps-Physical-AI-Data-Intern---2027_JR2026544",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842077,
+    "date_posted": 1791847620,
     "first_seen": 1791789443,
     "emailed": false
   },
@@ -103815,7 +104535,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Robotics-Software-Intern--Humanoid-Robotics---2027_JR2026758",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842077,
+    "date_posted": 1791847620,
     "first_seen": 1791789443,
     "emailed": false
   },
@@ -103832,7 +104552,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Business-Development-Management-Intern---2027_JR2026580",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842077,
+    "date_posted": 1791847620,
     "first_seen": 1791789443,
     "emailed": false
   },
@@ -103849,7 +104569,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DGX-Cloud-Test-Development---2027_JR2027480-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842077,
+    "date_posted": 1791847620,
     "first_seen": 1791789443,
     "emailed": false
   },
@@ -103866,7 +104586,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--AI-CI-CD-Infrastructure---2027_JR2026869",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842077,
+    "date_posted": 1791847620,
     "first_seen": 1791789443,
     "emailed": false
   },
@@ -103883,7 +104603,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Intern---2027_JR2026880",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842077,
+    "date_posted": 1791847620,
     "first_seen": 1791789443,
     "emailed": false
   },
@@ -108642,7 +109362,7 @@
     ],
     "url": "https://jobs.lever.co/evr/f99e042d-7629-4822-b82f-521b6bdc1db3/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791584010,
     "first_seen": 1791588936,
     "emailed": false
@@ -109389,7 +110109,7 @@
     ],
     "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/New-York-NY-USA/Marketing-Internship--Marketing-Analysis_R-70007-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791504000,
     "first_seen": 1791588936,
     "emailed": false
@@ -110061,7 +110781,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791582881,
+    "date_posted": 1791588408,
     "first_seen": 1791579854,
     "emailed": false
   },
@@ -110078,7 +110798,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791582849,
+    "date_posted": 1791588386,
     "first_seen": 1791579094,
     "emailed": true
   },
@@ -110941,7 +111661,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Fab-Equipment-Maintenance-Technician_JR114722",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446849,
+    "date_posted": 1792452386,
     "first_seen": 1791553881,
     "emailed": false
   },
@@ -111129,7 +111849,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791582877,
+    "date_posted": 1791588420,
     "first_seen": 1791536119,
     "emailed": false
   },
@@ -111146,7 +111866,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791582877,
+    "date_posted": 1791588420,
     "first_seen": 1791536119,
     "emailed": false
   },
@@ -113523,7 +114243,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791496481,
+    "date_posted": 1791502008,
     "first_seen": 1791490447,
     "emailed": true
   },
@@ -113540,7 +114260,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791496481,
+    "date_posted": 1791502008,
     "first_seen": 1791490447,
     "emailed": true
   },
@@ -114256,7 +114976,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Compiler-Engineering-Intern_JR0287941",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791496481,
+    "date_posted": 1791502008,
     "first_seen": 1791468370,
     "emailed": false
   },
@@ -114273,7 +114993,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791496481,
+    "date_posted": 1791502008,
     "first_seen": 1791468370,
     "emailed": false
   },
@@ -114290,7 +115010,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791496481,
+    "date_posted": 1791502008,
     "first_seen": 1791468370,
     "emailed": false
   },
@@ -114307,7 +115027,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Validation-Engineer--RDSS-Intern-_JR2026767",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791496477,
+    "date_posted": 1791502020,
     "first_seen": 1791468370,
     "emailed": false
   },
@@ -114800,7 +115520,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791496481,
+    "date_posted": 1791502008,
     "first_seen": 1791424228,
     "emailed": false
   },
@@ -117245,7 +117965,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791410081,
+    "date_posted": 1791415608,
     "first_seen": 1791391247,
     "emailed": true
   },
@@ -118170,7 +118890,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791410081,
+    "date_posted": 1791415608,
     "first_seen": 1791384467,
     "emailed": false
   },
@@ -118187,7 +118907,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791410081,
+    "date_posted": 1791415608,
     "first_seen": 1791384467,
     "emailed": false
   },
@@ -120315,23 +121035,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:lucidsoftware:5633294004",
-    "source": "greenhouse",
-    "company": "Lucid Software",
-    "title": "Customer Operations Intern - Part-Time 2026",
-    "category": "Software",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5633294004",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1756408961,
-    "first_seen": 1791322591,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:lucidsoftware:6135271004",
     "source": "greenhouse",
     "company": "Lucid Software",
@@ -120345,6 +121048,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1786107691,
+    "first_seen": 1791322591,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:lucidsoftware:5633294004",
+    "source": "greenhouse",
+    "company": "Lucid Software",
+    "title": "Customer Operations Intern - Part-Time 2026",
+    "category": "Software",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5633294004",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1756408961,
     "first_seen": 1791322591,
     "emailed": true
   },
@@ -120395,7 +121115,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791323681,
+    "date_posted": 1791329208,
     "first_seen": 1791307166,
     "emailed": true
   },
@@ -122835,7 +123555,7 @@
     ],
     "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement--Queens-University-Only-_R-01418",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791244800,
     "first_seen": 1791281293,
     "emailed": false
@@ -122929,7 +123649,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Data-Center-Compute-Software-Tools--RDSS-Intern-_JR2025645",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791323677,
+    "date_posted": 1791329220,
     "first_seen": 1791281293,
     "emailed": false
   },
@@ -123299,7 +124019,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791323677,
+    "date_posted": 1791329220,
     "first_seen": 1791255318,
     "emailed": false
   },
@@ -125010,7 +125730,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Architecture--HBM_JR114300",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237249,
+    "date_posted": 1791242786,
     "first_seen": 1791239641,
     "emailed": true
   },
@@ -125027,7 +125747,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Next-Gen-HBM-Platform-Arch_JR112993",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237249,
+    "date_posted": 1791242786,
     "first_seen": 1791217594,
     "emailed": true
   },
@@ -125044,7 +125764,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237249,
+    "date_posted": 1791242786,
     "first_seen": 1791217594,
     "emailed": false
   },
@@ -125078,7 +125798,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Next-Generation-HBM-Architecture_JR112185",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237249,
+    "date_posted": 1791242786,
     "first_seen": 1791216743,
     "emailed": true
   },
@@ -125095,7 +125815,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/GPU-Compiler-LLVM-Backend-Intern---2027_JR2026567",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791323677,
+    "date_posted": 1791329220,
     "first_seen": 1791216743,
     "emailed": false
   },
@@ -125470,7 +126190,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842081,
+    "date_posted": 1791847608,
     "first_seen": 1791215707,
     "emailed": false
   },
@@ -125487,7 +126207,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SSD-Architecture-Modeling_JR113803",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237249,
+    "date_posted": 1791242786,
     "first_seen": 1791215707,
     "emailed": false
   },
@@ -125504,7 +126224,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237277,
+    "date_posted": 1791242820,
     "first_seen": 1791215707,
     "emailed": false
   },
@@ -125521,7 +126241,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Tools-and-Methodology-Engineer--CAD-DFT--RDSS-Intern-_JR2026887",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237277,
+    "date_posted": 1791242820,
     "first_seen": 1791215707,
     "emailed": false
   },
@@ -125538,7 +126258,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237277,
+    "date_posted": 1791242820,
     "first_seen": 1791215707,
     "emailed": false
   },
@@ -125555,7 +126275,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791237277,
+    "date_posted": 1791242820,
     "first_seen": 1791215707,
     "emailed": false
   },
@@ -128430,7 +129150,7 @@
     ],
     "url": "https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789348713,
     "first_seen": 1791119396,
     "emailed": false
@@ -133717,23 +134437,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:8001399003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Littleton, CO"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790966233,
-    "first_seen": 1790966707,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7992752003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -133751,19 +134454,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7992754003",
+    "uid": "greenhouse:rocketlab:8001399003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Summer 2027",
+    "title": "Government Operations Intern Spring 2027",
     "category": "Software",
     "locations": [
-      "Washington, DC"
+      "Littleton, CO"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992754003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1790966530,
+    "date_posted": 1790966233,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -133781,6 +134484,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790966553,
+    "first_seen": 1790966707,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7992754003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Government Operations Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Washington, DC"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992754003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790966530,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -138872,7 +139592,7 @@
     ],
     "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Morris-Plains-NJ/Product-Analytics-Summer-Intern---Start-Date--May-24--2027_26010180",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790812800,
     "first_seen": 1790896014,
     "emailed": false
@@ -139230,7 +139950,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1790892071,
     "emailed": true
   },
@@ -139247,7 +139967,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1790892071,
     "emailed": false
   },
@@ -139521,7 +140241,7 @@
     "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064514,
+    "date_posted": 1791070135,
     "first_seen": 1790880589,
     "emailed": false
   },
@@ -140822,7 +141542,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---DRAM-ARCHITECTURE_JR113295",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1790841121,
     "emailed": false
   },
@@ -144018,7 +144738,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446849,
+    "date_posted": 1792452386,
     "first_seen": 1790795351,
     "emailed": false
   },
@@ -144510,7 +145230,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1790793466,
     "emailed": false
   },
@@ -144565,7 +145285,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790776543,
     "emailed": false
   },
@@ -144582,7 +145302,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790776543,
     "emailed": false
   },
@@ -144599,7 +145319,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790776543,
     "emailed": false
   },
@@ -145218,7 +145938,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790752829,
     "emailed": false
   },
@@ -145772,7 +146492,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---Test-Engineering_JR112675",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1790748155,
     "emailed": false
   },
@@ -147037,23 +147757,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:block:5108007008",
-    "source": "greenhouse",
-    "company": "Block",
-    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
-    "category": "Software",
-    "locations": [
-      "Bay Area, CA, United States of America"
-    ],
-    "terms": [],
-    "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1781034126,
-    "first_seen": 1790727653,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:block:5108009008",
     "source": "greenhouse",
     "company": "Block",
@@ -147069,6 +147772,23 @@
     "date_posted": 1781034539,
     "first_seen": 1790727653,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:block:5108007008",
+    "source": "greenhouse",
+    "company": "Block",
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+    "category": "Software",
+    "locations": [
+      "Bay Area, CA, United States of America"
+    ],
+    "terms": [],
+    "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1781034126,
+    "first_seen": 1790727653,
+    "emailed": true
   },
   {
     "uid": "simplify:c15b6c17-1727-4aaf-8fe1-537a96872d7b",
@@ -147922,7 +148642,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/DFT-Engineer--RDSS-Intern----2027_JR2026180",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790672809,
     "emailed": false
   },
@@ -147939,7 +148659,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790672809,
     "emailed": false
   },
@@ -147956,7 +148676,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Development-Intern---2027_JR2026298",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790672419,
     "emailed": false
   },
@@ -148595,23 +149315,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:waymo:8234553",
-    "source": "greenhouse",
-    "company": "Waymo",
-    "title": "2027 Summer Intern, BS, Depot Automation",
-    "category": "Software",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "terms": [],
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790624052,
-    "first_seen": 1790632389,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:waymo:8237997",
     "source": "greenhouse",
     "company": "Waymo",
@@ -148658,7 +149361,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Signal-Integrity_JR112692",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1790632389,
     "emailed": false
   },
@@ -148675,7 +149378,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1790632389,
     "emailed": true
   },
@@ -148787,7 +149490,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790608840,
     "emailed": false
   },
@@ -148999,7 +149702,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Managed-Language-Compiler-Engineering-Intern---2027_JR2026437",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790577775,
     "emailed": false
   },
@@ -149016,7 +149719,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infra-Development-Intern---2027_JR2026402",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790577775,
     "emailed": false
   },
@@ -155858,7 +156561,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1790374496,
     "emailed": true
   },
@@ -155875,7 +156578,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1790374496,
     "emailed": true
   },
@@ -156848,7 +157551,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Finance-Intern_JR0287472",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1790322103,
     "emailed": false
   },
@@ -160821,7 +161524,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Finance-Intern_JR0287470",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1790243718,
     "emailed": false
   },
@@ -163934,7 +164637,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Category-Supplier-Management_JR112709",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1790194460,
     "emailed": false
   },
@@ -165541,7 +166244,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790142761,
     "emailed": false
   },
@@ -165558,7 +166261,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790142761,
     "emailed": false
   },
@@ -165575,7 +166278,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790142761,
     "emailed": false
   },
@@ -165592,7 +166295,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Development-Intern--TensorRT-LLM---2027_JR2026160",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790142761,
     "emailed": false
   },
@@ -165609,7 +166312,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790142761,
     "emailed": false
   },
@@ -165626,7 +166329,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790142761,
     "emailed": false
   },
@@ -167527,6 +168230,23 @@
     "emailed": true
   },
   {
+    "uid": "lever:hermeus:ee3a4109-b6e7-4ed5-8981-a483b3936e5a",
+    "source": "lever",
+    "company": "Hermeus",
+    "title": "Build Reliability Engineering Intern - Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [],
+    "url": "https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a/apply",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790089789,
+    "first_seen": 1790102884,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:spacex:8621770002",
     "source": "greenhouse",
     "company": "SpaceX",
@@ -167661,23 +168381,6 @@
     "date_posted": 1785778879,
     "first_seen": 1790102884,
     "emailed": false
-  },
-  {
-    "uid": "lever:hermeus:ee3a4109-b6e7-4ed5-8981-a483b3936e5a",
-    "source": "lever",
-    "company": "Hermeus",
-    "title": "Build Reliability Engineering Intern - Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790089789,
-    "first_seen": 1790102884,
-    "emailed": true
   },
   {
     "uid": "simplify:4f096c73-afae-450f-b903-ace71c84d47f",
@@ -167920,7 +168623,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1790070770,
     "emailed": false
   },
@@ -169271,7 +169974,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242180007",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790029857,
     "first_seen": 1790032427,
     "emailed": false
@@ -171023,7 +171726,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791582849,
+    "date_posted": 1791588386,
     "first_seen": 1790018416,
     "emailed": false
   },
@@ -171040,7 +171743,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Category-Supplier-Management_JR110910",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1790018416,
     "emailed": false
   },
@@ -173122,7 +173825,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789949428,
     "emailed": false
   },
@@ -173311,7 +174014,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789919951,
     "emailed": false
   },
@@ -175568,7 +176271,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Vietnam-Ho_Chi_Minh_City/Facilities-Engineering-Intern_JR0287227",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175585,7 +176288,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175602,7 +176305,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175619,7 +176322,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Technical-Sales---Intern--Graduate_JR0286831",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175636,7 +176339,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Bachelor-s_JR0286826",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175653,7 +176356,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Technical-Sales---Intern--Bachelor-s_JR0286835",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175670,7 +176373,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Graduate_JR0286839",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175687,7 +176390,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Bachelor-s_JR0286838",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175704,7 +176407,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175721,7 +176424,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175738,7 +176441,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175755,7 +176458,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Module-Engineer-Internship_JR0287294",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175772,7 +176475,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Graduate_JR0286833",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175789,7 +176492,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Bachelor-s_JR0286825",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175806,7 +176509,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": true
   },
@@ -175823,7 +176526,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": true
   },
@@ -175840,7 +176543,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175857,7 +176560,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": true
   },
@@ -175874,7 +176577,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-New-Mexico-Albuquerque/New-Mexico-WPM-Manufacturing-Technician-Internship_JR0285454",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793397281,
+    "date_posted": 1793402808,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175891,7 +176594,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175908,7 +176611,7 @@
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064481,
+    "date_posted": 1791070008,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175925,7 +176628,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793310849,
+    "date_posted": 1793316386,
     "first_seen": 1789811138,
     "emailed": true
   },
@@ -175942,7 +176645,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Validation_JR111823",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792446849,
+    "date_posted": 1792452386,
     "first_seen": 1789811138,
     "emailed": true
   },
@@ -175959,7 +176662,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-IP-Development-Layout--Internship-_JR108219",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791842049,
+    "date_posted": 1791847586,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175976,7 +176679,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Category-Supply-Management_JR110644",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791582849,
+    "date_posted": 1791588386,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -175993,7 +176696,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176010,7 +176713,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": true
   },
@@ -176027,7 +176730,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/DOW-SkillsBridge-Intern---Semiconductor-Equipment-Technician_JR108935",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176044,7 +176747,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176061,7 +176764,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176078,7 +176781,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": true
   },
@@ -176095,7 +176798,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--Technician--Process_JR112005",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176112,7 +176815,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": true
   },
@@ -176129,7 +176832,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MTI---WASHINGTON--DC---25-Mass---Office/Intern---Global-Communications-Policy-Comms_JR109462",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176146,7 +176849,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/XMLNAME-2027-Semester-Internship_JR110924",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176163,7 +176866,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Rules_JR110670",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176180,7 +176883,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--Equipment-Technician_JR111002",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176197,7 +176900,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---EUV-Lithography_JR107843",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176214,7 +176917,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176231,7 +176934,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176248,7 +176951,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Realtime-Defect-Analysis--RDA--Yield-Technology_JR109054",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176265,7 +176968,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176282,7 +176985,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Intern-2027---DRAM-Customer-Enablement-Engineering_JR107783",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176299,7 +177002,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176316,7 +177019,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064449,
+    "date_posted": 1791069986,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176333,7 +177036,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Custom-SOC-Intern---2027_JR2024692",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176350,7 +177053,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176367,7 +177070,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176384,7 +177087,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176401,7 +177104,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---GPU-and-SOC--2027-RDSS-Intern-_JR2023628",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176418,7 +177121,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Artificial-Intelligence-Research-Intern---Deep-Learning_JR2023646",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176435,7 +177138,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Deep-Learning-Software-Engineering-Intern--Test-Development---2027_JR2023656",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176452,7 +177155,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern--Aerial---2027_JR2023852",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176469,7 +177172,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/SWQA-Test-Development-Intern--GPU-Communications-Libraries---2027_JR2023690",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176486,7 +177189,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Developer-Intern---2027_JR2023654",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176503,7 +177206,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-QA-Intern--Spark-Rapids----2027_JR2023655",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176520,7 +177223,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--CUDA-Test-Development---2027_JR2023645",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176537,7 +177240,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Test-Development-Software-Engineering-Intern---2027_JR2023632",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176554,7 +177257,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176571,7 +177274,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Enterprise-Software-Test-Development-Engineer--RDSS-Intern-_JR2023913",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176588,7 +177291,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176605,7 +177308,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176622,7 +177325,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-Power-Management--RDSS-Intern-_JR2023967",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176639,7 +177342,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Engineer--RDSS-Intern-_JR2024046",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176656,7 +177359,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineering-Intern--Networking-Chip-Design---2027_JR2023920-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176673,7 +177376,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Intern---2027_JR2024050",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176690,7 +177393,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791496477,
+    "date_posted": 1791502020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176707,7 +177410,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Intern---2027_JR2023914",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176724,7 +177427,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176741,7 +177444,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176758,7 +177461,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176775,7 +177478,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Diagnostic-Network-Software-Engineer--RDSS-Intern-_JR2024300",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176792,7 +177495,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer--RDSS-Intern-_JR2024500",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176809,7 +177512,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Android-Software-Engineer--RDSS-Intern-_JR2024408",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176826,7 +177529,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176843,7 +177546,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Design-Verification-Engineer--RDSS-Intern-_JR2024681",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176860,7 +177563,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176877,7 +177580,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/TPC-Arch-Intern--GPU-SM---2027_JR2024486",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176894,7 +177597,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Design-and-Verification-Intern--SOC---2027_JR2024860",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176911,7 +177614,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176928,7 +177631,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Circuit-Validation-Engineer-Intern---2027_JR2024949",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176945,7 +177648,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/SOC-Design-Team-Methodology-Intern---2027_JR2024861",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176962,7 +177665,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Accelerated-Compute-Systems-Performance-Architect-Intern---2027_JR2024823",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176979,7 +177682,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Tool-Development-Intern---2027_JR2025040",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -176996,7 +177699,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Post-Silicon-Validation-Intern---2027_JR2025052",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177013,7 +177716,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177030,7 +177733,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177047,7 +177750,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177064,7 +177767,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Application-Engineer--RDSS-Intern-_JR2025314",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177081,7 +177784,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Silicon-Co-design-Intern---2027_JR2025055-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177098,7 +177801,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVTHERM-SoC-Verification-Intern--Tegra---2027_JR2025425",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177115,7 +177818,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Physical-Design-Engineer--RDSS-Intern-_JR2025027",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177132,7 +177835,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/VLSI-Physical-Design-CAD-Intern---Summer-2027_JR2025048",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177149,7 +177852,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Architecture-Energy-Modeling-Engineering-Intern---2027_JR2025424",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177166,7 +177869,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Humanoid-Robot-Learning-Intern--Isaac-Loco-Manipulation---2027_JR2025542",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177183,7 +177886,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Power-Analysis-and-Optimization-Intern---2027_JR2025535",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177200,7 +177903,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Server-Firmware-Developer--RDSS-Intern-_JR2025558",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177217,7 +177920,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Firmware-Application-Engineer--RDSS-Intern-_JR2024884",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177234,7 +177937,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -177251,7 +177954,7 @@
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1791064477,
+    "date_posted": 1791070020,
     "first_seen": 1789811138,
     "emailed": false
   },
@@ -187709,19 +188412,23 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:spacex:8621763002",
-    "source": "greenhouse",
+    "uid": "simplify:36c3e2e6-475a-4ffb-adad-e6d9a2dcc94e",
+    "source": "simplify",
     "company": "SpaceX",
-    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
-    "category": "Software",
+    "title": "Silicon Engineer Intern/Co-op",
+    "category": "Hardware",
     "locations": [
-      "Flexible - Any SpaceX Site"
+      "Palo Alto, CA",
+      "Irvine, CA",
+      "Redmond, WA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002",
-    "sponsorship": null,
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8621763002",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1785778939,
+    "date_posted": 1785796282,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -190685,21 +191392,21 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:dvtrading:4732700005",
+    "uid": "greenhouse:dvtrading:4732697005",
     "source": "greenhouse",
     "company": "DV Trading",
     "title": "Client Platforms Engineer Intern - Summer 2027",
     "category": "Software",
     "locations": [
-      "London"
+      "New York"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789049470,
+    "date_posted": 1789049314,
     "first_seen": 1789665337,
-    "emailed": false
+    "emailed": true
   },
   {
     "uid": "greenhouse:dvtrading:4732683005",
@@ -190719,21 +191426,21 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:dvtrading:4732697005",
+    "uid": "greenhouse:dvtrading:4732700005",
     "source": "greenhouse",
     "company": "DV Trading",
     "title": "Client Platforms Engineer Intern - Summer 2027",
     "category": "Software",
     "locations": [
-      "New York"
+      "London"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789049314,
+    "date_posted": 1789049470,
     "first_seen": 1789665337,
-    "emailed": true
+    "emailed": false
   },
   {
     "uid": "greenhouse:dvtrading:4730886005",
@@ -190923,23 +191630,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:epicgames:6174265004",
-    "source": "greenhouse",
-    "company": "Epic Games",
-    "title": "Web Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Novi Sad,Vojvodina,Serbia"
-    ],
-    "terms": [],
-    "url": "https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1787959753,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:epicgames:6163851004",
     "source": "greenhouse",
     "company": "Epic Games",
@@ -190953,6 +191643,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1787959751,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:epicgames:6174265004",
+    "source": "greenhouse",
+    "company": "Epic Games",
+    "title": "Web Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Novi Sad,Vojvodina,Serbia"
+    ],
+    "terms": [],
+    "url": "https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1787959753,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -191006,23 +191713,6 @@
     "date_posted": 1787156367,
     "first_seen": 1789665337,
     "emailed": false
-  },
-  {
-    "uid": "greenhouse:flyzipline:7986810003",
-    "source": "greenhouse",
-    "company": "Zipline ",
-    "title": "Aircraft Software Integration Intern (Spring 2027)",
-    "category": "Software",
-    "locations": [
-      "South San Francisco, California, USA"
-    ],
-    "terms": [],
-    "url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788547269,
-    "first_seen": 1789665337,
-    "emailed": true
   },
   {
     "uid": "greenhouse:flyzipline:7986848003",
@@ -192334,23 +193024,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027946",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus C++ Software Engineer (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740402,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8027860",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -192364,6 +193037,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788491267,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027946",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus C++ Software Engineer (Intern)",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785740402,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -192419,23 +193109,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027939",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Researcher (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740420,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8027900",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -192466,6 +193139,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783946183,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027939",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Researcher (Intern)",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785740420,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -192572,23 +193262,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027941",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Trader (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740424,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8027922",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -192602,6 +193275,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1787557366,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027941",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Trader (Intern)",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785740424,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -193456,23 +194146,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7989995003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Mechanical Engineering Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Silver Spring, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989995003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789585408,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7985634003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -193486,6 +194159,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789355729,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7989995003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Mechanical Engineering Intern Spring 2027",
+    "category": "Other",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989995003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789585408,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -193507,23 +194197,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7989904003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Mechanical Engineering Intern Summer 2027",
-    "category": "Other",
-    "locations": [
-      "Silver Spring, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789585428,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7991769003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -193537,6 +194210,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789134006,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7989904003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Mechanical Engineering Intern Summer 2027",
+    "category": "Other",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789585428,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -193643,23 +194333,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7986959003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Wallops Island, VA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986959003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591342,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7986872003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -193694,6 +194367,23 @@
     "emailed": true
   },
   {
+    "uid": "greenhouse:rocketlab:7986959003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Wallops Island, VA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986959003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591342,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:rocketlab:7986965003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -193707,40 +194397,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789601098,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:rocketlab:7986956003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591367,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:rocketlab:7986874003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Albuquerque, NM"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591406,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -193775,6 +194431,40 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789591388,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986956003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591367,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986874003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591406,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -194119,23 +194809,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:towerresearchcapital:8138524",
-    "source": "greenhouse",
-    "company": "Tower Research Capital",
-    "title": "Quantitative Developer Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1787036559,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:towerresearchcapital:7011493",
     "source": "greenhouse",
     "company": "Tower Research Capital",
@@ -194149,6 +194822,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1750874239,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:towerresearchcapital:8138524",
+    "source": "greenhouse",
+    "company": "Tower Research Capital",
+    "title": "Quantitative Developer Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1787036559,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -200124,7 +200814,7 @@
     ],
     "url": "https://jobs.keysight.com/jobs/54276?icims=1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789510243,
     "first_seen": 1789514229,
     "emailed": false
@@ -202194,23 +202884,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8130883",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788759860,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8130867",
     "source": "greenhouse",
     "company": "Stripe",
@@ -202241,6 +202914,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783661632,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130883",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788759860,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -205334,7 +206024,7 @@
     ],
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/AI---Data-Analytics-Intern----Supply-Resilience_R68261",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789344000,
     "first_seen": 1789420079,
     "emailed": false
@@ -223058,7 +223748,7 @@
     ],
     "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788993284,
     "first_seen": 1788999048,
     "emailed": true
@@ -231866,23 +232556,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:datadog:8114186",
-    "source": "greenhouse",
-    "company": "Datadog",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Paris, France"
-    ],
-    "terms": [],
-    "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788876406,
-    "first_seen": 1788877835,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:datadog:8114161",
     "source": "greenhouse",
     "company": "Datadog",
@@ -231896,6 +232569,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788876269,
+    "first_seen": 1788877835,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:datadog:8114186",
+    "source": "greenhouse",
+    "company": "Datadog",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Paris, France"
+    ],
+    "terms": [],
+    "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788876406,
     "first_seen": 1788877835,
     "emailed": false
   },
@@ -233168,7 +233858,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788790463,
     "first_seen": 1788798502,
     "emailed": false
@@ -242519,7 +243209,7 @@
     ],
     "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oQsIAfwk?nl=1&nl=1&fr=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787873765,
     "first_seen": 1788531668,
     "emailed": false
@@ -262686,7 +263376,7 @@
     ],
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788220800,
     "first_seen": 1788305947,
     "emailed": false
@@ -303551,7 +304241,7 @@
     ],
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1785968136,
     "first_seen": 1785971605,
     "emailed": false
@@ -306133,19 +306823,28 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:spacex:8621757002",
-    "source": "greenhouse",
+    "uid": "simplify:6339287b-3f1f-45ea-964d-65549925660a",
+    "source": "simplify",
     "company": "SpaceX",
-    "title": "Summer 2027 Software Engineering Internship/Co-op",
+    "title": "Software Engineering Intern/Co-op",
     "category": "Software",
     "locations": [
-      "Flexible - Any SpaceX Site"
+      "Palo Alto, CA",
+      "Bastrop, TX",
+      "Irvine, CA",
+      "Cape Canaveral, FL",
+      "Brownsville, TX",
+      "Redmond, WA",
+      "McGregor, TX",
+      "Hawthorne, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
-    "sponsorship": null,
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1785778900,
+    "date_posted": 1785796283,
     "first_seen": 1785799895,
     "emailed": true
   },
@@ -306169,36 +306868,49 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:spacex:8621756002",
-    "source": "greenhouse",
+    "uid": "simplify:9bf4727a-804d-4ee8-8c44-0eeec2960987",
+    "source": "simplify",
     "company": "SpaceX",
-    "title": "Spring 2027 Software Engineering Internship/Co-op",
+    "title": "Software Engineer Intern/Co-op",
     "category": "Software",
     "locations": [
-      "Flexible - Any SpaceX Site"
+      "Palo Alto, CA",
+      "Bastrop, TX",
+      "Irvine, CA",
+      "Cape Canaveral, FL",
+      "Brownsville, TX",
+      "Redmond, WA",
+      "McGregor, TX",
+      "Hawthorne, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
-    "sponsorship": null,
+    "terms": [
+      "Spring 2027"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8621756002",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1785778010,
+    "date_posted": 1785796189,
     "first_seen": 1785799895,
     "emailed": true
   },
   {
-    "uid": "greenhouse:spacex:8636134002",
-    "source": "greenhouse",
+    "uid": "simplify:92effc23-8bc6-4592-b34f-08926569140b",
+    "source": "simplify",
     "company": "SpaceX",
-    "title": "Spring 2027 Silicon Engineering Internship/Co-op",
-    "category": "Software",
+    "title": "Silicon Engineer Intern/Co-op",
+    "category": "Hardware",
     "locations": [
-      "Flexible - Any SpaceX Site"
+      "Palo Alto, CA",
+      "Irvine, CA",
+      "Redmond, WA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002",
-    "sponsorship": null,
+    "terms": [
+      "Spring 2027"
+    ],
+    "url": "https://boards.greenhouse.io/spacex/jobs/8636134002",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1785778050,
+    "date_posted": 1785796193,
     "first_seen": 1785799895,
     "emailed": false
   },
@@ -315006,7 +315718,7 @@
     ],
     "url": "https://go.vansh.nyc/3w",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784878893,
     "first_seen": 1784879759,
     "emailed": true
@@ -320338,7 +321050,7 @@
     ],
     "url": "https://go.vansh.nyc/D",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1755262300,
     "first_seen": 1784355847,
     "emailed": true
@@ -320357,7 +321069,7 @@
     ],
     "url": "https://go.vansh.nyc/N",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1755809613,
     "first_seen": 1784355847,
     "emailed": true
@@ -320376,7 +321088,7 @@
     ],
     "url": "https://go.vansh.nyc/2m",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778313299,
     "first_seen": 1784355847,
     "emailed": true
@@ -320395,7 +321107,7 @@
     ],
     "url": "https://go.vansh.nyc/2l",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778313296,
     "first_seen": 1784355847,
     "emailed": true
@@ -320414,7 +321126,7 @@
     ],
     "url": "https://go.vansh.nyc/M",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1755809606,
     "first_seen": 1784355847,
     "emailed": true
@@ -320433,7 +321145,7 @@
     ],
     "url": "https://go.vansh.nyc/s",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1754666230,
     "first_seen": 1784355847,
     "emailed": true
@@ -320471,7 +321183,7 @@
     ],
     "url": "https://go.vansh.nyc/X",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1758679362,
     "first_seen": 1784355847,
     "emailed": true
@@ -320490,7 +321202,7 @@
     ],
     "url": "https://go.vansh.nyc/2n",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778313304,
     "first_seen": 1784355847,
     "emailed": true
@@ -320511,7 +321223,7 @@
     ],
     "url": "https://go.vansh.nyc/o",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1754199929,
     "first_seen": 1784355847,
     "emailed": true
@@ -320530,7 +321242,7 @@
     ],
     "url": "https://go.vansh.nyc/13",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1761828905,
     "first_seen": 1784355847,
     "emailed": true
@@ -320549,7 +321261,7 @@
     ],
     "url": "https://go.vansh.nyc/t",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1754666235,
     "first_seen": 1784355847,
     "emailed": true
@@ -320682,7 +321394,7 @@
     ],
     "url": "https://go.vansh.nyc/p",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1754199933,
     "first_seen": 1784355847,
     "emailed": true
@@ -320701,7 +321413,7 @@
     ],
     "url": "https://go.vansh.nyc/q",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1754666209,
     "first_seen": 1784355847,
     "emailed": true
@@ -320720,7 +321432,7 @@
     ],
     "url": "https://go.vansh.nyc/r",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1754666224,
     "first_seen": 1784355847,
     "emailed": true
@@ -320739,7 +321451,7 @@
     ],
     "url": "https://go.vansh.nyc/u",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1754666243,
     "first_seen": 1784355847,
     "emailed": true
@@ -320818,7 +321530,7 @@
     ],
     "url": "https://go.vansh.nyc/y",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1754805657,
     "first_seen": 1784355847,
     "emailed": true
@@ -320838,7 +321550,7 @@
     ],
     "url": "https://go.vansh.nyc/z",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1755091306,
     "first_seen": 1784355847,
     "emailed": true
@@ -320857,7 +321569,7 @@
     ],
     "url": "https://go.vansh.nyc/A",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1755091317,
     "first_seen": 1784355847,
     "emailed": true
@@ -320876,7 +321588,7 @@
     ],
     "url": "https://go.vansh.nyc/B",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1755262283,
     "first_seen": 1784355847,
     "emailed": true
@@ -320895,7 +321607,7 @@
     ],
     "url": "https://go.vansh.nyc/C",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1755262291,
     "first_seen": 1784355847,
     "emailed": true
@@ -321144,7 +321856,7 @@
     ],
     "url": "https://go.vansh.nyc/S",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1756538056,
     "first_seen": 1784355847,
     "emailed": true
@@ -321163,7 +321875,7 @@
     ],
     "url": "https://go.vansh.nyc/T",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1757658863,
     "first_seen": 1784355847,
     "emailed": true
@@ -321360,7 +322072,7 @@
     ],
     "url": "https://go.vansh.nyc/14",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1761828908,
     "first_seen": 1784355847,
     "emailed": true
@@ -321834,7 +322546,7 @@
     ],
     "url": "https://go.vansh.nyc/1E",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1776727865,
     "first_seen": 1784355847,
     "emailed": true
@@ -322247,7 +322959,7 @@
     ],
     "url": "https://go.vansh.nyc/2k",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778312578,
     "first_seen": 1784355847,
     "emailed": true
@@ -423502,7 +424214,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/virtu/jobs/8142539002",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782512345,
     "first_seen": 1784003708,
     "emailed": true
