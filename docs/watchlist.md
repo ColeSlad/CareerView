@@ -1,6 +1,8 @@
 # Company polling catalog
 
-Verified and expanded on **September 17, 2026**. **459 companies**, up from 92.
+**472 companies** as of **November 9, 2026**. The September 17 baseline contains
+459 companies, up from 92; the [November startup expansion](startups.md) adds 13
+more companies, each checked through its actual CareerView adapter.
 The executable watchlist is [companies.yaml](../companies.yaml).
 
 This is a broad engineering-employer watchlist: AI labs and applications, developer
@@ -15,10 +17,20 @@ checked with their search adapters. Links point to the public company job board 
 its API. The exact board IDs are case-sensitive. Identically named but unrelated
 companies were excluded or explicitly disambiguated.
 
-The live audit checked all 459 configured companies successfully. Alloy, Anduril,
+The September 17 live audit checked all 459 then-configured companies successfully. Alloy, Anduril,
 and SpaceX initially timed out and succeeded when rechecked. At verification time,
 the adapters returned 438 listings matching the current internship filters, before
 cross-source deduplication. These counts are a snapshot, not a hiring guarantee.
+The November pass verified the 13 additions, rather than repeating that full audit.
+
+## November startup expansion
+
+Added Browserbase, Campfire (ERP), Chai Discovery, David AI, Eudia, Exa, Firecrawl,
+HappyRobot, Harmonic (formal verification), Rilla, Sesame (voice AI), turbopuffer,
+and Wispr Flow. See [the research, exact boards, and current internship snapshot](startups.md).
+All 13 boards returned populated public job payloads and parsed successfully.
+They participate in the existing scheduled poll and email eligibility flow,
+including when a board currently has no matching internship.
 
 ## What caused the missed Decagon alert
 
@@ -68,7 +80,8 @@ its actual board or implementing its provider.
 | Postman | Old Greenhouse endpoint returns 404. The [official careers page](https://www.postman.com/company/careers/open-positions/) reports maintenance until September 21, 2026. Recheck after reopening. |
 | Hugging Face | The [official careers link](https://huggingface.co/join-us) points to [Workable](https://apply.workable.com/huggingface/); a Workable adapter is not implemented. |
 | Google, Amazon, Microsoft, Meta, Apple | No direct board adapter configured in this catalog; currently depend on community coverage. |
-| Skild AI, Safe Superintelligence, Inception, Lindy, Wispr Flow, Raycast | No populated, correctly identified supported board verified in this pass. Resolve the official board before adding. |
+| Skild AI, Safe Superintelligence, Inception, Lindy, Raycast | No populated, correctly identified supported board verified in the September pass. Resolve the official board before adding. Wispr Flow was resolved and added in November as Ashby `wispr-flow`. |
+| Daytona, Browser Use | November research found strong career-upside signals, but their official careers pages use Notion-linked or email-based applications. They are research candidates, not direct-polling entries. |
 | Neon (database), Axiom (observability), Cube (semantic layer), Patronus AI, Galileo (AI evaluation), Radiant (nuclear) | Plausible short slugs mapped to unrelated businesses or failed validation. These names were deliberately not mapped to those boards. |
 | Cedar (healthcare) | The short Ashby slug belonged to a housing company. Healthcare board remains unverified. |
 
@@ -93,13 +106,16 @@ its actual board or implementing its provider.
 
 | Provider | Companies |
 | --- | ---: |
-| greenhouse | 215 |
+| greenhouse | 217 |
 | lever | 22 |
-| ashby | 216 |
+| ashby | 227 |
 | workday | 5 |
 | oraclecloud | 1 |
 
-## Companies by sector
+## Companies by sector (September baseline)
+
+The 459-company baseline below is supplemented by the 13-company table in
+[November startup additions](startups.md).
 
 - AI: 100
 - Climate / industrial: 15

@@ -1,4 +1,4 @@
-# Direct company job boards, expanded and verified on 2026-09-17.
+# Direct company job boards. Baseline verified 2026-09-17; startup additions 2026-11-09.
 # See docs/watchlist.md for the company catalog, evidence, and coverage gaps.
 # Keys are exact, case-sensitive public ATS board IDs, not guessed company names.
 # Audit without sending email: PYTHONPATH=src .venv/bin/python scripts/audit_watchlist.py
@@ -36,6 +36,7 @@ greenhouse:
   boulevard: Boulevard
   braze: Braze
   brex: Brex
+  browserbaseinc: Browserbase
   bugcrowd: Bugcrowd
   buzzfeed: BuzzFeed
   cadencehealth: Cadence
@@ -77,6 +78,7 @@ greenhouse:
   elastic: Elastic
   endorlabs: Endor Labs
   epicgames: Epic Games
+  eudia: Eudia
   epirus: Epirus
   faire: Faire
   falconx: FalconX
@@ -244,6 +246,7 @@ lever:
 ashby:
   1password: 1Password
   1x: 1X
+  Harmonic: Harmonic (formal verification)
   Rox-Data-Corp: Rox
   Serval: Serval
   abridge: Abridge
@@ -263,8 +266,10 @@ ashby:
   black-forest-labs: Black Forest Labs
   bland: Bland AI
   braintrust: Braintrust
+  campfire: Campfire (ERP)
   capchase: Capchase
   cartesia: Cartesia
+  chaidiscovery: Chai Discovery
   character: Character.AI
   claylabs: Clay
   clerk: Clerk
@@ -282,6 +287,7 @@ ashby:
   cursor: Cursor
   d-matrix: d-Matrix
   dave: Dave
+  david-ai: David AI
   decagon: Decagon
   deepgram: Deepgram
   depot: Depot
@@ -294,9 +300,11 @@ ashby:
   dyna-robotics: Dyna Robotics
   elevenlabs: ElevenLabs
   etched: Etched
+  exa: Exa
   factory: Factory
   fal-ai: fal
   fathom.video: Fathom (AI notes)
+  firecrawl: Firecrawl
   fireworks: Fireworks AI
   formenergy: Form Energy
   fullstory: FullStory
@@ -307,6 +315,7 @@ ashby:
   gumloop: Gumloop
   hackerone: HackerOne
   handshake: Handshake
+  happyrobot.ai: HappyRobot
   harvey: Harvey
   headway: Headway
   hebbia-ai: Hebbia
@@ -405,6 +414,7 @@ ashby:
   retell-ai: Retell AI
   revenuecat: RevenueCat
   rho: Rho
+  rilla: Rilla
   rillet: Rillet
   rogo: Rogo
   runpod: RunPod
@@ -420,6 +430,7 @@ ashby:
   semgrep: Semgrep
   sentry: Sentry
   serverobotics: Serve Robotics
+  sesame: Sesame (voice AI)
   sierra: Sierra
   slope: Slope
   snowflake: Snowflake
@@ -442,6 +453,7 @@ ashby:
   tigerdata: TigerData
   traba: Traba
   trustedhealth: Trusted Health
+  turbopuffer: turbopuffer
   unify: Unify
   unit: Unit
   unstructured: Unstructured
@@ -452,6 +464,7 @@ ashby:
   weaviate: Weaviate
   whoop: Whoop
   whop: Whop
+  wispr-flow: Wispr Flow
   workos: WorkOS
   worldlabs: World Labs
   writer: Writer

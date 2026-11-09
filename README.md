@@ -33,7 +33,7 @@ first within each company.
 ### Sources
 
 - [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) — community-maintained internship list
-- **459 company boards** across Greenhouse, Lever, Ashby, Workday, and Oracle Cloud — configured in `companies.yaml`, with eight sources fetched concurrently. See the [full company catalog and coverage gaps](docs/watchlist.md).
+- **472 company boards** across Greenhouse, Lever, Ashby, Workday, and Oracle Cloud — configured in `companies.yaml`, with eight sources fetched concurrently. See the [full company catalog and coverage gaps](docs/watchlist.md) and [November startup additions](docs/startups.md).
 
 An open role stays eligible for its first email until it is actually emailed, even
 if an earlier poll discovered it while its location failed the relevance filter.
