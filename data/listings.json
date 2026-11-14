@@ -1,5 +1,62 @@
 [
   {
+    "uid": "vanshb03:aa0151db-14e4-48b2-b31e-250a3964aa1f",
+    "source": "vanshb03",
+    "company": "SAS",
+    "title": "Software Developer Intern, Go/Golang",
+    "category": "Software",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1zC",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794614400,
+    "first_seen": 1794676715,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:a024fe37-8329-461e-9c5d-57ea242c9909",
+    "source": "vanshb03",
+    "company": "Capital Group",
+    "title": "Global Technology Associate Intern",
+    "category": "Software",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1zD",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794528000,
+    "first_seen": 1794676715,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:efe1a311-0acf-47e1-84ad-9a434ccc6da3",
+    "source": "vanshb03",
+    "company": "Camping World",
+    "title": "AI Security Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1zF",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794589873,
+    "first_seen": 1794676715,
+    "emailed": true
+  },
+  {
     "uid": "simplify:0e303eb4-b2a7-4b14-93a4-89b286202f08",
     "source": "simplify",
     "company": "Ciena",
@@ -186,7 +243,7 @@
     "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Data-Engineer-Intern_JR-0111625",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794589201,
+    "date_posted": 1794590315,
     "first_seen": 1794675602,
     "emailed": false
   },
@@ -3801,6 +3858,23 @@
     "emailed": false
   },
   {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern -  AI Engineer Platform",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794590239,
+    "first_seen": 1794609082,
+    "emailed": false
+  },
+  {
     "uid": "oraclecloud:eeho:345686",
     "source": "oraclecloud",
     "company": "Oracle",
@@ -3831,23 +3905,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794528000,
-    "first_seen": 1794609082,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern -  AI Engineer Platform",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794614153,
     "first_seen": 1794609082,
     "emailed": false
   },
@@ -3976,7 +4033,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Enterprise-SSD-Architecture_JR114108",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794614153,
+    "date_posted": 1794590239,
     "first_seen": 1794590544,
     "emailed": false
   },
@@ -4709,6 +4766,23 @@
     "emailed": false
   },
   {
+    "uid": "workday:micron:/job/Boise-ID---ID1/Intern---DRAM-Device-Engineer_JR114109",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - DRAM Device Engineer",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - ID1"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---DRAM-Device-Engineer_JR114109",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794590239,
+    "first_seen": 1794586232,
+    "emailed": false
+  },
+  {
     "uid": "workday:intel:/job/Costa-Rica-San-Jose/PnP-Lab-Eng-Intern-Worker_JR0289168",
     "source": "workday",
     "company": "Intel",
@@ -4739,23 +4813,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794614179,
-    "first_seen": 1794586232,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---ID1/Intern---DRAM-Device-Engineer_JR114109",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - DRAM Device Engineer",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - ID1"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---DRAM-Device-Engineer_JR114109",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794614153,
     "first_seen": 1794586232,
     "emailed": false
   },
@@ -6003,7 +6060,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Vertical-Product-Engineer--VPE-_JR111178",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794614153,
+    "date_posted": 1794590239,
     "first_seen": 1794556211,
     "emailed": false
   },
@@ -6094,7 +6151,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Product-Development-Engineer_JR108915",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794614153,
+    "date_posted": 1794590239,
     "first_seen": 1794535106,
     "emailed": false
   },
@@ -6246,7 +6303,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---Engineering-Program-Management_JR116075",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794614153,
+    "date_posted": 1794590239,
     "first_seen": 1794533249,
     "emailed": false
   },
@@ -9764,7 +9821,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794527753,
+    "date_posted": 1794503839,
     "first_seen": 1794515006,
     "emailed": false
   },
@@ -10809,6 +10866,40 @@
     "emailed": true
   },
   {
+    "uid": "workday:micron:/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - AI Product Management",
+    "category": "Software",
+    "locations": [
+      "Fab 10A, Singapore"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794590239,
+    "first_seen": 1794507136,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Physical Failure Analysis Technician - 6 Month Intern 2027",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - ID1"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794503839,
+    "first_seen": 1794507136,
+    "emailed": false
+  },
+  {
     "uid": "workday:intel:/job/US-Oregon-Hillsboro/SLT-Mechanical-Design-Intern_JR0286720",
     "source": "workday",
     "company": "Intel",
@@ -10839,40 +10930,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794527779,
-    "first_seen": 1794507136,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - AI Product Management",
-    "category": "Software",
-    "locations": [
-      "Fab 10A, Singapore"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---AI-Product-Management_JR112782",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794614153,
-    "first_seen": 1794507136,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Physical Failure Analysis Technician - 6 Month Intern 2027",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - ID1"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Physical-Failure-Analysis-Technician---6-Month-Intern-2027_JR114535",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794527753,
     "first_seen": 1794507136,
     "emailed": false
   },
@@ -11768,7 +11825,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---FE-Materials-Global-Category-Supplier-Management_JR112336",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794527753,
+    "date_posted": 1794503839,
     "first_seen": 1794476620,
     "emailed": false
   },
@@ -11785,7 +11842,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CDM_JR109768",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794527753,
+    "date_posted": 1794503839,
     "first_seen": 1794476620,
     "emailed": false
   },
@@ -12240,7 +12297,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Cell-Reliability_JR101066",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794527753,
+    "date_posted": 1794503839,
     "first_seen": 1794453575,
     "emailed": false
   },
@@ -13767,7 +13824,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---Indirect-Procurement_JR112473",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794527753,
+    "date_posted": 1794503839,
     "first_seen": 1794446985,
     "emailed": false
   },
@@ -14630,7 +14687,7 @@
     ],
     "url": "https://go.vansh.nyc/1uQ",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794422233,
     "first_seen": 1794435307,
     "emailed": true
@@ -22074,7 +22131,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Metrology-Applications_JR115691",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794354953,
+    "date_posted": 1794331039,
     "first_seen": 1794330084,
     "emailed": false
   },
@@ -22091,7 +22148,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/Intern-EDG---Robotics-UM-exploration_JR114721",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794354953,
+    "date_posted": 1794331039,
     "first_seen": 1794330084,
     "emailed": false
   },
@@ -22108,7 +22165,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Avezzano-AQ-Italy/INTERN--DESIGN-ENGINEER_JR117316",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794354953,
+    "date_posted": 1794331039,
     "first_seen": 1794330084,
     "emailed": false
   },
@@ -23404,7 +23461,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Revenue-Operations_JR117383",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794354953,
+    "date_posted": 1794331039,
     "first_seen": 1794284589,
     "emailed": false
   },
@@ -23497,7 +23554,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-PEE-WET_JR111784",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794354953,
+    "date_posted": 1794331039,
     "first_seen": 1794277400,
     "emailed": false
   },
@@ -25739,7 +25796,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Dry-Etch_JR107326",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794268553,
+    "date_posted": 1794244639,
     "first_seen": 1794264343,
     "emailed": false
   },
@@ -25946,7 +26003,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HIG-HBM-DTPCO_JR116993",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794268553,
+    "date_posted": 1794244639,
     "first_seen": 1794251331,
     "emailed": true
   },
@@ -34629,7 +34686,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Advanced-Process-Control--R2R-_JR116861",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794009353,
+    "date_posted": 1793985439,
     "first_seen": 1794013759,
     "emailed": false
   },
@@ -36685,7 +36742,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Corporate-Development_JR115817",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794009353,
+    "date_posted": 1793985439,
     "first_seen": 1793998993,
     "emailed": false
   },
@@ -38700,7 +38757,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD-PVD_JR111619",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794009353,
+    "date_posted": 1793985439,
     "first_seen": 1793956679,
     "emailed": false
   },
@@ -39345,7 +39402,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---RDA--Real-Time-Defect-Analysis-_JR110962",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794009353,
+    "date_posted": 1793985439,
     "first_seen": 1793932534,
     "emailed": false
   },
@@ -39398,7 +39455,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Engineer--Region-E_JR115963",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1794009353,
+    "date_posted": 1793985439,
     "first_seen": 1793928638,
     "emailed": false
   },
@@ -43057,6 +43114,23 @@
     "emailed": true
   },
   {
+    "uid": "workday:micron:/job/Fab-10NX-Singapore/Intern---CVD-ALD-Advanced-Process-Development_JR115496",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - CVD/ALD Advanced Process Development",
+    "category": "Software",
+    "locations": [
+      "Fab 10N/X, Singapore"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD-ALD-Advanced-Process-Development_JR115496",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793899039,
+    "first_seen": 1793893085,
+    "emailed": false
+  },
+  {
     "uid": "workday:intel:/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635",
     "source": "workday",
     "company": "Intel",
@@ -43087,23 +43161,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793922979,
-    "first_seen": 1793893085,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Fab-10NX-Singapore/Intern---CVD-ALD-Advanced-Process-Development_JR115496",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - CVD/ALD Advanced Process Development",
-    "category": "Software",
-    "locations": [
-      "Fab 10N/X, Singapore"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---CVD-ALD-Advanced-Process-Development_JR115496",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793922953,
     "first_seen": 1793893085,
     "emailed": false
   },
@@ -46260,7 +46317,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Probe-Automation_JR112385",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793922953,
+    "date_posted": 1793899039,
     "first_seen": 1793847165,
     "emailed": false
   },
@@ -47237,7 +47294,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Package-Development-Engineering_JR115868",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793922953,
+    "date_posted": 1793899039,
     "first_seen": 1793846699,
     "emailed": false
   },
@@ -48656,6 +48713,23 @@
     "emailed": true
   },
   {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - DRAM Design Engineer",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793812639,
+    "first_seen": 1793830142,
+    "emailed": false
+  },
+  {
     "uid": "workday:intel:/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833",
     "source": "workday",
     "company": "Intel",
@@ -48669,23 +48743,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793836579,
-    "first_seen": 1793830142,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - DRAM Design Engineer",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793836553,
     "first_seen": 1793830142,
     "emailed": false
   },
@@ -50024,6 +50081,40 @@
     "emailed": false
   },
   {
+    "uid": "workday:micron:/job/Fab-10A-Singapore/Intern---HIG-HBM-PSE-PACKAGE-PE_JR115970",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - HIG HBM PSE PACKAGE PE",
+    "category": "Software",
+    "locations": [
+      "Fab 10A, Singapore"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-PSE-PACKAGE-PE_JR115970",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793812639,
+    "first_seen": 1793779148,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Fab-10A-Singapore/Intern---HBM-Component-Validation_JR115008",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - HBM Component Validation",
+    "category": "Software",
+    "locations": [
+      "Fab 10A, Singapore"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HBM-Component-Validation_JR115008",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793812639,
+    "first_seen": 1793779148,
+    "emailed": false
+  },
+  {
     "uid": "workday:intel:/job/Malaysia-Kulim/Facilities-Chemical-Intern_JR0288862",
     "source": "workday",
     "company": "Intel",
@@ -50092,40 +50183,6 @@
     "emailed": false
   },
   {
-    "uid": "workday:micron:/job/Fab-10A-Singapore/Intern---HIG-HBM-PSE-PACKAGE-PE_JR115970",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - HIG HBM PSE PACKAGE PE",
-    "category": "Software",
-    "locations": [
-      "Fab 10A, Singapore"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-PSE-PACKAGE-PE_JR115970",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793836553,
-    "first_seen": 1793779148,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Fab-10A-Singapore/Intern---HBM-Component-Validation_JR115008",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - HBM Component Validation",
-    "category": "Software",
-    "locations": [
-      "Fab 10A, Singapore"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HBM-Component-Validation_JR115008",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793836553,
-    "first_seen": 1793779148,
-    "emailed": false
-  },
-  {
     "uid": "workday:micron:/job/MSB-Singapore/Intern---Test-Equipment-Engineer_JR111161",
     "source": "workday",
     "company": "Micron",
@@ -50138,7 +50195,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Test-Equipment-Engineer_JR111161",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793836553,
+    "date_posted": 1793812639,
     "first_seen": 1793755869,
     "emailed": false
   },
@@ -52942,7 +52999,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Advanced-Packaging-TD_JR115368",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793750153,
+    "date_posted": 1793726239,
     "first_seen": 1793739378,
     "emailed": false
   },
@@ -54311,7 +54368,7 @@
     ],
     "url": "https://go.vansh.nyc/1cV",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793685978,
     "first_seen": 1793689256,
     "emailed": true
@@ -54332,7 +54389,7 @@
     ],
     "url": "https://go.vansh.nyc/1cW",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793685978,
     "first_seen": 1793689256,
     "emailed": true
@@ -54353,7 +54410,7 @@
     ],
     "url": "https://go.vansh.nyc/1cX",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793685978,
     "first_seen": 1793689256,
     "emailed": true
@@ -54373,7 +54430,7 @@
     ],
     "url": "https://go.vansh.nyc/1cY",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793685978,
     "first_seen": 1793689256,
     "emailed": true
@@ -54394,7 +54451,7 @@
     ],
     "url": "https://go.vansh.nyc/1cZ",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793685978,
     "first_seen": 1793689256,
     "emailed": true
@@ -56464,7 +56521,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Supply-Management-Analyst_JR116339",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793663753,
+    "date_posted": 1793639839,
     "first_seen": 1793677326,
     "emailed": false
   },
@@ -56481,7 +56538,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Supply-Management-Analyst_JR115942",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793663753,
+    "date_posted": 1793639839,
     "first_seen": 1793677326,
     "emailed": true
   },
@@ -56498,7 +56555,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---System-Engineer--HBM_JR113469",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793663753,
+    "date_posted": 1793639839,
     "first_seen": 1793677326,
     "emailed": false
   },
@@ -58877,7 +58934,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---HVM-Area-Manufacturing-Engineer--AME-_JR116168",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793663753,
+    "date_posted": 1793639839,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -58894,7 +58951,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--YE-Physical-Failure-Analysis-Engineer_JR114537",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793663753,
+    "date_posted": 1793639839,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -59368,7 +59425,7 @@
     ],
     "url": "https://go.vansh.nyc/19i",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1793631494,
     "first_seen": 1793633854,
     "emailed": true
@@ -66767,7 +66824,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Integration---Advanced-Packaging_JR115378",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793490953,
+    "date_posted": 1793467039,
     "first_seen": 1793477806,
     "emailed": false
   },
@@ -73009,7 +73066,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Sales-Strategy-and-Operations-Summer-Intern_JR116055",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793404553,
+    "date_posted": 1793380639,
     "first_seen": 1793394594,
     "emailed": false
   },
@@ -80700,7 +80757,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-Process-and-Equipment-Engineer_JR111895",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1793290674,
     "emailed": false
   },
@@ -85559,7 +85616,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Strategic-Category-Analyst_JR115962",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793231753,
+    "date_posted": 1793207839,
     "first_seen": 1793214626,
     "emailed": false
   },
@@ -90570,7 +90627,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793145353,
+    "date_posted": 1793121439,
     "first_seen": 1793126935,
     "emailed": false
   },
@@ -91144,7 +91201,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793145353,
+    "date_posted": 1793121439,
     "first_seen": 1793118512,
     "emailed": false
   },
@@ -120649,7 +120706,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Component-Validation_JR115004",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120666,7 +120723,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-Engineering--Advance-Data-Analytics-_JR114591",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120683,7 +120740,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Probe-Product-Engineering--Test-Mode-Integration-_JR113345",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120700,7 +120757,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---Planning-Strategic-Layout_JR114705",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120717,7 +120774,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120734,7 +120791,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---PEE-CVD_JR112661",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120751,7 +120808,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-Business-Operations_JR111147",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120768,7 +120825,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---STPG-PE-NAND-Reliability_JR111498",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120785,7 +120842,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120802,7 +120859,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---ADTS-ATI-PI_JR112258",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792799753,
+    "date_posted": 1792775839,
     "first_seen": 1792740277,
     "emailed": false
   },
@@ -120819,7 +120876,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1792740277,
     "emailed": true
   },
@@ -130363,7 +130420,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792626953,
+    "date_posted": 1792603039,
     "first_seen": 1792604599,
     "emailed": false
   },
@@ -130380,7 +130437,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Safety-Engineer_JR115035",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792626953,
+    "date_posted": 1792603039,
     "first_seen": 1792604599,
     "emailed": false
   },
@@ -130397,7 +130454,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---RDA-Application-Engineer_JR115353",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792626953,
+    "date_posted": 1792603039,
     "first_seen": 1792604599,
     "emailed": false
   },
@@ -130414,7 +130471,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114654",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792626953,
+    "date_posted": 1792603039,
     "first_seen": 1792604599,
     "emailed": false
   },
@@ -130431,7 +130488,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---SMS-Pathfinding-Engineering_JR115034",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792626953,
+    "date_posted": 1792603039,
     "first_seen": 1792604599,
     "emailed": true
   },
@@ -132571,7 +132628,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792540553,
+    "date_posted": 1792516639,
     "first_seen": 1792537750,
     "emailed": true
   },
@@ -132588,7 +132645,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792540553,
+    "date_posted": 1792516639,
     "first_seen": 1792537750,
     "emailed": false
   },
@@ -133849,7 +133906,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792540553,
+    "date_posted": 1792516639,
     "first_seen": 1792525203,
     "emailed": false
   },
@@ -133866,7 +133923,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792540553,
+    "date_posted": 1792516639,
     "first_seen": 1792523463,
     "emailed": false
   },
@@ -133883,7 +133940,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792540553,
+    "date_posted": 1792516639,
     "first_seen": 1792523463,
     "emailed": false
   },
@@ -137004,7 +137061,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792454153,
+    "date_posted": 1792430239,
     "first_seen": 1792437418,
     "emailed": true
   },
@@ -157667,7 +157724,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Equipment-Engineer_JR114818",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793318153,
+    "date_posted": 1793294239,
     "first_seen": 1791925946,
     "emailed": false
   },
@@ -160181,6 +160238,23 @@
     "emailed": true
   },
   {
+    "uid": "workday:micron:/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - ID1 ATE PI Engineer",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - ID1"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1791846744,
+    "emailed": false
+  },
+  {
     "uid": "workday:intel:/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977",
     "source": "workday",
     "company": "Intel",
@@ -160213,23 +160287,6 @@
     "date_posted": 1792022179,
     "first_seen": 1791846744,
     "emailed": true
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - ID1 ATE PI Engineer",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - ID1"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1791846744,
-    "emailed": false
   },
   {
     "uid": "vanshb03:a5f10f6e-acfe-4c1e-bc90-36ff6b75099a",
@@ -160297,7 +160354,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Hardware-Engineering_JR114232",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1791827237,
     "emailed": false
   },
@@ -166877,7 +166934,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1791579094,
     "emailed": true
   },
@@ -167689,7 +167746,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Intern---Fab-Equipment-Maintenance-Technician_JR114722",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792454153,
+    "date_posted": 1792430239,
     "first_seen": 1791553881,
     "emailed": false
   },
@@ -181635,7 +181692,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Architecture--HBM_JR114300",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793750153,
+    "date_posted": 1793726239,
     "first_seen": 1791239641,
     "emailed": true
   },
@@ -181652,7 +181709,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Next-Gen-HBM-Platform-Arch_JR112993",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1791217594,
     "emailed": true
   },
@@ -181686,7 +181743,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---Next-Generation-HBM-Architecture_JR112185",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1791216743,
     "emailed": true
   },
@@ -195726,6 +195783,23 @@
     "emailed": false
   },
   {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Compute System Compatibility Engineer",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1790892071,
+    "emailed": false
+  },
+  {
     "uid": "workday:intel:/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
     "source": "workday",
     "company": "Intel",
@@ -195741,23 +195815,6 @@
     "date_posted": 1792022179,
     "first_seen": 1790892071,
     "emailed": true
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Compute System Compatibility Engineer",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1790892071,
-    "emailed": false
   },
   {
     "uid": "greenhouse:point72:8236734002",
@@ -196029,7 +196086,7 @@
     "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792083601,
+    "date_posted": 1792084715,
     "first_seen": 1790880589,
     "emailed": false
   },
@@ -197296,7 +197353,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---DRAM-ARCHITECTURE_JR113295",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1790841121,
     "emailed": false
   },
@@ -200496,7 +200553,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792454153,
+    "date_posted": 1792430239,
     "first_seen": 1790795351,
     "emailed": false
   },
@@ -202233,7 +202290,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Penang-Malaysia---Grande/Intern---Test-Engineering_JR112675",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1790748155,
     "emailed": false
   },
@@ -205102,7 +205159,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1790632389,
     "emailed": true
   },
@@ -227275,7 +227332,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1790018416,
     "emailed": false
   },
@@ -227292,7 +227349,7 @@
     "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Intern---Category-Supplier-Management_JR110910",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792022153,
+    "date_posted": 1792084639,
     "first_seen": 1790018416,
     "emailed": false
   },
@@ -231789,6 +231846,295 @@
     "emailed": false
   },
   {
+    "uid": "workday:micron:/job/Boise-ID---ID1/Intern---Category-Supply-Management_JR110644",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Category Supply Management",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - ID1"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Category-Supply-Management_JR110644",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794331039,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Jalisco-Mexico/DRAM-IP-Development-Layout--Internship-_JR108219",
+    "source": "workday",
+    "company": "Micron",
+    "title": "DRAM IP Development Layout (Internship)",
+    "category": "Software",
+    "locations": [
+      "Jalisco, Mexico"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-IP-Development-Layout--Internship-_JR108219",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Photolithography Process",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Semiconductor Research & Technology Development",
+    "category": "Software",
+    "locations": [
+      "Albany, NY"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": true
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---ID1/DOW-SkillsBridge-Intern---Semiconductor-Equipment-Technician_JR108935",
+    "source": "workday",
+    "company": "Micron",
+    "title": "DOW SkillsBridge Intern \u2013 Semiconductor Equipment Technician",
+    "category": "Software",
+    "locations": [
+      "2 Locations"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/DOW-SkillsBridge-Intern---Semiconductor-Equipment-Technician_JR108935",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212",
+    "source": "workday",
+    "company": "Micron",
+    "title": "INTERNSHIP - NAND Cell Characterization & AI Tools",
+    "category": "Software",
+    "locations": [
+      "Vimercate (MB), Italy"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---ID1/Intern--Technician--Process_JR112005",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern- Technician, Process",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - ID1"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--Technician--Process_JR112005",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Taichung---Fab-16-Taiwan/XMLNAME-2027-Semester-Internship_JR110924",
+    "source": "workday",
+    "company": "Micron",
+    "title": "2027 Semester Internship",
+    "category": "Software",
+    "locations": [
+      "4 Locations"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/XMLNAME-2027-Semester-Internship_JR110924",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---ID1/Intern--Equipment-Technician_JR111002",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Technician, Fab Equipment",
+    "category": "Software",
+    "locations": [
+      "2 Locations"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--Equipment-Technician_JR111002",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---EUV-Lithography_JR107843",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - EUV Lithography",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---EUV-Lithography_JR107843",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - CDBU Marketing",
+    "category": "Other",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Process Development Engineer, 3D DRAM CMP",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Realtime-Defect-Analysis--RDA--Yield-Technology_JR109054",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Realtime Defect Analysis (RDA) Yield Technology",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Realtime-Defect-Analysis--RDA--Yield-Technology_JR109054",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Yield Technology Equipment",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Taichung---Fab-16-Taiwan/Intern-2027---DRAM-Customer-Enablement-Engineering_JR107783",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern 2027 - DRAM Customer Enablement Engineering",
+    "category": "Software",
+    "locations": [
+      "Taichung - Fab 16, Taiwan"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Intern-2027---DRAM-Customer-Enablement-Engineering_JR107783",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - Process Development Engineer, 3D DRAM Dry Etch",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - F10 CVD PEE",
+    "category": "Software",
+    "locations": [
+      "Fab 10N/X, Singapore"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792084639,
+    "first_seen": 1789811138,
+    "emailed": false
+  },
+  {
     "uid": "workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Facilities-Engineering-Intern_JR0287227",
     "source": "workday",
     "company": "Intel",
@@ -231887,295 +232233,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793404579,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---ID1/Intern---Category-Supply-Management_JR110644",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Category Supply Management",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - ID1"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Category-Supply-Management_JR110644",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794354953,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Jalisco-Mexico/DRAM-IP-Development-Layout--Internship-_JR108219",
-    "source": "workday",
-    "company": "Micron",
-    "title": "DRAM IP Development Layout (Internship)",
-    "category": "Software",
-    "locations": [
-      "Jalisco, Mexico"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/DRAM-IP-Development-Layout--Internship-_JR108219",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Photolithography Process",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Semiconductor Research & Technology Development",
-    "category": "Software",
-    "locations": [
-      "Albany, NY"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": true
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---ID1/DOW-SkillsBridge-Intern---Semiconductor-Equipment-Technician_JR108935",
-    "source": "workday",
-    "company": "Micron",
-    "title": "DOW SkillsBridge Intern \u2013 Semiconductor Equipment Technician",
-    "category": "Software",
-    "locations": [
-      "2 Locations"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/DOW-SkillsBridge-Intern---Semiconductor-Equipment-Technician_JR108935",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212",
-    "source": "workday",
-    "company": "Micron",
-    "title": "INTERNSHIP - NAND Cell Characterization & AI Tools",
-    "category": "Software",
-    "locations": [
-      "Vimercate (MB), Italy"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Vimercate-MB-Italy/INTERNSHIP---NAND-Cell-Characterization---AI-Tools_JR111212",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---ID1/Intern--Technician--Process_JR112005",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern- Technician, Process",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - ID1"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--Technician--Process_JR112005",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Taichung---Fab-16-Taiwan/XMLNAME-2027-Semester-Internship_JR110924",
-    "source": "workday",
-    "company": "Micron",
-    "title": "2027 Semester Internship",
-    "category": "Software",
-    "locations": [
-      "4 Locations"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/XMLNAME-2027-Semester-Internship_JR110924",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---ID1/Intern--Equipment-Technician_JR111002",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Technician, Fab Equipment",
-    "category": "Software",
-    "locations": [
-      "2 Locations"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern--Equipment-Technician_JR111002",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---EUV-Lithography_JR107843",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - EUV Lithography",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---EUV-Lithography_JR107843",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - CDBU Marketing",
-    "category": "Other",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Process Development Engineer, 3D DRAM CMP",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Realtime-Defect-Analysis--RDA--Yield-Technology_JR109054",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Realtime Defect Analysis (RDA) Yield Technology",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Realtime-Defect-Analysis--RDA--Yield-Technology_JR109054",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Yield Technology Equipment",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Taichung---Fab-16-Taiwan/Intern-2027---DRAM-Customer-Enablement-Engineering_JR107783",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern 2027 - DRAM Customer Enablement Engineering",
-    "category": "Software",
-    "locations": [
-      "Taichung - Fab 16, Taiwan"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Intern-2027---DRAM-Customer-Enablement-Engineering_JR107783",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - Process Development Engineer, 3D DRAM Dry Etch",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
-    "first_seen": 1789811138,
-    "emailed": false
-  },
-  {
-    "uid": "workday:micron:/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - F10 CVD PEE",
-    "category": "Software",
-    "locations": [
-      "Fab 10N/X, Singapore"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---F10-CVD-PEE_JR97726",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792022153,
     "first_seen": 1789811138,
     "emailed": false
   },
