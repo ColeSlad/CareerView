@@ -1,5 +1,120 @@
 [
   {
+    "uid": "pittcsc:9b8b5cd9-4d8e-4c4a-8539-56b2ccc3c650",
+    "source": "pittcsc",
+    "company": "Carnegie Mellon University",
+    "title": "LTI Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/LTI-Summer-Intern---School-of-Computer-Science---Fried_2024303",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773929826,
+    "first_seen": 1794666773,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ca5f69e1-9efb-4b7c-ac12-978393224668",
+    "source": "pittcsc",
+    "company": "Coherent ",
+    "title": "Intern Laser Engineering",
+    "category": "Hardware",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010520",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773929322,
+    "first_seen": 1794666773,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:98284f15-5393-4b81-bdc7-189eda70699a",
+    "source": "pittcsc",
+    "company": "Riverside Research",
+    "title": "Hardware Embedded Research Scientist \u2013 Intern",
+    "category": "Hardware",
+    "locations": [
+      "Beavercreek, OH"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "url": "https://careers-riversideresearch.icims.com/jobs/4164/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773929353,
+    "first_seen": 1794666773,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:53d6f59a-95c8-4057-acc8-ce4bbb0a64a1",
+    "source": "pittcsc",
+    "company": "Ensemble Health Partners",
+    "title": "Data Engineer Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Engineer-Intern_R040788",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773930589,
+    "first_seen": 1794666773,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fd0abe71-c931-4031-bad7-5291b117150b",
+    "source": "pittcsc",
+    "company": "Cisive",
+    "title": "Intern/Co-op Software Developer",
+    "category": "Software",
+    "locations": [
+      "Maryland"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100237",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773930393,
+    "first_seen": 1794666773,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b745c60e-3955-4d72-8acd-3d1d2c37077a",
+    "source": "pittcsc",
+    "company": "Coherent ",
+    "title": "Intern Opto-Mechanical System Engineer",
+    "category": "Hardware",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010693",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773929748,
+    "first_seen": 1794666773,
+    "emailed": false
+  },
+  {
     "uid": "simplify:07314994-8ce1-406a-91bb-b8b31de49a91",
     "source": "simplify",
     "company": "Postman",
@@ -15210,23 +15325,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:schonfeld:8356747",
-    "source": "greenhouse",
-    "company": "Schonfeld ",
-    "title": "2027 Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore, Central, Singapore"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794414219,
-    "first_seen": 1794415225,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:schonfeld:8346891",
     "source": "greenhouse",
     "company": "Schonfeld ",
@@ -15240,6 +15338,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794414141,
+    "first_seen": 1794415225,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:schonfeld:8356747",
+    "source": "greenhouse",
+    "company": "Schonfeld ",
+    "title": "2027 Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore, Central, Singapore"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794414219,
     "first_seen": 1794415225,
     "emailed": false
   },
@@ -73049,23 +73164,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333074",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "San Francisco, New York City, Seattle"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377166,
-    "first_seen": 1793386205,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8333122",
     "source": "greenhouse",
     "company": "Stripe",
@@ -73083,21 +73181,21 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8328664",
+    "uid": "greenhouse:stripe:8333074",
     "source": "greenhouse",
     "company": "Stripe",
-    "title": "PhD Machine Learning Engineer, Intern",
+    "title": "Master's Machine Learning Engineer, Intern",
     "category": "Software",
     "locations": [
-      "Toronto"
+      "San Francisco, New York City, Seattle"
     ],
     "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793377164,
+    "date_posted": 1793377166,
     "first_seen": 1793386205,
-    "emailed": false
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8328662",
@@ -73115,6 +73213,23 @@
     "date_posted": 1793377168,
     "first_seen": 1793386205,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:stripe:8328664",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377164,
+    "first_seen": 1793386205,
+    "emailed": false
   },
   {
     "uid": "lever:cfsenergy:b464985c-bfc2-4efb-91db-7dd1a92f8f4b",
@@ -154434,23 +154549,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:sigmacomputing:8034168003",
-    "source": "greenhouse",
-    "company": "Sigma Computing",
-    "title": "Technical Writer Intern (Summer 2027)",
-    "category": "Software",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792017539,
-    "first_seen": 1792017755,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:sigmacomputing:8034205003",
     "source": "greenhouse",
     "company": "Sigma Computing",
@@ -154464,6 +154562,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1792017542,
+    "first_seen": 1792017755,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:sigmacomputing:8034168003",
+    "source": "greenhouse",
+    "company": "Sigma Computing",
+    "title": "Technical Writer Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792017539,
     "first_seen": 1792017755,
     "emailed": true
   },
@@ -203230,23 +203345,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:block:5108007008",
-    "source": "greenhouse",
-    "company": "Block",
-    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
-    "category": "Software",
-    "locations": [
-      "Bay Area, CA, United States of America"
-    ],
-    "terms": [],
-    "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1781034126,
-    "first_seen": 1790727653,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:block:5108009008",
     "source": "greenhouse",
     "company": "Block",
@@ -203262,6 +203360,23 @@
     "date_posted": 1781034539,
     "first_seen": 1790727653,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:block:5108007008",
+    "source": "greenhouse",
+    "company": "Block",
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+    "category": "Software",
+    "locations": [
+      "Bay Area, CA, United States of America"
+    ],
+    "terms": [],
+    "url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1781034126,
+    "first_seen": 1790727653,
+    "emailed": true
   },
   {
     "uid": "simplify:c15b6c17-1727-4aaf-8fe1-537a96872d7b",
@@ -246118,23 +246233,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:dvtrading:4732697005",
-    "source": "greenhouse",
-    "company": "DV Trading",
-    "title": "Client Platforms Engineer Intern - Summer 2027",
-    "category": "Software",
-    "locations": [
-      "New York"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789049314,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:dvtrading:4732700005",
     "source": "greenhouse",
     "company": "DV Trading",
@@ -246150,6 +246248,23 @@
     "date_posted": 1789049470,
     "first_seen": 1789665337,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:dvtrading:4732697005",
+    "source": "greenhouse",
+    "company": "DV Trading",
+    "title": "Client Platforms Engineer Intern - Summer 2027",
+    "category": "Software",
+    "locations": [
+      "New York"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789049314,
+    "first_seen": 1789665337,
+    "emailed": true
   },
   {
     "uid": "greenhouse:dvtrading:4732683005",
@@ -247529,23 +247644,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027946",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus C++ Software Engineer (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740402,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8027860",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -247559,6 +247657,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788491267,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027946",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus C++ Software Engineer (Intern)",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785740402,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -247580,23 +247695,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:jumptrading:8027955",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Python Software Engineer (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740407,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8027923",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -247614,19 +247712,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027939",
+    "uid": "greenhouse:jumptrading:8027955",
     "source": "greenhouse",
     "company": "Jump Trading",
-    "title": "Campus Quantitative Researcher (Intern)",
+    "title": "Campus Python Software Engineer (Intern)",
     "category": "Software",
     "locations": [
       "Singapore"
     ],
     "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1785740420,
+    "date_posted": 1785740407,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -247644,6 +247742,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1787557373,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027939",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Researcher (Intern)",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785740420,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -247750,6 +247865,23 @@
     "emailed": false
   },
   {
+    "uid": "greenhouse:jumptrading:7848371",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Trader (Intern)",
+    "category": "Software",
+    "locations": [
+      "Chicago; New York"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1783546547,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:jumptrading:8027941",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -247782,23 +247914,6 @@
     "date_posted": 1787557366,
     "first_seen": 1789665337,
     "emailed": false
-  },
-  {
-    "uid": "greenhouse:jumptrading:7848371",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Trader (Intern)",
-    "category": "Software",
-    "locations": [
-      "Chicago; New York"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1783546547,
-    "first_seen": 1789665337,
-    "emailed": true
   },
   {
     "uid": "greenhouse:jumptrading:8002989",
@@ -247920,23 +248035,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:lyft:8767723002",
-    "source": "greenhouse",
-    "company": "Lyft",
-    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-    "category": "Software",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "terms": [],
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789145225,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:lyft:8796124002",
     "source": "greenhouse",
     "company": "Lyft",
@@ -247950,6 +248048,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789145227,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:lyft:8767723002",
+    "source": "greenhouse",
+    "company": "Lyft",
+    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+    "category": "Software",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [],
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789145225,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -248634,23 +248749,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7986954003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591324,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7986872003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -248668,6 +248766,23 @@
     "emailed": true
   },
   {
+    "uid": "greenhouse:rocketlab:7986954003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591324,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:rocketlab:7986965003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -248681,6 +248796,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789601098,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986961003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Wallops Island, VA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591388,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -248719,23 +248851,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986961003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Wallops Island, VA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591388,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7986874003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -248770,23 +248885,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7985032003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Supply Chain Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789661045,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7990069003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -248800,6 +248898,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789661064,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7985032003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Supply Chain Intern Spring 2027",
+    "category": "Other",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789661045,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -248991,23 +249106,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:tanium:8180996",
-    "source": "greenhouse",
-    "company": "Tanium",
-    "title": "Sales Intern \u2013\u00a0Summer 2027",
-    "category": "Other",
-    "locations": [
-      "Addison, TX (Hybrid)"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/8180996",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788959230,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:tanium:8181014",
     "source": "greenhouse",
     "company": "Tanium",
@@ -249021,6 +249119,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788900825,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:tanium:8180996",
+    "source": "greenhouse",
+    "company": "Tanium",
+    "title": "Sales Intern \u2013\u00a0Summer 2027",
+    "category": "Other",
+    "locations": [
+      "Addison, TX (Hybrid)"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8180996",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788959230,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -249059,23 +249174,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:towerresearchcapital:8138524",
-    "source": "greenhouse",
-    "company": "Tower Research Capital",
-    "title": "Quantitative Developer Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1787036559,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:towerresearchcapital:7011493",
     "source": "greenhouse",
     "company": "Tower Research Capital",
@@ -249089,6 +249187,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1750874239,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:towerresearchcapital:8138524",
+    "source": "greenhouse",
+    "company": "Tower Research Capital",
+    "title": "Quantitative Developer Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1787036559,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -256847,23 +256962,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8130883",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788759860,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8130867",
     "source": "greenhouse",
     "company": "Stripe",
@@ -256877,6 +256975,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788215438,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130883",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788759860,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -286486,23 +286601,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:datadog:8114186",
-    "source": "greenhouse",
-    "company": "Datadog",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Paris, France"
-    ],
-    "terms": [],
-    "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788876406,
-    "first_seen": 1788877835,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:datadog:8114161",
     "source": "greenhouse",
     "company": "Datadog",
@@ -286516,6 +286614,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788876269,
+    "first_seen": 1788877835,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:datadog:8114186",
+    "source": "greenhouse",
+    "company": "Datadog",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Paris, France"
+    ],
+    "terms": [],
+    "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788876406,
     "first_seen": 1788877835,
     "emailed": false
   },
@@ -379793,103 +379908,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:fa5fd2e9-390d-45b8-b747-666c47d23e86",
-    "source": "simplify",
-    "company": "Delinea",
-    "title": "Product Management Intern",
-    "category": "Product",
-    "locations": [
-      "Bellevue, WA",
-      "Lehi, UT"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/delinea/780ab9f7-096a-4668-9187-65d7e7d91ce5/application",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773929673,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9b8b5cd9-4d8e-4c4a-8539-56b2ccc3c650",
-    "source": "simplify",
-    "company": "Carnegie Mellon University",
-    "title": "LTI Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Pittsburgh, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/LTI-Summer-Intern---School-of-Computer-Science---Fried_2024303",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773929826,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:3afce29e-1aad-424a-8e1e-2ce1e53130bf",
-    "source": "simplify",
-    "company": "Solink",
-    "title": "Software Engineer Co-op - AI/ML",
-    "category": "Software",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/solink/4460f7ac-b697-4c9c-946d-16196a8ef58b/application",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773929831,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ca5f69e1-9efb-4b7c-ac12-978393224668",
-    "source": "simplify",
-    "company": "Coherent ",
-    "title": "Intern Laser Engineering",
-    "category": "Hardware",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010520",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773929322,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:98284f15-5393-4b81-bdc7-189eda70699a",
-    "source": "simplify",
-    "company": "Riverside Research",
-    "title": "Hardware Embedded Research Scientist \u2013 Intern",
-    "category": "Hardware",
-    "locations": [
-      "Beavercreek, OH"
-    ],
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "url": "https://careers-riversideresearch.icims.com/jobs/4164/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773929353,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:d80902bc-b546-4fa0-9273-482c80f84401",
     "source": "simplify",
     "company": "Leidos",
@@ -379924,63 +379942,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1773930882,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:53d6f59a-95c8-4057-acc8-ce4bbb0a64a1",
-    "source": "simplify",
-    "company": "Ensemble Health Partners",
-    "title": "Data Engineer Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Engineer-Intern_R040788",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773930589,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:fd0abe71-c931-4031-bad7-5291b117150b",
-    "source": "simplify",
-    "company": "Cisive",
-    "title": "Intern/Co-op Software Developer",
-    "category": "Software",
-    "locations": [
-      "Maryland"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100237",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773930393,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b745c60e-3955-4d72-8acd-3d1d2c37077a",
-    "source": "simplify",
-    "company": "Coherent ",
-    "title": "Intern Opto-Mechanical System Engineer",
-    "category": "Hardware",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2010693",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773929748,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -485106,6 +485067,45 @@
     "sponsorship": "Does Not Offer Sponsorship",
     "active": false,
     "date_posted": 1773908911,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:fa5fd2e9-390d-45b8-b747-666c47d23e86",
+    "source": "pittcsc",
+    "company": "Delinea",
+    "title": "Product Management Intern",
+    "category": "Product",
+    "locations": [
+      "Bellevue, WA",
+      "Lehi, UT"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/delinea/780ab9f7-096a-4668-9187-65d7e7d91ce5/application",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773929673,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:3afce29e-1aad-424a-8e1e-2ce1e53130bf",
+    "source": "pittcsc",
+    "company": "Solink",
+    "title": "Software Engineer Co-op - AI/ML",
+    "category": "Software",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/solink/4460f7ac-b697-4c9c-946d-16196a8ef58b/application",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773929831,
     "first_seen": 1784003708,
     "emailed": true
   },
