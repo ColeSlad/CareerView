@@ -1,5 +1,196 @@
 [
   {
+    "uid": "simplify:0e303eb4-b2a7-4b14-93a4-89b286202f08",
+    "source": "simplify",
+    "company": "Ciena",
+    "title": "Technical Solution Engineer Intern - SE&I",
+    "category": "Software",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Winter 2027"
+    ],
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794528000,
+    "first_seen": 1794675602,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:aeaf63c9-1187-4be5-b016-70d423a23974",
+    "source": "simplify",
+    "company": "Camping World",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794528000,
+    "first_seen": 1794675602,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:8e9af166-ff54-453a-b560-244a89a45555",
+    "source": "simplify",
+    "company": "Camping World",
+    "title": "Data Engineering Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Chicago, IL",
+      "Lincolnshire, IL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794528000,
+    "first_seen": 1794675602,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:2d609f21-b04d-4102-a341-b7fc2585a162",
+    "source": "simplify",
+    "company": "Camping World",
+    "title": "Data Analyst Intern - AI & Machine Learning Focus",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Chicago, IL",
+      "Lincolnshire, IL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794528000,
+    "first_seen": 1794675602,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:1e57aae0-09f4-42db-80ed-6aee2ff1121a",
+    "source": "simplify",
+    "company": "Martin Marietta",
+    "title": "Software Data Integration Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794528000,
+    "first_seen": 1794675602,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:5a18260c-fdf3-44bc-98d0-a7ec886be759",
+    "source": "simplify",
+    "company": "Martin Marietta",
+    "title": "Data Scientist Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794528000,
+    "first_seen": 1794675602,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:66098862-afe2-4865-bede-733cd3a795b7",
+    "source": "simplify",
+    "company": "Daimler Truck",
+    "title": "IT Developer Analyst Intern",
+    "category": "Software",
+    "locations": [
+      "Mt Holly, NC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681-1",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794528000,
+    "first_seen": 1794675602,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:ae819759-0f9c-4f3f-880f-a57a3b10b824",
+    "source": "simplify",
+    "company": "SAS",
+    "title": "Software Developer Intern - Go/Golang Experience",
+    "category": "Software",
+    "locations": [
+      "Cary, NC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794614400,
+    "first_seen": 1794675602,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:d80902bc-b546-4fa0-9273-482c80f84401",
+    "source": "pittcsc",
+    "company": "Leidos",
+    "title": "Agentic AI Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Agentic-AI-Engineering-Intern_R-00178430",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773931942,
+    "first_seen": 1794675602,
+    "emailed": false
+  },
+  {
+    "uid": "workday:workday:/job/Costa-Rica/Data-Engineer-Intern_JR-0111625",
+    "source": "workday",
+    "company": "Workday",
+    "title": "Data Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Costa Rica"
+    ],
+    "terms": [],
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Data-Engineer-Intern_JR-0111625",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794589201,
+    "first_seen": 1794675602,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:9b8b5cd9-4d8e-4c4a-8539-56b2ccc3c650",
     "source": "pittcsc",
     "company": "Carnegie Mellon University",
@@ -3555,44 +3746,6 @@
     "sponsorship": "Other",
     "active": true,
     "date_posted": 1794528000,
-    "first_seen": 1794609082,
-    "emailed": true
-  },
-  {
-    "uid": "vanshb03:de7d5f27-81ed-4d4b-9d32-bc3f2dc0aa2b",
-    "source": "vanshb03",
-    "company": "Martin Marietta",
-    "title": "Data Scientist Intern",
-    "category": "Software",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "url": "https://go.vansh.nyc/1ze",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1794607614,
-    "first_seen": 1794609082,
-    "emailed": true
-  },
-  {
-    "uid": "vanshb03:8a6adeea-78f6-4c37-9526-ceb325cec2cf",
-    "source": "vanshb03",
-    "company": "Martin Marietta",
-    "title": "Software Data Integration Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "url": "https://go.vansh.nyc/1zf",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1794607614,
     "first_seen": 1794609082,
     "emailed": true
   },
@@ -58678,23 +58831,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:verkada:4995135007",
-    "source": "greenhouse",
-    "company": "Verkada",
-    "title": "Sales Development Representative, Internship",
-    "category": "Other",
-    "locations": [
-      "Austin, TX United States"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4995135007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793648776,
-    "first_seen": 1793656515,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:verkada:4866879007",
     "source": "greenhouse",
     "company": "Verkada",
@@ -58708,6 +58844,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1757425254,
+    "first_seen": 1793656515,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:verkada:4995135007",
+    "source": "greenhouse",
+    "company": "Verkada",
+    "title": "Sales Development Representative, Internship",
+    "category": "Other",
+    "locations": [
+      "Austin, TX United States"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4995135007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793648776,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -195876,7 +196029,7 @@
     "url": "https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1792001351,
+    "date_posted": 1792083601,
     "first_seen": 1790880589,
     "emailed": false
   },
@@ -255391,7 +255544,7 @@
     ],
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Autonomy-Engineering-Intern_R49418",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1789430400,
     "first_seen": 1789514229,
     "emailed": false
@@ -299441,7 +299594,7 @@
     ],
     "url": "https://higher.gs.com/roles/175421?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767954,
     "first_seen": 1788495901,
     "emailed": false
@@ -299460,7 +299613,7 @@
     ],
     "url": "https://higher.gs.com/roles/171551?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -299479,7 +299632,7 @@
     ],
     "url": "https://higher.gs.com/roles/171550?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": false
@@ -299498,7 +299651,7 @@
     ],
     "url": "https://higher.gs.com/roles/171548?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": false
@@ -299536,7 +299689,7 @@
     ],
     "url": "https://higher.gs.com/roles/175426?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767935,
     "first_seen": 1788495901,
     "emailed": false
@@ -299574,7 +299727,7 @@
     ],
     "url": "https://higher.gs.com/roles/171532?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -299593,7 +299746,7 @@
     ],
     "url": "https://higher.gs.com/roles/171534?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -299631,7 +299784,7 @@
     ],
     "url": "https://higher.gs.com/roles/175428?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767955,
     "first_seen": 1788495901,
     "emailed": false
@@ -299650,7 +299803,7 @@
     ],
     "url": "https://higher.gs.com/roles/171533?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -299669,7 +299822,7 @@
     ],
     "url": "https://higher.gs.com/roles/171565?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": true
@@ -299688,7 +299841,7 @@
     ],
     "url": "https://higher.gs.com/roles/171547?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767952,
     "first_seen": 1788495901,
     "emailed": false
@@ -299707,7 +299860,7 @@
     ],
     "url": "https://higher.gs.com/roles/171549?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767946,
     "first_seen": 1788495901,
     "emailed": false
@@ -299726,7 +299879,7 @@
     ],
     "url": "https://higher.gs.com/roles/170644?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767943,
     "first_seen": 1788495901,
     "emailed": false
@@ -299783,7 +299936,7 @@
     ],
     "url": "https://higher.gs.com/roles/171553?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1788495901,
     "emailed": true
@@ -303220,7 +303373,7 @@
     ],
     "url": "https://lifeattiktok.com/search/7629248119245261061",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1781503898,
     "first_seen": 1788460694,
     "emailed": false
@@ -332626,7 +332779,7 @@
     ],
     "url": "https://higher.gs.com/roles/171546?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767946,
     "first_seen": 1787862234,
     "emailed": false
@@ -333024,7 +333177,7 @@
     ],
     "url": "https://higher.gs.com/roles/171552?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1787832205,
     "emailed": false
@@ -348957,7 +349110,7 @@
     ],
     "url": "https://higher.gs.com/roles/175427?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767949,
     "first_seen": 1786808422,
     "emailed": false
@@ -348976,7 +349129,7 @@
     ],
     "url": "https://higher.gs.com/roles/171535?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767947,
     "first_seen": 1786808422,
     "emailed": false
@@ -348995,7 +349148,7 @@
     ],
     "url": "https://higher.gs.com/roles/171563?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767951,
     "first_seen": 1786808422,
     "emailed": false
@@ -349033,7 +349186,7 @@
     ],
     "url": "https://higher.gs.com/roles/181628?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767935,
     "first_seen": 1786808422,
     "emailed": false
@@ -349167,7 +349320,7 @@
     ],
     "url": "https://higher.gs.com/roles/175424?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767954,
     "first_seen": 1786770317,
     "emailed": false
@@ -349205,7 +349358,7 @@
     ],
     "url": "https://higher.gs.com/roles/171566?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767953,
     "first_seen": 1786770317,
     "emailed": false
@@ -349243,7 +349396,7 @@
     ],
     "url": "https://higher.gs.com/roles/175423?type=students",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786767954,
     "first_seen": 1786770317,
     "emailed": false
@@ -379906,44 +380059,6 @@
     "date_posted": 1774573747,
     "first_seen": 1784026751,
     "emailed": false
-  },
-  {
-    "uid": "simplify:d80902bc-b546-4fa0-9273-482c80f84401",
-    "source": "simplify",
-    "company": "Leidos",
-    "title": "Agentic AI Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Agentic-AI-Engineering-Intern_R-00178430",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773931942,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:93b9e696-bf84-478d-aaf6-b63704f87417",
-    "source": "simplify",
-    "company": "Geotab",
-    "title": "Vehicle Systems Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "High Wycombe, UK"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/geotab/jobs/5140749008",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1773930882,
-    "first_seen": 1784003708,
-    "emailed": true
   },
   {
     "uid": "simplify:74891ef4-f741-48de-9d5f-9ddb67bc3b95",
@@ -485106,6 +485221,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1773929831,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:93b9e696-bf84-478d-aaf6-b63704f87417",
+    "source": "pittcsc",
+    "company": "Geotab",
+    "title": "Vehicle Systems Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "High Wycombe, UK"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/geotab/jobs/5140749008",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1773930882,
     "first_seen": 1784003708,
     "emailed": true
   },
