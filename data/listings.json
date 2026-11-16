@@ -1,5 +1,139 @@
 [
   {
+    "uid": "pittcsc:5f8fd091-e12f-4f56-b633-baa2a678e1af",
+    "source": "pittcsc",
+    "company": "Coherent ",
+    "title": "Intern Software Developer - Document Control - Global Quality",
+    "category": "Software",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011079",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774073343,
+    "first_seen": 1794821262,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ac400ed4-854f-4f21-adf8-1a8c05dc6f7f",
+    "source": "pittcsc",
+    "company": "Guild Education",
+    "title": "Product Management Intern",
+    "category": "Product",
+    "locations": [
+      "Denver, CO"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7732992",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774073758,
+    "first_seen": 1794821262,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:9b8e4726-77af-4fd7-9e6f-9986925021ff",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Software Engineer Project Intern - Network Security",
+    "category": "Software",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774073406,
+    "first_seen": 1794821262,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:bc833443-aaf7-4458-8dc4-ccaba2eb7390",
+    "source": "pittcsc",
+    "company": "Guild Education",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7740252",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774074495,
+    "first_seen": 1794821262,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:6c8ee6ed-a86a-41d4-9681-3e49eb43810b",
+    "source": "pittcsc",
+    "company": "Capital One",
+    "title": "Current PhD \u2013 Applied Research Intern Program",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, MA",
+      "San Jose, CA",
+      "McLean, VA",
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774073464,
+    "first_seen": 1794821262,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:64a73297-abf8-4c26-bd5a-cefc45778dfe",
+    "source": "vanshb03",
+    "company": "Hudson River Trading",
+    "title": "Data Scientist Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1A5",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1791239757,
+    "first_seen": 1794821262,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:bitgo:8944293002",
+    "source": "greenhouse",
+    "company": "BitGo",
+    "title": "Recruitment Coordinator - Intern (6 Months)",
+    "category": "Other",
+    "locations": [
+      "India"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/bitgo/jobs/8944293002",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794818001,
+    "first_seen": 1794821262,
+    "emailed": false
+  },
+  {
     "uid": "simplify:44e4939c-ec3e-41da-9010-55ab672fc672",
     "source": "simplify",
     "company": "IPEX",
@@ -418,23 +552,6 @@
     "emailed": true
   },
   {
-    "uid": "workday:micron:/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-System-Engineering--Media-Health-Reliability_JR114360",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern - HIG HBM Product System Engineering, Media Health Reliability",
-    "category": "Software",
-    "locations": [
-      "Fab 10A, Singapore"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-System-Engineering--Media-Health-Reliability_JR114360",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794798838,
-    "first_seen": 1794794010,
-    "emailed": false
-  },
-  {
     "uid": "oraclecloud:eeho:334352",
     "source": "oraclecloud",
     "company": "Oracle",
@@ -452,6 +569,23 @@
     "date_posted": 1780358400,
     "first_seen": 1794794010,
     "emailed": true
+  },
+  {
+    "uid": "workday:micron:/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-System-Engineering--Media-Health-Reliability_JR114360",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern - HIG HBM Product System Engineering, Media Health Reliability",
+    "category": "Software",
+    "locations": [
+      "Fab 10A, Singapore"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Intern---HIG-HBM-Product-System-Engineering--Media-Health-Reliability_JR114360",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794798838,
+    "first_seen": 1794794010,
+    "emailed": false
   },
   {
     "uid": "pittcsc:0add4719-4056-4255-9113-6898de232eaa",
@@ -5095,7 +5229,7 @@
     ],
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794528000,
     "first_seen": 1794613355,
     "emailed": true
@@ -6322,7 +6456,7 @@
     ],
     "url": "https://go.vansh.nyc/1yR",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794595014,
     "first_seen": 1794609082,
     "emailed": true
@@ -6647,23 +6781,6 @@
     "emailed": false
   },
   {
-    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
-    "source": "workday",
-    "company": "Micron",
-    "title": "Intern -  AI Engineer Platform",
-    "category": "Software",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "terms": [],
-    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794626038,
-    "first_seen": 1794609082,
-    "emailed": false
-  },
-  {
     "uid": "oraclecloud:eeho:345686",
     "source": "oraclecloud",
     "company": "Oracle",
@@ -6694,6 +6811,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794528000,
+    "first_seen": 1794609082,
+    "emailed": false
+  },
+  {
+    "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
+    "source": "workday",
+    "company": "Micron",
+    "title": "Intern -  AI Engineer Platform",
+    "category": "Software",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "terms": [],
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794626038,
     "first_seen": 1794609082,
     "emailed": false
   },
@@ -11739,7 +11873,7 @@
     ],
     "url": "https://go.vansh.nyc/1y4",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794441600,
     "first_seen": 1794528633,
     "emailed": false
@@ -16501,7 +16635,7 @@
     ],
     "url": "https://go.vansh.nyc/1vJ",
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "date_posted": 1794441261,
     "first_seen": 1794446985,
     "emailed": true
@@ -20261,7 +20395,7 @@
     ],
     "url": "https://go.vansh.nyc/1tz",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1791394285,
     "first_seen": 1794379626,
     "emailed": true
@@ -20281,7 +20415,7 @@
     ],
     "url": "https://go.vansh.nyc/1tA",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1791394509,
     "first_seen": 1794379626,
     "emailed": true
@@ -20319,7 +20453,7 @@
     ],
     "url": "https://go.vansh.nyc/1tC",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1791825833,
     "first_seen": 1794379626,
     "emailed": true
@@ -21353,7 +21487,7 @@
     ],
     "url": "https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792190238,
     "first_seen": 1794358622,
     "emailed": false
@@ -21372,7 +21506,7 @@
     ],
     "url": "https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792190238,
     "first_seen": 1794358622,
     "emailed": false
@@ -21737,7 +21871,7 @@
     ],
     "url": "https://go.vansh.nyc/1sD",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792190238,
     "first_seen": 1794358622,
     "emailed": true
@@ -36308,7 +36442,7 @@
     ],
     "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Analytics-Engineering---Measurement-Student_R26_00700",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793923200,
     "first_seen": 1794013759,
     "emailed": false
@@ -36406,7 +36540,7 @@
     ],
     "url": "https://petronascanada.wd3.myworkdayjobs.com/PETRONASCanada/job/Calgary/Summer-Student--Technical-Assurance-and-Pipeline-Engineering_R0001879",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793923200,
     "first_seen": 1794013759,
     "emailed": false
@@ -37365,7 +37499,7 @@
     ],
     "url": "https://go.vansh.nyc/1lK",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794008627,
     "first_seen": 1794013759,
     "emailed": false
@@ -42703,7 +42837,7 @@
     ],
     "url": "https://go.vansh.nyc/1jE",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1793836800,
     "first_seen": 1793925192,
     "emailed": true
@@ -42722,7 +42856,7 @@
     ],
     "url": "https://go.vansh.nyc/1jF",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1793836800,
     "first_seen": 1793925192,
     "emailed": true
@@ -42741,7 +42875,7 @@
     ],
     "url": "https://go.vansh.nyc/1jG",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1793836800,
     "first_seen": 1793925192,
     "emailed": true
@@ -48778,7 +48912,7 @@
     ],
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813850819",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793845863,
     "first_seen": 1793849249,
     "emailed": false
@@ -51306,7 +51440,7 @@
     ],
     "url": "https://go.vansh.nyc/1gO",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793815574,
     "first_seen": 1793830142,
     "emailed": true
@@ -51325,7 +51459,7 @@
     ],
     "url": "https://go.vansh.nyc/1gP",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793815574,
     "first_seen": 1793830142,
     "emailed": true
@@ -52655,7 +52789,7 @@
     ],
     "url": "https://go.vansh.nyc/1fV",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793768768,
     "first_seen": 1793779148,
     "emailed": false
@@ -83807,7 +83941,7 @@
     ],
     "url": "https://job-boards.eu.greenhouse.io/sparxlearning/jobs/4979971101",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790002823,
     "first_seen": 1793269701,
     "emailed": false
@@ -92890,7 +93024,7 @@
     ],
     "url": "https://go.vansh.nyc/Wy",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793059200,
     "first_seen": 1793142138,
     "emailed": false
@@ -93590,7 +93724,7 @@
     ],
     "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Junior-Insights---Analytics-Co-op_2622099-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793059200,
     "first_seen": 1793118512,
     "emailed": false
@@ -93746,7 +93880,7 @@
     ],
     "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793111426,
     "first_seen": 1793118512,
     "emailed": false
@@ -95193,7 +95327,7 @@
     ],
     "url": "https://go.vansh.nyc/UD",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793059556,
     "first_seen": 1793076751,
     "emailed": true
@@ -95517,7 +95651,7 @@
     ],
     "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793058445,
     "emailed": false
@@ -97219,7 +97353,7 @@
     ],
     "url": "https://go.vansh.nyc/T1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793046983,
     "first_seen": 1793058445,
     "emailed": false
@@ -97617,7 +97751,7 @@
     ],
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793041945,
     "emailed": false
@@ -97655,7 +97789,7 @@
     ],
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793041945,
     "emailed": false
@@ -98536,7 +98670,7 @@
     ],
     "url": "https://go.vansh.nyc/Qa",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793041945,
     "emailed": false
@@ -98555,7 +98689,7 @@
     ],
     "url": "https://go.vansh.nyc/Qb",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793041945,
     "emailed": false
@@ -98574,7 +98708,7 @@
     ],
     "url": "https://go.vansh.nyc/Qc",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793041945,
     "emailed": false
@@ -98593,7 +98727,7 @@
     ],
     "url": "https://go.vansh.nyc/Qd",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793041945,
     "emailed": false
@@ -98612,7 +98746,7 @@
     ],
     "url": "https://go.vansh.nyc/Qe",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793041945,
     "emailed": false
@@ -126938,7 +127072,7 @@
     ],
     "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792627200,
     "first_seen": 1792708983,
     "emailed": false
@@ -129665,7 +129799,7 @@
     ],
     "url": "https://go.vansh.nyc/dG",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792566000,
     "first_seen": 1792646916,
     "emailed": false
@@ -132437,7 +132571,7 @@
     ],
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792540800,
     "first_seen": 1792622527,
     "emailed": false
@@ -132456,7 +132590,7 @@
     ],
     "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792540800,
     "first_seen": 1792622527,
     "emailed": false
@@ -136400,7 +136534,7 @@
     ],
     "url": "https://go.vansh.nyc/bH",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792393200,
     "first_seen": 1792536267,
     "emailed": false
@@ -136476,7 +136610,7 @@
     ],
     "url": "https://go.vansh.nyc/bM",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792479600,
     "first_seen": 1792536267,
     "emailed": false
@@ -136495,7 +136629,7 @@
     ],
     "url": "https://go.vansh.nyc/bN",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792479600,
     "first_seen": 1792536267,
     "emailed": false
@@ -137921,7 +138055,7 @@
     ],
     "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792368000,
     "first_seen": 1792461393,
     "emailed": false
@@ -138072,7 +138206,7 @@
     ],
     "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analytics-Co-op_2621449-2",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792368000,
     "first_seen": 1792452876,
     "emailed": false
@@ -141179,7 +141313,7 @@
     ],
     "url": "https://careers.consumersenergy.com/job/MULTIPLE-LOCATIONS-InternCo-Op-Learning-&-Development-(Data-Visualization)-MI/1441130200/?ats=successfactors",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792362893,
     "first_seen": 1792368996,
     "emailed": false
@@ -149259,7 +149393,7 @@
     ],
     "url": "https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792190238,
     "first_seen": 1792193408,
     "emailed": false
@@ -193122,23 +193256,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7992752003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Washington, DC"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790966567,
-    "first_seen": 1790966707,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:8001399003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -193156,19 +193273,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:8001401003",
+    "uid": "greenhouse:rocketlab:7992752003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Summer 2027",
+    "title": "Government Operations Intern Spring 2027",
     "category": "Software",
     "locations": [
-      "Littleton, CO"
+      "Washington, DC"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1790966553,
+    "date_posted": 1790966567,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -193186,6 +193303,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790966530,
+    "first_seen": 1790966707,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:8001401003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Government Operations Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790966553,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -244466,23 +244600,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7990270003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Systems Engineering Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789678770,
-    "first_seen": 1789680805,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7990272003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -244496,6 +244613,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789678706,
+    "first_seen": 1789680805,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7990270003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Systems Engineering Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789678770,
     "first_seen": 1789680805,
     "emailed": true
   },
@@ -251563,23 +251697,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7984943003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Manufacturing Engineering Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789585321,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7987020003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -251597,19 +251714,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7984564003",
+    "uid": "greenhouse:rocketlab:7984943003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Manufacturing Engineering Intern Summer 2027",
+    "title": "Manufacturing Engineering Intern Spring 2027",
     "category": "Other",
     "locations": [
       "Long Beach, CA"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789585356,
+    "date_posted": 1789585321,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -251631,19 +251748,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7989904003",
+    "uid": "greenhouse:rocketlab:7984564003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Mechanical Engineering Intern Summer 2027",
+    "title": "Manufacturing Engineering Intern Summer 2027",
     "category": "Other",
     "locations": [
-      "Silver Spring, MD"
+      "Long Beach, CA"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789585428,
+    "date_posted": 1789585356,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -251661,6 +251778,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789134006,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7989904003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Mechanical Engineering Intern Summer 2027",
+    "category": "Other",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789585428,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -251750,23 +251884,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986954003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591324,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7986872003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -251784,53 +251901,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986956003",
+    "uid": "greenhouse:rocketlab:7986954003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
+    "title": "Security Analyst Intern Spring 2027",
     "category": "Software",
     "locations": [
       "Long Beach, CA"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789591367,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:rocketlab:7986961003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Wallops Island, VA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591388,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:rocketlab:7986874003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Albuquerque, NM"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591406,
+    "date_posted": 1789591324,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -251852,6 +251935,57 @@
     "emailed": true
   },
   {
+    "uid": "greenhouse:rocketlab:7986874003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591406,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986961003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Wallops Island, VA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591388,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986956003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591367,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:rocketlab:7819101003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -251869,23 +252003,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7985032003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Supply Chain Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789661045,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7990069003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -251899,6 +252016,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789661064,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7985032003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Supply Chain Intern Spring 2027",
+    "category": "Other",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789661045,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -253905,7 +254039,7 @@
     ],
     "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789603200,
     "first_seen": 1789627258,
     "emailed": false
@@ -263801,7 +263935,7 @@
     ],
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789344000,
     "first_seen": 1789420079,
     "emailed": false
@@ -313485,7 +313619,7 @@
     ],
     "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787788800,
     "first_seen": 1788428589,
     "emailed": false
@@ -382837,82 +382971,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:5f8fd091-e12f-4f56-b633-baa2a678e1af",
-    "source": "simplify",
-    "company": "Coherent ",
-    "title": "Intern Software Developer - Document Control - Global Quality",
-    "category": "Software",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2011079",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774073343,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ac400ed4-854f-4f21-adf8-1a8c05dc6f7f",
-    "source": "simplify",
-    "company": "Guild Education",
-    "title": "Product Management Intern",
-    "category": "Product",
-    "locations": [
-      "Denver, CO"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7732992",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774073758,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9b8e4726-77af-4fd7-9e6f-9986925021ff",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Software Engineer Project Intern - Network Security",
-    "category": "Software",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774073406,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:bc833443-aaf7-4458-8dc4-ccaba2eb7390",
-    "source": "simplify",
-    "company": "Guild Education",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.guild.com/open-positions-at-guild?gh_jid=7740252",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774074495,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:631fc4e0-c07b-42f9-855c-656e2563cd0e",
     "source": "simplify",
     "company": "Applied Materials",
@@ -405078,28 +405136,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1775830010,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:6c8ee6ed-a86a-41d4-9681-3e49eb43810b",
-    "source": "simplify",
-    "company": "Capital One",
-    "title": "Current PhD \u2013 Applied Research Intern Program",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Cambridge, MA",
-      "San Jose, CA",
-      "McLean, VA",
-      "NYC"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774073464,
     "first_seen": 1784003708,
     "emailed": true
   },
