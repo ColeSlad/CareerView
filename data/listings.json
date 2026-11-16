@@ -1,5 +1,66 @@
 [
   {
+    "uid": "pittcsc:08243b88-ca42-4255-a67c-94f14428d46d",
+    "source": "pittcsc",
+    "company": "Draper",
+    "title": "Electronics and Embedded Systems Intern",
+    "category": "Hardware",
+    "locations": [
+      "Cambridge, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Summer-Intern_JR002054",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774084939,
+    "first_seen": 1794823622,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:de70e436-4eec-4f37-a74e-708f0c959d2a",
+    "source": "pittcsc",
+    "company": "Hitachi",
+    "title": "Site Deployment Intern",
+    "category": "Hardware",
+    "locations": [
+      "Ottawa, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Ottawa/Site-Deployment--Intern--Fall-2026--12months-_R1011993",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774085049,
+    "first_seen": 1794823622,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:70be837e-b0ee-4fbf-9648-fd8ccff54247",
+    "source": "pittcsc",
+    "company": "Hitachi",
+    "title": "Site Deployment Intern",
+    "category": "Hardware",
+    "locations": [
+      "Burnaby, BC, Canada"
+    ],
+    "terms": [
+      "Fall 2026",
+      "Winter 2026",
+      "Winter 2027",
+      "Spring 2027",
+      "Summer 2027"
+    ],
+    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Burnaby/Site-Deployment-Intern-Fall-2026--12months-_R1011983",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774085040,
+    "first_seen": 1794823622,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:5f8fd091-e12f-4f56-b633-baa2a678e1af",
     "source": "pittcsc",
     "company": "Coherent ",
@@ -76297,23 +76358,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333122",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333122",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377161,
-    "first_seen": 1793386205,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8333074",
     "source": "greenhouse",
     "company": "Stripe",
@@ -76329,6 +76373,23 @@
     "date_posted": 1793377166,
     "first_seen": 1793386205,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:stripe:8333122",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377161,
+    "first_seen": 1793386205,
+    "emailed": false
   },
   {
     "uid": "greenhouse:stripe:8328662",
@@ -97846,7 +97907,7 @@
     ],
     "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793041945,
     "emailed": false
@@ -155159,7 +155220,7 @@
     ],
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792055064,
     "first_seen": 1792058764,
     "emailed": false
@@ -194448,7 +194509,7 @@
     ],
     "url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790921828,
     "first_seen": 1790931422,
     "emailed": false
@@ -199286,23 +199347,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8194291",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Data Analyst, Intern",
-    "category": "Software",
-    "locations": [
-      "New York, Seattle, South San Francisco HQ"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790867129,
-    "first_seen": 1790872912,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8194287",
     "source": "greenhouse",
     "company": "Stripe",
@@ -199316,6 +199360,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790867136,
+    "first_seen": 1790872912,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8194291",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "category": "Software",
+    "locations": [
+      "New York, Seattle, South San Francisco HQ"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790867129,
     "first_seen": 1790872912,
     "emailed": false
   },
@@ -386793,44 +386854,6 @@
     "emailed": true
   },
   {
-    "uid": "simplify:08243b88-ca42-4255-a67c-94f14428d46d",
-    "source": "simplify",
-    "company": "Draper",
-    "title": "Electronics and Embedded Systems Intern",
-    "category": "Hardware",
-    "locations": [
-      "Cambridge, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Summer-Intern_JR002054",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774084939,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:de70e436-4eec-4f37-a74e-708f0c959d2a",
-    "source": "simplify",
-    "company": "Hitachi",
-    "title": "Site Deployment Intern",
-    "category": "Hardware",
-    "locations": [
-      "Ottawa, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Ottawa/Site-Deployment--Intern--Fall-2026--12months-_R1011993",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774085049,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:c0de322e-9232-43ec-bd46-a1bc25f8e21a",
     "source": "simplify",
     "company": "Howmet Aerospace",
@@ -387978,29 +388001,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1774488720,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:70be837e-b0ee-4fbf-9648-fd8ccff54247",
-    "source": "simplify",
-    "company": "Hitachi",
-    "title": "Site Deployment Intern",
-    "category": "Hardware",
-    "locations": [
-      "Burnaby, BC, Canada"
-    ],
-    "terms": [
-      "Fall 2026",
-      "Winter 2026",
-      "Winter 2027",
-      "Spring 2027",
-      "Summer 2027"
-    ],
-    "url": "https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Burnaby/Site-Deployment-Intern-Fall-2026--12months-_R1011983",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774085040,
     "first_seen": 1784003708,
     "emailed": true
   },
