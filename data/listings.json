@@ -1,5 +1,77 @@
 [
   {
+    "uid": "vanshb03:e256e3b2-3efd-4ec9-a059-cfebe67b46eb",
+    "source": "vanshb03",
+    "company": "Bose",
+    "title": "Software Engineer Co-op",
+    "category": "Software",
+    "locations": [
+      "Framingham, MA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "url": "https://go.vansh.nyc/1Cq",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795034568,
+    "first_seen": 1795039675,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:e7a8ff02-3c0a-46d7-92cd-9b41dda2f6cc",
+    "source": "vanshb03",
+    "company": "Amentum",
+    "title": "Immersive Imagery SW/HW Lab Development Intern",
+    "category": "Software",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "url": "https://go.vansh.nyc/1Cr",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "date_posted": 1795036428,
+    "first_seen": 1795039675,
+    "emailed": true
+  },
+  {
+    "uid": "ashby:crusoe:eb8c16c7-b21a-4c59-a24a-78e93788ca88",
+    "source": "ashby",
+    "company": "Crusoe",
+    "title": "Legal Intern",
+    "category": "Other",
+    "locations": [
+      "San Francisco, CA - US, USA"
+    ],
+    "terms": [],
+    "url": "https://jobs.ashbyhq.com/Crusoe/eb8c16c7-b21a-4c59-a24a-78e93788ca88/application",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1795038606,
+    "first_seen": 1795039675,
+    "emailed": false
+  },
+  {
+    "uid": "ashby:crusoe:ffe60cf3-0ddc-4227-9f51-72794e36f4e6",
+    "source": "ashby",
+    "company": "Crusoe",
+    "title": "Legal Intern",
+    "category": "Other",
+    "locations": [
+      "Denver, CO - US"
+    ],
+    "terms": [],
+    "url": "https://jobs.ashbyhq.com/Crusoe/ffe60cf3-0ddc-4227-9f51-72794e36f4e6/application",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1795038616,
+    "first_seen": 1795039675,
+    "emailed": false
+  },
+  {
     "uid": "ashby:crusoe:8d1d162e-7bed-44fb-aff8-6af75b62937b",
     "source": "ashby",
     "company": "Crusoe",
@@ -20372,7 +20444,7 @@
     ],
     "url": "https://go.vansh.nyc/1wa",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792792214,
     "first_seen": 1794476620,
     "emailed": true
@@ -44661,7 +44733,7 @@
     ],
     "url": "https://go.vansh.nyc/1ll",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787877967,
     "first_seen": 1794006097,
     "emailed": true
@@ -59126,7 +59198,7 @@
     ],
     "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6241593004",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793739681,
     "first_seen": 1793753546,
     "emailed": false
@@ -76370,7 +76442,7 @@
     ],
     "url": "https://kinaxis.jibeapply.com/jobs/35297?icims=1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788441900,
     "first_seen": 1793431940,
     "emailed": false
@@ -82019,23 +82091,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333074",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "San Francisco, New York City, Seattle"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377166,
-    "first_seen": 1793386205,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8333122",
     "source": "greenhouse",
     "company": "Stripe",
@@ -82051,6 +82106,23 @@
     "date_posted": 1793377161,
     "first_seen": 1793386205,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8333074",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, New York City, Seattle"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377166,
+    "first_seen": 1793386205,
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8328664",
@@ -123350,7 +123422,7 @@
     ],
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792713600,
     "first_seen": 1792798539,
     "emailed": false
@@ -142893,7 +142965,7 @@
     ],
     "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792506992,
     "first_seen": 1792509930,
     "emailed": true
@@ -223996,7 +224068,7 @@
     ],
     "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790288188,
     "first_seen": 1790292815,
     "emailed": false
@@ -231491,7 +231563,7 @@
     ],
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer/216236",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790115522,
     "first_seen": 1790122939,
     "emailed": false
@@ -248740,7 +248812,7 @@
     ],
     "url": "https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789683809,
     "first_seen": 1789686254,
     "emailed": true
@@ -254737,23 +254809,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:dvtrading:4732697005",
-    "source": "greenhouse",
-    "company": "DV Trading",
-    "title": "Client Platforms Engineer Intern - Summer 2027",
-    "category": "Software",
-    "locations": [
-      "New York"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789049314,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:dvtrading:4732683005",
     "source": "greenhouse",
     "company": "DV Trading",
@@ -254788,19 +254843,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:dvtrading:4730886005",
+    "uid": "greenhouse:dvtrading:4732697005",
     "source": "greenhouse",
     "company": "DV Trading",
-    "title": "DevOps Engineer Intern - Summer 2027",
+    "title": "Client Platforms Engineer Intern - Summer 2027",
     "category": "Software",
     "locations": [
-      "Chicago"
+      "New York"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1788980899,
+    "date_posted": 1789049314,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -265039,23 +265094,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8031833",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Bengaluru"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1783661632,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8130883",
     "source": "greenhouse",
     "company": "Stripe",
@@ -265069,6 +265107,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788759860,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8031833",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Bengaluru"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1783661632,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -303235,7 +303290,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788562112,
     "first_seen": 1788563942,
     "emailed": true
@@ -306072,7 +306127,7 @@
     ],
     "url": "https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1778854413,
     "first_seen": 1788514531,
     "emailed": true
