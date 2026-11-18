@@ -1,5 +1,24 @@
 [
   {
+    "uid": "simplify:2c35406a-a454-4de2-a3de-763af7d27d5d",
+    "source": "simplify",
+    "company": "The Aerospace Corporation",
+    "title": "Lidar Undergraduate Intern",
+    "category": "Hardware",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794441600,
+    "first_seen": 1795011390,
+    "emailed": false
+  },
+  {
     "uid": "simplify:0398ec3d-cdf1-4c12-9aab-b7ff257065b7",
     "source": "simplify",
     "company": "Canadian Strategic Missions",
@@ -52746,7 +52765,7 @@
     ],
     "url": "https://careers-gdms.icims.com/jobs/75776/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792627200,
     "first_seen": 1793872644,
     "emailed": false
@@ -145474,7 +145493,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792420139,
     "first_seen": 1792431370,
     "emailed": false
@@ -231661,7 +231680,7 @@
     ],
     "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790035200,
     "first_seen": 1790102884,
     "emailed": true
@@ -256475,6 +256494,23 @@
     "emailed": false
   },
   {
+    "uid": "greenhouse:rocketlab:7986954003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591324,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:rocketlab:7986965003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -256505,40 +256541,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789591356,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:rocketlab:7986954003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591324,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:rocketlab:7986956003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591367,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -256594,6 +256596,23 @@
     "emailed": true
   },
   {
+    "uid": "greenhouse:rocketlab:7986956003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591367,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:rocketlab:7819101003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -256611,23 +256630,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7990069003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Supply Chain Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Middle River, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789661064,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7985032003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -256641,6 +256643,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789661045,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7990069003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Supply Chain Intern Spring 2027",
+    "category": "Other",
+    "locations": [
+      "Middle River, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789661064,
     "first_seen": 1789665337,
     "emailed": false
   },
