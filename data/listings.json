@@ -1,5 +1,62 @@
 [
   {
+    "uid": "vanshb03:3839596b-91de-48e4-8f95-06c341099144",
+    "source": "vanshb03",
+    "company": "Idaho National Laboratory",
+    "title": "Software Engineering Intern, Java/API Development for Neutronics Code",
+    "category": "Software",
+    "locations": [
+      "Idaho Falls, ID"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1D6",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795046400,
+    "first_seen": 1795123421,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:730a5a8e-d62a-4ba8-afd5-42b33db19ad6",
+    "source": "vanshb03",
+    "company": "EUNA Solutions",
+    "title": "Associate AI-Enablement Developer Co-op",
+    "category": "Software",
+    "locations": [
+      "Oakville, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://go.vansh.nyc/1D7",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795122661,
+    "first_seen": 1795123421,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:6a71eb8f-5f8c-446b-8e5d-d6978d0a6d33",
+    "source": "vanshb03",
+    "company": "Piper Sandler",
+    "title": "Data Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1D8",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795122661,
+    "first_seen": 1795123421,
+    "emailed": true
+  },
+  {
     "uid": "vanshb03:addfb4a4-e8fa-4a5b-b0eb-8a6990541269",
     "source": "vanshb03",
     "company": "Allied Consultants",
@@ -70419,23 +70476,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:verkada:4995135007",
-    "source": "greenhouse",
-    "company": "Verkada",
-    "title": "Sales Development Representative, Internship",
-    "category": "Other",
-    "locations": [
-      "Austin, TX United States"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/4995135007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793648776,
-    "first_seen": 1793656515,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:verkada:4866879007",
     "source": "greenhouse",
     "company": "Verkada",
@@ -70449,6 +70489,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1757425254,
+    "first_seen": 1793656515,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:verkada:4995135007",
+    "source": "greenhouse",
+    "company": "Verkada",
+    "title": "Sales Development Representative, Internship",
+    "category": "Other",
+    "locations": [
+      "Austin, TX United States"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/4995135007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793648776,
     "first_seen": 1793656515,
     "emailed": false
   },
@@ -207665,23 +207722,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8194291",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Data Analyst, Intern",
-    "category": "Software",
-    "locations": [
-      "New York, Seattle, South San Francisco HQ"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790867129,
-    "first_seen": 1790872912,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8194287",
     "source": "greenhouse",
     "company": "Stripe",
@@ -207695,6 +207735,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790867136,
+    "first_seen": 1790872912,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8194291",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "category": "Software",
+    "locations": [
+      "New York, Seattle, South San Francisco HQ"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790867129,
     "first_seen": 1790872912,
     "emailed": false
   },
@@ -257266,40 +257323,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:astranis:4704601006",
-    "source": "greenhouse",
-    "company": "Astranis",
-    "title": "Mechanical Engineer Intern (Summer 2027)",
-    "category": "Other",
-    "locations": [
-      "San Francisco"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704601006",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1786752924,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
-    "uid": "greenhouse:astranis:4704600006",
-    "source": "greenhouse",
-    "company": "Astranis",
-    "title": "Mechanical Engineer Intern (Winter 2027)",
-    "category": "Other",
-    "locations": [
-      "San Francisco"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704600006",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1786752923,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:chainguard:4410540006",
     "source": "greenhouse",
     "company": "Chainguard",
@@ -267699,23 +267722,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8130867",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "London"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788215438,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8031833",
     "source": "greenhouse",
     "company": "Stripe",
@@ -267729,6 +267735,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783661632,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130867",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "London"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788215438,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -267750,23 +267773,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8128745",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern (Summer)",
-    "category": "Software",
-    "locations": [
-      "San Francisco, Seattle, New York City"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788214845,
-    "first_seen": 1789514229,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8130805",
     "source": "greenhouse",
     "company": "Stripe",
@@ -267782,6 +267788,23 @@
     "date_posted": 1788218508,
     "first_seen": 1789514229,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8128745",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "category": "Software",
+    "locations": [
+      "San Francisco, Seattle, New York City"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788214845,
+    "first_seen": 1789514229,
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8097801",
