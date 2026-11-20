@@ -1,5 +1,47 @@
 [
   {
+    "uid": "vanshb03:ca8ae719-7a5c-496f-8a5b-e55ca3e41152",
+    "source": "vanshb03",
+    "company": "PTC",
+    "title": "Full-Stack Engineering Intern, Cloud Data Management (CAD)",
+    "category": "Software",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1EX",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795120814,
+    "first_seen": 1795209481,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:d2080a4c-0ee7-4f0e-b3dd-367ea8d184b4",
+    "source": "vanshb03",
+    "company": "Sierra Space",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Centennial, CO",
+      "Louisville, CO",
+      "Durham, NC",
+      "Madison, WI",
+      "Broomfield, CO"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1EY",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": true,
+    "date_posted": 1795151436,
+    "first_seen": 1795209481,
+    "emailed": true
+  },
+  {
     "uid": "vanshb03:fa62c7fc-9fd8-4fa8-aac0-57eb1274e6b5",
     "source": "vanshb03",
     "company": "Gusto",
@@ -5752,23 +5794,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5302147007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Engineering Systems Intern",
-    "category": "Software",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1795108684,
-    "first_seen": 1795115458,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:lightmatter:5473539008",
     "source": "greenhouse",
     "company": "Lightmatter",
@@ -5903,6 +5928,23 @@
     "date_posted": 1795100634,
     "first_seen": 1795115458,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5302147007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Engineering Systems Intern",
+    "category": "Software",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1795108684,
+    "first_seen": 1795115458,
+    "emailed": true
   },
   {
     "uid": "simplify:b4ab6293-700b-4816-9b35-bbc9edcf6990",
@@ -10069,7 +10111,7 @@
     ],
     "url": "https://go.vansh.nyc/1By",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1794946204,
     "first_seen": 1794954975,
     "emailed": true
@@ -10508,23 +10550,6 @@
     "date_posted": 1783966899,
     "first_seen": 1794951884,
     "emailed": true
-  },
-  {
-    "uid": "greenhouse:cloudflare:8394342",
-    "source": "greenhouse",
-    "company": "Cloudflare",
-    "title": "AI & Automation Intern, Communications (Winter 2027)",
-    "category": "Software",
-    "locations": [
-      "In-Office"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794945724,
-    "first_seen": 1794951884,
-    "emailed": false
   },
   {
     "uid": "greenhouse:rocketlab:8205829003",
@@ -12683,40 +12708,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5296825007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Deployment Operations Intern",
-    "category": "Software",
-    "locations": [
-      "Quincy, Massachusetts, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794871266,
-    "first_seen": 1794886940,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:andurilindustries:5297134007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Mission Operations Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Honolulu, Hawaii, United States; Washington, District of Columbia, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794872248,
-    "first_seen": 1794886940,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:brex:8936403002",
     "source": "greenhouse",
     "company": "Brex",
@@ -12766,6 +12757,40 @@
     "date_posted": 1794880791,
     "first_seen": 1794886940,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5296825007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Deployment Operations Intern",
+    "category": "Software",
+    "locations": [
+      "Quincy, Massachusetts, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794871266,
+    "first_seen": 1794886940,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5297134007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Mission Operations Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Honolulu, Hawaii, United States; Washington, District of Columbia, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794872248,
+    "first_seen": 1794886940,
+    "emailed": true
   },
   {
     "uid": "vanshb03:2b27e927-d0e6-46cd-bbcd-e7a96f7c3aa8",
@@ -13433,40 +13458,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5289632007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Industrial Equipment Maintenance Intern",
-    "category": "Software",
-    "locations": [
-      "Ashville, Ohio, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794854362,
-    "first_seen": 1794860280,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:andurilindustries:5261735007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Product Marketing Intern",
-    "category": "Other",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794857964,
-    "first_seen": 1794860280,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:schonfeld:8171696",
     "source": "greenhouse",
     "company": "Schonfeld ",
@@ -13516,6 +13507,40 @@
     "date_posted": 1794509934,
     "first_seen": 1794860280,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5289632007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Industrial Equipment Maintenance Intern",
+    "category": "Software",
+    "locations": [
+      "Ashville, Ohio, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794854362,
+    "first_seen": 1794860280,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5261735007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Product Marketing Intern",
+    "category": "Other",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794857964,
+    "first_seen": 1794860280,
+    "emailed": false
   },
   {
     "uid": "simplify:30bd4dfd-b823-4a01-841f-76c3c17f0de1",
@@ -20424,23 +20449,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5261731007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Brand Marketing Intern",
-    "category": "Other",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794602515,
-    "first_seen": 1794609082,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:robinhood:8357464",
     "source": "greenhouse",
     "company": "Robinhood",
@@ -20471,6 +20479,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794604809,
+    "first_seen": 1794609082,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5261731007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Brand Marketing Intern",
+    "category": "Other",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794602515,
     "first_seen": 1794609082,
     "emailed": false
   },
@@ -36667,23 +36692,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5291546007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Optical Payload Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Costa Mesa, California, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794347179,
-    "first_seen": 1794349184,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:towerresearchcapital:8372658",
     "source": "greenhouse",
     "company": "Tower Research Capital",
@@ -36699,6 +36707,23 @@
     "date_posted": 1794345697,
     "first_seen": 1794349184,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5291546007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Optical Payload Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Costa Mesa, California, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794347179,
+    "first_seen": 1794349184,
+    "emailed": true
   },
   {
     "uid": "vanshb03:2583a454-d120-4eb2-8aa6-89faa5496700",
@@ -48196,7 +48221,7 @@
     ],
     "url": "https://go.vansh.nyc/1mh",
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "date_posted": 1794071215,
     "first_seen": 1794080178,
     "emailed": true
@@ -61680,7 +61705,7 @@
     ],
     "url": "https://go.vansh.nyc/1hJ",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793866217,
     "first_seen": 1793872644,
     "emailed": false
@@ -62459,7 +62484,7 @@
     ],
     "url": "https://qualcomm.eightfold.ai/careers/job/446721969461",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793845921,
     "first_seen": 1793849249,
     "emailed": false
@@ -78707,7 +78732,7 @@
     ],
     "url": "https://go.vansh.nyc/18t",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793525855,
     "first_seen": 1793543372,
     "emailed": true
@@ -89503,23 +89528,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5280611007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "Fall 2027 Manufacturing Engineer Co-op",
-    "category": "Other",
-    "locations": [
-      "Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793389553,
-    "first_seen": 1793394594,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:waymo:8337719",
     "source": "greenhouse",
     "company": "Waymo",
@@ -89550,6 +89558,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793388976,
+    "first_seen": 1793394594,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5280611007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "Fall 2027 Manufacturing Engineer Co-op",
+    "category": "Other",
+    "locations": [
+      "Ashville, Ohio, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793389553,
     "first_seen": 1793394594,
     "emailed": false
   },
@@ -134402,7 +134427,7 @@
     ],
     "url": "https://go.vansh.nyc/f1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792652400,
     "first_seen": 1792776757,
     "emailed": false
@@ -146035,36 +146060,41 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5271686007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "Winter 2027 Business Operations Engineer Co-op",
-    "category": "Other",
+    "uid": "simplify:9b8baf0a-0a8c-4351-9fcc-ed44351e77e5",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Business Operations Engineer Co-op",
+    "category": "Software",
     "locations": [
-      "Ashville, Ohio, United States; Costa Mesa, California, United States"
+      "Ashville, OH",
+      "Costa Mesa, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007",
-    "sponsorship": null,
+    "terms": [
+      "Winter 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1792617242,
+    "date_posted": 1792620377,
     "first_seen": 1792622527,
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5271842007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "Winter 2027 Robotics Engineer Co-op",
-    "category": "Software",
+    "uid": "simplify:58a18c55-845e-4263-98d7-78701275167e",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Robotics Engineer Co-op",
+    "category": "AI/ML/Data",
     "locations": [
-      "Quincy, Massachusetts, United States"
+      "Quincy, MA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007",
-    "sponsorship": null,
+    "terms": [
+      "Winter 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1792619600,
+    "date_posted": 1792620378,
     "first_seen": 1792622527,
     "emailed": true
   },
@@ -146314,19 +146344,22 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5271672007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Business Operations Engineer Intern",
-    "category": "Other",
+    "uid": "simplify:9b0a00f8-306d-4f85-be43-6b438422bb5c",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Business Operations Engineer Intern",
+    "category": "Software",
     "locations": [
-      "Ashville, Ohio, United States; Costa Mesa, California, United States"
+      "Ashville, OH",
+      "Costa Mesa, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007",
-    "sponsorship": null,
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1792612304,
+    "date_posted": 1792620375,
     "first_seen": 1792616196,
     "emailed": true
   },
@@ -146808,23 +146841,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5271285007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Product Sourcing Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792603936,
-    "first_seen": 1792604599,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:oscar:8303588",
     "source": "greenhouse",
     "company": "Oscar Health",
@@ -146838,6 +146854,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1792597937,
+    "first_seen": 1792604599,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:andurilindustries:5271285007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Product Sourcing Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792603936,
     "first_seen": 1792604599,
     "emailed": true
   },
@@ -150260,19 +150293,21 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5269977007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Finance Data Analyst Intern",
-    "category": "Other",
+    "uid": "simplify:bad6f9e8-fe91-4660-93ea-5cd96b5e822d",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Finance Data Analyst Intern",
+    "category": "AI/ML/Data",
     "locations": [
-      "Costa Mesa, California, United States"
+      "Costa Mesa, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007",
-    "sponsorship": null,
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5269977007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1792534442,
+    "date_posted": 1792534691,
     "first_seen": 1792535152,
     "emailed": false
   },
@@ -153287,6 +153322,40 @@
     "emailed": true
   },
   {
+    "uid": "greenhouse:waymo:8283558",
+    "source": "greenhouse",
+    "company": "Waymo",
+    "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
+    "category": "Software",
+    "locations": [
+      "Mountain View, California, United States"
+    ],
+    "terms": [],
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792441487,
+    "first_seen": 1792446422,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:waymo:8301854",
+    "source": "greenhouse",
+    "company": "Waymo",
+    "title": "2027 Summer Intern, PhD, Research, VLM Harnesses for AV Planning",
+    "category": "Software",
+    "locations": [
+      "Mountain View, CA, USA"
+    ],
+    "terms": [],
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8301854",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792442081,
+    "first_seen": 1792446422,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:andurilindustries:5268689007",
     "source": "greenhouse",
     "company": "Anduril Industries",
@@ -153334,40 +153403,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1792439313,
-    "first_seen": 1792446422,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:waymo:8283558",
-    "source": "greenhouse",
-    "company": "Waymo",
-    "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
-    "category": "Software",
-    "locations": [
-      "Mountain View, California, United States"
-    ],
-    "terms": [],
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792441487,
-    "first_seen": 1792446422,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:waymo:8301854",
-    "source": "greenhouse",
-    "company": "Waymo",
-    "title": "2027 Summer Intern, PhD, Research, VLM Harnesses for AV Planning",
-    "category": "Software",
-    "locations": [
-      "Mountain View, CA, USA"
-    ],
-    "terms": [],
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8301854",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792442081,
     "first_seen": 1792446422,
     "emailed": true
   },
@@ -171200,19 +171235,21 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5265127007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "Winter 2027 Research Engineer Co-op",
+    "uid": "simplify:dafc249b-2c6d-433d-9420-560205cd6a93",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Research Engineer Co-op",
     "category": "Software",
     "locations": [
-      "Santa Ana, California, United States"
+      "Santa Ana, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-    "sponsorship": null,
+    "terms": [
+      "Winter 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1792015688,
+    "date_posted": 1792015976,
     "first_seen": 1792017326,
     "emailed": true
   },
@@ -174013,19 +174050,21 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5265158007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Firmware Engineer Intern",
-    "category": "Software",
+    "uid": "simplify:7bb707f9-e94b-4f2d-8921-ee6d523213bc",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Firmware Engineer Intern",
+    "category": "Hardware",
     "locations": [
-      "Costa Mesa, California, United States"
+      "Costa Mesa, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007",
-    "sponsorship": null,
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265158007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1791931414,
+    "date_posted": 1791940879,
     "first_seen": 1791933937,
     "emailed": true
   },
@@ -191194,19 +191233,21 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5255902007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Software Engineer Intern",
+    "uid": "simplify:9e2e6559-0af7-4f08-8cca-e4a650d95b46",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Software Engineer Intern",
     "category": "Software",
     "locations": [
-      "London, England, United Kingdom"
+      "London, UK"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007",
-    "sponsorship": null,
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255902007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1791370472,
+    "date_posted": 1791383064,
     "first_seen": 1791384467,
     "emailed": false
   },
@@ -196206,6 +196247,40 @@
     "emailed": true
   },
   {
+    "uid": "greenhouse:cloudflare:8245197",
+    "source": "greenhouse",
+    "company": "Cloudflare",
+    "title": "Software Engineer Intern (2027)",
+    "category": "Software",
+    "locations": [
+      "In-Office"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1791254526,
+    "first_seen": 1791255318,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7984786003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Supply Chain Intern",
+    "category": "Other",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984786003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1791243811,
+    "first_seen": 1791255318,
+    "emailed": false
+  },
+  {
     "uid": "greenhouse:andurilindustries:5257674007",
     "source": "greenhouse",
     "company": "Anduril Industries",
@@ -196272,40 +196347,6 @@
     "date_posted": 1791245830,
     "first_seen": 1791255318,
     "emailed": true
-  },
-  {
-    "uid": "greenhouse:cloudflare:8245197",
-    "source": "greenhouse",
-    "company": "Cloudflare",
-    "title": "Software Engineer Intern (2027)",
-    "category": "Software",
-    "locations": [
-      "In-Office"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1791254526,
-    "first_seen": 1791255318,
-    "emailed": false
-  },
-  {
-    "uid": "greenhouse:rocketlab:7984786003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Supply Chain Intern",
-    "category": "Other",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984786003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1791243811,
-    "first_seen": 1791255318,
-    "emailed": false
   },
   {
     "uid": "workday:nvidia:/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030",
@@ -206519,23 +206560,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5255827007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Supply Chain Intern",
-    "category": "Other",
-    "locations": [
-      "Costa Mesa, California, United States; Fort Collins, Colorado, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States; Waltham, Massachusetts, United States"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790968420,
-    "first_seen": 1790974646,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:lyft:8862215002",
     "source": "greenhouse",
     "company": "Lyft",
@@ -206621,6 +206645,23 @@
     "emailed": false
   },
   {
+    "uid": "greenhouse:andurilindustries:5255827007",
+    "source": "greenhouse",
+    "company": "Anduril Industries",
+    "title": "2027 Supply Chain Intern",
+    "category": "Other",
+    "locations": [
+      "Costa Mesa, California, United States; Fort Collins, Colorado, United States; Quincy, Massachusetts, United States; Santa Ana, California, United States; Waltham, Massachusetts, United States"
+    ],
+    "terms": [],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790968420,
+    "first_seen": 1790974646,
+    "emailed": false
+  },
+  {
     "uid": "greenhouse:rocketlab:7992752003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -206655,23 +206696,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:8001401003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Littleton, CO"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790966553,
-    "first_seen": 1790966707,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7992754003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -206685,6 +206709,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790966530,
+    "first_seen": 1790966707,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:8001401003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Government Operations Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790966553,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -212617,23 +212658,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8194287",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Data Analyst, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790867136,
-    "first_seen": 1790872912,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8194291",
     "source": "greenhouse",
     "company": "Stripe",
@@ -212647,6 +212671,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790867129,
+    "first_seen": 1790872912,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8194287",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790867136,
     "first_seen": 1790872912,
     "emailed": false
   },
@@ -257722,23 +257763,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7990270003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Systems Engineering Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Tucson, AZ"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789678770,
-    "first_seen": 1789680805,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7990272003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -257752,6 +257776,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789678706,
+    "first_seen": 1789680805,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7990270003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Systems Engineering Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Tucson, AZ"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789678770,
     "first_seen": 1789680805,
     "emailed": true
   },
@@ -263476,23 +263517,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027939",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Researcher (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740420,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8027900",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -263506,6 +263530,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1787557373,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027939",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Researcher (Intern)",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785740420,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -263612,23 +263653,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027922",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Trader (Intern)",
-    "category": "Software",
-    "locations": [
-      "Hong Kong; Shanghai"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1787557366,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8050772",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -263642,6 +263666,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783946223,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027922",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Trader (Intern)",
+    "category": "Software",
+    "locations": [
+      "Hong Kong; Shanghai"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1787557366,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -263661,23 +263702,6 @@
     "date_posted": 1783546547,
     "first_seen": 1789665337,
     "emailed": true
-  },
-  {
-    "uid": "greenhouse:jumptrading:8027952",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Systems Engineer (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740411,
-    "first_seen": 1789665337,
-    "emailed": false
   },
   {
     "uid": "greenhouse:jumptrading:8007788",
@@ -263714,19 +263738,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:7974943",
+    "uid": "greenhouse:jumptrading:8027952",
     "source": "greenhouse",
     "company": "Jump Trading",
-    "title": "Campus UI Software Engineer (Intern)",
+    "title": "Campus Systems Engineer (Intern)",
     "category": "Software",
     "locations": [
-      "London"
+      "Singapore"
     ],
     "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1783946266,
+    "date_posted": 1785740411,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -263746,6 +263770,23 @@
     "date_posted": 1783546513,
     "first_seen": 1789665337,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:jumptrading:7974943",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus UI Software Engineer (Intern)",
+    "category": "Software",
+    "locations": [
+      "London"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1783946266,
+    "first_seen": 1789665337,
+    "emailed": false
   },
   {
     "uid": "greenhouse:lyft:8797376002",
@@ -264360,19 +264401,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7991448003",
+    "uid": "greenhouse:rocketlab:7989904003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
     "title": "Mechanical Engineering Intern Summer 2027",
     "category": "Other",
     "locations": [
-      "Long Beach, CA"
+      "Silver Spring, MD"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789355778,
+    "date_posted": 1789585428,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -264394,19 +264435,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7989904003",
+    "uid": "greenhouse:rocketlab:7991448003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
     "title": "Mechanical Engineering Intern Summer 2027",
     "category": "Other",
     "locations": [
-      "Silver Spring, MD"
+      "Long Beach, CA"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789585428,
+    "date_posted": 1789355778,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -264462,23 +264503,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7986872003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Albuquerque, NM"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591356,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7986954003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -264492,6 +264516,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789591324,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986872003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591356,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -264513,23 +264554,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986963003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Middle River, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789601114,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7986956003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -264543,6 +264567,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789591367,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986963003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Middle River, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789601114,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -264564,23 +264605,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7990069003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Supply Chain Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Middle River, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789661064,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7985032003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -264594,6 +264618,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789661045,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7990069003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Supply Chain Intern Spring 2027",
+    "category": "Other",
+    "locations": [
+      "Middle River, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789661064,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -264853,23 +264894,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:towerresearchcapital:7011493",
-    "source": "greenhouse",
-    "company": "Tower Research Capital",
-    "title": "Quantitative Developer Intern",
-    "category": "Software",
-    "locations": [
-      "Paris"
-    ],
-    "terms": [],
-    "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1750874239,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:towerresearchcapital:8138524",
     "source": "greenhouse",
     "company": "Tower Research Capital",
@@ -264883,6 +264907,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1787036559,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:towerresearchcapital:7011493",
+    "source": "greenhouse",
+    "company": "Tower Research Capital",
+    "title": "Quantitative Developer Intern",
+    "category": "Software",
+    "locations": [
+      "Paris"
+    ],
+    "terms": [],
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=7011493",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1750874239,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -270693,19 +270734,21 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5236563007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "Winter 2027 Software Engineer Co-op",
+    "uid": "simplify:e5537bf8-fbbd-44ae-a003-71eee38408d2",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Software Engineer Co-op",
     "category": "Software",
     "locations": [
-      "Quincy, Massachusetts, United States"
+      "Quincy, MA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
-    "sponsorship": null,
+    "terms": [
+      "Winter 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1789494591,
+    "date_posted": 1789509978,
     "first_seen": 1789514229,
     "emailed": true
   },
@@ -270805,19 +270848,22 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5236565007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "Winter 2027 Electrical Engineer Co-op",
-    "category": "Other",
+    "uid": "simplify:7facf78c-a3d2-4cd9-bbbe-c1673f0e7b99",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Electrical Engineer Co-op",
+    "category": "Hardware",
     "locations": [
-      "Costa Mesa, California, United States; Quincy, Massachusetts, United States"
+      "Quincy, MA",
+      "Costa Mesa, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007",
-    "sponsorship": null,
+    "terms": [
+      "Winter 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1789493390,
+    "date_posted": 1789509978,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -272430,19 +272476,21 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5239083007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Flight Software Engineer Intern",
-    "category": "Software",
+    "uid": "simplify:a529ee18-b6a1-4596-bc3a-31cb1890b708",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Flight Software Engineer Intern",
+    "category": "Hardware",
     "locations": [
-      "Costa Mesa, California, United States"
+      "Costa Mesa, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-    "sponsorship": null,
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1789500009,
+    "date_posted": 1789509902,
     "first_seen": 1789514229,
     "emailed": true
   },
@@ -272464,23 +272512,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8130867",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "London"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788215438,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8130883",
     "source": "greenhouse",
     "company": "Stripe",
@@ -272494,6 +272525,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788759860,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130867",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "London"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788215438,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -302106,23 +302154,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:datadog:8114161",
-    "source": "greenhouse",
-    "company": "Datadog",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Madrid, Spain"
-    ],
-    "terms": [],
-    "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788876269,
-    "first_seen": 1788877835,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:datadog:8114186",
     "source": "greenhouse",
     "company": "Datadog",
@@ -302136,6 +302167,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788876406,
+    "first_seen": 1788877835,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:datadog:8114161",
+    "source": "greenhouse",
+    "company": "Datadog",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Madrid, Spain"
+    ],
+    "terms": [],
+    "url": "https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788876269,
     "first_seen": 1788877835,
     "emailed": false
   },
@@ -328160,19 +328208,29 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:andurilindustries:5148101007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Electrical Engineer Intern",
-    "category": "Other",
+    "uid": "simplify:fa9fe56f-b359-4990-84d8-bf75393d78e5",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Electrical Engineer Intern",
+    "category": "Hardware",
     "locations": [
-      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States"
+      "Boston, MA",
+      "Seattle, WA",
+      "Irvine, CA",
+      "Colorado Springs, CO",
+      "Reston, VA",
+      "Fort Collins, CO",
+      "Broomfield, CO",
+      "Atlanta, GA",
+      "Costa Mesa, CA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
-    "sponsorship": null,
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1781197256,
+    "date_posted": 1781216095,
     "first_seen": 1788409212,
     "emailed": false
   },
@@ -462642,19 +462700,26 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:andurilindustries:5148079007",
-    "source": "greenhouse",
-    "company": "Anduril Industries",
-    "title": "2027 Software Engineer Intern",
+    "uid": "simplify:c1623229-faaa-4f1d-bdd8-fc0b46bc74a0",
+    "source": "simplify",
+    "company": "Anduril",
+    "title": "Software Engineer Intern",
     "category": "Software",
     "locations": [
-      "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States"
+      "Boston, MA",
+      "Seattle, WA",
+      "Newport Beach, CA",
+      "Irvine, CA",
+      "Reston, VA",
+      "Atlanta, GA"
     ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-    "sponsorship": null,
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007",
+    "sponsorship": "Other",
     "active": true,
-    "date_posted": 1781134386,
+    "date_posted": 1781141052,
     "first_seen": 1784003708,
     "emailed": true
   },
