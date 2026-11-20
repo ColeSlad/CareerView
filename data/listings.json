@@ -1,5 +1,119 @@
 [
   {
+    "uid": "vanshb03:fa62c7fc-9fd8-4fa8-aac0-57eb1274e6b5",
+    "source": "vanshb03",
+    "company": "Gusto",
+    "title": "Insights Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1EO",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795199504,
+    "first_seen": 1795204762,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:180c89f7-8e1d-44bb-8b04-efe171cbfe27",
+    "source": "vanshb03",
+    "company": "Cadence",
+    "title": "Software Engineering Intern, Circuit Simulation Infrastructure",
+    "category": "Software",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1EP",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795169500,
+    "first_seen": 1795204762,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:7d81146c-605d-41cc-916b-b8b37f5a1e03",
+    "source": "vanshb03",
+    "company": "Hewlett Packard Enterprise",
+    "title": "AI Engineering Technical Intern",
+    "category": "Software",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1ER",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795115794,
+    "first_seen": 1795204762,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:df8ecbea-40ad-48e1-bdfe-aa4f35d18e07",
+    "source": "vanshb03",
+    "company": "Caesars Entertainment",
+    "title": "IAM Cybersecurity Intern",
+    "category": "Software",
+    "locations": [
+      "Las Vegas, NV"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1ES",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795132800,
+    "first_seen": 1795204762,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:be51d9b7-733f-454e-a77b-cac1e50508e0",
+    "source": "vanshb03",
+    "company": "Renesas Electronics",
+    "title": "Firmware Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1ET",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795195425,
+    "first_seen": 1795204762,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:aba70f49-538d-4ab5-9e60-29ed5318fce4",
+    "source": "vanshb03",
+    "company": "Ralliant",
+    "title": "Software Engineering Intern, AI Building",
+    "category": "Software",
+    "locations": [
+      "Beaverton, OR"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1EU",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795132800,
+    "first_seen": 1795204762,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:gusto:8400148",
     "source": "greenhouse",
     "company": "Gusto, Inc.",
@@ -2047,7 +2161,7 @@
     ],
     "url": "https://amii.bamboohr.com/careers/247/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795142970,
     "first_seen": 1795145473,
     "emailed": false
@@ -32004,23 +32118,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:schonfeld:8346891",
-    "source": "greenhouse",
-    "company": "Schonfeld ",
-    "title": "2027 Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Hong Kong, Hong Kong"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8346891",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794414141,
-    "first_seen": 1794415225,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:schonfeld:8356747",
     "source": "greenhouse",
     "company": "Schonfeld ",
@@ -32034,6 +32131,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794414219,
+    "first_seen": 1794415225,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:schonfeld:8346891",
+    "source": "greenhouse",
+    "company": "Schonfeld ",
+    "title": "2027 Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Hong Kong, Hong Kong"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8346891",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794414141,
     "first_seen": 1794415225,
     "emailed": false
   },
@@ -37260,7 +37374,7 @@
     ],
     "url": "https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794323429,
     "first_seen": 1794330084,
     "emailed": false
@@ -60147,7 +60261,7 @@
     ],
     "url": "https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792713600,
     "first_seen": 1793872644,
     "emailed": true
@@ -68631,7 +68745,7 @@
     ],
     "url": "https://go.vansh.nyc/1eV",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791322571,
     "first_seen": 1793753546,
     "emailed": true
@@ -69405,23 +69519,6 @@
     "date_posted": 1793736413,
     "first_seen": 1793739378,
     "emailed": true
-  },
-  {
-    "uid": "greenhouse:schonfeld:8350719",
-    "source": "greenhouse",
-    "company": "Schonfeld ",
-    "title": "2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern",
-    "category": "Software",
-    "locations": [
-      "Hong Kong, Hong Kong"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8350719",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793736130,
-    "first_seen": 1793739378,
-    "emailed": false
   },
   {
     "uid": "workday:micron:/job/Boise-ID---Main-Site/Intern---Advanced-Packaging-TD_JR115368",
@@ -89440,23 +89537,6 @@
     "emailed": true
   },
   {
-    "uid": "lever:cfsenergy:5ed9b326-1824-4efb-bc9a-dc4a813ebcb7",
-    "source": "lever",
-    "company": "Commonwealth Fusion Systems",
-    "title": "Intern - Electrical/Electromechanical Engineer - Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Devens, MA"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793394323,
-    "first_seen": 1793394594,
-    "emailed": false
-  },
-  {
     "uid": "lever:cfsenergy:2edaad6a-3def-479e-992e-b0c333b9022f",
     "source": "lever",
     "company": "Commonwealth Fusion Systems",
@@ -105139,7 +105219,7 @@
     ],
     "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793140351,
     "first_seen": 1793148211,
     "emailed": false
@@ -145511,7 +145591,7 @@
     ],
     "url": "https://qualcomm.eightfold.ai/careers/job/446721661677",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792621575,
     "first_seen": 1792622527,
     "emailed": false
@@ -152349,7 +152429,7 @@
     ],
     "url": "https://qualcomm.eightfold.ai/careers/job/446721636765",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792447524,
     "first_seen": 1792452876,
     "emailed": false
@@ -162810,7 +162890,7 @@
     ],
     "url": "https://jobs.lever.co/pattern/13695e3e-92b7-40f7-8805-ea39b9c324e7/apply",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792190180,
     "first_seen": 1792193408,
     "emailed": false
@@ -185635,7 +185715,7 @@
     ],
     "url": "https://careers.jhuapl.edu/jobs/60433?icims=1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791497943,
     "first_seen": 1791506590,
     "emailed": false
@@ -206575,23 +206655,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7992754003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Washington, DC"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992754003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790966530,
-    "first_seen": 1790966707,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:8001401003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -206605,6 +206668,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790966553,
+    "first_seen": 1790966707,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7992754003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Government Operations Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Washington, DC"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992754003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790966530,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -220581,23 +220661,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790692214,
-    "first_seen": 1790696590,
-    "emailed": false
-  },
-  {
-    "uid": "greenhouse:schonfeld:8238448",
-    "source": "greenhouse",
-    "company": "Schonfeld ",
-    "title": "2027 Quantitative Research Intern",
-    "category": "Software",
-    "locations": [
-      "Hong Kong, Hong Kong"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238448",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790692311,
     "first_seen": 1790696590,
     "emailed": false
   },
@@ -257659,23 +257722,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7990272003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Systems Engineering Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Chantilly, VA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789678706,
-    "first_seen": 1789680805,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7990270003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -257689,6 +257735,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789678770,
+    "first_seen": 1789680805,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7990272003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Systems Engineering Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789678706,
     "first_seen": 1789680805,
     "emailed": true
   },
@@ -264263,23 +264326,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7988835003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Manufacturing Engineering Intern Summer 2027",
-    "category": "Other",
-    "locations": [
-      "Middle River, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591304,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7984564003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -264297,19 +264343,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7989904003",
+    "uid": "greenhouse:rocketlab:7988835003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Mechanical Engineering Intern Summer 2027",
+    "title": "Manufacturing Engineering Intern Summer 2027",
     "category": "Other",
     "locations": [
-      "Silver Spring, MD"
+      "Middle River, MD"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789585428,
+    "date_posted": 1789591304,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -264344,6 +264390,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789134006,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7989904003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Mechanical Engineering Intern Summer 2027",
+    "category": "Other",
+    "locations": [
+      "Silver Spring, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789585428,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -264433,19 +264496,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986956003",
+    "uid": "greenhouse:rocketlab:7986874003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
     "title": "Security Analyst Intern Summer 2027",
     "category": "Software",
     "locations": [
-      "Long Beach, CA"
+      "Albuquerque, NM"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789591367,
+    "date_posted": 1789591406,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -264467,36 +264530,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986961003",
+    "uid": "greenhouse:rocketlab:7986956003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
     "title": "Security Analyst Intern Summer 2027",
     "category": "Software",
     "locations": [
-      "Wallops Island, VA"
+      "Long Beach, CA"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789591388,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:rocketlab:7986874003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Albuquerque, NM"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591406,
+    "date_posted": 1789591367,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -272401,23 +272447,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8130867",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "London"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788215438,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8031833",
     "source": "greenhouse",
     "company": "Stripe",
@@ -272431,6 +272460,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783661632,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130867",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "London"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788215438,
     "first_seen": 1789514229,
     "emailed": false
   },
