@@ -1,5 +1,22 @@
 [
   {
+    "uid": "greenhouse:gusto:8400148",
+    "source": "greenhouse",
+    "company": "Gusto, Inc.",
+    "title": "Gusto Insights Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, CA - Hybrid"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8400148",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1795198770,
+    "first_seen": 1795200376,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:11e94799-7f1b-4fcc-987b-b1e0796514c0",
     "source": "pittcsc",
     "company": "Torch Technologies",
@@ -23402,7 +23419,7 @@
     ],
     "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794441600,
     "first_seen": 1794528633,
     "emailed": false
@@ -39382,7 +39399,7 @@
     ],
     "url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794237780,
     "first_seen": 1794298757,
     "emailed": true
@@ -56416,23 +56433,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8332681",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Product Design Intern",
-    "category": "Other",
-    "locations": [
-      "San Francisco, Seattle, New York City"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8332681",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793923040,
-    "first_seen": 1793925192,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8332683",
     "source": "greenhouse",
     "company": "Stripe",
@@ -56446,6 +56446,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793923063,
+    "first_seen": 1793925192,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8332681",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Product Design Intern",
+    "category": "Other",
+    "locations": [
+      "San Francisco, Seattle, New York City"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8332681",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793923040,
     "first_seen": 1793925192,
     "emailed": false
   },
@@ -60035,7 +60052,7 @@
     ],
     "url": "https://careers-ice.icims.com/jobs/14113/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792713600,
     "first_seen": 1793872644,
     "emailed": false
@@ -89777,23 +89794,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333122",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333122",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377161,
-    "first_seen": 1793386205,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8333074",
     "source": "greenhouse",
     "company": "Stripe",
@@ -89811,21 +89811,21 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8328662",
+    "uid": "greenhouse:stripe:8333122",
     "source": "greenhouse",
     "company": "Stripe",
-    "title": "PhD Machine Learning Engineer, Intern",
+    "title": "Master's Machine Learning Engineer, Intern",
     "category": "Software",
     "locations": [
-      "San Francisco, New York City, Seattle"
+      "Toronto"
     ],
     "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+    "url": "https://stripe.com/jobs/search?gh_jid=8333122",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793377168,
+    "date_posted": 1793377161,
     "first_seen": 1793386205,
-    "emailed": true
+    "emailed": false
   },
   {
     "uid": "greenhouse:stripe:8328664",
@@ -89843,6 +89843,23 @@
     "date_posted": 1793377164,
     "first_seen": 1793386205,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8328662",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, New York City, Seattle"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377168,
+    "first_seen": 1793386205,
+    "emailed": true
   },
   {
     "uid": "lever:cfsenergy:b464985c-bfc2-4efb-91db-7dd1a92f8f4b",
@@ -163611,7 +163628,7 @@
     ],
     "url": "https://bnc.avature.net/en_CA/careers/JobDetail/36120",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792017225,
     "first_seen": 1792193408,
     "emailed": false
@@ -206558,23 +206575,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:8001401003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Littleton, CO"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790966553,
-    "first_seen": 1790966707,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7992754003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -206588,6 +206588,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790966530,
+    "first_seen": 1790966707,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:8001401003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Government Operations Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790966553,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -262495,23 +262512,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:flyzipline:7986848003",
-    "source": "greenhouse",
-    "company": "Zipline ",
-    "title": "Aircraft Software Integration Intern (Summer 2027)",
-    "category": "Software",
-    "locations": [
-      "South San Francisco, California, USA"
-    ],
-    "terms": [],
-    "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788548648,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:flyzipline:7920472003",
     "source": "greenhouse",
     "company": "Zipline ",
@@ -264229,23 +264229,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7984943003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Manufacturing Engineering Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789585321,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7987020003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -264263,19 +264246,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7984564003",
+    "uid": "greenhouse:rocketlab:7984943003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Manufacturing Engineering Intern Summer 2027",
+    "title": "Manufacturing Engineering Intern Spring 2027",
     "category": "Other",
     "locations": [
       "Long Beach, CA"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789585356,
+    "date_posted": 1789585321,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -264297,6 +264280,23 @@
     "emailed": false
   },
   {
+    "uid": "greenhouse:rocketlab:7984564003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Manufacturing Engineering Intern Summer 2027",
+    "category": "Other",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789585356,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
     "uid": "greenhouse:rocketlab:7989904003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -264314,23 +264314,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7991769003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Mechanical Engineering Intern Summer 2027",
-    "category": "Other",
-    "locations": [
-      "Toronto, CAN"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789134006,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7991448003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -264344,6 +264327,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789355778,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7991769003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Mechanical Engineering Intern Summer 2027",
+    "category": "Other",
+    "locations": [
+      "Toronto, CAN"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991769003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789134006,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -264399,23 +264399,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7986954003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591324,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7986872003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -264433,19 +264416,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986874003",
+    "uid": "greenhouse:rocketlab:7986954003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
+    "title": "Security Analyst Intern Spring 2027",
     "category": "Software",
     "locations": [
-      "Albuquerque, NM"
+      "Long Beach, CA"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789591406,
+    "date_posted": 1789591324,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -264497,6 +264480,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789591388,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986874003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Albuquerque, NM"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591406,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -265228,23 +265228,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789412600,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:waymo:8189848",
-    "source": "greenhouse",
-    "company": "Waymo",
-    "title": "2027 Summer Intern, PhD, Vehicle Intent and Prediction",
-    "category": "Software",
-    "locations": [
-      "Mountain View, California"
-    ],
-    "terms": [],
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8189848",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789070987,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -272435,23 +272418,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8130883",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788759860,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8031833",
     "source": "greenhouse",
     "company": "Stripe",
@@ -272465,6 +272431,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783661632,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130883",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788759860,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -272486,23 +272469,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8130805",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern (Summer)",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788218508,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8128745",
     "source": "greenhouse",
     "company": "Stripe",
@@ -272518,6 +272484,23 @@
     "date_posted": 1788214845,
     "first_seen": 1789514229,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:stripe:8130805",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788218508,
+    "first_seen": 1789514229,
+    "emailed": false
   },
   {
     "uid": "greenhouse:stripe:8097801",
@@ -341911,7 +341894,7 @@
     ],
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788134400,
     "first_seen": 1788155529,
     "emailed": true
