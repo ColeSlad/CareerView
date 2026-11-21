@@ -1,5 +1,62 @@
 [
   {
+    "uid": "vanshb03:0ce3f152-436a-4475-9d9f-80b776d65eb0",
+    "source": "vanshb03",
+    "company": "Advance Auto Parts",
+    "title": "Data Science Intern",
+    "category": "Software",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Gi",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795219200,
+    "first_seen": 1795299514,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:4a73ca56-3032-4c7b-99f3-022d2be17002",
+    "source": "vanshb03",
+    "company": "Worthington Enterprises",
+    "title": "AI Intern",
+    "category": "Software",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Gj",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795132800,
+    "first_seen": 1795299514,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:fadad925-c66c-40aa-831f-1d5f69e7849b",
+    "source": "vanshb03",
+    "company": "Fabri",
+    "title": "DevOps, IT & Cybersecurity Intern",
+    "category": "Software",
+    "locations": [
+      "Billerica, MA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Gk",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795295451,
+    "first_seen": 1795299514,
+    "emailed": true
+  },
+  {
     "uid": "vanshb03:4a85bc7c-4c91-49e2-abab-8eda35362286",
     "source": "vanshb03",
     "company": "First PREMIER Bank",
@@ -124391,7 +124448,7 @@
     ],
     "url": "https://go.vansh.nyc/F8",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791248928,
     "first_seen": 1793019007,
     "emailed": false
