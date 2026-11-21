@@ -1,5 +1,311 @@
 [
   {
+    "uid": "simplify:e02d7030-30ac-407a-9855-1a49d83479e1",
+    "source": "simplify",
+    "company": "Rolls-Royce",
+    "title": "FPGA Engineer Intern",
+    "category": "Hardware",
+    "locations": [
+      "Glasgow, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Glasgow/FPGA-Summer-Internship---Glasgow--UK_JR6163435",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795132800,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:b5c5b115-3401-43ce-ac29-ea46e184089f",
+    "source": "simplify",
+    "company": "Compassion International",
+    "title": "Summer Intern - Data and Software Engineering",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Colorado Springs, CO"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795046400,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:060bdac5-8e6c-447e-ae09-d04ae31a8b25",
+    "source": "simplify",
+    "company": "Walmart",
+    "title": "MBA Product Manager Intern - MBA",
+    "category": "Product",
+    "locations": [
+      "Bentonville, AR"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795132800,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:28b10e18-b290-443b-b1ae-dca8536f1cd0",
+    "source": "simplify",
+    "company": "Woodward Governor",
+    "title": "AI Intern",
+    "category": "Software",
+    "locations": [
+      "Niles, IL",
+      "Fort Collins, CO"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795132800,
+    "first_seen": 1795275559,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:b4668eae-16c6-4c57-927b-a0dc130281a9",
+    "source": "simplify",
+    "company": "AriensCo",
+    "title": "Product Management Intern",
+    "category": "Product",
+    "locations": [
+      "Brillion, WI"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795132800,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ff12c2d7-4a17-4e9c-a727-c69ab34e9e19",
+    "source": "pittcsc",
+    "company": "Thorlabs",
+    "title": "Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Branchville, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.workable.com/thorlabs/j/313D67D856/apply",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774534839,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:1034255c-7a61-4de0-b7fd-fcae014a3824",
+    "source": "pittcsc",
+    "company": "Sharp Electronics",
+    "title": "Intern Product Manager - Business Products",
+    "category": "Product",
+    "locations": [
+      "Paramus, NJ"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers-sharpusa.icims.com/jobs/8707/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774534471,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:afa9b70e-7a67-4bd1-ac11-e9555a36dbb2",
+    "source": "pittcsc",
+    "company": "Applied Materials",
+    "title": "Computer Science Intern - AI/ML Tools - Bachelor's",
+    "category": "Software",
+    "locations": [
+      "Huntsville, AL"
+    ],
+    "terms": [
+      "Summer 2026",
+      "Fall 2026"
+    ],
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/HuntsvilleAL/XMLNAME-2026-Summer-Computer-Science-Intern--AI-ML-Tools----Bachelor-s--Huntsville--AL-_R2616144-1",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774538468,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e83b1c18-664b-43a5-b2a6-45ae369be556",
+    "source": "pittcsc",
+    "company": "DXC Technology",
+    "title": "DXC Degree Academic Programme - Data/AI",
+    "category": "Software",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Degree-Academic-Programme---Data-AI_51576540",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774538300,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b28b15bb-ff3d-429e-8a79-c4fab3bcca3d",
+    "source": "pittcsc",
+    "company": "DXC Technology",
+    "title": "DXC Degree Apprentice Programme - Data/ AI",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Aldershot, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Degree-Apprentice-Programme---Data--AI---Farnborough_51576539",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774538307,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fea0482e-b9d1-4b08-8562-7c9d8e41e9f8",
+    "source": "pittcsc",
+    "company": "Oshkosh",
+    "title": "Electrical Design Apprentice",
+    "category": "Hardware",
+    "locations": [
+      "Swansea, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pyle-United-Kingdom/Electrical-Design-Apprentice_R45329",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774538056,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:72636fd7-15a0-474b-8146-e83de77d2b08",
+    "source": "pittcsc",
+    "company": "Pennsylvania State University",
+    "title": "OriginLabs Technician and Lab Monitor",
+    "category": "Hardware",
+    "locations": [
+      "State College, PA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-OriginLabs-Technician-and-Lab-Monitor_REQ_0000076919-1",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774538199,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:aa6544d6-458e-4776-8ed6-7a7f37c1a68e",
+    "source": "pittcsc",
+    "company": "FMC Corporation",
+    "title": "Market Intelligence & Data Analyst Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Philadelphia-Pennsylvania/Market-Intelligence---Data-Analyst-Intern_R-1668",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774537754,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:3135e472-53f3-4bbd-8f08-dc2d0ca0ca6c",
+    "source": "pittcsc",
+    "company": "Mackenzie Investments",
+    "title": "Intern - Multiple Teams",
+    "category": "Product",
+    "locations": [
+      "Greater Toronto Area, ON, Canada"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5832/job?mobile=true&needsRedirect=false",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774534245,
+    "first_seen": 1795275559,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:d2b0822f-d8c6-47c4-a20a-f4253d119fd1",
+    "source": "vanshb03",
+    "company": "NVIDIA",
+    "title": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing",
+    "category": "Software",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Gd",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795245024,
+    "first_seen": 1795275559,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:73e6ad9a-7961-4c4e-a4a6-4a357fb33dea",
+    "source": "vanshb03",
+    "company": "Activision Blizzard",
+    "title": "Data Platform Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Ge",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795223480,
+    "first_seen": 1795275559,
+    "emailed": true
+  },
+  {
     "uid": "simplify:59dd5c4a-eb80-4559-ab58-af2899bbdad9",
     "source": "simplify",
     "company": "Trajectory",
@@ -22804,7 +23110,7 @@
     ],
     "url": "https://go.vansh.nyc/1zt",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794618364,
     "first_seen": 1794625417,
     "emailed": true
@@ -22823,7 +23129,7 @@
     ],
     "url": "https://go.vansh.nyc/1zu",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794618364,
     "first_seen": 1794625417,
     "emailed": true
@@ -24906,7 +25212,7 @@
     ],
     "url": "https://go.vansh.nyc/1zc",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794528000,
     "first_seen": 1794609082,
     "emailed": false
@@ -26906,7 +27212,7 @@
     ],
     "url": "https://fhlb.wd1.myworkdayjobs.com/FHLB_Careers/job/Irving-TX/XMLNAME-2027-Spring-Digital-Transformation-Intern_REQ-456",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1793232000,
     "first_seen": 1794556211,
     "emailed": false
@@ -41316,7 +41622,7 @@
     ],
     "url": "https://go.vansh.nyc/1rP",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794337080,
     "first_seen": 1794343145,
     "emailed": true
@@ -43186,7 +43492,7 @@
     ],
     "url": "https://go.vansh.nyc/1ro",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794328672,
     "first_seen": 1794330084,
     "emailed": false
@@ -61560,7 +61866,7 @@
     ],
     "url": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793836800,
     "first_seen": 1793922774,
     "emailed": false
@@ -63857,7 +64163,7 @@
     ],
     "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793836800,
     "first_seen": 1793893085,
     "emailed": true
@@ -111875,7 +112181,7 @@
     ],
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793059200,
     "first_seen": 1793118512,
     "emailed": false
@@ -204974,7 +205280,7 @@
     ],
     "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher---Mathematical-Optimization-for-Energy-Systems_R14352",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782380373,
     "first_seen": 1791127814,
     "emailed": false
@@ -292089,7 +292395,7 @@
     ],
     "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788998400,
     "first_seen": 1789101113,
     "emailed": true
@@ -399627,159 +399933,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:ff12c2d7-4a17-4e9c-a727-c69ab34e9e19",
-    "source": "simplify",
-    "company": "Thorlabs",
-    "title": "Engineering Intern",
-    "category": "Hardware",
-    "locations": [
-      "Branchville, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.workable.com/thorlabs/j/313D67D856/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774534839,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:1034255c-7a61-4de0-b7fd-fcae014a3824",
-    "source": "simplify",
-    "company": "Sharp Electronics",
-    "title": "Intern Product Manager - Business Products",
-    "category": "Product",
-    "locations": [
-      "Paramus, NJ"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers-sharpusa.icims.com/jobs/8707/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774534471,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:afa9b70e-7a67-4bd1-ac11-e9555a36dbb2",
-    "source": "simplify",
-    "company": "Applied Materials",
-    "title": "Computer Science Intern - AI/ML Tools - Bachelor's",
-    "category": "Software",
-    "locations": [
-      "Huntsville, AL"
-    ],
-    "terms": [
-      "Summer 2026",
-      "Fall 2026"
-    ],
-    "url": "https://amat.wd1.myworkdayjobs.com/External/job/HuntsvilleAL/XMLNAME-2026-Summer-Computer-Science-Intern--AI-ML-Tools----Bachelor-s--Huntsville--AL-_R2616144-1",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774538468,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:e83b1c18-664b-43a5-b2a6-45ae369be556",
-    "source": "simplify",
-    "company": "DXC Technology",
-    "title": "DXC Degree Academic Programme - Data/AI",
-    "category": "Software",
-    "locations": [
-      "Aldershot, UK"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Degree-Academic-Programme---Data-AI_51576540",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774538300,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b28b15bb-ff3d-429e-8a79-c4fab3bcca3d",
-    "source": "simplify",
-    "company": "DXC Technology",
-    "title": "DXC Degree Apprentice Programme - Data/ AI",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Aldershot, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Degree-Apprentice-Programme---Data--AI---Farnborough_51576539",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774538307,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:fea0482e-b9d1-4b08-8562-7c9d8e41e9f8",
-    "source": "simplify",
-    "company": "Oshkosh",
-    "title": "Electrical Design Apprentice",
-    "category": "Hardware",
-    "locations": [
-      "Swansea, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pyle-United-Kingdom/Electrical-Design-Apprentice_R45329",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774538056,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:72636fd7-15a0-474b-8146-e83de77d2b08",
-    "source": "simplify",
-    "company": "Pennsylvania State University",
-    "title": "OriginLabs Technician and Lab Monitor",
-    "category": "Hardware",
-    "locations": [
-      "State College, PA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-OriginLabs-Technician-and-Lab-Monitor_REQ_0000076919-1",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774538199,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:aa6544d6-458e-4776-8ed6-7a7f37c1a68e",
-    "source": "simplify",
-    "company": "FMC Corporation",
-    "title": "Market Intelligence & Data Analyst Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Philadelphia-Pennsylvania/Market-Intelligence---Data-Analyst-Intern_R-1668",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774537754,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:e266847e-7fd9-4d08-b846-56ae0dae2ed4",
     "source": "simplify",
     "company": "Cirrus Logic",
@@ -430138,25 +430291,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1774966426,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:3135e472-53f3-4bbd-8f08-dc2d0ca0ca6c",
-    "source": "simplify",
-    "company": "Mackenzie Investments",
-    "title": "Intern - Multiple Teams",
-    "category": "Product",
-    "locations": [
-      "Greater Toronto Area, ON, Canada"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5832/job?mobile=true&needsRedirect=false",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774534245,
     "first_seen": 1784003708,
     "emailed": true
   },
