@@ -92,7 +92,7 @@
     ],
     "url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795342620,
     "first_seen": 1795364759,
     "emailed": true
@@ -18933,7 +18933,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794875463,
     "first_seen": 1794886940,
     "emailed": true
@@ -24459,7 +24459,7 @@
     ],
     "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794613564,
     "first_seen": 1794625417,
     "emailed": true
@@ -79372,7 +79372,7 @@
     ],
     "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793669537,
     "first_seen": 1793677326,
     "emailed": false
@@ -96584,23 +96584,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8328664",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "PhD Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377164,
-    "first_seen": 1793386205,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8328662",
     "source": "greenhouse",
     "company": "Stripe",
@@ -96616,6 +96599,23 @@
     "date_posted": 1793377168,
     "first_seen": 1793386205,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:stripe:8328664",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377164,
+    "first_seen": 1793386205,
+    "emailed": false
   },
   {
     "uid": "lever:cfsenergy:b464985c-bfc2-4efb-91db-7dd1a92f8f4b",
@@ -139040,7 +139040,7 @@
     ],
     "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792713600,
     "first_seen": 1792794975,
     "emailed": false
@@ -170346,7 +170346,7 @@
     ],
     "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Applied-Science-Intern_JREQ204560",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792108800,
     "first_seen": 1792193408,
     "emailed": false
@@ -173718,7 +173718,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792102307,
     "first_seen": 1792106191,
     "emailed": true
@@ -219293,23 +219293,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8194287",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Data Analyst, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790867136,
-    "first_seen": 1790872912,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8194291",
     "source": "greenhouse",
     "company": "Stripe",
@@ -219323,6 +219306,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790867129,
+    "first_seen": 1790872912,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8194287",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790867136,
     "first_seen": 1790872912,
     "emailed": false
   },
@@ -247293,7 +247293,7 @@
     ],
     "url": "https://www.tesla.com/careers/search/job/284156",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790039650,
     "first_seen": 1790052231,
     "emailed": false
@@ -278936,23 +278936,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8130867",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "London"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788215438,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8130883",
     "source": "greenhouse",
     "company": "Stripe",
@@ -278987,6 +278970,23 @@
     "emailed": false
   },
   {
+    "uid": "greenhouse:stripe:8130867",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "London"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788215438,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
     "uid": "greenhouse:stripe:8130807",
     "source": "greenhouse",
     "company": "Stripe",
@@ -279000,23 +279000,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788216961,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
-    "uid": "greenhouse:stripe:8130805",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern (Summer)",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788218508,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -279036,6 +279019,23 @@
     "date_posted": 1788214845,
     "first_seen": 1789514229,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:stripe:8130805",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788218508,
+    "first_seen": 1789514229,
+    "emailed": false
   },
   {
     "uid": "greenhouse:stripe:8097801",
