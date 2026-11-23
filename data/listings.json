@@ -1,5 +1,176 @@
 [
   {
+    "uid": "simplify:55da762f-4d6d-4896-a252-592b49e94f26",
+    "source": "simplify",
+    "company": "AJ Bell",
+    "title": "Digital Degree Apprentice - Software Development Pathway",
+    "category": "Software",
+    "locations": [
+      "Manchester, UK"
+    ],
+    "terms": [
+      "Fall 2027"
+    ],
+    "url": "https://jobs.smartrecruiters.com/AJBell1/744000163169494",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795425652,
+    "first_seen": 1795441370,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fe1d8359-c446-49b6-b698-de81d386e18e",
+    "source": "pittcsc",
+    "company": "ChampionX",
+    "title": "Intern",
+    "category": "Hardware",
+    "locations": [
+      "Knoxville, TN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA---Tennessee---Knoxville/Intern_R00135420",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774688848,
+    "first_seen": 1795441370,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:939b5468-ec40-4176-9e84-66cf3d968048",
+    "source": "pittcsc",
+    "company": "MSX International",
+    "title": "Analytics Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Southfield, MI"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012354126",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774699290,
+    "first_seen": 1795441370,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ad639ce0-562f-40b2-8d29-ea4c866cea6e",
+    "source": "pittcsc",
+    "company": "University of Arkansas",
+    "title": "Cosmos Graduate Research Assistant",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Little Rock, AR"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1774688915,
+    "first_seen": 1795441370,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0aa90784-d129-4480-827e-cdd3987afbd5",
+    "source": "pittcsc",
+    "company": "Becton Dickinson",
+    "title": "Marketing Intern - Innovation Marketing Team",
+    "category": "Product",
+    "locations": [
+      "Warwick, RI"
+    ],
+    "terms": [
+      "Spring 2026"
+    ],
+    "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Marketing-Intern--Innovation-Marketing-Team_R-536632-1",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774693344,
+    "first_seen": 1795441370,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:06cbc73c-5566-416f-b82c-e45ed6cb7811",
+    "source": "pittcsc",
+    "company": "DataRobot",
+    "title": "Applied Data Science Associate",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Washington, DC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Washington-DC-US/Applied-Data-Science-Associate---Federal_R-102463",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774693647,
+    "first_seen": 1795441370,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:994f4cdb-d101-45f9-947e-2d62a34c2edf",
+    "source": "pittcsc",
+    "company": "The Federal Reserve System",
+    "title": "Coop: Digital Money and Payments Research & Development",
+    "category": "Product",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Fall-2026-Coop--Digital-Money-and-Payments-Research---Development_R-0000031772",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774690949,
+    "first_seen": 1795441370,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:05042f19-f41b-4719-9fa1-da6832e4605d",
+    "source": "vanshb03",
+    "company": "LabCorp",
+    "title": "Bioinformatics Intern",
+    "category": "Software",
+    "locations": [
+      "Westborough, MA",
+      "Remote",
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1GM",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795309908,
+    "first_seen": 1795441370,
+    "emailed": true
+  },
+  {
+    "uid": "oraclecloud:eeho:351109",
+    "source": "oraclecloud",
+    "company": "Oracle",
+    "title": "Intern as Software Engineer - part time",
+    "category": "Software",
+    "locations": [
+      "BRNO, Czech Republic"
+    ],
+    "terms": [],
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351109",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1795392000,
+    "first_seen": 1795441370,
+    "emailed": false
+  },
+  {
     "uid": "vanshb03:3af30593-5aa8-4b94-84b5-032bf7aef90c",
     "source": "vanshb03",
     "company": "CAS",
@@ -5132,7 +5303,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795132800,
     "first_seen": 1795220357,
     "emailed": false
@@ -5762,7 +5933,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795132800,
     "first_seen": 1795220357,
     "emailed": false
@@ -13634,23 +13805,6 @@
     "date_posted": 1795040834,
     "first_seen": 1795115458,
     "emailed": true
-  },
-  {
-    "uid": "ashby:legora:3a5a917a-8d40-4bdb-97fb-8a9fa5245d2a",
-    "source": "ashby",
-    "company": "Legora",
-    "title": "Solutions & Delivery Intern",
-    "category": "Software",
-    "locations": [
-      "Stockholm HQ, Sweden"
-    ],
-    "terms": [],
-    "url": "https://jobs.ashbyhq.com/legora/3a5a917a-8d40-4bdb-97fb-8a9fa5245d2a/application",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1795100634,
-    "first_seen": 1795115458,
-    "emailed": false
   },
   {
     "uid": "simplify:b4ab6293-700b-4816-9b35-bbc9edcf6990",
@@ -22722,7 +22876,7 @@
     ],
     "url": "https://go.vansh.nyc/1zS",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794762378,
     "first_seen": 1794763436,
     "emailed": true
@@ -24307,7 +24461,7 @@
     ],
     "url": "https://go.vansh.nyc/1zD",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794528000,
     "first_seen": 1794676715,
     "emailed": true
@@ -39738,23 +39892,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:schonfeld:8356747",
-    "source": "greenhouse",
-    "company": "Schonfeld ",
-    "title": "2027 Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore, Central, Singapore"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794414219,
-    "first_seen": 1794415225,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:schonfeld:8346891",
     "source": "greenhouse",
     "company": "Schonfeld ",
@@ -39768,6 +39905,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794414141,
+    "first_seen": 1794415225,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:schonfeld:8356747",
+    "source": "greenhouse",
+    "company": "Schonfeld ",
+    "title": "2027 Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore, Central, Singapore"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794414219,
     "first_seen": 1794415225,
     "emailed": false
   },
@@ -47473,7 +47627,7 @@
     ],
     "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794182400,
     "first_seen": 1794284589,
     "emailed": true
@@ -51377,7 +51531,7 @@
     ],
     "url": "https://jobs.smartrecruiters.com/RedBull/744000160572389",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794218523,
     "first_seen": 1794226356,
     "emailed": false
@@ -51396,7 +51550,7 @@
     ],
     "url": "https://jobs.smartrecruiters.com/RedBull/744000160572014",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794218491,
     "first_seen": 1794226356,
     "emailed": false
@@ -97494,23 +97648,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333074",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "San Francisco, New York City, Seattle"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377166,
-    "first_seen": 1793386205,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8333122",
     "source": "greenhouse",
     "company": "Stripe",
@@ -97526,6 +97663,23 @@
     "date_posted": 1793377161,
     "first_seen": 1793386205,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8333074",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, New York City, Seattle"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377166,
+    "first_seen": 1793386205,
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8328664",
@@ -166309,7 +166463,7 @@
     ],
     "url": "https://go.vansh.nyc/8e",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791788400,
     "first_seen": 1792264572,
     "emailed": true
@@ -184442,7 +184596,7 @@
     ],
     "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791814721,
     "first_seen": 1791820941,
     "emailed": true
@@ -220237,23 +220391,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8194291",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Data Analyst, Intern",
-    "category": "Software",
-    "locations": [
-      "New York, Seattle, South San Francisco HQ"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790867129,
-    "first_seen": 1790872912,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8194287",
     "source": "greenhouse",
     "company": "Stripe",
@@ -220267,6 +220404,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790867136,
+    "first_seen": 1790872912,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8194291",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "category": "Software",
+    "locations": [
+      "New York, Seattle, South San Francisco HQ"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790867129,
     "first_seen": 1790872912,
     "emailed": false
   },
@@ -248609,7 +248763,7 @@
     ],
     "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1790029561,
     "first_seen": 1790052231,
     "emailed": true
@@ -269974,23 +270128,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:epicgames:6138134004",
-    "source": "greenhouse",
-    "company": "Epic Games",
-    "title": "Machine Learning Intern",
-    "category": "Software",
-    "locations": [
-      "BLANK,BLANK,Multiple Locations"
-    ],
-    "terms": [],
-    "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1786119174,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:epicgames:5708589004",
     "source": "greenhouse",
     "company": "Epic Games",
@@ -270001,6 +270138,23 @@
     ],
     "terms": [],
     "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786119174,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:epicgames:6138134004",
+    "source": "greenhouse",
+    "company": "Epic Games",
+    "title": "Machine Learning Intern",
+    "category": "Software",
+    "locations": [
+      "BLANK,BLANK,Multiple Locations"
+    ],
+    "terms": [],
+    "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786119174,
@@ -285796,19 +285950,21 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:scaleai:4730846005",
-    "source": "greenhouse",
+    "uid": "simplify:1032792e-ebaa-4f37-8619-e4388cda6fbc",
+    "source": "simplify",
     "company": "Scale AI",
-    "title": "Software Engineering Intern (Summer 2027) ",
+    "title": "Software Engineer Intern - Summer 2027",
     "category": "Software",
     "locations": [
       "London, UK"
     ],
-    "terms": [],
+    "terms": [
+      "Summer 2027"
+    ],
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730846005",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789391541,
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1789397626,
     "first_seen": 1789395558,
     "emailed": false
   },
@@ -339223,7 +339379,7 @@
     ],
     "url": "https://www.tesla.com/careers/search/job/282147",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788320264,
     "first_seen": 1788322985,
     "emailed": true
@@ -347165,7 +347321,7 @@
     ],
     "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Sauget-IL/AI-Intern_JR0000045510",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1788134400,
     "first_seen": 1788210695,
     "emailed": false
@@ -396591,7 +396747,7 @@
     ],
     "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1784505600,
     "first_seen": 1784590045,
     "emailed": false
@@ -402685,82 +402841,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:fe1d8359-c446-49b6-b698-de81d386e18e",
-    "source": "simplify",
-    "company": "ChampionX",
-    "title": "Intern",
-    "category": "Hardware",
-    "locations": [
-      "Knoxville, TN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA---Tennessee---Knoxville/Intern_R00135420",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774688848,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:939b5468-ec40-4176-9e84-66cf3d968048",
-    "source": "simplify",
-    "company": "MSX International",
-    "title": "Analytics Intern",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Southfield, MI"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.smartrecruiters.com/MSXInternational/3743990012354126",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774699290,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ad639ce0-562f-40b2-8d29-ea4c866cea6e",
-    "source": "simplify",
-    "company": "University of Arkansas",
-    "title": "Cosmos Graduate Research Assistant",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Little Rock, AR"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774688915,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0aa90784-d129-4480-827e-cdd3987afbd5",
-    "source": "simplify",
-    "company": "Becton Dickinson",
-    "title": "Marketing Intern - Innovation Marketing Team",
-    "category": "Product",
-    "locations": [
-      "Warwick, RI"
-    ],
-    "terms": [
-      "Spring 2026"
-    ],
-    "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Marketing-Intern--Innovation-Marketing-Team_R-536632-1",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774693344,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:fca7e12c-2669-4526-a1dd-26a5a4d89be4",
     "source": "simplify",
     "company": "Altera Corporation",
@@ -402818,25 +402898,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1774822079,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:06cbc73c-5566-416f-b82c-e45ed6cb7811",
-    "source": "simplify",
-    "company": "DataRobot",
-    "title": "Applied Data Science Associate",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Washington, DC"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Washington-DC-US/Applied-Data-Science-Associate---Federal_R-102463",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774693647,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -418937,25 +418998,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1775686068,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:994f4cdb-d101-45f9-947e-2d62a34c2edf",
-    "source": "simplify",
-    "company": "The Federal Reserve System",
-    "title": "Coop: Digital Money and Payments Research & Development",
-    "category": "Product",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Boston-MA/Fall-2026-Coop--Digital-Money-and-Payments-Research---Development_R-0000031772",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774690949,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -463570,7 +463612,7 @@
     ],
     "url": "https://www.tesla.com/careers/search/job/257048",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1780823238,
     "first_seen": 1784003708,
     "emailed": true
