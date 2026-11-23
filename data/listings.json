@@ -1,5 +1,24 @@
 [
   {
+    "uid": "vanshb03:ae53501c-389e-4b8b-9aa5-43799b0b2def",
+    "source": "vanshb03",
+    "company": "State Street",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "url": "https://go.vansh.nyc/1Hi",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795338676,
+    "first_seen": 1795468410,
+    "emailed": true
+  },
+  {
     "uid": "simplify:5d0d0eae-1321-4bd4-adaf-c4a3ea617d41",
     "source": "simplify",
     "company": "JP Morgan Chase",
@@ -40459,23 +40478,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:schonfeld:8356747",
-    "source": "greenhouse",
-    "company": "Schonfeld ",
-    "title": "2027 Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore, Central, Singapore"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794414219,
-    "first_seen": 1794415225,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:schonfeld:8346891",
     "source": "greenhouse",
     "company": "Schonfeld ",
@@ -40489,6 +40491,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794414141,
+    "first_seen": 1794415225,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:schonfeld:8356747",
+    "source": "greenhouse",
+    "company": "Schonfeld ",
+    "title": "2027 Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore, Central, Singapore"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8356747",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794414219,
     "first_seen": 1794415225,
     "emailed": false
   },
@@ -59371,7 +59390,7 @@
     ],
     "url": "https://go.vansh.nyc/1lC",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793923200,
     "first_seen": 1794013759,
     "emailed": true
@@ -98198,23 +98217,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333074",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "San Francisco, New York City, Seattle"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377166,
-    "first_seen": 1793386205,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8333122",
     "source": "greenhouse",
     "company": "Stripe",
@@ -98232,21 +98234,21 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8328664",
+    "uid": "greenhouse:stripe:8333074",
     "source": "greenhouse",
     "company": "Stripe",
-    "title": "PhD Machine Learning Engineer, Intern",
+    "title": "Master's Machine Learning Engineer, Intern",
     "category": "Software",
     "locations": [
-      "Toronto"
+      "San Francisco, New York City, Seattle"
     ],
     "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1793377164,
+    "date_posted": 1793377166,
     "first_seen": 1793386205,
-    "emailed": false
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8328662",
@@ -98264,6 +98266,23 @@
     "date_posted": 1793377168,
     "first_seen": 1793386205,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:stripe:8328664",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377164,
+    "first_seen": 1793386205,
+    "emailed": false
   },
   {
     "uid": "lever:cfsenergy:b464985c-bfc2-4efb-91db-7dd1a92f8f4b",
@@ -214964,23 +214983,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:8001401003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Littleton, CO"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790966553,
-    "first_seen": 1790966707,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7992754003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -214994,6 +214996,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790966530,
+    "first_seen": 1790966707,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:8001401003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Government Operations Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790966553,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -244714,23 +244733,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:astranis:4713184006",
-    "source": "greenhouse",
-    "company": "Astranis",
-    "title": "Propulsion Engineer Intern (Summer 2027)",
-    "category": "Other",
-    "locations": [
-      "San Francisco"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4713184006",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790193099,
-    "first_seen": 1790194460,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:astranis:4713183006",
     "source": "greenhouse",
     "company": "Astranis",
@@ -270629,23 +270631,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:epicgames:6163851004",
-    "source": "greenhouse",
-    "company": "Epic Games",
-    "title": "Web Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "London,England,United Kingdom"
-    ],
-    "terms": [],
-    "url": "https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1787959751,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:epicgames:6174265004",
     "source": "greenhouse",
     "company": "Epic Games",
@@ -270659,6 +270644,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1787959753,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:epicgames:6163851004",
+    "source": "greenhouse",
+    "company": "Epic Games",
+    "title": "Web Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "London,England,United Kingdom"
+    ],
+    "terms": [],
+    "url": "https://epicgames.com/careers/jobs/6163851004?gh_jid=6163851004",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1787959751,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -272516,6 +272518,23 @@
     "emailed": false
   },
   {
+    "uid": "greenhouse:rocketlab:7986954003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789591324,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
     "uid": "greenhouse:rocketlab:7986872003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -272533,19 +272552,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986954003",
+    "uid": "greenhouse:rocketlab:7986874003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Spring 2027",
+    "title": "Security Analyst Intern Summer 2027",
     "category": "Software",
     "locations": [
-      "Long Beach, CA"
+      "Albuquerque, NM"
     ],
     "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789591324,
+    "date_posted": 1789591406,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -272580,23 +272599,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789591367,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
-    "uid": "greenhouse:rocketlab:7986874003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Albuquerque, NM"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789591406,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -310128,23 +310130,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:datadog:8114186",
-    "source": "greenhouse",
-    "company": "Datadog",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Paris, France"
-    ],
-    "terms": [],
-    "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788876406,
-    "first_seen": 1788877835,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:datadog:8114161",
     "source": "greenhouse",
     "company": "Datadog",
@@ -310158,6 +310143,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788876269,
+    "first_seen": 1788877835,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:datadog:8114186",
+    "source": "greenhouse",
+    "company": "Datadog",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Paris, France"
+    ],
+    "terms": [],
+    "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788876406,
     "first_seen": 1788877835,
     "emailed": false
   },
