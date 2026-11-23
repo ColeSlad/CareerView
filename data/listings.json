@@ -1,5 +1,43 @@
 [
   {
+    "uid": "vanshb03:3af30593-5aa8-4b94-84b5-032bf7aef90c",
+    "source": "vanshb03",
+    "company": "CAS",
+    "title": "Technology Intern, Development Operations",
+    "category": "Software",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1GH",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795392000,
+    "first_seen": 1795424068,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:afd339e8-03c6-4f00-a3b5-92a0976378f4",
+    "source": "vanshb03",
+    "company": "MDA",
+    "title": "Junior Security Administrator Intern",
+    "category": "Software",
+    "locations": [
+      "Sainte-Anne-de-Bellevue, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://go.vansh.nyc/1GI",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795392000,
+    "first_seen": 1795424068,
+    "emailed": false
+  },
+  {
     "uid": "simplify:c8721b3d-1bb7-4fc0-9c22-09f70904d771",
     "source": "simplify",
     "company": "Red Bull",
@@ -48658,7 +48696,7 @@
     ],
     "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Co-Op--Data-Engineer_J-00355627",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794182400,
     "first_seen": 1794269460,
     "emailed": false
@@ -64129,23 +64167,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8332683",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Product Design Intern",
-    "category": "Other",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8332683",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793923063,
-    "first_seen": 1793925192,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8332681",
     "source": "greenhouse",
     "company": "Stripe",
@@ -64159,6 +64180,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793923040,
+    "first_seen": 1793925192,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8332683",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Product Design Intern",
+    "category": "Other",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793923063,
     "first_seen": 1793925192,
     "emailed": false
   },
@@ -220199,23 +220237,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8194287",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Data Analyst, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790867136,
-    "first_seen": 1790872912,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8194291",
     "source": "greenhouse",
     "company": "Stripe",
@@ -220229,6 +220250,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790867129,
+    "first_seen": 1790872912,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8194287",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790867136,
     "first_seen": 1790872912,
     "emailed": false
   },
@@ -279842,6 +279880,23 @@
     "emailed": true
   },
   {
+    "uid": "greenhouse:stripe:8031833",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Bengaluru"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1783661632,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
     "uid": "greenhouse:stripe:8130883",
     "source": "greenhouse",
     "company": "Stripe",
@@ -279876,23 +279931,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8031833",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Bengaluru"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1783661632,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8130807",
     "source": "greenhouse",
     "company": "Stripe",
@@ -279906,6 +279944,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788216961,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130805",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788218508,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -279925,23 +279980,6 @@
     "date_posted": 1788214845,
     "first_seen": 1789514229,
     "emailed": true
-  },
-  {
-    "uid": "greenhouse:stripe:8130805",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern (Summer)",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788218508,
-    "first_seen": 1789514229,
-    "emailed": false
   },
   {
     "uid": "greenhouse:stripe:8097801",
