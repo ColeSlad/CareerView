@@ -1,5 +1,141 @@
 [
   {
+    "uid": "simplify:637771ab-fcba-4414-9c25-99bfe21fa777",
+    "source": "simplify",
+    "company": "RF-SMART",
+    "title": "Software Developer Intern",
+    "category": "Software",
+    "locations": [
+      "Highlands Ranch, CO",
+      "Jacksonville, FL"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795536121,
+    "first_seen": 1795541418,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:a5703199-3ca8-4403-9366-8250d24eb94f",
+    "source": "vanshb03",
+    "company": "BEUMER Group",
+    "title": "AI Development Intern",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1I9",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795533384,
+    "first_seen": 1795541418,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:93820c5a-1360-4af5-a80e-d794dfd06b36",
+    "source": "vanshb03",
+    "company": "Hitachi",
+    "title": "Data and Business Intelligence Analyst Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://go.vansh.nyc/1Ia",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795536550,
+    "first_seen": 1795541418,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:97d8e36c-86c8-4cd9-b606-cffef9a3e89d",
+    "source": "vanshb03",
+    "company": "RF-SMART",
+    "title": "Software Developer Intern",
+    "category": "Software",
+    "locations": [
+      "Highlands Ranch, CO",
+      "Jacksonville, FL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Id",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795536121,
+    "first_seen": 1795541418,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:70a980ed-1565-4a2a-9a91-408f7d9842d6",
+    "source": "vanshb03",
+    "company": "Intel",
+    "title": "Design Verification Intern",
+    "category": "Software",
+    "locations": [
+      "Fort Collins, CO",
+      "Hillsboro, OR",
+      "Santa Clara, CA",
+      "Austin, TX"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Ie",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795536191,
+    "first_seen": 1795541418,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:da40e0d0-fa51-4f7e-ac0f-3557bdc77ca9",
+    "source": "vanshb03",
+    "company": "QuEra Computing",
+    "title": "Site Reliability Engineer Co-op",
+    "category": "Software",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Spring"
+    ],
+    "url": "https://go.vansh.nyc/1If",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795537342,
+    "first_seen": 1795541418,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:oscar:8414269",
+    "source": "greenhouse",
+    "company": "Oscar Health",
+    "title": "Mergers and Acquisition Intern",
+    "category": "Software",
+    "locations": [
+      "New York, New York, United States"
+    ],
+    "terms": [],
+    "url": "https://oscarhealth.com/careers/jobs?gh_jid=8414269",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1795538290,
+    "first_seen": 1795541418,
+    "emailed": true
+  },
+  {
     "uid": "simplify:9ef6ba15-7af9-4747-b59e-e6f15665463e",
     "source": "simplify",
     "company": "iCapital Network",
@@ -47435,7 +47571,7 @@
     ],
     "url": "https://go.vansh.nyc/1rR",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794336540,
     "first_seen": 1794343145,
     "emailed": true
@@ -67135,23 +67271,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8332681",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Product Design Intern",
-    "category": "Other",
-    "locations": [
-      "San Francisco, Seattle, New York City"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8332681",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793923040,
-    "first_seen": 1793925192,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8332683",
     "source": "greenhouse",
     "company": "Stripe",
@@ -67165,6 +67284,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793923063,
+    "first_seen": 1793925192,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8332681",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Product Design Intern",
+    "category": "Other",
+    "locations": [
+      "San Francisco, Seattle, New York City"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8332681",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793923040,
     "first_seen": 1793925192,
     "emailed": false
   },
@@ -100445,23 +100581,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333074",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "San Francisco, New York City, Seattle"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377166,
-    "first_seen": 1793386205,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8333122",
     "source": "greenhouse",
     "company": "Stripe",
@@ -100477,6 +100596,23 @@
     "date_posted": 1793377161,
     "first_seen": 1793386205,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8333074",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, New York City, Seattle"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377166,
+    "first_seen": 1793386205,
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8328664",
@@ -119999,7 +120135,7 @@
     ],
     "url": "https://nationalindemnity.wd5.myworkdayjobs.com/en-US/NICO/job/Omaha-NE/Marketing-Data-Intern_R15008-1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792972800,
     "first_seen": 1793058445,
     "emailed": false
@@ -130550,7 +130686,7 @@
     ],
     "url": "https://go.vansh.nyc/FE",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791325931,
     "first_seen": 1793019007,
     "emailed": false
@@ -181724,23 +181860,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:sigmacomputing:8034205003",
-    "source": "greenhouse",
-    "company": "Sigma Computing",
-    "title": "Technical Writer Intern (Summer 2027)",
-    "category": "Software",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8034205003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1792017542,
-    "first_seen": 1792017755,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:sigmacomputing:8034168003",
     "source": "greenhouse",
     "company": "Sigma Computing",
@@ -181754,6 +181873,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1792017539,
+    "first_seen": 1792017755,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:sigmacomputing:8034205003",
+    "source": "greenhouse",
+    "company": "Sigma Computing",
+    "title": "Technical Writer Intern (Summer 2027)",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8034205003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1792017542,
     "first_seen": 1792017755,
     "emailed": true
   },
@@ -217179,23 +217315,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:8001399003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Government Operations Intern Spring 2027",
-    "category": "Software",
-    "locations": [
-      "Littleton, CO"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790966233,
-    "first_seen": 1790966707,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7992752003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -217209,6 +217328,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790966567,
+    "first_seen": 1790966707,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:8001399003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Government Operations Intern Spring 2027",
+    "category": "Software",
+    "locations": [
+      "Littleton, CO"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790966233,
     "first_seen": 1790966707,
     "emailed": true
   },
@@ -229374,7 +229510,7 @@
     ],
     "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790640000,
     "first_seen": 1790727653,
     "emailed": false
@@ -268044,23 +268180,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986131003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Supply Chain Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Silver Spring, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986131003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789678459,
-    "first_seen": 1789680805,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7990378003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -268095,23 +268214,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7990272003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Systems Engineering Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Chantilly, VA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789678706,
-    "first_seen": 1789680805,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7990270003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -268125,6 +268227,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789678770,
+    "first_seen": 1789680805,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7990272003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Systems Engineering Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Chantilly, VA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789678706,
     "first_seen": 1789680805,
     "emailed": true
   },
@@ -272778,23 +272897,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:epicgames:5708589004",
-    "source": "greenhouse",
-    "company": "Epic Games",
-    "title": "Machine Learning Intern",
-    "category": "Software",
-    "locations": [
-      "London,England,United Kingdom"
-    ],
-    "terms": [],
-    "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1786119174,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:epicgames:6138134004",
     "source": "greenhouse",
     "company": "Epic Games",
@@ -272805,6 +272907,23 @@
     ],
     "terms": [],
     "url": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1786119174,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:epicgames:5708589004",
+    "source": "greenhouse",
+    "company": "Epic Games",
+    "title": "Machine Learning Intern",
+    "category": "Software",
+    "locations": [
+      "London,England,United Kingdom"
+    ],
+    "terms": [],
+    "url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
     "sponsorship": null,
     "active": true,
     "date_posted": 1786119174,
@@ -273730,23 +273849,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027900",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Researcher (Intern)",
-    "category": "Software",
-    "locations": [
-      "Hong Kong; Shanghai"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1787557373,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8010307",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -273760,6 +273862,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783946183,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027900",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Researcher (Intern)",
+    "category": "Software",
+    "locations": [
+      "Hong Kong; Shanghai"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1787557373,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -273849,23 +273968,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:jumptrading:7848371",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Trader (Intern)",
-    "category": "Software",
-    "locations": [
-      "Chicago; New York"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1783546547,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:jumptrading:8027922",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -273881,6 +273983,23 @@
     "date_posted": 1787557366,
     "first_seen": 1789665337,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:7848371",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Trader (Intern)",
+    "category": "Software",
+    "locations": [
+      "Chicago; New York"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1783546547,
+    "first_seen": 1789665337,
+    "emailed": true
   },
   {
     "uid": "greenhouse:jumptrading:8027941",
@@ -273917,23 +274036,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027952",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Systems Engineer (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740411,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8000323",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -273966,6 +274068,23 @@
     "date_posted": 1783546769,
     "first_seen": 1789665337,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027952",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Systems Engineer (Intern)",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785740411,
+    "first_seen": 1789665337,
+    "emailed": false
   },
   {
     "uid": "greenhouse:jumptrading:7974943",
@@ -274546,23 +274665,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:rocketlab:7987020003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Manufacturing Engineering Intern Spring 2027",
-    "category": "Other",
-    "locations": [
-      "Middle River, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789585340,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:rocketlab:7984943003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -274576,6 +274678,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789585321,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rocketlab:7987020003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Manufacturing Engineering Intern Spring 2027",
+    "category": "Other",
+    "locations": [
+      "Middle River, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789585340,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -274614,6 +274733,23 @@
     "emailed": false
   },
   {
+    "uid": "greenhouse:rocketlab:7991448003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Mechanical Engineering Intern Summer 2027",
+    "category": "Other",
+    "locations": [
+      "Long Beach, CA"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789355778,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
     "uid": "greenhouse:rocketlab:7991769003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -274644,23 +274780,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789585428,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
-    "uid": "greenhouse:rocketlab:7991448003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Mechanical Engineering Intern Summer 2027",
-    "category": "Other",
-    "locations": [
-      "Long Beach, CA"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7991448003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789355778,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -274750,23 +274869,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:rocketlab:7986963003",
-    "source": "greenhouse",
-    "company": "Rocket Lab Corporation",
-    "title": "Security Analyst Intern Summer 2027",
-    "category": "Software",
-    "locations": [
-      "Middle River, MD"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1789601114,
-    "first_seen": 1789665337,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:rocketlab:7986874003",
     "source": "greenhouse",
     "company": "Rocket Lab Corporation",
@@ -274780,6 +274882,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1789591406,
+    "first_seen": 1789665337,
+    "emailed": true
+  },
+  {
+    "uid": "greenhouse:rocketlab:7986963003",
+    "source": "greenhouse",
+    "company": "Rocket Lab Corporation",
+    "title": "Security Analyst Intern Summer 2027",
+    "category": "Software",
+    "locations": [
+      "Middle River, MD"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1789601114,
     "first_seen": 1789665337,
     "emailed": true
   },
@@ -274988,23 +275107,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:tanium:8181014",
-    "source": "greenhouse",
-    "company": "Tanium",
-    "title": "Sales Intern \u2013\u00a0Summer 2027",
-    "category": "Other",
-    "locations": [
-      "Addison, TX (Hybrid)"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/8181014",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788900825,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:tanium:8180996",
     "source": "greenhouse",
     "company": "Tanium",
@@ -275018,6 +275120,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788959230,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:tanium:8181014",
+    "source": "greenhouse",
+    "company": "Tanium",
+    "title": "Sales Intern \u2013\u00a0Summer 2027",
+    "category": "Other",
+    "locations": [
+      "Addison, TX (Hybrid)"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8181014",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788900825,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -282650,23 +282769,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8031833",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Bengaluru"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1783661632,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8130883",
     "source": "greenhouse",
     "company": "Stripe",
@@ -282697,6 +282799,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788215438,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8031833",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Bengaluru"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1783661632,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -365335,7 +365454,7 @@
     ],
     "url": "https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1787407584,
     "first_seen": 1787409789,
     "emailed": false
