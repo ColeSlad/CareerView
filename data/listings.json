@@ -1,5 +1,43 @@
 [
   {
+    "uid": "simplify:0227f7aa-6071-4470-9d22-79b6b5563c15",
+    "source": "simplify",
+    "company": "Synopsys",
+    "title": "Materials Data Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Cambridge, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://synopsys.avature.net/careers/JobDetail/19801",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795519845,
+    "first_seen": 1795524131,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:876d0a8b-980a-44af-901c-1c8b5c80cef0",
+    "source": "vanshb03",
+    "company": "Trimble",
+    "title": "AI Software Developer Engineer in Test Intern",
+    "category": "Software",
+    "locations": [
+      "Lake Oswego, OR"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1I5",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795493383,
+    "first_seen": 1795524131,
+    "emailed": true
+  },
+  {
     "uid": "simplify:c6fcfa7b-64c5-438b-b327-e3f5af651cac",
     "source": "simplify",
     "company": "Esri",
@@ -66948,23 +66986,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8332683",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Product Design Intern",
-    "category": "Other",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8332683",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793923063,
-    "first_seen": 1793925192,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8332681",
     "source": "greenhouse",
     "company": "Stripe",
@@ -66978,6 +66999,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793923040,
+    "first_seen": 1793925192,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8332683",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Product Design Intern",
+    "category": "Other",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793923063,
     "first_seen": 1793925192,
     "emailed": false
   },
@@ -100292,23 +100330,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8328662",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "PhD Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "San Francisco, New York City, Seattle"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8328662",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377168,
-    "first_seen": 1793386205,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8328664",
     "source": "greenhouse",
     "company": "Stripe",
@@ -100324,6 +100345,23 @@
     "date_posted": 1793377164,
     "first_seen": 1793386205,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8328662",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, New York City, Seattle"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377168,
+    "first_seen": 1793386205,
+    "emailed": true
   },
   {
     "uid": "lever:cfsenergy:b464985c-bfc2-4efb-91db-7dd1a92f8f4b",
@@ -222988,23 +223026,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8194291",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Data Analyst, Intern",
-    "category": "Software",
-    "locations": [
-      "New York, Seattle, South San Francisco HQ"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790867129,
-    "first_seen": 1790872912,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8194287",
     "source": "greenhouse",
     "company": "Stripe",
@@ -223018,6 +223039,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790867136,
+    "first_seen": 1790872912,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8194291",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "category": "Software",
+    "locations": [
+      "New York, Seattle, South San Francisco HQ"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8194291",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790867129,
     "first_seen": 1790872912,
     "emailed": false
   },
@@ -282478,19 +282516,19 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8130867",
+    "uid": "greenhouse:stripe:8130883",
     "source": "greenhouse",
     "company": "Stripe",
     "title": "Software Engineer, Intern",
     "category": "Software",
     "locations": [
-      "London"
+      "Singapore"
     ],
     "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1788215438,
+    "date_posted": 1788759860,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -282512,19 +282550,19 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8130883",
+    "uid": "greenhouse:stripe:8130867",
     "source": "greenhouse",
     "company": "Stripe",
     "title": "Software Engineer, Intern",
     "category": "Software",
     "locations": [
-      "Singapore"
+      "London"
     ],
     "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1788759860,
+    "date_posted": 1788215438,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -282546,23 +282584,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8128745",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern (Summer)",
-    "category": "Software",
-    "locations": [
-      "San Francisco, Seattle, New York City"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788214845,
-    "first_seen": 1789514229,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8130805",
     "source": "greenhouse",
     "company": "Stripe",
@@ -282578,6 +282599,23 @@
     "date_posted": 1788218508,
     "first_seen": 1789514229,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8128745",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "category": "Software",
+    "locations": [
+      "San Francisco, Seattle, New York City"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788214845,
+    "first_seen": 1789514229,
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8097801",
@@ -361231,23 +361269,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1778068078,
-    "first_seen": 1787694552,
-    "emailed": false
-  },
-  {
-    "uid": "lever:palantir:395a4483-fc3d-4b77-a500-501923fd0976",
-    "source": "lever",
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - AUS Government",
-    "category": "Software",
-    "locations": [
-      "Sydney, Australia"
-    ],
-    "terms": [],
-    "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976/apply",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1780058819,
     "first_seen": 1787694552,
     "emailed": false
   },
