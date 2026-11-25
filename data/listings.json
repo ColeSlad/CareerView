@@ -1,5 +1,119 @@
 [
   {
+    "uid": "simplify:e7ea3145-19cf-49b6-bc9f-cb292a69e0c9",
+    "source": "simplify",
+    "company": "Artefact",
+    "title": "AI Builder Intern",
+    "category": "Software",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://job-boards.greenhouse.io/artefactnoram/jobs/8958081002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795393411,
+    "first_seen": 1795610217,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:fa1ceab1-caea-4ea3-9d07-2e5efa622f5a",
+    "source": "simplify",
+    "company": "Artefact",
+    "title": "AI Builder Intern",
+    "category": "Software",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795393407,
+    "first_seen": 1795610217,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:edcc3fc0-9e18-4954-b137-6c62c5e479da",
+    "source": "simplify",
+    "company": "Lendable",
+    "title": "Credit Analyst Intern",
+    "category": "Quant",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Winter 2027"
+    ],
+    "url": "https://jobs.ashbyhq.com/lendable/eabb1e2a-86c3-48e6-836c-af967e0e71d2/application?embed=true",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1791555966,
+    "first_seen": 1795610217,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2226016a-fcac-4e14-a61c-cab14caba462",
+    "source": "pittcsc",
+    "company": "Johnson & Johnson",
+    "title": "Software Testing Co-Op",
+    "category": "Software Engineering",
+    "locations": [
+      "Danvers, MA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Danvers-Massachusetts-United-States-of-America/Software-Testing-Co-Op---Fall-2026_R-057551",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "date_posted": 1774873639,
+    "first_seen": 1795610217,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:8b45fc87-9146-469b-a08e-c0f36274d63e",
+    "source": "vanshb03",
+    "company": "Artefact",
+    "title": "AI Builder Intern",
+    "category": "Software",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1J4",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795393407,
+    "first_seen": 1795610217,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:51dc55b7-d59e-4b4d-aaed-42e592c0f22c",
+    "source": "vanshb03",
+    "company": "ConnectPrep",
+    "title": "Data Analyst Intern",
+    "category": "Software",
+    "locations": [
+      "Washington, DC"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1J5",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795564800,
+    "first_seen": 1795610217,
+    "emailed": true
+  },
+  {
     "uid": "simplify:13f8fdfe-080a-4a41-adff-6ed8dc535dcb",
     "source": "simplify",
     "company": "ConnectPrep",
@@ -18881,7 +18995,7 @@
     ],
     "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8207759003",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795041907,
     "first_seen": 1795056374,
     "emailed": false
@@ -44235,23 +44349,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:schonfeld:8346891",
-    "source": "greenhouse",
-    "company": "Schonfeld ",
-    "title": "2027 Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Hong Kong, Hong Kong"
-    ],
-    "terms": [],
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8346891",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1794414141,
-    "first_seen": 1794415225,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:schonfeld:8356747",
     "source": "greenhouse",
     "company": "Schonfeld ",
@@ -44265,6 +44362,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1794414219,
+    "first_seen": 1794415225,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:schonfeld:8346891",
+    "source": "greenhouse",
+    "company": "Schonfeld ",
+    "title": "2027 Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Hong Kong, Hong Kong"
+    ],
+    "terms": [],
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8346891",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1794414141,
     "first_seen": 1794415225,
     "emailed": false
   },
@@ -101972,23 +102086,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333074",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "San Francisco, New York City, Seattle"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377166,
-    "first_seen": 1793386205,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8333122",
     "source": "greenhouse",
     "company": "Stripe",
@@ -102004,6 +102101,23 @@
     "date_posted": 1793377161,
     "first_seen": 1793386205,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8333074",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, New York City, Seattle"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377166,
+    "first_seen": 1793386205,
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8328664",
@@ -176169,7 +176283,7 @@
     ],
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792159776,
     "first_seen": 1792169736,
     "emailed": false
@@ -252944,7 +253058,7 @@
     ],
     "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1790029561,
     "first_seen": 1790052231,
     "emailed": true
@@ -261469,7 +261583,7 @@
     ],
     "url": "https://careers.rivian.com/jobs/33800?icims=1",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1789769752,
     "first_seen": 1789780717,
     "emailed": false
@@ -284047,23 +284161,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8130867",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "London"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788215438,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8031833",
     "source": "greenhouse",
     "company": "Stripe",
@@ -284077,6 +284174,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783661632,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130867",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "London"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788215438,
     "first_seen": 1789514229,
     "emailed": false
   },
@@ -406814,63 +406928,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:1a14340b-56d9-42b1-914e-3451ce51c054",
-    "source": "simplify",
-    "company": "Piaggio Fast Forward",
-    "title": "Robotics and AI Co-op",
-    "category": "Data Science, AI & Machine Learning",
-    "locations": [
-      "Boston, MA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/piaggiofastforward/jobs/6751147",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "date_posted": 1774873240,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:7e20f9b3-005a-49be-b68a-51027abfaa7f",
-    "source": "simplify",
-    "company": "Farsight",
-    "title": "Software Engineering Intern",
-    "category": "Software Engineering",
-    "locations": [
-      "New York, NY"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774873435,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2226016a-fcac-4e14-a61c-cab14caba462",
-    "source": "simplify",
-    "company": "Johnson & Johnson",
-    "title": "Software Testing Co-Op",
-    "category": "Software Engineering",
-    "locations": [
-      "Danvers, MA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Danvers-Massachusetts-United-States-of-America/Software-Testing-Co-Op---Fall-2026_R-057551",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "date_posted": 1774873639,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:044d297e-5c26-4fda-9b4a-ad59e2fef7cb",
     "source": "simplify",
     "company": "Varda Space",
@@ -503678,6 +503735,44 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1773092933,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:1a14340b-56d9-42b1-914e-3451ce51c054",
+    "source": "pittcsc",
+    "company": "Piaggio Fast Forward",
+    "title": "Robotics and AI Co-op",
+    "category": "Data Science, AI & Machine Learning",
+    "locations": [
+      "Boston, MA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/piaggiofastforward/jobs/6751147",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "date_posted": 1774873240,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:7e20f9b3-005a-49be-b68a-51027abfaa7f",
+    "source": "pittcsc",
+    "company": "Farsight",
+    "title": "Software Engineering Intern",
+    "category": "Software Engineering",
+    "locations": [
+      "New York, NY"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/farsight/096cdc49-06ae-4724-8f46-c58184e98334",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774873435,
     "first_seen": 1784003708,
     "emailed": true
   },
