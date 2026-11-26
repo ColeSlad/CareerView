@@ -1,5 +1,43 @@
 [
   {
+    "uid": "simplify:399f3f9f-52cd-45b5-9640-6a20d8d3cdd5",
+    "source": "simplify",
+    "company": "Verisk",
+    "title": "Integration Analyst Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "London, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795690985,
+    "first_seen": 1795698211,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:f129e32f-4987-4314-b0a7-a02c2c74e440",
+    "source": "vanshb03",
+    "company": "ABB",
+    "title": "Software Intern",
+    "category": "Software",
+    "locations": [
+      "Dorval, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://go.vansh.nyc/1Kd",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795642800,
+    "first_seen": 1795698211,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:03e55a45-ecf9-4f94-9dad-35e6e3f65220",
     "source": "pittcsc",
     "company": "Revolution",
@@ -72347,23 +72385,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8332683",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Product Design Intern",
-    "category": "Other",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8332683",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793923063,
-    "first_seen": 1793925192,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8332681",
     "source": "greenhouse",
     "company": "Stripe",
@@ -72377,6 +72398,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1793923040,
+    "first_seen": 1793925192,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8332683",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Product Design Intern",
+    "category": "Other",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8332683",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793923063,
     "first_seen": 1793925192,
     "emailed": false
   },
@@ -105691,23 +105729,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8328664",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "PhD Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377164,
-    "first_seen": 1793386205,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8328662",
     "source": "greenhouse",
     "company": "Stripe",
@@ -105723,6 +105744,23 @@
     "date_posted": 1793377168,
     "first_seen": 1793386205,
     "emailed": true
+  },
+  {
+    "uid": "greenhouse:stripe:8328664",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377164,
+    "first_seen": 1793386205,
+    "emailed": false
   },
   {
     "uid": "lever:cfsenergy:b464985c-bfc2-4efb-91db-7dd1a92f8f4b",
@@ -256597,7 +256635,7 @@
     ],
     "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1790029561,
     "first_seen": 1790052231,
     "emailed": true
@@ -281182,7 +281220,7 @@
     "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2/application",
     "sponsorship": null,
     "active": true,
-    "date_posted": 1789054762,
+    "date_posted": 1795695791,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -287632,23 +287670,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:stripe:8130883",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788759860,
-    "first_seen": 1789514229,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8130867",
     "source": "greenhouse",
     "company": "Stripe",
@@ -287662,6 +287683,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788215438,
+    "first_seen": 1789514229,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8130883",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8130883",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788759860,
     "first_seen": 1789514229,
     "emailed": false
   },
