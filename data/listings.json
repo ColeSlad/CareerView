@@ -1,5 +1,82 @@
 [
   {
+    "uid": "simplify:7b39170d-3c04-4950-9d6e-71f7c52be118",
+    "source": "simplify",
+    "company": "AMD",
+    "title": "Hardware Engineering Intern",
+    "category": "Hardware",
+    "locations": [
+      "Belfast, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://careers.amd.com/jobs/102333?icims=1&lang=en-us",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795701900,
+    "first_seen": 1795708166,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:f22421d0-9ba8-49f6-9e0b-6e2c924538f0",
+    "source": "simplify",
+    "company": "DEPT",
+    "title": "AI Engineer Trainee - AI Engineer Traineeship",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Netherlands",
+      "United Kingdom"
+    ],
+    "terms": [
+      "Winter 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/dept/jobs/8414501",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795698881,
+    "first_seen": 1795708166,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:b316a842-694e-466d-aecb-fe010c77b252",
+    "source": "vanshb03",
+    "company": "NinjaHoldings",
+    "title": "Data Science Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Kf",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "date_posted": 1795124583,
+    "first_seen": 1795708166,
+    "emailed": true
+  },
+  {
+    "uid": "vanshb03:3ee795ff-b05b-432d-8e45-cb0a6fc7a356",
+    "source": "vanshb03",
+    "company": "NinjaHoldings",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Chicago, IL"
+    ],
+    "terms": [
+      "Summer"
+    ],
+    "url": "https://go.vansh.nyc/1Kg",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": true,
+    "date_posted": 1795124633,
+    "first_seen": 1795708166,
+    "emailed": true
+  },
+  {
     "uid": "pittcsc:486e5722-063b-445e-8da2-c24e94945032",
     "source": "pittcsc",
     "company": "Paccar",
@@ -15,6 +92,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1774966075,
+    "first_seen": 1795705154,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e007b472-502b-4768-aacc-1dc8fef84704",
+    "source": "pittcsc",
+    "company": "TikTok",
+    "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://lifeattiktok.com/search/7525650208522193159",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774966433,
     "first_seen": 1795705154,
     "emailed": false
   },
@@ -149,25 +245,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1774966153,
-    "first_seen": 1795705154,
-    "emailed": false
-  },
-  {
-    "uid": "pittcsc:e007b472-502b-4768-aacc-1dc8fef84704",
-    "source": "pittcsc",
-    "company": "TikTok",
-    "title": "Machine Learning Scientist Intern - Global E-Commerce Content Recommendation",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://lifeattiktok.com/search/7525650208522193159",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774966433,
     "first_seen": 1795705154,
     "emailed": false
   },
@@ -6771,7 +6848,7 @@
     ],
     "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806549",
     "sponsorship": "Other",
-    "active": false,
+    "active": true,
     "date_posted": 1795476248,
     "first_seen": 1795482914,
     "emailed": false
