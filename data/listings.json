@@ -1,5 +1,155 @@
 [
   {
+    "uid": "pittcsc:03e55a45-ecf9-4f94-9dad-35e6e3f65220",
+    "source": "pittcsc",
+    "company": "Revolution",
+    "title": "Full Stack Developer Intern",
+    "category": "Software Engineering",
+    "locations": [
+      "Dallas. TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers-revolutioncompany.icims.com/jobs/2869/full-stack-developer-intern/job",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774935842,
+    "first_seen": 1795691122,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:3a4c6dff-d288-40a5-a26e-551d641cf3aa",
+    "source": "pittcsc",
+    "company": "Bio-Rad Laboratories",
+    "title": "Test Engineering Intern (Software)",
+    "category": "Software Engineering",
+    "locations": [
+      "Hercules, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers-biorad.icims.com/jobs/38316/test-engineering-intern-%28software%29/job",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774936000,
+    "first_seen": 1795691122,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:387670fa-5bb3-484a-93ec-2d4ab8b0f1cb",
+    "source": "pittcsc",
+    "company": "Palomar Products",
+    "title": "Software Engineering Intern - Onsite",
+    "category": "Software Engineering",
+    "locations": [
+      "Rancho Santa Margarita, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://palomarproducts.applytojob.com/apply/NO42sUcZ9h/Software-Engineering-Intern-Onsite",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "date_posted": 1774936203,
+    "first_seen": 1795691122,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:42c6fccb-baa0-4279-94e0-1b72f361244b",
+    "source": "pittcsc",
+    "company": "Revolution",
+    "title": "AI Engineer Intern",
+    "category": "Data Science, AI & Machine Learning",
+    "locations": [
+      "Terre Haute, IN"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers-revolutioncompany.icims.com/jobs/2868/ai-engineer-intern/job",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774936363,
+    "first_seen": 1795691122,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:2b5f6473-3e69-4c88-b370-2c7dfffe24c6",
+    "source": "pittcsc",
+    "company": "Terabase",
+    "title": "Robotics & Autonomy Engineering Intern",
+    "category": "Data Science, AI & Machine Learning",
+    "locations": [
+      "Davis, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://apply.workable.com/terabase-energy/j/5CDBB58919/",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774936488,
+    "first_seen": 1795691122,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ca11c9e4-b199-436a-9c72-5c8e97d13880",
+    "source": "pittcsc",
+    "company": "TALON",
+    "title": "AI/ML Engineering Intern",
+    "category": "Data Science, AI & Machine Learning",
+    "locations": [
+      "Reston, VA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://careers-gotyto.icims.com/jobs/1794/ai-ml-engineering-intern/job",
+    "sponsorship": "U.S. Citizenship is Required",
+    "active": false,
+    "date_posted": 1774936575,
+    "first_seen": 1795691122,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:130fec81-b89c-4600-9a10-f14b05aabe66",
+    "source": "pittcsc",
+    "company": "Pindrop",
+    "title": "Research Scientist Intern - Multiple Teams",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Remote in USA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.pindrop.com/careers/job-title/?gh_jid=7767791",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1774937737,
+    "first_seen": 1795691122,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:rubrik:8413157",
+    "source": "greenhouse",
+    "company": "Rubrik Job Board",
+    "title": "Software Engineer (UI) - Winter Intern",
+    "category": "Software",
+    "locations": [
+      "Bangalore"
+    ],
+    "terms": [],
+    "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1795683182,
+    "first_seen": 1795691122,
+    "emailed": false
+  },
+  {
     "uid": "simplify:18fb7fb1-2e9a-4339-bab0-009982dfb6c8",
     "source": "simplify",
     "company": "Blizzard Entertainment",
@@ -5090,7 +5240,7 @@
     ],
     "url": "https://go.vansh.nyc/1Ie",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795536191,
     "first_seen": 1795541418,
     "emailed": true
@@ -5222,7 +5372,7 @@
     ],
     "url": "https://careers.amd.com/jobs/89564?icims=1&lang=en-us",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795534080,
     "first_seen": 1795537001,
     "emailed": false
@@ -7963,23 +8113,6 @@
     "date_posted": 1795392504,
     "first_seen": 1795445819,
     "emailed": true
-  },
-  {
-    "uid": "greenhouse:cloudflare:8392302",
-    "source": "greenhouse",
-    "company": "Cloudflare",
-    "title": "People Operations Intern (2026/2027 Batch Only)",
-    "category": "Software",
-    "locations": [
-      "In-Office"
-    ],
-    "terms": [],
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8392302?gh_jid=8392302",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1795444194,
-    "first_seen": 1795445819,
-    "emailed": false
   },
   {
     "uid": "simplify:55da762f-4d6d-4896-a252-592b49e94f26",
@@ -12036,7 +12169,7 @@
     ],
     "url": "https://go.vansh.nyc/1G5",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795147854,
     "first_seen": 1795247092,
     "emailed": true
@@ -12439,7 +12572,7 @@
     ],
     "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795219070,
     "first_seen": 1795222578,
     "emailed": false
@@ -16178,7 +16311,7 @@
     ],
     "url": "https://careers.amd.com/jobs/89816?icims=1&lang=en-us",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795185660,
     "first_seen": 1795197729,
     "emailed": false
@@ -19095,7 +19228,7 @@
     ],
     "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795132588,
     "first_seen": 1795138043,
     "emailed": true
@@ -38195,7 +38328,7 @@
     ],
     "url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793577600,
     "first_seen": 1794556211,
     "emailed": false
@@ -114666,7 +114799,7 @@
     ],
     "url": "https://www.indie.inc/careers/internships/current-openings/?gh_jid=5265698007",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792006568,
     "first_seen": 1793238823,
     "emailed": false
@@ -147546,7 +147679,7 @@
     ],
     "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33208",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792793758,
     "first_seen": 1792794975,
     "emailed": false
@@ -172056,7 +172189,7 @@
     ],
     "url": "https://www.tesla.com/careers/search/job/287024",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792316246,
     "first_seen": 1792320933,
     "emailed": false
@@ -278613,23 +278746,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:jumptrading:8027923",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Python Software Engineer (Intern)",
-    "category": "Software",
-    "locations": [
-      "Hong Kong; Shanghai"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788491312,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8027955",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -278643,6 +278759,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1785740407,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027923",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Python Software Engineer (Intern)",
+    "category": "Software",
+    "locations": [
+      "Hong Kong; Shanghai"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788491312,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -278664,23 +278797,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:jumptrading:8027900",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Researcher (Intern)",
-    "category": "Software",
-    "locations": [
-      "Hong Kong; Shanghai"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1787557373,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:8027939",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -278694,6 +278810,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1785740420,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027900",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Researcher (Intern)",
+    "category": "Software",
+    "locations": [
+      "Hong Kong; Shanghai"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1787557373,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -278766,40 +278899,6 @@
     "emailed": true
   },
   {
-    "uid": "greenhouse:jumptrading:8050772",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Trader (Intern)",
-    "category": "Software",
-    "locations": [
-      "London; Amsterdam"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1783946223,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
-    "uid": "greenhouse:jumptrading:8027922",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Quantitative Trader (Intern)",
-    "category": "Software",
-    "locations": [
-      "Hong Kong; Shanghai"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1787557366,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:jumptrading:7848371",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -278834,6 +278933,57 @@
     "emailed": false
   },
   {
+    "uid": "greenhouse:jumptrading:8050772",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Trader (Intern)",
+    "category": "Software",
+    "locations": [
+      "London; Amsterdam"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1783946223,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027922",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Quantitative Trader (Intern)",
+    "category": "Software",
+    "locations": [
+      "Hong Kong; Shanghai"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1787557366,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:jumptrading:8027952",
+    "source": "greenhouse",
+    "company": "Jump Trading",
+    "title": "Campus Systems Engineer (Intern)",
+    "category": "Software",
+    "locations": [
+      "Singapore"
+    ],
+    "terms": [],
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1785740411,
+    "first_seen": 1789665337,
+    "emailed": false
+  },
+  {
     "uid": "greenhouse:jumptrading:8007788",
     "source": "greenhouse",
     "company": "Jump Trading",
@@ -278864,23 +279014,6 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1783946397,
-    "first_seen": 1789665337,
-    "emailed": false
-  },
-  {
-    "uid": "greenhouse:jumptrading:8027952",
-    "source": "greenhouse",
-    "company": "Jump Trading",
-    "title": "Campus Systems Engineer (Intern)",
-    "category": "Software",
-    "locations": [
-      "Singapore"
-    ],
-    "terms": [],
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1785740411,
     "first_seen": 1789665337,
     "emailed": false
   },
@@ -289633,7 +289766,7 @@
     ],
     "url": "https://externalhourly-highgate.icims.com/jobs/82546/job?hub=7&mobile=true&needsRedirect=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789424266,
     "first_seen": 1789426309,
     "emailed": false
@@ -298971,7 +299104,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789170797,
     "first_seen": 1789172034,
     "emailed": false
@@ -410226,158 +410359,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:03e55a45-ecf9-4f94-9dad-35e6e3f65220",
-    "source": "simplify",
-    "company": "Revolution",
-    "title": "Full Stack Developer Intern",
-    "category": "Software Engineering",
-    "locations": [
-      "Dallas. TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers-revolutioncompany.icims.com/jobs/2869/full-stack-developer-intern/job",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774935842,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:3a4c6dff-d288-40a5-a26e-551d641cf3aa",
-    "source": "simplify",
-    "company": "Bio-Rad Laboratories",
-    "title": "Test Engineering Intern (Software)",
-    "category": "Software Engineering",
-    "locations": [
-      "Hercules, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers-biorad.icims.com/jobs/38316/test-engineering-intern-%28software%29/job",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774936000,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2d6c607d-d59a-4790-aac5-ec410e6ffe63",
-    "source": "simplify",
-    "company": "Creatify",
-    "title": "Software Engineer Intern",
-    "category": "Software Engineering",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/embedding-vc/eaf10b14-03ef-412c-b0f0-78900f0a213c",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": false,
-    "date_posted": 1774936113,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:387670fa-5bb3-484a-93ec-2d4ab8b0f1cb",
-    "source": "simplify",
-    "company": "Palomar Products",
-    "title": "Software Engineering Intern - Onsite",
-    "category": "Software Engineering",
-    "locations": [
-      "Rancho Santa Margarita, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://palomarproducts.applytojob.com/apply/NO42sUcZ9h/Software-Engineering-Intern-Onsite",
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": false,
-    "date_posted": 1774936203,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:42c6fccb-baa0-4279-94e0-1b72f361244b",
-    "source": "simplify",
-    "company": "Revolution",
-    "title": "AI Engineer Intern",
-    "category": "Data Science, AI & Machine Learning",
-    "locations": [
-      "Terre Haute, IN"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers-revolutioncompany.icims.com/jobs/2868/ai-engineer-intern/job",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774936363,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:2b5f6473-3e69-4c88-b370-2c7dfffe24c6",
-    "source": "simplify",
-    "company": "Terabase",
-    "title": "Robotics & Autonomy Engineering Intern",
-    "category": "Data Science, AI & Machine Learning",
-    "locations": [
-      "Davis, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://apply.workable.com/terabase-energy/j/5CDBB58919/",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774936488,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ca11c9e4-b199-436a-9c72-5c8e97d13880",
-    "source": "simplify",
-    "company": "TALON",
-    "title": "AI/ML Engineering Intern",
-    "category": "Data Science, AI & Machine Learning",
-    "locations": [
-      "Reston, VA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://careers-gotyto.icims.com/jobs/1794/ai-ml-engineering-intern/job",
-    "sponsorship": "U.S. Citizenship is Required",
-    "active": false,
-    "date_posted": 1774936575,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:130fec81-b89c-4600-9a10-f14b05aabe66",
-    "source": "simplify",
-    "company": "Pindrop",
-    "title": "Research Scientist Intern - Multiple Teams",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Remote in USA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.pindrop.com/careers/job-title/?gh_jid=7767791",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1774937737,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:eea65412-f5fd-4e49-8ceb-2115db3a11bd",
     "source": "simplify",
     "company": "LexisNexis Risk Solutions",
@@ -505795,6 +505776,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1774909012,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:2d6c607d-d59a-4790-aac5-ec410e6ffe63",
+    "source": "pittcsc",
+    "company": "Creatify",
+    "title": "Software Engineer Intern",
+    "category": "Software Engineering",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/embedding-vc/eaf10b14-03ef-412c-b0f0-78900f0a213c",
+    "sponsorship": "Does Not Offer Sponsorship",
+    "active": false,
+    "date_posted": 1774936113,
     "first_seen": 1784003708,
     "emailed": true
   },
