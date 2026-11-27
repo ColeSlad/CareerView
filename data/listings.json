@@ -1,5 +1,237 @@
 [
   {
+    "uid": "simplify:fc6955f6-8ff8-4433-b4eb-739c55ab20e0",
+    "source": "simplify",
+    "company": "Atoms",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA",
+      "SF",
+      "LA",
+      "NYC",
+      "Mountain View, CA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795720285,
+    "first_seen": 1795748244,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:a209bd23-da6c-48fa-a548-37df370d9dc1",
+    "source": "simplify",
+    "company": "PQShield",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://pqshield.com/careers/apply/5049820101?gh_jid=5049820101",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795717643,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:2449c86e-134e-4493-be4b-b53aafd20b6d",
+    "source": "simplify",
+    "company": "PQShield",
+    "title": "Hardware Engineer Intern - Placement Year",
+    "category": "Hardware",
+    "locations": [
+      "Oxford, UK"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://pqshield.com/careers/apply/5049819101?gh_jid=5049819101",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795717543,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:f8b9290a-c40c-41ac-8a11-71628a1c4e5e",
+    "source": "simplify",
+    "company": "ICONIQ Capital",
+    "title": "Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8394060",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794860319,
+    "first_seen": 1795748244,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:e36215ee-22f4-4838-820e-3fb56c3da112",
+    "source": "simplify",
+    "company": "ICONIQ Capital",
+    "title": "Data & Analytics Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391973",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794798532,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:d4e5b166-f1fd-4172-85ae-9b4ba4ffd6df",
+    "source": "simplify",
+    "company": "ICONIQ Capital",
+    "title": "Data Science Intern - Science",
+    "category": "AI/ML/Data",
+    "locations": [
+      "SF"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8391972",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794798134,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
+    "uid": "simplify:b289619b-f028-4230-b7a7-6315b92066ef",
+    "source": "simplify",
+    "company": "ICONIQ Capital",
+    "title": "AI Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "NYC"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://job-boards.greenhouse.io/iconiqhandshake/jobs/8386455",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1794601419,
+    "first_seen": 1795748244,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:1aba4673-e14a-4754-856d-275c3d2cada4",
+    "source": "pittcsc",
+    "company": "Brain Corp",
+    "title": "Intern - Software Engineer - Autonomy",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://braincorp.com/open-positions?gh_jid=8191992002",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775006147,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:25b349b7-c755-4cab-9c5e-9ca2a51f1a69",
+    "source": "pittcsc",
+    "company": "AAA Club Alliance",
+    "title": "Insurance Team Analyst Intern",
+    "category": "Software",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Insurance-Team-Analyst-Intern_JR202635630",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775005546,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:b11f296d-b2ba-4686-be51-b55c495bd3eb",
+    "source": "pittcsc",
+    "company": "Baker Hughes",
+    "title": "Month Emerging Talent \u2013 Software Intern Opportunities",
+    "category": "Software",
+    "locations": [
+      "Newcastle upon Tyne, UK"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/XMLNAME-12-month-Emerging-Talent---Software-Intern-2026-Opportunities--Cramlington-_R162706",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775005636,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:8f8a5ec1-5703-471e-95fb-2ec3ec62367f",
+    "source": "pittcsc",
+    "company": "Zensar",
+    "title": "Software Engineer Intern",
+    "category": "Software",
+    "locations": [
+      "United States"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/143111",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775005403,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
+    "uid": "vanshb03:55045e44-6345-48a9-8873-ad63483e4e3b",
+    "source": "vanshb03",
+    "company": "Axis Capital",
+    "title": "Data Engineer Co-op",
+    "category": "Software",
+    "locations": [
+      "Halifax, Canada"
+    ],
+    "terms": [
+      "Winter"
+    ],
+    "url": "https://go.vansh.nyc/1KI",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1795729177,
+    "first_seen": 1795748244,
+    "emailed": false
+  },
+  {
     "uid": "pittcsc:f67d10e8-5a4e-4e1d-9643-33c4bf846c7e",
     "source": "pittcsc",
     "company": "Samsara",
@@ -88510,7 +88742,7 @@
     ],
     "url": "https://go.vansh.nyc/1bV",
     "sponsorship": "U.S. Citizenship is Required",
-    "active": true,
+    "active": false,
     "date_posted": 1793678766,
     "first_seen": 1793687659,
     "emailed": true
@@ -107130,23 +107362,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8333074",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Master's Machine Learning Engineer, Intern",
-    "category": "Software",
-    "locations": [
-      "San Francisco, New York City, Seattle"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1793377166,
-    "first_seen": 1793386205,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8333122",
     "source": "greenhouse",
     "company": "Stripe",
@@ -107162,6 +107377,23 @@
     "date_posted": 1793377161,
     "first_seen": 1793386205,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8333074",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Master's Machine Learning Engineer, Intern",
+    "category": "Software",
+    "locations": [
+      "San Francisco, New York City, Seattle"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1793377166,
+    "first_seen": 1793386205,
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8328664",
@@ -176975,7 +177207,7 @@
     ],
     "url": "https://go.vansh.nyc/9M",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792047600,
     "first_seen": 1792264572,
     "emailed": false
@@ -229832,23 +230064,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8194287",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Data Analyst, Intern",
-    "category": "Software",
-    "locations": [
-      "Toronto"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1790867136,
-    "first_seen": 1790872912,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:stripe:8194291",
     "source": "greenhouse",
     "company": "Stripe",
@@ -229862,6 +230077,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1790867129,
+    "first_seen": 1790872912,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8194287",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Data Analyst, Intern",
+    "category": "Software",
+    "locations": [
+      "Toronto"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8194287",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1790867136,
     "first_seen": 1790872912,
     "emailed": false
   },
@@ -289156,23 +289388,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:stripe:8128745",
-    "source": "greenhouse",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern (Summer)",
-    "category": "Software",
-    "locations": [
-      "San Francisco, Seattle, New York City"
-    ],
-    "terms": [],
-    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788214845,
-    "first_seen": 1789514229,
-    "emailed": true
-  },
-  {
     "uid": "greenhouse:stripe:8130805",
     "source": "greenhouse",
     "company": "Stripe",
@@ -289188,6 +289403,23 @@
     "date_posted": 1788218508,
     "first_seen": 1789514229,
     "emailed": false
+  },
+  {
+    "uid": "greenhouse:stripe:8128745",
+    "source": "greenhouse",
+    "company": "Stripe",
+    "title": "Software Engineer, Intern (Summer)",
+    "category": "Software",
+    "locations": [
+      "San Francisco, Seattle, New York City"
+    ],
+    "terms": [],
+    "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788214845,
+    "first_seen": 1789514229,
+    "emailed": true
   },
   {
     "uid": "greenhouse:stripe:8097801",
@@ -411832,158 +412064,6 @@
     "emailed": false
   },
   {
-    "uid": "simplify:99155811-5327-48d8-871f-a556d9ea8958",
-    "source": "simplify",
-    "company": "d-Matrix",
-    "title": "General Intern Application",
-    "category": "Hardware",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/d-Matrix/dcd98d7a-ecf8-4c9a-9d03-2c85b831e6a6/application",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775005747,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:27bdf1ec-20a6-4cea-b8a6-41ba122d38c0",
-    "source": "simplify",
-    "company": "RoboForce",
-    "title": "AI Research Engineer Intern - Real-Time Inference for Embodied AI",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/roboforce/jobs/5172296008",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775005866,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:9e6f6814-6fd9-427b-84d5-0c0b1944a4a0",
-    "source": "simplify",
-    "company": "WindBorne Systems",
-    "title": "Firmware Intern",
-    "category": "Hardware",
-    "locations": [
-      "San Carlos, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775005751,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:873b1ae0-b797-46fc-9324-fda49b045263",
-    "source": "simplify",
-    "company": "RoboForce",
-    "title": "AI Research Scientist Intern - Embodied AI",
-    "category": "AI/ML/Data",
-    "locations": [
-      "Milpitas, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/roboforce/jobs/5172309008",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775005866,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:1aba4673-e14a-4754-856d-275c3d2cada4",
-    "source": "simplify",
-    "company": "Brain Corp",
-    "title": "Intern - Software Engineer - Autonomy",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://braincorp.com/open-positions?gh_jid=8191992002",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775006147,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:25b349b7-c755-4cab-9c5e-9ca2a51f1a69",
-    "source": "simplify",
-    "company": "AAA Club Alliance",
-    "title": "Insurance Team Analyst Intern",
-    "category": "Software",
-    "locations": [
-      "Newport Beach, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Insurance-Team-Analyst-Intern_JR202635630",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775005546,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:db6155c0-82d1-4ca4-9361-6e1db908892b",
-    "source": "simplify",
-    "company": "Bot Auto",
-    "title": "Intern Software Engineer - Data Infrastructure",
-    "category": "Software",
-    "locations": [
-      "Houston, TX"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://job-boards.greenhouse.io/botauto/jobs/5172257008",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775006421,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:b11f296d-b2ba-4686-be51-b55c495bd3eb",
-    "source": "simplify",
-    "company": "Baker Hughes",
-    "title": "Month Emerging Talent \u2013 Software Intern Opportunities",
-    "category": "Software",
-    "locations": [
-      "Newcastle upon Tyne, UK"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/XMLNAME-12-month-Emerging-Talent---Software-Intern-2026-Opportunities--Cramlington-_R162706",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775005636,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
     "uid": "simplify:f3007eae-7ae6-48d3-8e58-2c2ab54559dd",
     "source": "simplify",
     "company": "ByteDance",
@@ -448222,25 +448302,6 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1778250057,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:8f8a5ec1-5703-471e-95fb-2ec3ec62367f",
-    "source": "simplify",
-    "company": "Zensar",
-    "title": "Software Engineer Intern",
-    "category": "Software",
-    "locations": [
-      "United States"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/143111",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775005403,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -506256,6 +506317,82 @@
     "emailed": true
   },
   {
+    "uid": "pittcsc:99155811-5327-48d8-871f-a556d9ea8958",
+    "source": "pittcsc",
+    "company": "d-Matrix",
+    "title": "General Intern Application",
+    "category": "Hardware",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/d-Matrix/dcd98d7a-ecf8-4c9a-9d03-2c85b831e6a6/application",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775005747,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:27bdf1ec-20a6-4cea-b8a6-41ba122d38c0",
+    "source": "pittcsc",
+    "company": "RoboForce",
+    "title": "AI Research Engineer Intern - Real-Time Inference for Embodied AI",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/roboforce/jobs/5172296008",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775005866,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:9e6f6814-6fd9-427b-84d5-0c0b1944a4a0",
+    "source": "pittcsc",
+    "company": "WindBorne Systems",
+    "title": "Firmware Intern",
+    "category": "Hardware",
+    "locations": [
+      "San Carlos, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://jobs.ashbyhq.com/windborne-systems/3e7df5d4-48ef-4fb7-b751-74b500ada843/application",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775005751,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:873b1ae0-b797-46fc-9324-fda49b045263",
+    "source": "pittcsc",
+    "company": "RoboForce",
+    "title": "AI Research Scientist Intern - Embodied AI",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/roboforce/jobs/5172309008",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775005866,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
     "uid": "pittcsc:b5466547-86bb-4ad0-94df-d881649e170a",
     "source": "pittcsc",
     "company": "Omnicom Health",
@@ -506366,6 +506503,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1774994791,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:db6155c0-82d1-4ca4-9361-6e1db908892b",
+    "source": "pittcsc",
+    "company": "Bot Auto",
+    "title": "Intern Software Engineer - Data Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Houston, TX"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://job-boards.greenhouse.io/botauto/jobs/5172257008",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775006421,
     "first_seen": 1784003708,
     "emailed": true
   },
