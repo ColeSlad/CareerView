@@ -1,5 +1,328 @@
 [
   {
+    "uid": "simplify:77ff658e-cabb-48be-9248-a271f5f898ff",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623552947364317445/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1780610905,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f3007eae-7ae6-48d3-8e58-2c2ab54559dd",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Student Researcher - AI Foundation Model Infrastructure",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Student Researcher - Large Language Model",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:12c61451-8c62-417c-b97a-6b13f42bc584",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Student Researcher - Vision Foundation Model",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623543230203939077/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:f1916feb-f156-4153-baa5-e26c75d5ae6f",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Research Scientist in Large Language Model - LLM",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623536303630469381/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023744,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:e766517d-2d35-42da-a646-5d0b5173939c",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Research Scientist in Speech Foundation Model \u2013 Graduates - Seed - PhD",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623545981743286533/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023744,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:d964cbb0-851e-48b9-97f4-66e970586e9a",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Student Researcher - Multimodal Interaction and World Model",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623547506849679621/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1775023744,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:c3e93a0e-9546-4834-a84e-c61e744502c2",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Research Scientist in Multimodal Interaction and World Model \u2013 Graduates",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623543401908848949/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:a43a6779-1921-4ecc-9e8f-e319b884bdf8",
+    "source": "pittcsc",
+    "company": "Roku",
+    "title": "Software Engineer Intern - Embedded Systems",
+    "category": "Hardware",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "Summer 2026"
+    ],
+    "url": "https://www.weareroku.com/jobs/7768005?gh_jid=7768005",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775024194,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:95aa47dc-146b-4b77-b4bf-c6e32f6d99ad",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623550778255165701/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:787f92a1-006f-4ba4-baac-41b86f13cf1a",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Research Scientist in Multimodal Interaction and World Model",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623545710681016581/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:5ee0c221-6808-401f-9d4e-a8e71f60785b",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Student Researcher - Speech Foundation Model",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623551375612627253/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:38db92f9-6338-4caa-b797-e738cda127b9",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Student Researcher",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:0cbe5f0d-bc44-4b45-85bb-9272f05546e8",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates - Seed",
+    "category": "Software",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623552015124154629/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023744,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:079a44ae-b213-4f4c-9088-cc2c48d346b1",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Student Researcher - Large Language Model - Seed",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623539152655632693/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:fe92a675-1a53-4b88-a3e3-7e810871610d",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Research Scientist in Vision Foundation Model \u2013 Graduates",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623543228228536581/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023744,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
+    "uid": "pittcsc:71013f85-b7ba-4168-86fc-18a8cf752165",
+    "source": "pittcsc",
+    "company": "ByteDance",
+    "title": "Research Scientist in Vision Foundation Model",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623540885834107189/detail",
+    "sponsorship": "Other",
+    "active": false,
+    "date_posted": 1775023743,
+    "first_seen": 1795766893,
+    "emailed": false
+  },
+  {
     "uid": "simplify:eb145360-48cc-4186-866e-897b5631839b",
     "source": "simplify",
     "company": "Encepta",
@@ -3276,7 +3599,7 @@
     ],
     "url": "https://go.vansh.nyc/1JE",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795564800,
     "first_seen": 1795657856,
     "emailed": true
@@ -4709,7 +5032,7 @@
     ],
     "url": "https://jobs.ashbyhq.com/coderabbit/c30ab34a-98f3-4c41-b4ba-179bdbab32c9/application?embed=true",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795564800,
     "first_seen": 1795645517,
     "emailed": true
@@ -17938,7 +18261,7 @@
     ],
     "url": "https://go.vansh.nyc/1F1",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1795132800,
     "first_seen": 1795220357,
     "emailed": true
@@ -28155,7 +28478,7 @@
     ],
     "url": "https://go.vansh.nyc/1Bx",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794867004,
     "first_seen": 1794954975,
     "emailed": true
@@ -48121,7 +48444,7 @@
     ],
     "url": "https://go.vansh.nyc/1vt",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794438393,
     "first_seen": 1794446985,
     "emailed": true
@@ -48238,7 +48561,7 @@
     ],
     "url": "https://go.vansh.nyc/1vD",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794440467,
     "first_seen": 1794446985,
     "emailed": true
@@ -53472,7 +53795,7 @@
     ],
     "url": "https://go.vansh.nyc/1sy",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794268800,
     "first_seen": 1794358622,
     "emailed": true
@@ -56641,7 +56964,7 @@
     ],
     "url": "https://go.vansh.nyc/1rn",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794328672,
     "first_seen": 1794330084,
     "emailed": false
@@ -60308,7 +60631,7 @@
     ],
     "url": "https://go.vansh.nyc/1pk",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794262984,
     "first_seen": 1794264343,
     "emailed": true
@@ -61024,7 +61347,7 @@
     ],
     "url": "https://go.vansh.nyc/1oH",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1794242276,
     "first_seen": 1794246162,
     "emailed": true
@@ -70409,7 +70732,7 @@
     ],
     "url": "https://go.vansh.nyc/1ld",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793999186,
     "first_seen": 1794006097,
     "emailed": false
@@ -73950,7 +74273,7 @@
     ],
     "url": "https://go.vansh.nyc/1jR",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793927151,
     "first_seen": 1793928638,
     "emailed": true
@@ -74388,7 +74711,7 @@
     ],
     "url": "https://go.vansh.nyc/1jC",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793836800,
     "first_seen": 1793925192,
     "emailed": true
@@ -76312,7 +76635,7 @@
     ],
     "url": "https://go.vansh.nyc/1jt",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793836800,
     "first_seen": 1793922774,
     "emailed": false
@@ -77161,7 +77484,7 @@
     ],
     "url": "https://go.vansh.nyc/1iM",
     "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
+    "active": false,
     "date_posted": 1793898378,
     "first_seen": 1793902854,
     "emailed": false
@@ -77563,7 +77886,7 @@
     ],
     "url": "https://go.vansh.nyc/1iv",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1793836800,
     "first_seen": 1793893085,
     "emailed": true
@@ -96240,25 +96563,6 @@
     "emailed": true
   },
   {
-    "uid": "vanshb03:15a60b15-a834-4282-a265-094d6211889e",
-    "source": "vanshb03",
-    "company": "ByteDance",
-    "title": "Student Researcher Intern, Seed Model: Multimodal Interaction & World Model",
-    "category": "Software",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "url": "https://go.vansh.nyc/17J",
-    "sponsorship": "Does Not Offer Sponsorship",
-    "active": true,
-    "date_posted": 1793519707,
-    "first_seen": 1793543372,
-    "emailed": true
-  },
-  {
     "uid": "vanshb03:2af6b612-533f-4f4c-8772-b0a53cc046f0",
     "source": "vanshb03",
     "company": "ByteDance",
@@ -97337,25 +97641,6 @@
       "Summer"
     ],
     "url": "https://go.vansh.nyc/14r",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1793519707,
-    "first_seen": 1793520823,
-    "emailed": true
-  },
-  {
-    "uid": "vanshb03:82762d3a-0932-49be-87ba-52df68f29ed5",
-    "source": "vanshb03",
-    "company": "ByteDance",
-    "title": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
-    "category": "Software",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "Summer"
-    ],
-    "url": "https://go.vansh.nyc/14s",
     "sponsorship": "Other",
     "active": true,
     "date_posted": 1793519707,
@@ -137274,7 +137559,7 @@
     ],
     "url": "https://go.vansh.nyc/EX",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791244800,
     "first_seen": 1793019007,
     "emailed": false
@@ -159144,7 +159429,7 @@
     ],
     "url": "https://go.vansh.nyc/ex",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1792694114,
     "first_seen": 1792707406,
     "emailed": true
@@ -194609,7 +194894,7 @@
     ],
     "url": "https://go.vansh.nyc/8a",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1791788400,
     "first_seen": 1791827237,
     "emailed": true
@@ -258742,7 +259027,7 @@
     ],
     "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1790029561,
     "first_seen": 1790052231,
     "emailed": true
@@ -287240,7 +287525,7 @@
     ],
     "url": "https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1789521006,
     "first_seen": 1789523351,
     "emailed": false
@@ -319404,23 +319689,6 @@
     "emailed": false
   },
   {
-    "uid": "greenhouse:datadog:8114186",
-    "source": "greenhouse",
-    "company": "Datadog",
-    "title": "Software Engineering Intern",
-    "category": "Software",
-    "locations": [
-      "Paris, France"
-    ],
-    "terms": [],
-    "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
-    "sponsorship": null,
-    "active": true,
-    "date_posted": 1788876406,
-    "first_seen": 1788877835,
-    "emailed": false
-  },
-  {
     "uid": "greenhouse:datadog:8114161",
     "source": "greenhouse",
     "company": "Datadog",
@@ -319434,6 +319702,23 @@
     "sponsorship": null,
     "active": true,
     "date_posted": 1788876269,
+    "first_seen": 1788877835,
+    "emailed": false
+  },
+  {
+    "uid": "greenhouse:datadog:8114186",
+    "source": "greenhouse",
+    "company": "Datadog",
+    "title": "Software Engineering Intern",
+    "category": "Software",
+    "locations": [
+      "Paris, France"
+    ],
+    "terms": [],
+    "url": "https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186",
+    "sponsorship": null,
+    "active": true,
+    "date_posted": 1788876406,
     "first_seen": 1788877835,
     "emailed": false
   },
@@ -386859,7 +387144,7 @@
     ],
     "url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1786401263,
     "first_seen": 1786403386,
     "emailed": false
@@ -412502,329 +412787,6 @@
     "date_posted": 1774573747,
     "first_seen": 1784026751,
     "emailed": false
-  },
-  {
-    "uid": "simplify:f3007eae-7ae6-48d3-8e58-2c2ab54559dd",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Student Researcher - AI Foundation Model Infrastructure",
-    "category": "Software",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:ea9475c0-e1a5-49fd-aa4c-d3989ac5c9b7",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Student Researcher - Large Language Model",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623541709721307445/detail",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:12c61451-8c62-417c-b97a-6b13f42bc584",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Student Researcher - Vision Foundation Model",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623543230203939077/detail",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:f1916feb-f156-4153-baa5-e26c75d5ae6f",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Research Scientist in Large Language Model - LLM",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623536303630469381/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023744,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:e766517d-2d35-42da-a646-5d0b5173939c",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Research Scientist in Speech Foundation Model \u2013 Graduates - Seed - PhD",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623545981743286533/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023744,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:d964cbb0-851e-48b9-97f4-66e970586e9a",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Student Researcher - Multimodal Interaction and World Model",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623547506849679621/detail",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1775023744,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:c3e93a0e-9546-4834-a84e-c61e744502c2",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Research Scientist in Multimodal Interaction and World Model \u2013 Graduates",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623543401908848949/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:a43a6779-1921-4ecc-9e8f-e319b884bdf8",
-    "source": "simplify",
-    "company": "Roku",
-    "title": "Software Engineer Intern - Embedded Systems",
-    "category": "Hardware",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "Summer 2026"
-    ],
-    "url": "https://www.weareroku.com/jobs/7768005?gh_jid=7768005",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775024194,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:95aa47dc-146b-4b77-b4bf-c6e32f6d99ad",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates",
-    "category": "Software",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623550778255165701/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:787f92a1-006f-4ba4-baac-41b86f13cf1a",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Research Scientist in Multimodal Interaction and World Model",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623545710681016581/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:66868ef6-4a70-4bef-bfc0-d2f96de2d203",
-    "source": "simplify",
-    "company": "Hermeus",
-    "title": "Human Machine Interface \u2013 Software Engineering Intern - Human Machine Interface",
-    "category": "Software",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "terms": [
-      "Fall 2026"
-    ],
-    "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023532,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:5ee0c221-6808-401f-9d4e-a8e71f60785b",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Student Researcher - Speech Foundation Model",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623551375612627253/detail",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:38db92f9-6338-4caa-b797-e738cda127b9",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Student Researcher",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623548747208739077/detail",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:0cbe5f0d-bc44-4b45-85bb-9272f05546e8",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates - Seed",
-    "category": "Software",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623552015124154629/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023744,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:079a44ae-b213-4f4c-9088-cc2c48d346b1",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Student Researcher - Large Language Model - Seed",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623539152655632693/detail",
-    "sponsorship": "Other",
-    "active": true,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:fe92a675-1a53-4b88-a3e3-7e810871610d",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Research Scientist in Vision Foundation Model \u2013 Graduates",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623543228228536581/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023744,
-    "first_seen": 1784003708,
-    "emailed": true
-  },
-  {
-    "uid": "simplify:71013f85-b7ba-4168-86fc-18a8cf752165",
-    "source": "simplify",
-    "company": "ByteDance",
-    "title": "Research Scientist in Vision Foundation Model",
-    "category": "AI/ML/Data",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "terms": [
-      "N/A"
-    ],
-    "url": "https://jobs.bytedance.com/en/position/7623540885834107189/detail",
-    "sponsorship": "Other",
-    "active": false,
-    "date_posted": 1775023743,
-    "first_seen": 1784003708,
-    "emailed": true
   },
   {
     "uid": "simplify:52477347-67fa-444b-ba31-4770207c2acb",
@@ -480851,7 +480813,7 @@
     ],
     "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782889206,
     "first_seen": 1784003708,
     "emailed": true
@@ -480893,7 +480855,7 @@
     ],
     "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1782896922,
     "first_seen": 1784003708,
     "emailed": true
@@ -483325,7 +483287,7 @@
     ],
     "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783318145,
     "first_seen": 1784003708,
     "emailed": true
@@ -483367,7 +483329,7 @@
     ],
     "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783318141,
     "first_seen": 1784003708,
     "emailed": true
@@ -484357,7 +484319,7 @@
     ],
     "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783462180,
     "first_seen": 1784003708,
     "emailed": true
@@ -486814,7 +486776,7 @@
     ],
     "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
     "sponsorship": "Other",
-    "active": true,
+    "active": false,
     "date_posted": 1783980747,
     "first_seen": 1784003708,
     "emailed": true
@@ -488458,6 +488420,101 @@
     "sponsorship": "Other",
     "active": true,
     "date_posted": 1792631843,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:079a44ae-b213-4f4c-9088-cc2c48d346b1",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Student Researcher - Seed Model - LLM",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623539152655632693/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1780610904,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:f3007eae-7ae6-48d3-8e58-2c2ab54559dd",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern - Seed Model - AI Foundation Model Infrastructure",
+    "category": "AI/ML/Data",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "terms": [
+      "Summer 2027"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1780610917,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:d964cbb0-851e-48b9-97f4-66e970586e9a",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Student Researcher Intern - Seed Model - Multimodal Interaction & World Model",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623547506849679621/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1780610913,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:5ee0c221-6808-401f-9d4e-a8e71f60785b",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Student Researcher - Seed Model - Speech",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623551375612627253/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1780610903,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "simplify:12c61451-8c62-417c-b97a-6b13f42bc584",
+    "source": "simplify",
+    "company": "ByteDance",
+    "title": "Student Researcher - Seed Model - Vision",
+    "category": "AI/ML/Data",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "terms": [
+      "N/A"
+    ],
+    "url": "https://jobs.bytedance.com/en/position/7623543230203939077/detail",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1780610905,
     "first_seen": 1784003708,
     "emailed": true
   },
@@ -506962,6 +507019,25 @@
     "sponsorship": "Other",
     "active": false,
     "date_posted": 1775006421,
+    "first_seen": 1784003708,
+    "emailed": true
+  },
+  {
+    "uid": "pittcsc:66868ef6-4a70-4bef-bfc0-d2f96de2d203",
+    "source": "pittcsc",
+    "company": "Hermeus",
+    "title": "Human Machine Interface \u2013 Software Engineering Intern - Human Machine Interface",
+    "category": "Software",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "terms": [
+      "Fall 2026"
+    ],
+    "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply",
+    "sponsorship": "Other",
+    "active": true,
+    "date_posted": 1775023532,
     "first_seen": 1784003708,
     "emailed": true
   },
